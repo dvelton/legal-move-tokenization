@@ -1,0 +1,1164 @@
+================================================================================
+LEGAL MOVE ANNOTATIONS
+Students for Fair Admissions v. President and Fellows of Harvard College
+S. Ct. Docket No. 20-1199
+Issue: Whether the Court should overrule Grutter v. Bollinger and hold that
+institutions of higher education cannot use race as a factor in admissions,
+and whether Harvard's race-conscious admissions program violates Title VI
+of the Civil Rights Act of 1964.
+================================================================================
+
+NOTE ON METHODOLOGY
+Each section is broken into argument units (AU). Each AU is annotated across
+four layers: Doctrinal, Narrative, Fact-Framing, Stylistic. Where no move
+applies, the layer is marked "--". Cross-brief interactions are flagged
+with [CROSS-BRIEF] tags at the end of the relevant AU.
+
+
+################################################################################
+PETITIONER BRIEF (Students for Fair Admissions)
+################################################################################
+
+================================================================================
+PET. SECTION 1: "There is no obstacle to this Court's review"
+================================================================================
+
+--- AU-P1.1 ---
+TEXT: "Though standing is a threshold question of jurisdiction, Harvard treats
+it as an afterthought, devoting a mere two pages to it at the end of its
+brief. Harvard's standing argument has been rejected at every stage of this
+case."
+
+DOCTRINAL:  INVOKE_AUTHORITY -- Cites the procedural history (App.51-55, 222,
+            298-301, 332-49) showing that every court to consider the standing
+            question ruled in SFFA's favor. The volume of citations does
+            argumentative work: it signals that this issue has been litigated
+            to exhaustion and resolved.
+
+NARRATIVE:  FRAME_AS_ERROR -- Harvard's treatment of standing is characterized
+            as dismissive ("afterthought," "mere two pages"), implying that
+            Harvard itself recognizes the weakness of the argument. The brief
+            converts the opponent's briefing choice into evidence of the
+            argument's frivolity.
+
+            PREEMPTIVE_REBUTTAL -- By leading with standing, SFFA addresses
+            the jurisdictional threshold before Harvard can use it as a
+            gatekeeping device. The brief clears the runway before taking
+            off into the merits.
+
+FACT-FRAMING: FOREGROUND -- The fact that Harvard placed its standing argument
+              at the back of its brief is foregrounded and treated as
+              substantively meaningful.
+
+              DIMINISHING_MODIFIER -- "Mere two pages" attaches a judgment
+              to what is otherwise a neutral fact about page allocation.
+
+STYLISTIC:  COMPRESSION -- Two sentences establish the argumentative setup:
+            standing matters, Harvard doesn't treat it that way, and every
+            court agrees with SFFA. The contrast between "threshold question
+            of jurisdiction" and "afterthought" is packed tight.
+
+            CADENCE_SHIFT -- The short, definitive second sentence ("has been
+            rejected at every stage of this case") lands with a bluntness
+            that contrasts with the slightly more elaborate first sentence.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.2 ---
+TEXT: "SFFA is a 501(c)(3) voluntary membership association dedicated to
+ending racial discrimination in college admissions, and it has members who
+were denied admission to Harvard and who stand ready and able to apply to
+transfer if Harvard stops racially discriminating."
+
+DOCTRINAL:  APPLY_TO_FACTS -- Lays out the factual predicates for
+            associational standing (injury, causation, redressability) by
+            identifying members denied admission and willing to reapply.
+            Each element tracks the standing doctrine without naming it
+            explicitly.
+
+NARRATIVE:  AFFIRMATIVE_FRAME -- SFFA defines itself on its own terms before
+            Harvard can define it. "Dedicated to ending racial discrimination"
+            positions SFFA as the anti-discrimination plaintiff, appropriating
+            the moral valence of civil-rights language.
+
+FACT-FRAMING: FOREGROUND -- The brief highlights the specific standing-
+              relevant facts (denied members, willingness to reapply) and
+              places them front and center.
+
+STYLISTIC:  CONCRETE_ANCHOR -- The organizational details (501(c)(3) status,
+            membership structure, members denied admission) ground the
+            standing argument in specific, verifiable facts.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.3 ---
+TEXT: "SFFA satisfies Hunt's well-known, three-part test for associational
+standing: (1) its members have 'standing to sue in their own right'; (2)
+this litigation is 'germane to [SFFA's] purpose'; and (3) this litigation
+does not 'require[] the participation of individual members.'"
+
+DOCTRINAL:  APPLY_STANDARD -- Walks through the Hunt three-part test
+            methodically, matching each prong to SFFA's facts. The numbered
+            list format mirrors the test itself, signaling structured
+            compliance.
+
+NARRATIVE:  --
+
+FACT-FRAMING: --
+
+STYLISTIC:  PARALLEL_STRUCTURE -- The numbered tripartite structure maps
+            directly onto the legal test. This creates an impression of
+            completeness: every prong addressed, every box checked.
+
+            STRATEGIC_QUOTATION -- Each prong is quoted from Hunt itself,
+            so the test and its satisfaction appear in the Court's own words.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.4 ---
+TEXT: "Harvard has never 'dispute[d] that the three Hunt prerequisites are
+met.' Harvard instead argues that SFFA lacks standing because it is not a
+'genuine' membership organization."
+
+DOCTRINAL:  DISTINGUISH -- SFFA separates Harvard's actual argument (SFFA
+            is not a "genuine" membership organization) from the standard
+            three-part test, which Harvard concedes is satisfied. The move
+            isolates Harvard's objection as lying outside the established
+            framework.
+
+NARRATIVE:  OPPONENT_CONCESSION_CAPTURE -- The brief locks in Harvard's
+            non-dispute of the three Hunt prongs as a concession. By quoting
+            the lower court's characterization, SFFA makes this concession
+            part of the record Harvard cannot easily walk back.
+
+FACT-FRAMING: FOREGROUND_ABSENCE -- Highlights what Harvard did NOT argue
+              (that the Hunt prerequisites are unmet), treating the absence
+              of that argument as affirmative evidence.
+
+STYLISTIC:  STRATEGIC_QUOTATION -- Scare quotes around "genuine" signal
+            that Harvard's characterization is tendentious. The word is
+            presented as Harvard's invention rather than a recognized legal
+            standard.
+
+[CROSS-BRIEF: Respondent in Section 3 (AU-R3.1) pivots away from standing
+entirely and attacks the vehicle on waiver and forfeiture grounds,
+effectively conceding the standing fight and redeploying resources to the
+vehicle question.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.5 ---
+TEXT: "In Hunt, the Court examined whether apple growers and dealers had
+'indicia of membership' only because the state agency representing them
+was not a 'voluntary membership organization.' If the agency had been a
+'traditional voluntary membership organization,' the Court said it would
+have applied the ordinary three-part test. Because SFFA 'is, on its face,
+a traditional voluntary membership organization,' the indicia-of-membership
+test is 'inapplicable.'"
+
+DOCTRINAL:  NARROW_HOLDING -- SFFA reads Hunt's indicia-of-membership
+            analysis as limited to the specific factual context of a state
+            agency that lacked traditional membership structure. By narrowing
+            when the indicia test applies, SFFA makes it irrelevant to its
+            own case.
+
+            DISTINGUISH -- Hunt involved a state agency, not a voluntary
+            501(c)(3). SFFA draws a bright line between those two types
+            of entities, making the factual distinction do the doctrinal
+            work.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL -- Anticipates Harvard's argument that
+            Hunt requires proof of member control. The brief concedes
+            Hunt's existence while confining it to a factual scenario
+            unlike SFFA's.
+
+FACT-FRAMING: RECHARACTERIZE -- The indicia-of-membership test, which
+              Harvard treats as a general requirement, is recharacterized
+              as a narrow exception for non-membership entities.
+
+STYLISTIC:  AUTHORITY_SIGNALING -- Quoting the lower court's characterization
+            of SFFA as a "traditional voluntary membership organization"
+            leverages judicial findings to do the persuasive work.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.6 ---
+TEXT: "But SFFA has standing under the indicia-of-membership test as well."
+
+DOCTRINAL:  ALTERNATIVE_HOLDING -- Having argued that the indicia test is
+            inapplicable, SFFA then argues it satisfies the test anyway.
+            This is a belt-and-suspenders move: the Court can rule for SFFA
+            under either framework.
+
+NARRATIVE:  CONCEDE_REDIRECT -- The "but" signals a concession (even if
+            you disagree with my primary argument) and a redirect (I win
+            anyway).
+
+FACT-FRAMING: --
+
+STYLISTIC:  COMPRESSION -- A single sentence accomplishes the entire
+            doctrinal pivot. The brevity implies that even the backup
+            argument requires little elaboration.
+
+
+================================================================================
+PET. SECTION 2: "Whether Grutter should be overruled is a question of
+                  exceptional importance"
+================================================================================
+
+--- AU-P2.1 ---
+TEXT: "This is the ideal case for reconsidering Grutter. Indeed, Harvard
+boasts that it was 'the model' for race-based admissions that the Court
+relied on in Grutter."
+
+DOCTRINAL:  APPLY_TO_FACTS -- Ties the vehicle question directly to
+            Grutter's doctrinal origin. If Harvard was the model, then
+            testing Harvard is testing the model itself. The argument is
+            that reviewing Harvard's program is doctrinally the most
+            direct way to evaluate Grutter.
+
+NARRATIVE:  AFFIRMATIVE_FRAME -- "Ideal case" declares vehicle suitability
+            as a given rather than arguing for it. The brief opens the
+            section by asserting the conclusion.
+
+FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE -- Harvard's own characterization
+              of itself as "the model" is turned against it. The boast
+              becomes the basis for certiorari: if Harvard is the model,
+              then scrutinizing Harvard is scrutinizing the system.
+
+STYLISTIC:  STRATEGIC_QUOTATION -- "The model" is Harvard's word, quoted
+            back to weaponize Harvard's pride against its cert-stage
+            interests.
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.2 ---
+TEXT: "Racial preferences began with Harvard; they were perpetuated by
+Harvard; and they should end with Harvard."
+
+DOCTRINAL:  --
+
+NARRATIVE:  ESCALATE_STAKES -- This sentence transforms the case from a
+            dispute about one university's admissions policy into the
+            culmination of a decades-long constitutional arc. Harvard is
+            cast as the origin, sustainer, and appropriate endpoint of
+            racial preferences.
+
+FACT-FRAMING: SEQUENCE -- The tripartite structure (began, perpetuated,
+              should end) constructs a historical timeline that makes
+              the present case feel like the logical terminus of a
+              trajectory that started with Bakke.
+
+STYLISTIC:  PARALLEL_STRUCTURE -- The three-clause structure with Harvard
+            as the grammatical anchor in each clause creates rhetorical
+            momentum. Each clause escalates: origin, continuation,
+            termination.
+
+            CADENCE_SHIFT -- This stands out from the citation-heavy
+            prose surrounding it. A single sentence of advocacy, no case
+            citations, pure argument. The shift in register signals that
+            this is the core claim.
+
+[CROSS-BRIEF: Respondent directly counters this framing in AU-R3.2 by
+arguing that SFFA waived any challenge to the diversity rationale at trial,
+making this the wrong vehicle to end what SFFA frames as a multi-decade arc.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.3 ---
+TEXT: "Grutter is wrong in every way -- historically, legally, factually,
+practically, and morally."
+
+DOCTRINAL:  --
+
+NARRATIVE:  ESCALATE_STAKES -- The five-fold indictment of Grutter raises
+            the argument from legal error to moral failure. The brief
+            is not merely saying the precedent was incorrectly reasoned;
+            it is saying it is wrong across every axis of evaluation.
+
+FACT-FRAMING: --
+
+STYLISTIC:  COMPRESSION -- A single sentence carries the weight of multiple
+            amicus briefs (the following citation string lists fourteen).
+            The compression is deliberate: the brief states the conclusion,
+            then offloads the supporting arguments to the amici.
+
+            AUTHORITY_SIGNALING -- The fourteen amicus brief citations that
+            follow this sentence function as a show of force. The breadth
+            of amicus support is itself an argument for certiorari.
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.4 ---
+TEXT: "Harvard disagrees. But the question before the Court is whether it
+should grant certiorari to consider overruling Grutter. Harvard cannot deny
+that the continued legality of race-based admissions is a momentous question
+that remains hotly disputed."
+
+DOCTRINAL:  JURISDICTIONAL_REFRAME -- SFFA reframes the issue from whether
+            Grutter is right (a merits question) to whether the Court should
+            take the case (a certiorari question). This lowers the bar: SFFA
+            doesn't need to prove Grutter is wrong at this stage, only that
+            the question is important enough to hear.
+
+NARRATIVE:  CONCEDE_REDIRECT -- "Harvard disagrees" is a one-sentence
+            concession that gives the opponent's position the minimum
+            possible airtime before redirecting to the procedural posture.
+            The concession is instantly subordinated.
+
+FACT-FRAMING: FOREGROUND -- The 5-4 split in Grutter, noted immediately
+              after, is foregrounded as evidence that the question "remains
+              hotly disputed." The margin of the original decision becomes
+              proof that it never achieved consensus.
+
+STYLISTIC:  COMPRESSION -- "Harvard disagrees" is two words. The brevity
+            is dismissive by design: it treats Harvard's opposition as
+            a fact to be noted, not an argument to be engaged.
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.5 ---
+TEXT: "Grutter was sharply divided 5-4, and the Grutter dissents, as well as
+the many amicus briefs supporting SFFA here, prove that this issue is anything
+but 'settled.'"
+
+DOCTRINAL:  INVOKE_AUTHORITY -- The dissents in Grutter are marshaled as
+            authority. The move treats minority opinions as evidence of
+            doctrinal instability rather than as the losing side of a
+            decided question.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL -- Directly targets Harvard's argument
+            that the issue is "settled" (BIO.26). The scare quotes around
+            "settled" convert Harvard's characterization into something
+            to be disputed rather than accepted.
+
+FACT-FRAMING: FOREGROUND -- The 5-4 margin is treated as the salient fact
+              about Grutter, displacing the majority holding as the
+              dominant feature of the case.
+
+STYLISTIC:  STRATEGIC_QUOTATION -- Scare quotes around "settled" do
+            double duty: they attribute the word to Harvard and
+            simultaneously undermine it.
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.6 ---
+TEXT: "SFFA is asking the Court to overrule Grutter -- a constitutional
+precedent with the 'weakest' claim to stare decisis."
+
+DOCTRINAL:  NARROW_HOLDING -- SFFA distinguishes between statutory and
+            constitutional precedent, invoking Knick v. Township of Scott
+            to establish that constitutional precedent occupies a lower
+            rung in the stare decisis hierarchy. The move limits the
+            force of stare decisis that Harvard can invoke.
+
+            INVOKE_AUTHORITY -- Knick is deployed for its characterization
+            of constitutional precedent as having the "weakest" stare
+            decisis claim.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL -- Anticipates Harvard's argument that
+            SFFA carries an "extra burden" for overturning precedent
+            (BIO.2) and defuses it by showing the burden is lighter
+            than Harvard implies.
+
+FACT-FRAMING: RECHARACTERIZE -- Stare decisis, which ordinarily shields
+              precedent, is recharacterized as a sliding scale on which
+              Grutter occupies the weakest position.
+
+STYLISTIC:  STRATEGIC_QUOTATION -- "'Weakest'" is quoted from Knick. The
+            Court's own word does the heavy lifting.
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.7 ---
+TEXT: "This Court has held that Title VI imposes 'the same standards that the
+Equal Protection Clause imposes upon state actors.' Harvard does not argue
+otherwise. Overruling Grutter thus would not affect the meaning of Title VI
+at all: the statute would continue to prohibit any use of race that is
+prohibited under the Equal Protection Clause."
+
+DOCTRINAL:  CONST_AVOIDANCE -- By establishing that Title VI is coextensive
+            with the Equal Protection Clause, SFFA eliminates a potential
+            refuge for Harvard. If Grutter falls as a constitutional matter,
+            Title VI cannot independently save race-conscious admissions.
+
+            APPLY_STANDARD -- Maps the relationship between the
+            constitutional standard and the statutory text, showing that
+            overruling Grutter on equal-protection grounds would
+            automatically resolve the Title VI question without any
+            separate statutory interpretation.
+
+NARRATIVE:  OPPONENT_CONCESSION_CAPTURE -- "Harvard does not argue
+            otherwise" locks in what SFFA treats as an uncontested premise.
+
+FACT-FRAMING: FOREGROUND_ABSENCE -- Again, Harvard's silence on this point
+              is foregrounded and treated as concession.
+
+STYLISTIC:  --
+
+[CROSS-BRIEF: Respondent in AU-R2.3 counters by arguing that the stare
+decisis analysis is more demanding than SFFA suggests, and that Grutter
+has not proven "unworkable" -- directly engaging the framework SFFA sets
+up here.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.8 ---
+TEXT: "Even if overruling Grutter somehow 'changed' Title VI, no 'superspecial
+justification' would be needed for that change."
+
+DOCTRINAL:  ALTERNATIVE_HOLDING -- Having argued that overruling Grutter
+            would not affect Title VI (primary argument), SFFA now argues
+            that even if it did, the heightened stare decisis standard for
+            statutory precedent would not apply. Belt-and-suspenders
+            approach.
+
+            NARROW_STATUTE -- SFFA cabins the statutory-stare-decisis
+            doctrine (from Kimble v. Marvel) to cases where Congress has
+            affirmatively legislated in reliance on a prior interpretation.
+            The implication is that Title VI's meaning was never
+            independently determined; it simply tracked the constitutional
+            standard.
+
+NARRATIVE:  CONCEDE_REDIRECT -- "Even if ... somehow" concedes the
+            hypothetical while the adverb "somehow" signals SFFA's view
+            that the hypothetical is implausible.
+
+FACT-FRAMING: --
+
+STYLISTIC:  STRATEGIC_QUOTATION -- Scare quotes around "changed" and
+            "'superspecial justification'" simultaneously attribute the
+            concepts to the opposition and undermine them as overwrought.
+
+
+================================================================================
+PET. SECTION 3: "Whether the First Circuit misapplied strict scrutiny is a
+                  question of exceptional importance"
+================================================================================
+
+--- AU-P3.1 ---
+TEXT: "This Court should also review the second question presented. That there
+is no circuit split does not diminish the question's importance. Whether
+Harvard's admissions policy -- the admitted 'model' for all universities --
+withstands strict scrutiny is unquestionably an 'important question of
+federal law.'"
+
+DOCTRINAL:  JURISDICTIONAL_REFRAME -- SFFA concedes the absence of a
+            circuit split (ordinarily a key factor for certiorari) but
+            reframes the certiorari standard around Supreme Court Rule
+            10(c)'s "important question of federal law" prong. The move
+            shifts the certiorari calculus from intercircuit conflict to
+            intrinsic legal significance.
+
+NARRATIVE:  CONCEDE_REDIRECT -- "That there is no circuit split does not
+            diminish" acknowledges the weakness and immediately pivots
+            away from it.
+
+            ESCALATE_STAKES -- Labeling Harvard's program as "the admitted
+            'model' for all universities" elevates the case from a
+            dispute about one school to one with system-wide implications.
+
+FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE -- Again deploys Harvard's
+              self-description as "the model" against it.
+
+STYLISTIC:  AUTHORITY_SIGNALING -- The citation to S. Ct. R. 10(c) signals
+            procedural fluency and frames the argument in the Court's own
+            certiorari criteria.
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.2 ---
+TEXT: "Indeed, this Court twice reviewed whether the University of Texas's
+race-based admissions satisfied strict scrutiny, despite the lack of a
+circuit split and the case's 'sui generis' facts."
+
+DOCTRINAL:  ANALOGIZE -- Fisher I and Fisher II are cited as precedent for
+            the Court granting certiorari on the strict-scrutiny question
+            without a circuit split. If the Court took the Texas case
+            twice under similar procedural circumstances, it should take
+            the Harvard case too.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL -- Anticipates and defuses the objection
+            that the absence of a circuit split counsels against
+            certiorari by showing the Court has disregarded that factor
+            before in the same doctrinal area.
+
+FACT-FRAMING: --
+
+STYLISTIC:  CONCRETE_ANCHOR -- Fisher I and Fisher II are specific, recent,
+            and doctrinally identical in subject matter. Their invocation
+            gives the certiorari argument a concrete institutional
+            precedent rather than leaving it as an abstract assertion
+            about importance.
+
+[CROSS-BRIEF: Respondent in AU-R1.1 counters with Exxon Co. v. Sofec,
+arguing that the real obstacle is not the circuit-split question but the
+concurrent-findings-of-fact doctrine. The respondent shifts the vehicle
+objection from "no split" to "fact-bound."]
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.3 ---
+TEXT: "SFFA does not ask the Court 'to review concurrent findings of fact by
+two courts below.' The Court need not overturn a single factual finding to
+rule for SFFA."
+
+DOCTRINAL:  DISTINGUISH -- SFFA draws a line between factual findings (which
+            receive deference) and legal conclusions (which do not). The
+            move is to recharacterize SFFA's challenge as purely legal,
+            removing the concurrent-findings barrier.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL -- Directly targets what will be Harvard's
+            central vehicle objection (see Respondent Section 1). SFFA
+            frames the issue before the opponent can.
+
+FACT-FRAMING: RECHARACTERIZE -- What Harvard will characterize as a
+              challenge to factual findings (e.g., whether Harvard uses
+              race mechanically) is recast as a challenge to the legal
+              standard applied to undisputed facts.
+
+STYLISTIC:  COMPRESSION -- "The Court need not overturn a single factual
+            finding to rule for SFFA." One sentence carries the entire
+            rebuttal to the concurrent-findings argument.
+
+[CROSS-BRIEF: This is a direct anticipation of Respondent's AU-R1.1-R1.4,
+which argue that SFFA's claims are inseparable from the factual record.
+The two sides are fighting over whether this case presents a legal question
+or a factual one.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.4 ---
+TEXT: "For example, Harvard claims that it does not 'automatically' award
+preferences to everyone who checks the box for Black or Hispanic. But it
+is undisputed that Harvard awards preferences to Black and Hispanic
+applicants 'regardless of whether [they] write about that aspect of their
+backgrounds [in their applications] or otherwise indicate that [their race]
+is an important component of who they are.'"
+
+DOCTRINAL:  APPLY_TO_FACTS -- Uses the district court's own findings
+            (App.116) to show that Harvard's race-conscious process
+            functions as a mechanical preference even if Harvard denies
+            "automatic" use. The distinction between "automatic" and
+            "regardless" is the doctrinal fulcrum.
+
+NARRATIVE:  CONCEDE_REDIRECT -- Accepts Harvard's framing ("not
+            'automatically'") and then shows it doesn't matter, because
+            the undisputed facts reveal the same functional outcome.
+
+FACT-FRAMING: RECHARACTERIZE -- Harvard's characterization (no automatic
+              preference) is contrasted with the district court's finding
+              (preference regardless of whether the applicant emphasizes
+              race). The recharacterization happens through juxtaposition:
+              what Harvard says versus what the court found.
+
+              FOREGROUND -- The specific finding that race is considered
+              regardless of whether the applicant highlights it is
+              foregrounded as the dispositive fact.
+
+STYLISTIC:  STRATEGIC_QUOTATION -- "'Automatically'" in scare quotes
+            attributes the word to Harvard and frames it as a straw man.
+            The district court's language ("regardless of whether") is
+            quoted without scare quotes, signaling it is authoritative.
+
+[CROSS-BRIEF: Respondent in AU-R1.2 directly responds by citing the
+district court's finding that Harvard uses race "in a flexible,
+nonmechanical way" as a "plus" factor, quoting Grutter. The two sides
+are citing different portions of the same trial record.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.5 ---
+TEXT: "Simply put, the question presented is not what Harvard is doing; it's
+whether what Harvard admits to doing violates Title VI."
+
+DOCTRINAL:  JURISDICTIONAL_REFRAME -- Reframes the question from factual
+            (what is Harvard doing?) to legal (does what Harvard concedes
+            violate the law?). This reframing is critical to SFFA's
+            vehicle argument: if the question is legal, concurrent factual
+            findings are irrelevant.
+
+NARRATIVE:  AFFIRMATIVE_FRAME -- Defines the question presented on SFFA's
+            own terms, casting any dispute as one of law rather than fact.
+
+FACT-FRAMING: RECHARACTERIZE -- The case is recharacterized from a factual
+              dispute (what Harvard does) to a legal one (whether what
+              Harvard admits to doing is lawful).
+
+STYLISTIC:  COMPRESSION -- The entire reframing fits in a single sentence.
+            "Simply put" signals that the preceding analysis has been
+            building to a clear, reducible point.
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.6 ---
+TEXT: "The court of appeals did not simply apply 'settled legal principles.'
+It did not even 'apply the correct standard of strict scrutiny.' Racial
+classifications are 'presumptively invalid and can be upheld only upon an
+extraordinary justification.' Yet the First Circuit gave Harvard 'the
+benefit of the doubt.'"
+
+DOCTRINAL:  APPLY_STANDARD -- Invokes the strict scrutiny standard from
+            Shaw v. Reno (presumptively invalid, extraordinary
+            justification required) and measures the First Circuit's
+            performance against it.
+
+            FRAME_AS_ERROR -- The gap between what strict scrutiny demands
+            and what the First Circuit did ("gave Harvard the benefit
+            of the doubt") is framed as legal error, citing Fisher I's
+            admonition that courts must apply "the correct standard."
+
+NARRATIVE:  FRAME_AS_ERROR -- The First Circuit is cast as having failed
+            to perform its judicial function. "Benefit of the doubt" is
+            treated as the antithesis of strict scrutiny.
+
+FACT-FRAMING: --
+
+STYLISTIC:  STRATEGIC_QUOTATION -- Four consecutive quotations from
+            different sources (Harvard's brief, Fisher I, Shaw, and the
+            First Circuit) are set against each other. The brief
+            constructs an argument almost entirely from quoted language,
+            letting the contradictions between the sources speak for
+            themselves.
+
+            CADENCE_SHIFT -- The passage moves in short, punchy
+            declarations. Each sentence is a distinct accusation. The
+            rhythm accelerates the sense of accumulated error.
+
+[CROSS-BRIEF: Respondent in AU-R2.2 directly counters by citing the lower
+courts' findings that Harvard's program "bears the hallmarks of a narrowly
+tailored plan," arguing that the First Circuit did apply strict scrutiny
+correctly.]
+
+
+################################################################################
+RESPONDENT BRIEF (Harvard)
+################################################################################
+
+================================================================================
+RESP. SECTION 1: "The United States is correct that SFFA seeks to relitigate
+                   the concurrent findings of two lower courts"
+================================================================================
+
+--- AU-R1.1 ---
+TEXT: "SFFA's argument that the court of appeals misapplied this Court's
+precedents attempts to 'relitigate for a third time case-specific factual
+disputes that both lower courts resolved against it.'"
+
+DOCTRINAL:  INVOKE_AUTHORITY -- Harvard opens by quoting the United States'
+            amicus brief (U.S. Br. 9), enlisting the Solicitor General as
+            an ally. The move borrows the government's institutional
+            credibility and frames SFFA as opposing not just Harvard but
+            the executive branch's view.
+
+            APPLY_STANDARD -- Invokes the concurrent-findings-of-fact
+            doctrine from Exxon Co. v. Sofec, requiring a "very obvious
+            and exceptional showing of error" to overturn two courts'
+            factual conclusions. This raises the bar SFFA must clear.
+
+NARRATIVE:  AFFIRMATIVE_FRAME -- Harvard's section title and opening
+            sentence adopt the government's framing wholesale: "The
+            United States is correct." The brief positions itself as
+            aligned with the federal government rather than standing alone.
+
+FACT-FRAMING: SEQUENCE -- By characterizing this as a "third time"
+              relitigation, Harvard constructs a timeline of repetitive
+              losing arguments: trial, appeal, and now certiorari. The
+              sequential framing makes SFFA look like a persistent but
+              unsuccessful litigant.
+
+STYLISTIC:  AUTHORITY_SIGNALING -- Leading with "the United States is
+            correct" three times (once in each section heading) is a
+            structural choice that wraps every argument in federal
+            government endorsement.
+
+            STRATEGIC_QUOTATION -- "Relitigate for a third time" is
+            borrowed language from the SG's brief, deployed for its
+            dismissive force.
+
+[CROSS-BRIEF: Directly responds to AU-P3.3, where SFFA argued it does not
+seek to overturn factual findings. Harvard treats SFFA's disclaimer as
+incredible given the actual substance of SFFA's arguments.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.2 ---
+TEXT: "Although SFFA incredibly disclaims any intent to challenge the lower
+courts' factual findings, arguing that this Court 'need not overturn a
+single factual finding to rule for SFFA' on the second question presented,
+its challenge is irreconcilable with the evidentiary findings of the courts
+below in two detailed opinions following a 15-day trial."
+
+DOCTRINAL:  DISTINGUISH -- Harvard draws a distinction between what SFFA
+            says it is asking for (legal review) and what its arguments
+            actually require (overturning factual findings). The move
+            exposes a gap between SFFA's framing and its substance.
+
+NARRATIVE:  FRAME_AS_ERROR -- "Incredibly disclaims" is a direct
+            accusation that SFFA's characterization of its own case is
+            not credible. The adverb "incredibly" does significant
+            rhetorical work, converting a procedural disagreement into
+            a credibility challenge.
+
+FACT-FRAMING: FOREGROUND -- The 15-day trial is foregrounded as evidence
+              of the thoroughness and reliability of the factual record.
+              This detail implies that the lower courts' findings were
+              not casual or cursory.
+
+              RECHARACTERIZE -- SFFA's legal challenge is recharacterized
+              as a disguised factual challenge, "irreconcilable with the
+              evidentiary findings."
+
+STYLISTIC:  CONCRETE_ANCHOR -- "15-day trial" and "two detailed opinions"
+            provide specific, tangible markers of the record's depth.
+
+[CROSS-BRIEF: Direct response to AU-P3.3. The two briefs present mirror-
+image characterizations of the same case: SFFA says the question is legal;
+Harvard says it is inseparable from facts.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.3 ---
+TEXT: "While SFFA asserts that Harvard uses race as more than a mere '[p]lus'
+because race is 'determinative' for some African-American and Hispanic
+applicants, it ignores the district court's key finding that Harvard
+considers race 'in a flexible, nonmechanical way,' only 'as a "plus" factor
+in the context of individualized consideration of each and every applicant.'
+The court of appeals similarly determined that the impact of Harvard's use
+of race in admissions 'is less than the one at issue in Grutter.'"
+
+DOCTRINAL:  ANALOGIZE -- Harvard ties its program to Grutter's approved
+            model: race as a "plus" factor in individualized review. If
+            Harvard's use of race is "less than" Grutter's, and Grutter
+            was upheld, Harvard's program necessarily passes.
+
+            APPLY_TO_FACTS -- Maps the Grutter framework directly onto
+            the district court's findings about how Harvard considers race.
+
+NARRATIVE:  FRAME_AS_ERROR -- "It ignores the district court's key finding"
+            accuses SFFA of selective use of the record. The word "ignores"
+            implies deliberate evasion.
+
+FACT-FRAMING: FOREGROUND -- The "flexible, nonmechanical" finding and the
+              comparative holding (less impact than Grutter) are placed at
+              the center of the argument.
+
+              BACKGROUND -- SFFA's evidence that race was "determinative"
+              for some applicants is subordinated by the framing "SFFA
+              asserts ... it ignores," which positions SFFA's reading
+              as selective while the court's finding is authoritative.
+
+STYLISTIC:  STRATEGIC_QUOTATION -- Extensive quotation from the district
+            court and court of appeals lets the lower courts' language
+            carry the argumentative weight. Harvard positions itself as
+            the faithful reporter of judicial findings.
+
+[CROSS-BRIEF: Directly responds to AU-P3.4, where SFFA argued that race
+was awarded "regardless of whether" applicants highlighted it. The two
+sides are quoting different findings from the same trial record, each
+foregrounding the finding that supports its position.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.4 ---
+TEXT: "The lower courts likewise concluded that Harvard does not engage in
+racial balancing. '[T]he amount by which the share of admitted' Asian-
+American, Hispanic, and African-American applicants [fluctuates] ..."
+
+DOCTRINAL:  APPLY_TO_FACTS -- Cites the lower courts' findings on
+            racial balancing, applying the Grutter prohibition on quotas
+            to Harvard's admissions data.
+
+NARRATIVE:  --
+
+FACT-FRAMING: FOREGROUND -- Statistical variation in admitted class
+              composition is foregrounded as evidence that Harvard is not
+              engaging in de facto quotas. The fluctuation data is treated
+              as the dispositive fact.
+
+STYLISTIC:  --
+
+
+================================================================================
+RESP. SECTION 2: "The United States is correct that the Court should not
+                   grant review to overrule its precedents"
+================================================================================
+
+--- AU-R2.1 ---
+TEXT: "As the government explains, there are multiple reasons why the Court
+should decline certiorari on the first question presented -- whether to
+overrule Bakke, Grutter, and Fisher. Those precedents correctly held that
+obtaining the educational benefits of a diverse student body is a compelling
+interest and that admissions systems that use race as one factor among many
+can satisfy the stringent narrow-tailoring requirement, consistent with the
+Court's equal-protection precedents that SFFA cites."
+
+DOCTRINAL:  INVOKE_AUTHORITY -- Opens by again invoking the government's
+            position ("as the government explains"). The brief
+            consistently frames itself as the consensus view shared by
+            the executive branch.
+
+            APPLY_STANDARD -- Summarizes the Bakke/Grutter/Fisher framework
+            (compelling interest + narrow tailoring) as settled doctrine,
+            treating it as the baseline against which SFFA's arguments
+            must be measured.
+
+NARRATIVE:  AFFIRMATIVE_FRAME -- Harvard presents the precedent as a
+            coherent, correct body of law rather than engaging in a
+            point-by-point defense. The framing is declarative: the
+            precedents "correctly held."
+
+FACT-FRAMING: --
+
+STYLISTIC:  AUTHORITY_SIGNALING -- "As the government explains" is deployed
+            for its institutional weight. Harvard is not arguing alone.
+
+[CROSS-BRIEF: Directly responds to AU-P2.3, where SFFA called Grutter
+wrong "in every way." Harvard's response is to reaffirm the precedent's
+correctness rather than engage with each of SFFA's five adjectives.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.2 ---
+TEXT: "The evidence here confirms the correctness of the Court's conclusion
+that the educational benefits of diversity are a compelling interest and
+that there is no basis to revisit that holding. Harvard's expert testified
+that cross-racial interactions benefit all students and society. Harvard
+students and alumni of diverse racial backgrounds, including Asian-American
+students, also testified forcefully about the crucial impact that diversity
+at Harvard had on their college educations."
+
+DOCTRINAL:  APPLY_TO_FACTS -- Maps the trial evidence (expert testimony,
+            student testimony) onto the compelling-interest prong of
+            strict scrutiny. The argument is that this case independently
+            confirms the diversity rationale, not just that it should
+            be accepted on Grutter's authority.
+
+NARRATIVE:  ESCALATE_STAKES -- Extending the evidence beyond Harvard's
+            experts to include Asian-American students is a targeted
+            move. Because SFFA's case centers on harm to Asian-American
+            applicants, Harvard's citation of Asian-American students
+            who value diversity undercuts the narrative that
+            race-conscious admissions harm that community.
+
+FACT-FRAMING: FOREGROUND -- Expert and student testimony supporting
+              diversity's benefits are placed front and center.
+
+              STRATEGIC_SILENCE -- Harvard does not engage with SFFA's
+              historical, practical, and moral arguments against Grutter
+              (AU-P2.3). The silence is strategic: engaging those
+              arguments would elevate them.
+
+STYLISTIC:  CONCRETE_ANCHOR -- Specific citations to trial testimony
+            (CAJA record references) ground the argument in the
+            evidentiary record rather than leaving it at the level of
+            abstract principle.
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.3 ---
+TEXT: "SFFA introduced no contrary evidence. Moreover, although SFFA
+challenges the Court's narrow-tailoring framework as too lenient, this case
+shows how searching that inquiry is. Both lower courts rejected SFFA's
+claims only after finding based on an extensive record that Harvard conducts
+individualized, whole-person review of each applicant and considers race
+only as one among numerous factors."
+
+DOCTRINAL:  BURDEN_SHIFT -- "SFFA introduced no contrary evidence" places
+            the evidentiary burden on SFFA and notes its failure to carry
+            it. The move implies that the diversity rationale went
+            unchallenged at trial.
+
+            APPLY_TO_FACTS -- The trial record is offered as proof that
+            strict scrutiny was actually searching, not lenient, because
+            the lower courts conducted extensive factual review before
+            upholding Harvard's program.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL -- Anticipates the argument that strict
+            scrutiny in the race-admissions context has become toothless
+            ("too lenient") and counters with the assertion that this
+            case demonstrates the opposite.
+
+FACT-FRAMING: FOREGROUND_ABSENCE -- SFFA's failure to introduce contrary
+              evidence is foregrounded as an evidentiary gap. The absence
+              itself becomes Harvard's evidence.
+
+              FOREGROUND -- The "extensive record" and "individualized,
+              whole-person review" findings are highlighted as the trial
+              court's central conclusions.
+
+STYLISTIC:  UNDERSTATED_DEVASTATION -- "SFFA introduced no contrary
+            evidence" is a flat, factual statement that carries a
+            devastating implication: SFFA asked the trial court to reject
+            the diversity rationale but offered nothing to support that
+            request.
+
+[CROSS-BRIEF: This directly challenges AU-P2.3's assertion that Grutter
+is wrong "factually." Harvard's response: SFFA had its chance to prove
+that at trial and didn't.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.4 ---
+TEXT: "There is also no indication that this Court's precedents have proven
+'unworkable.'"
+
+DOCTRINAL:  APPLY_STANDARD -- "Unworkable" is a key factor in the stare
+            decisis analysis (from cases like Janus and Planned Parenthood
+            v. Casey). Harvard applies the standard by asserting that
+            SFFA has not met it.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL -- Addresses a stare decisis factor that
+            SFFA would need to satisfy to justify overruling Grutter.
+
+FACT-FRAMING: FOREGROUND_ABSENCE -- The absence of evidence that the
+              framework is unworkable is itself presented as evidence
+              supporting stare decisis.
+
+STYLISTIC:  COMPRESSION -- A single sentence dispatches the workability
+            argument.
+
+
+================================================================================
+RESP. SECTION 3: "The United States is correct that this case is a flawed
+                   vehicle"
+================================================================================
+
+--- AU-R3.1 ---
+TEXT: "The government correctly notes that this case 'is not an appropriate
+vehicle for reconsidering' Bakke, Grutter, and Fisher. The government's
+reasons, combined with the additional context below, further counsel against
+certiorari."
+
+DOCTRINAL:  INVOKE_AUTHORITY -- Third invocation of the SG's position.
+            Harvard is building a structural pattern: every section opens
+            with the government's endorsement.
+
+NARRATIVE:  AFFIRMATIVE_FRAME -- The section opens by treating the vehicle
+            problem as established rather than argued. The SG "correctly
+            notes"; the brief will add "additional context."
+
+FACT-FRAMING: --
+
+STYLISTIC:  AUTHORITY_SIGNALING -- The consistent invocation of the United
+            States' position across all three sections creates a drumbeat
+            of institutional support. By the third section, the pattern
+            is unmistakable: Harvard and the federal government are aligned.
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.2 ---
+TEXT: "SFFA argues that Grutter was wrongly decided because its 'diversity
+rationale is uncompelling' and 'flouts basic equal-protection principles.'
+But SFFA never challenged the benefits of diversity below and did not
+introduce any evidence supporting the arguments it now seeks to raise."
+
+DOCTRINAL:  NEW_MOVE_WAIVER_TRAP -- Harvard argues that SFFA forfeited
+            its challenge to the diversity rationale by failing to raise
+            it at trial. This goes beyond standard BURDEN_SHIFT: it
+            treats SFFA's trial-level litigation choices as a procedural
+            bar to raising the argument now. The move converts a
+            strategic decision at trial into a vehicle defect on
+            certiorari.
+            DEFINITION: Arguing that the opponent's failure to press a
+            claim at an earlier stage constitutes waiver or forfeiture
+            that infects the cert vehicle, distinct from merits-level
+            burden allocation.
+
+NARRATIVE:  FRAME_AS_ERROR -- SFFA is accused of inconsistency between
+            its trial position and its certiorari petition. The brief
+            suggests that SFFA changed its theory of the case between
+            stages.
+
+FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE -- SFFA's opening statement
+              at trial ("diversity and its benefits are not on trial
+              here") is captured and deployed as a binding concession.
+              SFFA's own words foreclose its current argument.
+
+              SEQUENCE -- The brief constructs a timeline: SFFA supported
+              diversity at trial, then challenged it on appeal. The
+              sequencing makes SFFA look strategically inconsistent.
+
+STYLISTIC:  STRATEGIC_QUOTATION -- Two devastating quotations from SFFA's
+            own trial record: "support[] diversity on campus" and
+            "[d]iversity and its benefits are not on trial here." These
+            are SFFA's words at trial, now used against SFFA at cert.
+
+            UNDERSTATED_DEVASTATION -- The juxtaposition of SFFA's trial
+            statements with its certiorari arguments is presented without
+            editorial commentary. Harvard lets the contradiction speak
+            for itself.
+
+[CROSS-BRIEF: This is a direct response to AU-P2.2 ("they should end
+with Harvard") and AU-P2.3 (Grutter is wrong "in every way"). Harvard's
+counter: SFFA explicitly disclaimed these arguments at trial and cannot
+raise them now. The waiver argument transforms SFFA's broadest narrative
+move into a vehicle defect.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.3 ---
+TEXT: "To the contrary, in its opening statement at trial, SFFA claimed to
+'support[] diversity on campus' and proclaimed that '[d]iversity and its
+benefits are not on trial here.' See United States v. Olano, 507 U.S. 725,
+733 (1993) ('intentional relinquishment or abandonment' constitutes waiver)."
+
+DOCTRINAL:  INVOKE_AUTHORITY -- Cites Olano for the legal standard defining
+            waiver ("intentional relinquishment or abandonment"), linking
+            SFFA's trial statements to the formal waiver doctrine.
+
+            APPLY_TO_FACTS -- Maps SFFA's trial statements onto the Olano
+            waiver standard: a party that says "diversity and its benefits
+            are not on trial here" has intentionally relinquished the
+            right to challenge diversity's benefits later.
+
+NARRATIVE:  --
+
+FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE -- SFFA's own opening statement
+              is the key evidence. The brief treats SFFA's litigation
+              strategy as a binding admission.
+
+STYLISTIC:  STRATEGIC_QUOTATION -- The Olano definition and SFFA's trial
+            statements are placed in immediate proximity, letting the
+            reader draw the connection without Harvard needing to
+            editorialize.
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.4 ---
+TEXT: "Throughout the trial, SFFA also failed to rebut the extensive record
+evidence regarding the educational benefits of diversity ... student surveys
+revealed that two-thirds of Harvard seniors 'across racial and ethnic
+groups' consistently 'report that their ability to relate well to people
+of different races, nations, and religions was "stronger" or "much stronger"
+than when they matriculated.'"
+
+DOCTRINAL:  BURDEN_SHIFT -- Again emphasizes SFFA's failure to rebut
+            Harvard's evidence at trial. The move reinforces the argument
+            that the trial record is one-sided on the diversity question.
+
+NARRATIVE:  ESCALATE_STAKES -- The survey data broadens the diversity
+            argument beyond abstract principle to include concrete
+            student outcomes. The two-thirds figure is striking and
+            lends empirical weight.
+
+FACT-FRAMING: FOREGROUND -- Specific survey results are foregrounded as
+              the kind of unrebutted evidence that supports the lower
+              courts' findings.
+
+              FOREGROUND_ABSENCE -- SFFA's failure to introduce contrary
+              evidence is, again, treated as the most salient fact.
+
+STYLISTIC:  CONCRETE_ANCHOR -- The two-thirds statistic and the specific
+            survey language (ability to relate well to people of different
+            races) give the diversity argument empirical grounding rather
+            than leaving it as an assertion.
+
+[CROSS-BRIEF: Responds to AU-P2.3's claim that Grutter is wrong
+"factually." Harvard's implicit argument: the facts actually confirm
+Grutter, and SFFA declined to contest them at trial.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.5 ---
+TEXT: "[I]n asking the Court to reject Bakke's, Grutter's, and Fisher's
+conclusions that the educational benefits of diversity are a compelling
+interest, SFFA relies on purported evidence of intentional discrimination
+that two courts have squarely rejected ..."
+
+DOCTRINAL:  APPLY_TO_FACTS -- Characterizes SFFA's remaining evidence as
+            pertaining to intentional discrimination (a different legal
+            theory) rather than to the diversity rationale. The move
+            suggests SFFA's evidence is misdirected.
+
+            INVOKE_AUTHORITY -- "Two courts have squarely rejected" invokes
+            the concurrent-findings doctrine again, reinforcing the
+            factual-deference barrier.
+
+NARRATIVE:  FRAME_AS_ERROR -- "Purported evidence" questions the
+            credibility of SFFA's factual showing without engaging it
+            on the merits.
+
+FACT-FRAMING: RECHARACTERIZE -- SFFA's evidence is recharacterized from
+              support for the proposition that Grutter is wrong to a
+              failed attempt to prove intentional discrimination.
+              The recharacterization narrows what SFFA's evidence can
+              be used for.
+
+STYLISTIC:  DIMINISHING_MODIFIER -- "Purported" diminishes the evidence
+            before the reader even considers it.
+
+
+################################################################################
+CROSS-BRIEF INTERACTION SUMMARY
+################################################################################
+
+1. THE FACT/LAW DIVIDE (AU-P3.3 vs. AU-R1.1, AU-R1.2)
+   The central structural contest between these briefs is whether SFFA's
+   challenge is factual or legal. SFFA uses DISTINGUISH and
+   JURISDICTIONAL_REFRAME to characterize its arguments as pure questions
+   of law. Harvard uses APPLY_TO_FACTS and INVOKE_AUTHORITY (concurrent-
+   findings doctrine) to argue that SFFA's legal arguments are inseparable
+   from the factual record. This is the threshold fight: if Harvard wins
+   it, SFFA's cert petition faces a formidable procedural barrier.
+
+2. THE MODEL AGAINST ITSELF (AU-P2.1, AU-P3.1 vs. AU-R1.3, AU-R2.2)
+   SFFA repeatedly captures Harvard's self-description as "the model"
+   (OPPONENT_CONCESSION_CAPTURE) and turns it into a reason for certiorari:
+   if Harvard is the model, testing Harvard tests the entire system. Harvard
+   counters by arguing that being the model cuts the other way -- the lower
+   courts' careful review of the model institution confirms the framework
+   works. Both sides agree Harvard is the paradigmatic case; they disagree
+   about what that means for certiorari.
+
+3. THE WAIVER WEAPON (AU-P2.2, AU-P2.3 vs. AU-R3.2, AU-R3.3)
+   SFFA's broadest narrative move -- that Grutter is wrong in every way
+   and racial preferences should end with Harvard -- is met by Harvard's
+   sharpest procedural weapon: waiver. Harvard quotes SFFA's own trial
+   statements declaring that diversity's benefits "are not on trial here"
+   and applies the Olano waiver standard. The interaction is asymmetric:
+   SFFA makes a sweeping constitutional argument; Harvard responds with a
+   narrow procedural kill shot. The waiver argument does not engage SFFA's
+   substantive position at all; it says SFFA gave up the right to make it.
+
+4. COMPETING RECORD READS (AU-P3.4 vs. AU-R1.3)
+   Both briefs cite the trial record, but they foreground different findings.
+   SFFA highlights that race is awarded "regardless of whether" applicants
+   emphasize their racial identity. Harvard highlights the district court's
+   finding that race is used "in a flexible, nonmechanical way." The two
+   findings coexist in the same record; each side's FOREGROUND is the
+   other side's BACKGROUND. The strategic move on both sides is selective
+   emphasis, not distortion.
+
+5. THE SG SHIELD (AU-R1.1, AU-R2.1, AU-R3.1)
+   Harvard's structural decision to open every section with "The United
+   States is correct" (AUTHORITY_SIGNALING) creates a persistent
+   cross-brief dynamic: SFFA argues against not just Harvard but the
+   federal government's position. This is a vehicle-stage tactic designed
+   to make the Court's denial of certiorari appear institutionally
+   supported. SFFA does not directly address this alignment in the
+   excerpted text.
+
+6. STARE DECISIS CALIBRATION (AU-P2.6 vs. AU-R2.3, AU-R2.4)
+   SFFA invokes Knick to argue that constitutional precedent has the
+   "weakest" claim to stare decisis. Harvard counters by applying the
+   stare decisis factors (workability, reliance) and arguing Grutter
+   satisfies them. The interaction is a calibration dispute: both sides
+   accept that stare decisis is a sliding scale, but they disagree about
+   where Grutter falls on it.
+
+
+################################################################################
+NEW MOVES
+################################################################################
+
+NEW_MOVE_WAIVER_TRAP (identified at AU-R3.2)
+DEFINITION: Arguing that the opponent's failure to press a claim or
+challenge at an earlier litigation stage (typically trial) constitutes
+waiver or forfeiture that renders the case a defective vehicle for
+certiorari review. Distinct from ordinary BURDEN_SHIFT (which allocates
+evidentiary responsibility at the merits level) because the waiver
+argument operates at the vehicle level, converting a trial-strategy
+decision into a procedural bar to Supreme Court review. The move
+weaponizes the opponent's own prior litigation choices against its
+current petition.

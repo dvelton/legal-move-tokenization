@@ -1,0 +1,408 @@
+ANNOTATED STRATEGIC MOVES — CASE DOCKET 21-1496
+Twitter, Inc. v. Taamneh
+================================================================
+
+PETITIONER BRIEF (Docket21-1496_Brief002.pdf)
+Cert-Stage Reply Brief — Tech Company Defendants
+
+================================================================
+SECTION 1: A. Plaintiffs Cannot Reconcile Courts Of Appeals' Divergent Knowledge Standards
+================================================================
+
+--- Argument Unit 1.1: Ninth Circuit's scienter standard reduces "knowingly" to generalized awareness ---
+
+Text: The Ninth Circuit held that Plaintiffs adequately pleaded scienter by alleging that Defendants were "aware of ISIS's use of [Defendants'] respective social media platforms for many years through media reports, statements from U.S. government officials, and threatened lawsuits, but have refused to take meaningful steps to prevent that use."
+
+DOCTRINAL: BROADEN_STATUTE — Characterizes the Ninth Circuit as having broadened the statutory "knowledge" requirement beyond its textual scope, reducing it to mere awareness of third-party reports about terrorist presence on platforms.
+
+NARRATIVE: FRAME_AS_ERROR — Frames the Ninth Circuit's holding as a misreading that "effectively reads the 'knowledge' requirement out of the statute."
+
+FACT-FRAMING: RECHARACTERIZE — Recasts plaintiffs' allegations (which plaintiffs characterize as detailed and specific) as nothing more than citing "third-party reports that terrorist supporters are among the users of a generally available service."
+
+STYLISTIC: STRATEGIC_QUOTATION — Quotes the Ninth Circuit's own language at length to let the looseness of the standard speak for itself. The quoted phrasing ("aware...through media reports") does the argumentative work without petitioner needing to editorialize.
+
+
+--- Argument Unit 1.2: No limiting principle exists under this standard ---
+
+Text: Whether those efforts were "meaningful"...provides no limiting principle because a plaintiff can always allege that a provider of a service, especially one made generally available to the public, could have done more to prevent terrorist supporters from using that service.
+
+DOCTRINAL: SLIPPERY_SLOPE — Argues the Ninth Circuit's standard has no stopping point. Any generally available service provider becomes vulnerable because a plaintiff can always allege the provider "could have done more."
+
+NARRATIVE: ESCALATE_STAKES — Elevates the argument from this case to all service providers, framing the consequence as "absurd."
+
+FACT-FRAMING: FOREGROUND_ABSENCE — Spotlights what the Ninth Circuit's standard lacks: any mechanism for limiting the scope of potential claims.
+
+STYLISTIC: COMPRESSION — Packs the logical chain (standard → no limit → absurd result) into a single dense sentence, giving it the quality of a self-evident proposition.
+
+
+--- Argument Unit 1.3: Other circuits demand specific knowledge, creating a split ---
+
+Text: Other circuits avoid this absurd result by enforcing a more rigorous "knowledge" requirement that demands additional indicia of knowledge beyond a generalized awareness...The Second Circuit, for example, has repeatedly rejected aiding-and-abetting liability when there is no indication that the defendant knew that a particular account or customer made a specific use of its service for a "terroristic purpose."
+
+DOCTRINAL: DISTINGUISH — Draws a sharp line between the Ninth Circuit's generalized-awareness standard and the Second Circuit's requirement of knowledge about a particular account's specific terroristic use.
+
+DOCTRINAL: INVOKE_AUTHORITY — Stacks three Second Circuit decisions (Weiss, Strauss, Siegel) to show the competing standard is well-established, not a one-off.
+
+NARRATIVE: AFFIRMATIVE_FRAME — Presents the other circuits' approach as the sensible, rigorous one that "avoids this absurd result."
+
+FACT-FRAMING: FOREGROUND — Highlights the Second Circuit's "particular account or customer" language to sharpen the contrast with the Ninth Circuit.
+
+STYLISTIC: AUTHORITY_SIGNALING — Three case citations in rapid succession signal depth of contrary authority and entrenchment of the split.
+
+
+================================================================
+SECTION 2: B. The Ninth Circuit Created A Circuit Split By Holding That A General Terrorist Campaign Could Be The "Principal Violation"
+================================================================
+
+--- Argument Unit 2.1: Statutory text requires nexus to a specific act, not a general campaign ---
+
+Text: The ATA provides a cause of action to plaintiffs injured by "an act of international terrorism." ...These consistent references to "an act of international terrorism" — buttressed by longstanding principles of aiding-and-abetting liability and a contrasting provision in the ATA regarding material support to a designated "foreign terrorist organization" — require that Defendants have knowingly and substantially assisted the act of international terrorism that caused Plaintiffs' harm.
+
+DOCTRINAL: NARROW_STATUTE — Reads "an act of international terrorism" as requiring a nexus to a specific terrorist act, not a general campaign or organizational enterprise.
+
+DOCTRINAL: DISTINGUISH_PURPOSE — Contrasts Section 2333(d) (which targets assistance to "an act") with the material-support provision, 18 U.S.C. 2339B(a)(1) (which targets assistance to a "foreign terrorist organization"). The contrast in statutory language proves Congress distinguished between act-level and organization-level liability.
+
+NARRATIVE: AFFIRMATIVE_FRAME — Presents this reading as the natural result of "consistent references" in the text, reinforced by both common-law principles and statutory structure.
+
+FACT-FRAMING: FOREGROUND — Puts the statutory phrase "an act of international terrorism" front and center, repeating it to emphasize the textual pattern.
+
+STYLISTIC: PARALLEL_STRUCTURE — Repeats "an act of international terrorism" three times in the passage to create a drumbeat effect, making the textual constraint feel inescapable.
+
+
+--- Argument Unit 2.2: Plaintiffs don't allege defendants' services were used in the specific attack ---
+
+Text: Plaintiffs do not allege Defendants' services were used in the act that injured them.
+
+DOCTRINAL: APPLY_TO_FACTS — Applies the act-specific statutory requirement directly to the case and finds a gap: no allegation connects defendants' services to the Reina Attack.
+
+FACT-FRAMING: FOREGROUND_ABSENCE — This single sentence foregrounds the critical missing element in the complaint. The brevity is the point.
+
+NARRATIVE: FRAME_AS_ERROR — Implies the Ninth Circuit let the claim proceed despite this fundamental gap.
+
+STYLISTIC: COMPRESSION — One sentence carries the entire weight of the argument. The sparseness mirrors the sparseness of the allegations.
+
+
+--- Argument Unit 2.3: Other circuits correctly focus on the act, creating a circuit split ---
+
+Text: The Fifth and Sixth Circuits have correctly read the ATA by "focus[ing] on the relationship between the act of international terrorism and the secondary actor's alleged supportive conduct."
+
+DOCTRINAL: INVOKE_AUTHORITY — Cites Retana v. Twitter (5th Cir.) and Crosby v. Twitter (6th Cir.) as circuits that got the analysis right.
+
+DOCTRINAL: DISTINGUISH — Contrasts the Ninth Circuit's enterprise/campaign theory with the Fifth and Sixth Circuits' act-specific approach.
+
+NARRATIVE: PREEMPTIVE_REBUTTAL — Directly rebuts plaintiffs' contention (Opp. 20) that "the petition 'does not claim that there is a circuit conflict' on this question." Petitioner quotes their own petition at pages 24-25 to show plaintiffs are wrong.
+
+FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Notes that plaintiffs themselves conceded the act of international terrorism is the Reina Attack, which makes the Ninth Circuit's enterprise theory harder to defend.
+
+STYLISTIC: STRATEGIC_QUOTATION — Quotes the Fifth Circuit's language to let a sister circuit's framing carry persuasive weight.
+
+
+================================================================
+SECTION 3: C. The Court's Denial Of Certiorari In Weiss And Strauss Cements A Split
+================================================================
+
+--- Argument Unit 3.1: Cert denial in related cases entrenches the conflict ---
+
+Text: That denial reinforces the importance of the Court's review here...because it entrenches the conflict among the circuits' aiding-and-abetting standards...there is little prospect of self-correction by the Ninth Circuit, which denied rehearing en banc in this case.
+
+DOCTRINAL: STARE_DECISIS_SHIELD — Argues that the circuit conflict is now permanent because the Second Circuit's position is locked in (cert denied) and the Ninth Circuit has refused to reconsider (en banc denied). Only this Court can resolve it.
+
+NARRATIVE: ESCALATE_STAKES — The conflict is not a temporary aberration but a durable structural problem that will persist without Supreme Court intervention.
+
+FACT-FRAMING: SEQUENCE — Arranges events chronologically (cert denied in Weiss/Strauss → split entrenched → rehearing denied in Ninth Circuit → no self-correction) to build a narrative of inevitability.
+
+STYLISTIC: COMPRESSION — The entire argument is delivered in three sentences, matching the urgency of the cert petition posture.
+
+
+================================================================
+SECTION 4: II. THE DECISION BELOW WOULD HAVE HARMFUL CONSEQUENCES
+================================================================
+
+--- Argument Unit 4.1: The two holdings combine to create boundless liability ---
+
+Text: Together, they create an extraordinarily broad scope of liability: providers of generally available, generic services can be held responsible for terrorist attacks anywhere in the world...so long as a plaintiff alleges (a) general awareness...(b) such use aided the organization's broader enterprise...(c) the defendant's attempts to preclude that use could have been more effective.
+
+DOCTRINAL: SLIPPERY_SLOPE — Demonstrates that combining the two holdings produces a three-part test so easily satisfied that virtually any service provider could face liability for any terrorist attack.
+
+NARRATIVE: ESCALATE_STAKES — "Terrorist attacks anywhere in the world" signals the scope of the problem is global, not case-specific.
+
+FACT-FRAMING: SEQUENCE — Lays out the three requirements as a sequential checklist, making the ease of satisfaction visually apparent.
+
+STYLISTIC: PARALLEL_STRUCTURE — The (a)/(b)/(c) structure creates a list that reads as a recipe for limitless liability. Each element is phrased to sound trivially easy to allege.
+
+
+--- Argument Unit 4.2: Halberstam is factually inapposite ---
+
+Text: Defendants' alleged conduct in no way resembles the actions of the aider-and-abettor there — the longtime, live-in partner of a murderous burglar, who worked as a "banker, bookkeeper, record-keeper, and secretary" for the criminal enterprise...As the Ninth Circuit observed, Defendants' alleged role here is, "to put it mildly, dissimilar."
+
+DOCTRINAL: DISTINGUISH — Draws a stark factual distinction between Halberstam (intimate participant in a criminal enterprise) and this case (general-purpose platform providers).
+
+NARRATIVE: AGREEMENT_TRAP — Uses the Ninth Circuit's own characterization ("to put it mildly, dissimilar") against plaintiffs. If the court below acknowledged the dissimilarity, plaintiffs' reliance on Halberstam is self-defeating.
+
+FACT-FRAMING: RECHARACTERIZE — Paints the Halberstam facts vividly ("longtime, live-in partner of a murderous burglar") to maximize the contrast with tech companies providing general services.
+
+FACT-FRAMING: FOREGROUND — Brings forward the Ninth Circuit's concession on dissimilarity, which the court then disregarded in reaching its holding.
+
+STYLISTIC: STRATEGIC_QUOTATION — Quotes both the Halberstam facts and the Ninth Circuit's own language to devastating effect.
+
+STYLISTIC: UNDERSTATED_DEVASTATION — "To put it mildly, dissimilar" is the Ninth Circuit's own understatement, weaponized by petitioner to show the court reached a conclusion its own analysis could not support.
+
+
+--- Argument Unit 4.3: Plaintiffs' "detailed allegations" are generic and unconnected to the attack ---
+
+Text: Despite Plaintiffs emphasizing the "detailed allegations" that purportedly set this case apart, their allegations concerning use of Defendants' platforms by ISIS supporters and the third-party reports of such activities sweep more broadly than this case, and have nothing to do with the terrorist attack that injured Plaintiffs.
+
+DOCTRINAL: APPLY_TO_FACTS — Tests plaintiffs' allegations against the statutory requirement and finds them wanting: they address ISIS's general platform use, not the Reina Attack.
+
+NARRATIVE: PREEMPTIVE_REBUTTAL — Directly addresses plaintiffs' attempt to distinguish this case on the basis of their "detailed allegations."
+
+FACT-FRAMING: RECHARACTERIZE — Strips plaintiffs' characterization ("detailed allegations") down to what they actually allege: generic platform use by ISIS supporters and third-party reporting about it.
+
+FACT-FRAMING: FOREGROUND_ABSENCE — "Have nothing to do with the terrorist attack that injured Plaintiffs" foregrounds the dispositive gap.
+
+STYLISTIC: REGISTER_CONTRAST — The scare quotes around "detailed allegations" and "meaningful" throughout this section create a subtle tonal shift, signaling skepticism without needing to argue it.
+
+
+================================================================
+
+RESPONDENT BRIEF (Docket21-1496_Brief004.pdf)
+Merits Brief — Tech Company Defendants
+
+================================================================
+SECTION 1: I. Plaintiffs Failed To Allege That Facebook Or YouTube Aided And Abetted
+================================================================
+
+--- Argument Unit 5.1: Claim fails at threshold — no allegation of assistance to the Reina attack ---
+
+Text: Plaintiffs' aiding-and-abetting claim fails at the threshold because their complaint does not allege that defendants knowingly and substantially assisted the commission of the Reina attack...the complaint nowhere alleges that Facebook or YouTube had any direct connection with the perpetrators or assisted in the Reina attack in any way — let alone that either company did so knowingly or substantially.
+
+DOCTRINAL: NARROW_STATUTE — Reads Section 2333(d)(2) to require knowing, substantial assistance to the specific act (the Reina attack), not to ISIS generally.
+
+DOCTRINAL: APPLY_TO_FACTS — Maps the statutory elements onto the complaint and finds every element unmet.
+
+NARRATIVE: AFFIRMATIVE_FRAME — Presents this as a "straightforward reading of the statute," positioning the argument as textual orthodoxy rather than aggressive advocacy.
+
+FACT-FRAMING: FOREGROUND_ABSENCE — Emphasizes the total void in the complaint: no direct connection to perpetrators, no assistance to the attack, no knowing or substantial assistance. The absence is the argument.
+
+STYLISTIC: COMPRESSION — Opens with a single thesis sentence that states the dispositive point, then supports it with one elaborating sentence. The brevity signals confidence.
+
+STYLISTIC: CADENCE_SHIFT — The escalating "in any way — let alone...knowingly or substantially" creates a rhetorical ladder, each step making plaintiffs' position harder to defend.
+
+
+================================================================
+SECTION 2: A. Section 2333(d)(2) Requires Aiding the Specific Act
+================================================================
+
+--- Argument Unit 6.1: Statutory text demands act-specific assistance ---
+
+Text: Under a straightforward reading of that statutory text, a defendant must knowingly and substantially assist the commission of the specific act of terrorism that injured the plaintiff to be liable as an aider and abettor; merely alleging that defendants provided generic assistance to the terrorist organization that claims responsibility does not suffice.
+
+DOCTRINAL: NARROW_STATUTE — Parses the statutory text to require act-specific (not organization-level) assistance. This is the core doctrinal move of the entire brief.
+
+NARRATIVE: AFFIRMATIVE_FRAME — "Straightforward reading" positions the argument as common sense, putting the burden on plaintiffs to explain why the text means something else.
+
+FACT-FRAMING: FOREGROUND — Places the statutory phrase "an act of international terrorism" at the center of the analysis, tracing it through subsections (a) and (d)(2).
+
+STYLISTIC: PARALLEL_STRUCTURE — Tracks the statutory cross-references methodically: subsection (a) provides the cause of action → subsection (d)(2) expands the liable parties → both reference "an act of international terrorism." The structural parallelism mirrors the statute's own internal consistency.
+
+
+--- Argument Unit 6.2: Material-support statute confirms by contrast ---
+
+Text: Both the contrasting approach of the material-support provision, which does target aid to the organization in general, as well as other textual features of the ATA confirm that conclusion.
+
+DOCTRINAL: DISTINGUISH_PURPOSE — Contrasts 2333(d)(2) (aiding an "act") with 2339B (providing material support to a "foreign terrorist organization"). When Congress wanted to target organization-level assistance, it said so explicitly. Its failure to do so in 2333(d)(2) is meaningful.
+
+DOCTRINAL: NEW_MOVE_INTRA_STATUTORY_CONTRAST — Systematically reads neighboring provisions within the same statutory scheme against each other to establish that Congress made deliberate word choices. This goes beyond general purpose-based distinction; it is a structural interpretive technique using the ATA's own internal architecture. (Definition: Using the contrast between two provisions within the same statutory scheme to demonstrate that Congress's different language reflects different intended scope.)
+
+NARRATIVE: PREEMPTIVE_REBUTTAL — Anticipates the argument that assisting ISIS generally should suffice, and forecloses it by showing Congress knew how to write that kind of liability and chose not to.
+
+FACT-FRAMING: FOREGROUND — Highlights the textual difference between the two provisions as the decisive interpretive clue.
+
+
+--- Argument Unit 6.3: Common-law aiding-and-abetting principles confirm act-specific reading ---
+
+Text: ...as do longstanding common-law principles of aiding-and-abetting liability.
+
+DOCTRINAL: INVOKE_AUTHORITY — Invokes common-law tradition as an independent basis confirming the textual reading, adding an extra layer of authority.
+
+DOCTRINAL: APPLY_STANDARD — Applies settled common-law aiding-and-abetting requirements (which demand assistance to the specific wrongful act) to Section 2333(d)(2).
+
+NARRATIVE: AFFIRMATIVE_FRAME — The convergence of text, statutory structure, and common law makes the reading seem inevitable rather than contested.
+
+
+================================================================
+SECTION 3: B. The Complaint Fails to Allege Knowing and Substantial Assistance to the Reina Attack
+================================================================
+
+--- Argument Unit 7.1: Plaintiffs conceded the "act" is the Reina Attack ---
+
+Text: As the Ninth Circuit explained, the "Taamneh Plaintiffs unambiguously conceded the act of international terrorism they allege is the Reina Attack." That concession was correct and unavoidable.
+
+DOCTRINAL: APPLY_TO_FACTS — Identifies the specific act of international terrorism at issue (the Reina Attack) and locks it in as the benchmark against which all allegations must be measured.
+
+FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Seizes plaintiffs' own concession (and the Ninth Circuit's acknowledgment of it) to define the analytical framework. Once the act is the Reina Attack, everything that follows is measured against whether the complaint connects defendants to that attack.
+
+NARRATIVE: AGREEMENT_TRAP — The concession is characterized as "correct and unavoidable," making any attempt to walk it back look like bad faith. Plaintiffs are locked into a framework that dooms their claim.
+
+STYLISTIC: STRATEGIC_QUOTATION — Quotes the Ninth Circuit's own finding to establish the concession as undisputed.
+
+
+--- Argument Unit 7.2: The complaint contains zero allegations connecting defendants to the Reina Attack ---
+
+Text: The complaint contains no allegation — none — that Facebook or YouTube assisted the commission of that specific attack in any way, let alone that they knowingly provided its perpetrators with substantial assistance.
+
+DOCTRINAL: APPLY_TO_FACTS — Tests the complaint against each statutory element (assistance, to the specific act, knowingly, substantially) and finds all elements unalleged.
+
+FACT-FRAMING: FOREGROUND_ABSENCE — The rhetorical force comes entirely from what is missing. "No allegation — none" puts the void at the center of the argument.
+
+NARRATIVE: AFFIRMATIVE_FRAME — Frames the case as "straightforward" given the gap. The missing allegations make the legal question easy, not hard.
+
+STYLISTIC: UNDERSTATED_DEVASTATION — The parenthetical "— none —" is a controlled detonation. It interrupts the sentence to eliminate any ambiguity about the completeness of the absence.
+
+STYLISTIC: CADENCE_SHIFT — "in any way, let alone that they knowingly provided its perpetrators with substantial assistance" escalates the standard in stages, showing that even the lowest bar (any assistance at all) is unmet before reaching the higher bars (knowingly, substantially).
+
+
+--- Argument Unit 7.3: Plaintiffs must allege assistance to the attack, not to ISIS in the abstract ---
+
+Text: To recover from defendants for the injuries suffered in the Reina attack, plaintiffs must allege that defendants knowingly provided substantial assistance for that specific attack, not for ISIS in the abstract.
+
+DOCTRINAL: NARROW_STATUTE — Restates the act-specific requirement in application to this case.
+
+DOCTRINAL: DISTINGUISH — Draws the line between assistance to "that specific attack" and assistance "to ISIS in the abstract."
+
+FACT-FRAMING: RECHARACTERIZE — Relabels plaintiffs' theory as assistance "to ISIS in the abstract," a characterization that makes it sound both legally insufficient and factually vague.
+
+STYLISTIC: CONCRETE_ANCHOR — "That specific attack" versus "ISIS in the abstract" gives the distinction a tangible quality. One is a real-world event; the other is a concept.
+
+
+================================================================
+SECTION 4: C. The Ninth Circuit Improperly Conflated the Act and the Organization
+================================================================
+
+--- Argument Unit 8.1: The court sustained the claim based on aiding ISIS, not aiding the attack ---
+
+Text: The court acknowledged that the "act of international terrorism" that plaintiffs alleged caused their injuries was "the Reina Attack." Yet it sustained plaintiffs' aiding-and-abetting claim without identifying any allegation in the complaint that any of the defendants' services were used to assist in the commission of that attack.
+
+DOCTRINAL: FRAME_AS_ERROR — Identifies a disconnect between the court's own legal framework (act = Reina Attack) and its holding (liability based on aiding ISIS). The error is internal to the court's own reasoning.
+
+NARRATIVE: INSTITUTIONAL_REBUKE — Without saying it in those words, frames the Ninth Circuit as having contradicted itself — acknowledging the correct framework and then ignoring it.
+
+FACT-FRAMING: SEQUENCE — Sets up a before/after: the court first acknowledged the correct legal standard, then departed from it in its holding. The chronological arrangement makes the error feel deliberate.
+
+STYLISTIC: STRATEGIC_QUOTATION — Quotes the Ninth Circuit's own language finding that defendants "knowingly assisted ISIS" and "were generally aware they were playing an important role in ISIS's terrorism enterprise" (emphasis in original brief). These quotes expose the substitution of ISIS for the Reina Attack.
+
+
+--- Argument Unit 8.2: This is a "basic category mistake" ---
+
+Text: That reasoning reflects a basic category mistake, as it conflates aiding and abetting a specific act of terrorism with generally assisting the terrorist organization that committed it.
+
+DOCTRINAL: DISTINGUISH — Identifies the two categories being confused: (1) aiding an act of terrorism and (2) aiding the organization that committed it.
+
+NARRATIVE: FRAME_AS_ERROR — "Basic category mistake" is a forceful but measured characterization. It says the error is not subtle or debatable but elementary.
+
+FACT-FRAMING: RECHARACTERIZE — Relabels the Ninth Circuit's reasoning from "analysis" to "category mistake," reframing a judicial holding as a logical error.
+
+STYLISTIC: CONCRETE_ANCHOR — "Basic category mistake" is a vivid, non-legalistic label that any reader can understand. It makes a complex statutory interpretation issue feel like a simple logical fallacy.
+
+
+--- Argument Unit 8.3: Material-support statute makes the distinction unmistakable ---
+
+Text: Unlike the material-support statute, 2333(d)(2) does not impose liability for assisting a terrorist organization. It imposes liability for aiding and abetting "an act of international terrorism"...Needless to say, ISIS is not an "act of international terrorism."
+
+DOCTRINAL: DISTINGUISH_PURPOSE — Returns to the 2333(d)(2) / 2339B contrast for the third time in the brief. The repetition is deliberate: each iteration applies the contrast to a slightly different facet of the argument.
+
+DOCTRINAL: NEW_MOVE_INTRA_STATUTORY_CONTRAST — (Same as Unit 6.2.) Uses the ATA's own internal architecture to show the Ninth Circuit's reading collapses a distinction Congress embedded in the statute.
+
+NARRATIVE: PREEMPTIVE_REBUTTAL — Forecloses any argument that aiding ISIS is equivalent to aiding an act of terrorism by pointing to the statute Congress wrote when it wanted to reach organization-level assistance.
+
+STYLISTIC: UNDERSTATED_DEVASTATION — "Needless to say, ISIS is not an 'act of international terrorism'" delivers the decisive blow in a single dry sentence. The phrase "needless to say" signals that the point should have been obvious to the court below.
+
+
+================================================================
+SECTION 5: II. The Ninth Circuit's Lax Conception Of "Knowingly Providing Substantial Assistance"
+================================================================
+
+--- Argument Unit 9.1: "Knowingly" requires actual knowledge, not recklessness or negligence ---
+
+Text: The defendant thus not only must have provided substantial assistance, but must have known that the aid it was providing was substantial in relation to the principal violation. Merely providing some aid to the person who committed that act is not enough. Neither is the mere negligent provision of aid, or the failure to do more to prevent inadvertent assistance.
+
+DOCTRINAL: NARROW_STATUTE — Parses "knowingly" to require actual knowledge that the assistance being provided is substantial, not just knowledge that some aid was provided.
+
+DOCTRINAL: BURDEN_SHIFT — By establishing that "knowingly" carries heavy requirements, effectively raises the pleading burden on plaintiffs: they must allege facts showing defendants knew their assistance was substantial in relation to the specific act.
+
+NARRATIVE: AFFIRMATIVE_FRAME — Presents the strict reading as what the text plainly requires, not as an aggressive defense position.
+
+FACT-FRAMING: FOREGROUND — Highlights the specific mens rea ("knowingly") and its demanding content.
+
+FACT-FRAMING: DIMINISHING_MODIFIER — "Merely providing some aid" and "mere negligent provision" use diminishing language to characterize what plaintiffs actually alleged, making their theory sound thin.
+
+STYLISTIC: CADENCE_SHIFT — Builds a descending scale of insufficient mental states: knowing → reckless → negligent → failure to prevent. Each step down makes clear that plaintiffs' allegations fall progressively further from the statutory standard.
+
+
+--- Argument Unit 9.2: Congress distinguished "knowingly" from "recklessly" and chose "knowingly" ---
+
+Text: Even reckless actions...do not suffice for aiding-and-abetting liability. "Knowingly" and "recklessly" are unquestionably different forms of mens rea...and Congress knows how to extend liability to those who substantially assist wrongful conduct recklessly rather than knowingly. See, e.g., 15 U.S.C. 78t(e)...Congress chose not to do so in 2333(d)(2).
+
+DOCTRINAL: DISTINGUISH — Draws the line between "knowingly" and "recklessly" as established, distinct categories of mens rea.
+
+DOCTRINAL: INVOKE_AUTHORITY — Cites Borden v. United States and Safeco for the proposition that knowingly and recklessly are different standards, then cites the SEC enforcement provision as a statutory example of Congress choosing "knowingly or recklessly" when it wants to reach reckless conduct.
+
+DOCTRINAL: NEW_MOVE_INTRA_STATUTORY_CONTRAST — (Applied across statutes here.) Compares 2333(d)(2) with the SEC provision (15 U.S.C. 78t(e)) to show Congress's deliberate omission of "recklessly" from the ATA.
+
+NARRATIVE: PREEMPTIVE_REBUTTAL — Forecloses the argument that reckless indifference to terrorist use of platforms should satisfy the scienter requirement.
+
+FACT-FRAMING: FOREGROUND — Puts Congress's deliberate choice of "knowingly" (and omission of "recklessly") at the center of the analysis.
+
+STYLISTIC: STRATEGIC_QUOTATION — Quotes the SEC statute's "knowingly or recklessly" language to make the contrast with 2333(d)(2)'s "knowingly" alone unmistakable.
+
+STYLISTIC: AUTHORITY_SIGNALING — Stacks SCOTUS precedent (Borden, Safeco) with statutory cross-references to show the distinction is doctrinally settled.
+
+
+--- Argument Unit 9.3: Plaintiffs cannot allege knowing, substantial assistance to the Reina attack ---
+
+Text: The Ninth Circuit did not and could not conclude that plaintiffs alleged that Facebook or YouTube "knowingly" assisted — let alone knowingly provided "substantial" assistance to — the commission of the Reina attack. The complaint does not allege that either...
+
+DOCTRINAL: APPLY_TO_FACTS — Returns to the complaint and finds it fails even the recklessness standard, let alone the knowing standard the statute actually requires.
+
+NARRATIVE: FRAME_AS_ERROR — "Did not and could not" implies the Ninth Circuit recognized its own inability to find these allegations and proceeded regardless.
+
+FACT-FRAMING: FOREGROUND_ABSENCE — Again foregrounds the void in the complaint. The brief returns to this absence repeatedly because it is dispositive.
+
+STYLISTIC: CADENCE_SHIFT — "Knowingly assisted — let alone knowingly provided substantial assistance to" escalates through successive, harder-to-meet standards, each one unmet.
+
+
+================================================================
+CROSS-BRIEF INTERACTION SUMMARY
+================================================================
+
+1. KNOWLEDGE STANDARD (Pet. Sec. 1 ↔ Resp. Sec. 5)
+   The Petitioner's cert-stage argument about divergent knowledge standards across circuits maps directly onto the Respondent's merits argument about the meaning of "knowingly." The Petitioner frames the issue as a circuit split requiring review; the Respondent develops the substantive argument about what "knowingly" demands. The Respondent deepens the Petitioner's argument by adding the recklessness/negligence distinction and the SEC-statute contrast.
+
+2. ACT VS. ORGANIZATION (Pet. Sec. 2 ↔ Resp. Secs. 1-4)
+   Both briefs argue that 2333(d)(2) requires assistance to the specific act, not to ISIS generally. The Petitioner raises this as a second basis for the circuit split (Fifth/Sixth Circuits vs. Ninth). The Respondent makes this the centerpiece of its merits argument, developing it across four sections with the "basic category mistake" characterization (Resp. Sec. 4) providing the sharpest formulation.
+
+3. MATERIAL-SUPPORT CONTRAST (Pet. Sec. 2, Unit 2.1 ↔ Resp. Secs. 2, 4)
+   Both briefs use the contrast between 2333(d)(2) and 2339B, but with different emphasis. The Petitioner introduces it as one of several textual indicators. The Respondent makes it a recurring structural argument, returning to it at least three times to show the Ninth Circuit collapsed a distinction Congress deliberately built into the ATA.
+
+4. HALBERSTAM DISTINCTION (Pet. Sec. 4, Unit 4.2 ↔ Resp. implicit)
+   The Petitioner explicitly addresses and dismantles plaintiffs' reliance on Halberstam by quoting the Ninth Circuit's own admission that the facts are "dissimilar." The Respondent does not focus on Halberstam, choosing instead to argue the case fails at a more fundamental level (no connection to the attack at all), which makes the Halberstam analogy irrelevant rather than just inapt.
+
+5. FOREGROUND_ABSENCE AS SHARED STRATEGY
+   Both briefs build their central arguments around what the complaint does NOT allege. The Petitioner foregrounds the absence of a limiting principle and the absence of attack-specific allegations. The Respondent foregrounds the absence of any connection between defendants and the Reina Attack. This shared move reflects coordinated (or convergent) strategic judgment that the strongest argument is the one built on the void in plaintiffs' complaint.
+
+6. COMPLEMENTARY FRAMING POSTURES
+   The Petitioner frames issues for the cert audience: circuit splits, need for review, entrenchment of conflict. The Respondent frames issues for the merits audience: statutory text, common-law principles, proper application to facts. The briefs divide labor effectively — one argues "why the Court should take the case" while the other argues "why the Court should rule this way."
+
+
+================================================================
+NEW MOVES IDENTIFIED
+================================================================
+
+NEW_MOVE_INTRA_STATUTORY_CONTRAST
+Definition: Systematically reading two or more provisions within the same statutory scheme against each other to demonstrate that Congress's use of different language in neighboring provisions reflects a deliberate choice about scope, coverage, or liability standard. Distinguished from DISTINGUISH_PURPOSE (which compares the purposes of different legal rules) in that this move is specifically structural — it treats the statute's own internal architecture as the interpretive key.
+
+Evidence: Used extensively by both briefs to contrast 2333(d)(2) ("an act of international terrorism") with 2339B ("foreign terrorist organization"), and by the Respondent to contrast 2333(d)(2) ("knowingly") with the SEC provision's "knowingly or recklessly." This move appears at least five times across the two briefs and is central to the tech companies' interpretive strategy.
+
+================================================================
+END OF ANNOTATIONS
+================================================================

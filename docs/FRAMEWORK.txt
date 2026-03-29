@@ -1,0 +1,176 @@
+LEGAL MOVE TOKENIZATION — Research Framework
+=====================================================================
+
+PROJECT: Can legal reasoning be compressed into a discrete vocabulary
+of strategic "moves" that is more predictive and more interpretable
+than raw text?
+
+HYPOTHESIS: Legal briefs operate on four simultaneous layers —
+doctrinal, narrative, fact-framing, and stylistic — and the strategic
+choices at each layer can be identified, labeled, and modeled as
+sequences of discrete tokens.
+
+=====================================================================
+TAXONOMY (v0.2)
+=====================================================================
+
+LAYER 1 — DOCTRINAL (legal reasoning operations)
+  NARROW_STATUTE       Confine a statute's scope
+  BROADEN_STATUTE      Expand a statute's reach
+  NARROW_HOLDING       Contract what a precedent stands for
+  BROADEN_HOLDING      Expand what a precedent stands for
+  DISTINGUISH          Show why a cited case doesn't apply
+  ANALOGIZE            Show why a favorable case controls
+  APPLY_STANDARD       Walk through elements of a legal test
+  APPLY_TO_FACTS       Map legal rule onto case-specific facts
+  BURDEN_SHIFT         Argue the other side must prove something
+  INVOKE_AUTHORITY     Cite court, judge count, or weight
+  DISTINGUISH_PURPOSE  Line between two statutory purposes
+  CONST_AVOIDANCE      Argue for reading avoiding const. issue
+
+LAYER 2 — NARRATIVE (story/structural strategy)
+  AFFIRMATIVE_FRAME    Position as declarative fact, not rebuttal
+  CONCEDE_REDIRECT     Acknowledge weakness, pivot to irrelevance
+  PREEMPTIVE_REBUTTAL  Address opponent's best point first
+  ESCALATE_STAKES      Implications beyond the parties
+  FRAME_AS_ERROR       Label lower court wrong from the start
+
+LAYER 3 — FACT-FRAMING (selection, order, characterization)
+  FOREGROUND           Lead with or emphasize favorable fact
+  BACKGROUND           Bury unfavorable fact
+  RECHARACTERIZE       Same event, different framing
+  SEQUENCE             Control timeline to imply causation
+  STRATEGIC_SILENCE    Omit where absence won't draw attention
+  FOREGROUND_ABSENCE   Emphasize what hasn't happened
+
+LAYER 4 — STYLISTIC (delivery/rhetoric)
+  COMPRESSION          One sentence where opponent took a paragraph
+  CADENCE_SHIFT        Complex passage then short declarative
+  CONCRETE_ANCHOR      Ground abstraction in vivid detail
+  UNDERSTATED_DEVASTATION  Calm language for devastating point
+  STRATEGIC_QUOTATION  Opponent's own words make your point
+  RHETORICAL_QUESTION  Obvious answer, reader supplies conclusion
+  PARALLEL_STRUCTURE   Identical syntax, cumulative weight
+
+
+=====================================================================
+METHODOLOGY
+=====================================================================
+
+DATA SOURCE: BriefMe dataset (HuggingFace, jw4202/BriefMe)
+  - 3,753 SCOTUS briefs, preprocessed config
+  - 168 dockets with identifiable petitioner + respondent main briefs
+  - Additional amicus briefs available for richer analysis
+
+ANNOTATION PIPELINE:
+  1. Extract argument sections from paired briefs
+  2. LLM generates four-layer move annotations per paragraph
+  3. Legal expert (human) reviews and corrects annotations
+  4. Corrections feed back into taxonomy refinement
+  5. Inter-annotator agreement measured between LLM and expert
+
+EXPERIMENT DESIGN:
+  Phase 1 — Taxonomy validation (current)
+    - Annotate 3-5 cases, expert reviews
+    - Refine move vocabulary based on gaps and errors
+    - Establish annotation guidelines
+
+  Phase 2 — Scale annotation
+    - Annotate 25-50 adversarial pairs
+    - Measure consistency of LLM annotations
+    - Build gold-standard subset with expert review
+
+  Phase 3 — Representation analysis
+    - Compress each brief into move sequence
+    - Compare move sequences across sides of same case
+    - Test whether move sequences correlate with outcomes
+    - Analyze which move combinations appear in winning briefs
+
+  Phase 4 — Predictive modeling
+    - Train sequence model on move tokens
+    - Evaluate: can move-level representations predict
+      which arguments the Court engages with in its opinion?
+    - Compare predictive power vs. text-level baselines
+
+
+=====================================================================
+NOVEL CONTRIBUTION
+=====================================================================
+
+What exists: IRAC-level annotation (fact/issue/rule/analysis/conclusion)
+What we add: STRATEGIC MOVE-level annotation across four layers
+
+The difference: IRAC tells you WHAT a paragraph IS (it's "analysis").
+Move annotation tells you WHAT IT'S DOING (it's narrowing a holding
+while conceding a weak point and delivering the conclusion in
+understated language for maximum impact).
+
+This is analogous to the difference between part-of-speech tagging
+(this word is a noun) and semantic role labeling (this noun is the
+agent performing the action). Both are useful; the latter captures
+far more about meaning and intent.
+
+
+=====================================================================
+OPEN QUESTIONS
+=====================================================================
+
+1. Granularity: Is paragraph-level the right unit, or should we go
+   sentence-level? Paragraph seems right because moves often span
+   multiple sentences.
+
+2. Multi-label: Moves stack (a paragraph can be NARROW_HOLDING +
+   CONCEDE_REDIRECT + UNDERSTATED_DEVASTATION simultaneously). Our
+   representation needs to handle this naturally.
+
+3. Sequencing: Does the ORDER of moves carry predictive signal?
+   Intuition says yes — leading with ESCALATE_STAKES vs. leading
+   with APPLY_TO_FACTS signals different strategies.
+
+4. Cross-brief interactions: How do we model the adversarial
+   relationship? Petitioner's FOREGROUND on a point may directly
+   correspond to respondent's BACKGROUND on the same point.
+
+5. Game-theoretic dimension: Some moves are "chess" (deterministic,
+   the law is clear) and some are "poker" (probabilistic, managing
+   risk). Should this be a fifth layer or an attribute?
+
+
+=====================================================================
+RESULTS FROM INITIAL ANNOTATION (2 cases, 33 argument units)
+=====================================================================
+
+CASES ANNOTATED:
+  1. Cameron v. EMW Women's Surgical Center (20-601)
+     - State sovereignty / appellate intervention
+     - 16 argument units annotated
+  2. Hughes v. Northwestern University (19-1401)
+     - ERISA duty of prudence for retirement plans
+     - 17 argument units annotated
+
+NEW MOVES DISCOVERED (7 total):
+
+  From 20-601:
+    JURISDICTIONAL_REFRAME — Swapping the entire legal framework,
+      not adjusting a single rule's scope
+    SLIPPERY_SLOPE — Downstream consequences of opponent's proposed
+      rule in future cases
+
+  From 19-1401:
+    DIMINISHING_MODIFIER — Inserting adjectives that systematically
+      minimize opposing facts ("marginal," "isolated," "paternalistic")
+    AUTHORITY_SIGNALING — Citing a case for the identity of its author
+      (e.g., Breyer as Chief Justice), not just the holding
+    ALTERNATIVE_HOLDING — "Even if" argument that outcome is same
+      regardless of which legal standard applies
+    OPPONENT_CONCESSION_CAPTURE — Foregrounding a concession from
+      the opposing brief and weaponizing it
+    REGISTER_CONTRAST — Deliberate shift from formal to dismissive
+      language to signal an argument is unworthy of engagement
+
+EMERGING PATTERNS:
+  1. RECHARACTERIZE is the most frequent move across both cases
+  2. Cross-brief interactions cluster around key contested facts
+  3. Both sides in both cases use CONCEDE_AND_REDIRECT as transitions
+  4. Stylistic moves are harder to detect but carry real signal
+  5. The taxonomy is growing organically — 30 initial moves + 7 new

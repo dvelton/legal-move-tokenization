@@ -1,0 +1,348 @@
+ANNOTATED BRIEF ANALYSIS — Docket 21-442 (Reed v. Goertz)
+Move Taxonomy v0.3 (40 moves, 4 layers)
+================================================================
+
+PETITIONER — Docket21-442_Brief002.pdf (Reply in Support of Certiorari)
+
+================================================================
+SECTION 1: Circuit Split (I. The courts of appeals are split 1-2...)
+================================================================
+
+ARGUMENT UNIT 1A: Concession capture — Goertz admits the split
+"Goertz concedes the circuit conflict. Opp. 25."
+
+  DOCTRINAL: INVOKE_AUTHORITY — Treats opponent's own concession as binding admission that the circuit split is real and cert-worthy.
+  NARRATIVE: AGREEMENT_TRAP — Opens by pinning Goertz to his concession before he can qualify it; frames everything that follows as Goertz backpedaling from an admitted position.
+  FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Leads with Goertz's own words ("it is unclear whether the Eleventh Circuit would reach the same outcome") to establish the split as undisputed.
+  STYLISTIC: COMPRESSION — Single declarative sentence with citation. No hedging, no setup. The brevity signals that this point is beyond argument.
+
+ARGUMENT UNIT 1B: The split laid bare — Eleventh vs. Fifth/Seventh Circuits
+"In the Eleventh Circuit, the limitations period begins to run from the end of the state-court litigation... But in the Fifth and Seventh Circuits, the limitations period runs from the moment the state trial court denies DNA testing, despite any appeal."
+
+  DOCTRINAL: DISTINGUISH — Draws a clean doctrinal line between the two positions: end-of-litigation accrual (Eleventh) vs. trial-court-denial accrual (Fifth/Seventh).
+  NARRATIVE: AFFIRMATIVE_FRAME — Presents the split as a simple binary, making the conflict stark and cert-worthy.
+  FACT-FRAMING: FOREGROUND — Highlights that Reed's suit "would have been timely" in the Eleventh Circuit, making the stakes of the split concrete and personal.
+  STYLISTIC: PARALLEL_STRUCTURE — "In the Eleventh Circuit... But in the Fifth and Seventh Circuits" creates a clean contrast that reads as obviously irreconcilable.
+
+  CROSS-BRIEF INTERACTION: This unit preemptively responds to Respondent's Section 2 (SOL arguments) by establishing that the timeliness dispute is a function of circuit disagreement, not Reed's delay.
+
+================================================================
+SECTION 2: Van Poyck Is Sound (A. Split conceded, Goertz claims...)
+================================================================
+
+ARGUMENT UNIT 2A: "Baseless" — Dismissing Goertz's attack on Van Poyck
+"Those arguments are baseless. Goertz has identified nothing calling Van Poyck into doubt as binding Eleventh Circuit precedent. Nor could he."
+
+  DOCTRINAL: STARE_DECISIS_SHIELD — Defends Van Poyck as binding circuit precedent that Goertz cannot undermine.
+  NARRATIVE: FRAME_AS_ERROR — Labels Goertz's challenge to Van Poyck "baseless," characterizing his argument as frivolous rather than merely wrong.
+  FACT-FRAMING: FOREGROUND_ABSENCE — Emphasizes what Goertz has NOT identified — any authority or reasoning that actually undermines Van Poyck.
+  STYLISTIC: UNDERSTATED_DEVASTATION — "Nor could he." Three words that do heavy lifting, implying the impossibility of Goertz's position without belaboring the point.
+
+ARGUMENT UNIT 2B: Van Poyck's logic stands on its own terms
+"Van Poyck applied Skinner, correctly reasoning that Van Poyck 'present[ed] an independent claim based on federal law' rather than 'seek[ing] review of the state court decision.'"
+
+  DOCTRINAL: ANALOGIZE — Links Van Poyck's reasoning directly to Skinner, showing the Eleventh Circuit correctly followed this Court's precedent.
+  DOCTRINAL: APPLY_STANDARD — Walks through Van Poyck's reasoning: SOL starts when "facts which would support a cause of action are apparent," which occurs at end of state litigation.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Anticipates and dismantles the objection that Van Poyck relied on takings law by showing its logic is independent of any takings-specific reasoning.
+  FACT-FRAMING: RECHARACTERIZE — Reframes Goertz's "takings precedent" objection: Van Poyck merely "cited a takings decision (among others)" in articulating a general rule — the takings case was illustrative, not foundational.
+  STYLISTIC: STRATEGIC_QUOTATION — Deploys Van Poyck's own language ("present[ed] an independent claim based on federal law") to demonstrate its self-sufficient reasoning.
+
+ARGUMENT UNIT 2C: McDonough and Skinner confirm Van Poyck
+"McDonough v. Smith... and Skinner make clear that Van Poyck is correct."
+
+  DOCTRINAL: INVOKE_AUTHORITY — Marshals two Supreme Court decisions as independent confirmation of the Eleventh Circuit's rule.
+  NARRATIVE: ESCALATE_STAKES — Implicitly frames the Fifth Circuit's rule as contradicting not just one circuit but this Court's own precedents.
+  FACT-FRAMING: BACKGROUND — Minimizes Goertz's takings-jurisprudence argument: "Goertz doesn't bother to explain how it could."
+  STYLISTIC: COMPRESSION — Packs the authority-stacking into two sentences, projecting confidence.
+
+ARGUMENT UNIT 2D: Reed's case is timely under Van Poyck regardless
+"Van Poyck said the claim accrued at 'the end of the state litigation.'... a panel later made clear that the 'end' can be as late as this Court's denial of cert."
+
+  DOCTRINAL: BROADEN_HOLDING — Expands Van Poyck's "end of state litigation" to include cert denial, citing Pettway.
+  NARRATIVE: CONCEDE_AND_REDIRECT — Engages Goertz's argument that Reed might be untimely even under Van Poyck, then redirects by showing the Eleventh Circuit defines "end" broadly enough to cover Reed.
+  FACT-FRAMING: SEQUENCE — Walks through the litigation timeline to demonstrate Reed's claim is timely under any reasonable reading of Van Poyck.
+  STYLISTIC: AUTHORITY_SIGNALING — Layering circuit authority (Pettway) atop Van Poyck shows the Eleventh Circuit's rule is settled and internally consistent.
+
+  CROSS-BRIEF INTERACTION: Directly counters Respondent's Section 4-5 argument that Reed's claim accrued at the trial court stage. Reed insists "end of state litigation" means appellate finality, not the first adverse ruling.
+
+================================================================
+SECTION 3: Vehicle (II. This case is an excellent vehicle.)
+================================================================
+
+ARGUMENT UNIT 3A: Outcome-determinative and clean
+"The question presented is outcome-determinative because the court of appeals affirmed the dismissal of Reed's claims solely because it thought they were untimely."
+
+  DOCTRINAL: JURISDICTIONAL_REFRAME — Positions the SOL question as the sole reason for dismissal, making the vehicle clean: no alternative holdings to muddy cert review.
+  NARRATIVE: AFFIRMATIVE_FRAME — Frames the case as "ideal" by emphasizing the absence of complicating factors.
+  FACT-FRAMING: FOREGROUND — Spotlights the single dispositive issue (timeliness) and the lower court's sole reliance on it.
+  STYLISTIC: CONCRETE_ANCHOR — "Solely because" pins the vehicle argument to a specific, verifiable feature of the decision below.
+
+ARGUMENT UNIT 3B: Rooker-Feldman already rejected below
+"Goertz first says Rooker-Feldman bars Reed's suit... But the court of appeals and district court, following Skinner's clear guidance, correctly rejected that argument."
+
+  DOCTRINAL: APPLY_STANDARD — Applies Skinner's framework: "a state-court decision is not reviewable by lower federal courts, but a statute or rule governing the decision may be challenged in a federal action."
+  DOCTRINAL: DISTINGUISH — Distinguishes Reed's challenge (attacking the constitutionality of Article 64 as construed) from a direct challenge to CCA decisions (which Rooker-Feldman would bar).
+  NARRATIVE: FRAME_AS_ERROR — Characterizes Goertz's Rooker-Feldman argument as already foreclosed by binding precedent and rejected by every court to consider it.
+  FACT-FRAMING: RECHARACTERIZE — Reframes Reed's suit: he "does not challenge the adverse CCA decisions themselves" but "targets as unconstitutional the Texas statute [those decisions] authoritatively construed."
+  STYLISTIC: STRATEGIC_QUOTATION — Uses Skinner's own language extensively to show Goertz is fighting this Court's holding, not just Reed's framing.
+
+ARGUMENT UNIT 3C: Heck is inapplicable
+"Goertz next says Heck bars Reed's suit... But Goertz's argument misreads both Reed's complaint and this Court's cases."
+
+  DOCTRINAL: DISTINGUISH — Separates DNA-testing claims from Heck's favorable-termination requirement: accessing evidence is not the same as invalidating a conviction.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Addresses a jurisdictional argument Goertz raises as a vehicle defect.
+  FACT-FRAMING: RECHARACTERIZE — Reframes the relief sought: Reed wants access to testing, not invalidation of his conviction; success would not "necessarily imply the invalidity of his conviction."
+  STYLISTIC: AUTHORITY_SIGNALING — Relies on Skinner's explicit holding that Heck does not bar DNA-testing claims.
+
+  CROSS-BRIEF INTERACTION: Directly responds to Respondent's Section 1 (jurisdictional bars). Petitioner treats these as settled by Skinner, rejected below, and therefore not vehicle problems.
+
+================================================================
+SECTION 4: Importance (III. The question presented is exceptionally important...)
+================================================================
+
+ARGUMENT UNIT 4A: Life and liberty stakes
+"Getting limitations periods right is especially important when life and liberty hang in the balance. 'To date, 375 people in the United States have been exonerated by DNA testing, including 21 who served time on death row.'"
+
+  DOCTRINAL: APPLY_TO_FACTS — Connects abstract SOL doctrine to the concrete consequence: whether death-row prisoners can access DNA testing at all.
+  NARRATIVE: ESCALATE_STAKES — Elevates the question from a dry procedural dispute to a matter of life, death, and wrongful conviction.
+  FACT-FRAMING: FOREGROUND — Leads with the exoneration statistics to ground the legal question in human consequences.
+  STYLISTIC: CONCRETE_ANCHOR — The Innocence Project statistics (375 exonerations, 21 from death row) provide an empirical hook that resists abstraction.
+  STYLISTIC: CADENCE_SHIFT — Moves from doctrinal argument to factual gravity, shifting register from legal analysis to moral urgency.
+
+ARGUMENT UNIT 4B: The Fifth/Seventh Circuit rule forces impossible choices
+"It forces prisoners to choose between letting their federal claims expire and filing disfavored 'two-track' litigation that district courts may not wish to entertain."
+
+  DOCTRINAL: SLIPPERY_SLOPE — Shows the downstream practical consequences of the Fifth Circuit's rule: it creates a structural disincentive to seek DNA testing in federal court.
+  NARRATIVE: FRAME_AS_ERROR — Characterizes the current rule as producing absurd results — a Catch-22 where prisoners cannot vindicate their rights.
+  FACT-FRAMING: FOREGROUND_ABSENCE — Highlights what the Fifth/Seventh Circuit rule eliminates: any practical path to federal-court DNA testing when state litigation takes more than two years.
+  STYLISTIC: STRATEGIC_QUOTATION — Borrows McDonough's "ticking limitations clock" and "two-track litigation" language to leverage this Court's own expressed skepticism.
+
+ARGUMENT UNIT 4C: The issue recurs more than published decisions suggest
+"Published circuit decisions thus are not the only important indicators of an important, recurring issue."
+
+  DOCTRINAL: BROADEN_HOLDING — Argues the question's significance extends beyond published opinions to unpublished decisions and cases never filed because of the deterrent effect.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Counters Goertz's argument that the issue is rare by pointing to structural suppression of claims.
+  FACT-FRAMING: FOREGROUND_ABSENCE — The absence of many published decisions is itself evidence of the problem — prisoners are deterred from filing.
+  STYLISTIC: AUTHORITY_SIGNALING — Cites additional decisions (Brookins, Wade, Moore) to demonstrate broader prevalence.
+
+================================================================
+SECTION 5: Merits (IV. The decision below is wrong.)
+================================================================
+
+ARGUMENT UNIT 5A: Only the Eleventh Circuit's rule accords with Skinner
+"Only the Eleventh Circuit's rule, which runs the limitations period from the end of state-court litigation, accords with Skinner."
+
+  DOCTRINAL: APPLY_STANDARD — Applies Skinner's framework: when a plaintiff challenges a statute "as construed" by state courts, the claim cannot accrue until the state courts have authoritatively construed it.
+  DOCTRINAL: NARROW_HOLDING — Reads Skinner as requiring that accrual follow authoritative construction, not the first adverse ruling.
+  NARRATIVE: AFFIRMATIVE_FRAME — States the merits position as a straightforward application of existing law, not a request for new doctrine.
+  FACT-FRAMING: RECHARACTERIZE — Reframes the Fifth Circuit's rule as requiring plaintiffs "to sue before they can definitely know what the statute means."
+  STYLISTIC: COMPRESSION — "Only the Eleventh Circuit's rule" signals that the answer is singular and obvious.
+
+ARGUMENT UNIT 5B: The Fifth Circuit's rule creates impractical parallel litigation
+"The Fifth Circuit's rule creates a 'ticking limitations clock' requiring parallel litigation that 'run[s] counter to core principles of federalism, comity, consistency, and judicial economy.'"
+
+  DOCTRINAL: DISTINGUISH_PURPOSE — Argues the Fifth Circuit's rule defeats the very purposes SOL doctrine is supposed to serve: orderly litigation, comity, and judicial economy.
+  NARRATIVE: INSTITUTIONAL_REBUKE — Implicitly criticizes the Fifth Circuit for adopting a rule that this Court's own precedents (McDonough) have flagged as problematic.
+  FACT-FRAMING: FOREGROUND — Puts the practical absurdity front and center: concurrent state and federal litigation over the same DNA evidence.
+  STYLISTIC: STRATEGIC_QUOTATION — Deploys McDonough's language to frame the Fifth Circuit's rule in terms this Court has already condemned.
+
+ARGUMENT UNIT 5C: Accrual requires a "complete and present cause of action"
+"As McDonough reaffirmed, accrual occurs once there is 'a complete and present cause of action.'... a § 1983 plaintiff like Mr. Reed knows the fact and extent of his harm only based on the authoritative construction of state law."
+
+  DOCTRINAL: APPLY_STANDARD — Applies McDonough/Wallace's "complete and present cause of action" test to show Reed's claim was incomplete until the CCA ruled.
+  DOCTRINAL: BURDEN_SHIFT — Shifts the analytical burden to Goertz: if the claim isn't complete until authoritative construction, Goertz must explain why accrual should predate that event.
+  NARRATIVE: CONCEDE_AND_REDIRECT — Concedes Reed may have "suffered harm" from the original denial but redirects: that harm "isn't certain, ripe, or complete."
+  FACT-FRAMING: SEQUENCE — Reconstructs the timeline to show each step building toward a complete cause of action, with the CCA's decision as the triggering event.
+  STYLISTIC: STRATEGIC_QUOTATION — Weaves together McDonough, Wallace, and Skinner quotations to construct a wall of authority supporting the accrual-at-authoritative-construction rule.
+
+  CROSS-BRIEF INTERACTION: Directly rebuts Respondent's Sections 4-5. Respondent argues the cause of action was complete at the trial court stage; Petitioner insists Skinner's "authoritative construction" language requires appellate finality.
+
+
+================================================================
+
+RESPONDENT — Docket21-442_Brief008.pdf (Brief in Opposition / Merits Brief)
+
+================================================================
+SECTION 1: Jurisdictional Bars (II. Reed's Suit Is Jurisdictionally Barred)
+================================================================
+
+ARGUMENT UNIT R1A: Three independent jurisdictional bars
+"Reed's complaint is... barred... for three independent reasons. First, Reed lacks standing... Second, Reed's claim is barred by sovereign immunity... Third, the Rooker Feldman doctrine prevents..."
+
+  DOCTRINAL: ALTERNATIVE_HOLDING — Presents three independent jurisdictional grounds, any one of which is sufficient to bar the suit; this hedges against the Court rejecting any single theory.
+  NARRATIVE: ESCALATE_STAKES — Stacks three separate barriers to create a sense of overwhelming jurisdictional deficiency.
+  FACT-FRAMING: FOREGROUND — Leads with the jurisdictional arguments to frame Reed's suit as fatally flawed before reaching the merits.
+  STYLISTIC: PARALLEL_STRUCTURE — "First... Second... Third..." creates a cumulative weight that implies Reed's suit faces insuperable obstacles.
+
+ARGUMENT UNIT R1B: The dilemma trap — injury source determines which bar applies
+"If Goertz caused Reed's injury by denying him DNA testing, then Reed's claim is untimely by more than three years. If, instead, Texas courts caused his injury by construing Chapter 64, then Reed lacks standing to sue Goertz, his claim is barred by sovereign immunity, and Rooker Feldman applies and his claim is still untimely."
+
+  DOCTRINAL: JURISDICTIONAL_REFRAME — Constructs a catch-22: however Reed characterizes his injury, he loses on either jurisdictional or timeliness grounds.
+  NARRATIVE: NEW_MOVE_DILEMMA_CONSTRUCTION — Forces Reed into a lose-lose framing: every characterization of his claim triggers a different fatal defect.
+  FACT-FRAMING: RECHARACTERIZE — Reframes Reed's injury theory as internally inconsistent: the very move that saves him from one bar pushes him into another.
+  STYLISTIC: CADENCE_SHIFT — The "If... then... If, instead... then..." construction creates a closing-vice rhythm that makes escape seem impossible.
+
+  CROSS-BRIEF INTERACTION: Responds to Petitioner's Section 3 (vehicle arguments). Where Petitioner says jurisdictional issues were "already rejected below," Respondent insists they remain live and fatal.
+
+================================================================
+SECTION 2: Untimeliness (I. Reed's Suit Is Untimely)
+================================================================
+
+ARGUMENT UNIT R2A: SOL first principles — diligent prosecution of known claims
+"Statutes of limitations encourage plaintiffs 'to pursue diligent prosecution of known claims.'... a limitations period starts running 'when the cause of action accrues' — that is, 'when the plaintiff can file suit and obtain relief.'"
+
+  DOCTRINAL: INVOKE_AUTHORITY — Opens with a barrage of Supreme Court citations (ANZ Securities, CTS Corp., Merck, Wallace) establishing SOL first principles.
+  DOCTRINAL: APPLY_STANDARD — Articulates the general accrual rule before applying it to Reed, grounding the argument in settled doctrine.
+  NARRATIVE: AFFIRMATIVE_FRAME — Presents the SOL question as a straightforward application of established principles, not a novel question.
+  FACT-FRAMING: BACKGROUND — Buries the policy considerations that favor Reed (access to justice, wrongful conviction) by leading with procedural regularity.
+  STYLISTIC: AUTHORITY_SIGNALING — Packs five Supreme Court citations into two paragraphs, projecting the sense that the law is settled against Reed.
+
+ARGUMENT UNIT R2B: Reed waited too long — the timeline
+"Reed waited too long to file suit after his claims accrued. His authoritative-construction claim accrued either when the trial court first interpreted Chapter 64... or, at latest, when the CCA issued its decision..."
+
+  DOCTRINAL: APPLY_TO_FACTS — Applies the accrual framework to Reed's specific timeline: trial court order (September 2016), CCA decision (April 2017), § 1983 filing (August 2019) — more than two years after either date.
+  NARRATIVE: FRAME_AS_ERROR — Characterizes Reed's delay as a failure of diligence, not a function of a complex legal question.
+  FACT-FRAMING: SEQUENCE — Lays out the dates in chronological order to make the two-year gap visually obvious and inescapable.
+  FACT-FRAMING: FOREGROUND — Emphasizes the temporal gap between accrual and filing rather than the reasons for it.
+  STYLISTIC: CONCRETE_ANCHOR — Specific dates (September 2016, April 2017, August 2019) make the untimeliness argument feel mathematical rather than interpretive.
+
+ARGUMENT UNIT R2C: A cause of action can accrue before the full extent of injury is known
+"A cause of action can accrue 'even though the full extent of the injury is not then known or predictable.'"
+
+  DOCTRINAL: BROADEN_HOLDING — Reads Wallace broadly to establish that partial knowledge of injury is sufficient for accrual, foreclosing Reed's argument that he needed the CCA's final word.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Anticipates and blocks Reed's argument that his claim wasn't ripe until the CCA ruled on rehearing.
+  FACT-FRAMING: DIMINISHING_MODIFIER — Treats the CCA's rehearing denial as adding nothing new — the injury was already "known" and "predictable."
+  STYLISTIC: STRATEGIC_QUOTATION — Wallace's "even though the full extent of the injury is not then known" is deployed as a direct counter to Reed's position.
+
+  CROSS-BRIEF INTERACTION: Directly counters Petitioner's Section 5C argument that the cause of action was incomplete until authoritative construction. Respondent insists the injury was knowable at the trial-court stage.
+
+================================================================
+SECTION 3: Abandoned Facial Claim (A. Reed has abandoned his facial claim...)
+================================================================
+
+ARGUMENT UNIT R3A: Reed rewrote his question presented after cert was granted
+"That strategic shift is evident from the first page of Reed's merits brief, which revised the question that his petition presented and that this Court agreed to review."
+
+  DOCTRINAL: NARROW_STATUTE — Narrows the scope of Reed's live claim by establishing that only the authoritative-construction theory survives, not the facial challenge.
+  NARRATIVE: FRAME_AS_ERROR — Characterizes Reed's shift as strategic abandonment — a calculated retreat that should have consequences.
+  NARRATIVE: NEW_MOVE_STRATEGIC_SHIFT_EXPOSURE — Calls out Reed's post-cert reframing as a tactical maneuver, implying bad faith or at minimum an unstable legal position.
+  FACT-FRAMING: SEQUENCE — Traces the evolution of Reed's claims from complaint through cert petition to merits brief, documenting the moment of abandonment.
+  FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Uses Reed's own merits brief language ("complaint isn't with Article 64's procedures 'on their face'") as an admission that the facial claim is gone.
+  STYLISTIC: STRATEGIC_QUOTATION — Strings together five quotations from Reed's own merits brief, each reinforcing the abandonment. The accumulation is devastating because the evidence comes from Reed himself.
+
+ARGUMENT UNIT R3B: Reed was "the master of his complaint"
+"Reed was 'the master of [his] complaint.'"
+
+  DOCTRINAL: INVOKE_AUTHORITY — Cites Holmes Group for the principle that a plaintiff controls his pleading — and must live with his choices.
+  NARRATIVE: AGREEMENT_TRAP — Uses a principle Reed would normally invoke in his favor (plaintiff controls the complaint) against him: if he's the master, then his abandonment of the facial claim is deliberate and binding.
+  FACT-FRAMING: RECHARACTERIZE — Reframes Reed's evolving litigation position as a deliberate choice rather than a natural refinement.
+  STYLISTIC: UNDERSTATED_DEVASTATION — The quotation is short and familiar. Its power comes from being turned against the plaintiff.
+
+  CROSS-BRIEF INTERACTION: Responds to Petitioner's framing of the case as about "Article 64 as construed." Respondent agrees that's the only live claim — and argues it's untimely under either accrual date.
+
+================================================================
+SECTION 4: Accrual Before Rehearing Denial (B. Reed's authoritative-construction claim accrued before the CCA denied rehearing)
+================================================================
+
+ARGUMENT UNIT R4A: Two-year gap from any plausible accrual date
+"Reed filed his section 1983 claim in August 2019... nearly three years after the trial court first construed Chapter 64... and more than two years after the CCA issued its published opinion..."
+
+  DOCTRINAL: APPLY_TO_FACTS — Mechanically applies the two-year Texas SOL to Reed's timeline, demonstrating untimeliness under either accrual date.
+  NARRATIVE: AFFIRMATIVE_FRAME — Presents untimeliness as a simple math problem rather than a contested legal question.
+  FACT-FRAMING: FOREGROUND — The dates are placed in immediate proximity to make the gap impossible to miss.
+  FACT-FRAMING: SEQUENCE — Chronological presentation: trial court (2016) → CCA opinion (2017) → § 1983 filing (2019).
+  STYLISTIC: CONCRETE_ANCHOR — "Nearly three years" and "more than two years" are precise enough to be damning while leaving exact computation to the reader.
+
+ARGUMENT UNIT R4B: "Complete cause of action" existed at the trial court stage
+"Reed had a complete claim under section 1983 when the trial court imposed, in his view, an unconstitutional requirement on Chapter 64 relief, and surely no later than when the CCA issued its opinion affirming the trial court's order."
+
+  DOCTRINAL: APPLY_STANDARD — Applies the "complete and present cause of action" test (Merck, Wallace) and concludes Reed met it at the trial-court stage.
+  DOCTRINAL: NARROW_HOLDING — Reads Skinner narrowly: it establishes that § 1983 is available for DNA-testing claims, but it does not prescribe a particular accrual date.
+  NARRATIVE: CONCEDE_AND_REDIRECT — Concedes arguendo that the CCA opinion might be the accrual date ("surely no later than"), but maintains the trial court order is the correct one.
+  FACT-FRAMING: RECHARACTERIZE — Reframes the trial court's findings as already containing the constitutional injury Reed complains of — the "no contamination" requirement was first imposed there.
+  STYLISTIC: REGISTER_CONTRAST — "Surely no later than" is quietly confident — it concedes an alternative date while signaling that the primary position (trial court accrual) is stronger.
+
+ARGUMENT UNIT R4C: Procedural finality is the wrong question
+"The relevant question is not when the CCA's decision became procedurally final, but when Reed had notice of the chain-of-custody requirement that he views as unconstitutional."
+
+  DOCTRINAL: DISTINGUISH — Separates procedural finality (when a decision can no longer be appealed) from accrual (when the plaintiff has notice of the injury).
+  DOCTRINAL: DISTINGUISH_PURPOSE — Argues SOL doctrine serves the purpose of encouraging timely suit based on notice, not based on procedural finality of state proceedings.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Blocks Reed's argument that accrual must await rehearing denial by reframing the question around notice rather than finality.
+  FACT-FRAMING: RECHARACTERIZE — Recasts Reed's position as conflating two distinct concepts (finality and notice), making it appear doctrinally confused.
+  STYLISTIC: COMPRESSION — The distinction between finality and notice is stated in a single sentence, presented as self-evident.
+
+  CROSS-BRIEF INTERACTION: Directly counters Petitioner's Section 5A-5C. Where Petitioner reads Skinner as requiring "authoritative construction" (= appellate finality) for accrual, Respondent insists the test is "notice of the constitutional injury" — available at the trial court stage.
+
+================================================================
+SECTION 5: Trial Court Findings Created a Complete Cause of Action
+(1. Reed had a complete cause of action when the trial court issued its amended findings...)
+================================================================
+
+ARGUMENT UNIT R5A: September 2016 trial court order introduced the complained-of harm
+"Those supplemental findings and conclusions introduced the harm Reed complains of — namely, the interpretation of Chapter 64 as containing a 'no contamination' requirement."
+
+  DOCTRINAL: APPLY_TO_FACTS — Identifies the specific moment the constitutional injury materialized: the trial court's September 2016 supplemental findings.
+  DOCTRINAL: NARROW_HOLDING — Reads "authoritative construction" narrowly — if the trial court first imposed the unconstitutional requirement, then that court's order is the accrual event.
+  NARRATIVE: AFFIRMATIVE_FRAME — Presents the September 2016 date as the natural, obvious accrual point — the first moment the complained-of interpretation existed.
+  FACT-FRAMING: FOREGROUND — Isolates the trial court's "no contamination" requirement as the specific constitutional injury, pinning accrual to the document that first contained it.
+  STYLISTIC: CONCRETE_ANCHOR — "Pet. App. 94a" — specific record citation ties the argument to a precise page in the appendix.
+
+ARGUMENT UNIT R5B: Reed could have sued in 2016
+"Reed could have brought his authoritative-construction claim following that decision. For example, Reed could have claimed that the trial court's findings on chain-of-custody issues 'resulted in the erroneous exclusion from eligibility for testing the majority of key pieces of evidence introduced at trial.'"
+
+  DOCTRINAL: APPLY_STANDARD — Applies the "can file suit and obtain relief" test: Reed had all the facts and legal theories necessary to file in 2016.
+  NARRATIVE: FRAME_AS_ERROR — Treats Reed's decision not to file in 2016 as a litigation choice that should not toll the SOL.
+  FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Uses Reed's own complaint language (JA.41) to show he himself described the trial court findings as the source of constitutional harm.
+  FACT-FRAMING: SEQUENCE — Walks through what Reed actually alleged in his complaint, demonstrating that his own pleading locates the injury at the trial court level.
+  STYLISTIC: STRATEGIC_QUOTATION — Quotes Reed's complaint against him: the allegations "specifically attacking the trial court's findings and conclusions" prove Reed himself identified the trial court as the source of the injury.
+
+ARGUMENT UNIT R5C: Concede-and-narrow on the contamination claim timing
+"Perhaps so. But even if Reed could not have brought his contamination claim in 2014, he could have done so in 2016 when the trial court recognized such a requirement."
+
+  DOCTRINAL: CONCEDE_AND_REDIRECT (Narrative move used doctrinally) — Concedes Reed could not have sued in 2014 (pre-supplemental findings) but holds the line at 2016.
+  NARRATIVE: CONCEDE_AND_REDIRECT — "Perhaps so" grants Reed's strongest factual point while immediately neutralizing it.
+  FACT-FRAMING: DIMINISHING_MODIFIER — Treats the 2014-2016 gap as trivial by conceding it and moving on, keeping focus on the 2016-2019 gap that matters.
+  STYLISTIC: REGISTER_CONTRAST — "Perhaps so" is deliberately casual, signaling that even if Reed wins this sub-point, it changes nothing.
+
+  CROSS-BRIEF INTERACTION: Directly counters Petitioner's Section 5C argument that the cause of action was incomplete until the CCA's authoritative construction. Respondent uses Reed's own pleadings to show he identified the trial court — not the CCA — as the source of his constitutional injury.
+
+
+================================================================
+CROSS-BRIEF INTERACTION SUMMARY
+================================================================
+
+1. ACCRUAL DATE — THE CENTRAL CLASH
+   Petitioner (Sec. 5A-C) vs. Respondent (Sec. 4-5):
+   Petitioner argues accrual requires "authoritative construction" by the state's highest court (CCA), reading Skinner's framework as mandating appellate finality. Respondent reframes the question around "notice" of the constitutional injury and argues Reed had a complete cause of action at the trial court stage (2016) or, at latest, the CCA's initial opinion (2017) — either way, more than two years before filing. Petitioner deploys APPLY_STANDARD and STRATEGIC_QUOTATION from Skinner/McDonough; Respondent counters with DISTINGUISH (finality vs. notice) and OPPONENT_CONCESSION_CAPTURE (using Reed's own complaint).
+
+2. CIRCUIT SPLIT — CONCESSION VS. MINIMIZATION
+   Petitioner (Sec. 1) vs. Respondent (implied):
+   Petitioner opens with OPPONENT_CONCESSION_CAPTURE and AGREEMENT_TRAP, pinning Goertz to his concession of the circuit split. Respondent's brief sidesteps the split's significance by arguing Reed loses under any circuit's rule given his timeline, effectively using CONCEDE_AND_REDIRECT at the strategic level.
+
+3. JURISDICTIONAL BARS — SETTLED VS. LIVE
+   Petitioner (Sec. 3) vs. Respondent (Sec. 1):
+   Petitioner treats Rooker-Feldman, standing, and sovereign immunity as foreclosed by Skinner and rejected below, using FRAME_AS_ERROR and INVOKE_AUTHORITY. Respondent deploys ALTERNATIVE_HOLDING (three independent bars) and a NEW_MOVE_DILEMMA_CONSTRUCTION that forces Reed to choose which characterization of his injury to defend — each triggering a different fatal defect.
+
+4. ABANDONED FACIAL CLAIM — NARRATIVE WARFARE
+   Petitioner (throughout) vs. Respondent (Sec. 3):
+   Respondent's Section 3 performs extensive STRATEGIC_QUOTATION from Reed's own merits brief to document the abandonment of the facial claim. This move has no direct Petitioner counterpart in the cert-reply brief, because Petitioner had not yet made the strategic shift at that stage. The move is forward-looking — designed to constrain Reed's arguments at the merits stage.
+
+5. STAKES AND PURPOSE — COMPETING FRAMES
+   Petitioner (Sec. 4) vs. Respondent (Sec. 2):
+   Petitioner ESCALATES_STAKES with exoneration data and life-and-death consequences; Respondent counters by BACKGROUNDING those equities and FOREGROUNDING SOL policies (diligent prosecution, repose, faded memories). Each side selects the policy frame most favorable to its position.
+
+6. SKINNER — CONTESTED MEANING
+   Both sides claim Skinner supports their position. Petitioner reads Skinner as establishing that the claim "turns on whether state law is unconstitutional as construed by the state courts" — requiring appellate finality for accrual. Respondent reads Skinner as merely establishing that § 1983 is the proper vehicle for DNA-testing claims, without prescribing accrual rules. This is ANALOGIZE vs. DISTINGUISH applied to the same precedent.
+
+
+================================================================
+NEW MOVES IDENTIFIED
+================================================================
+
+1. NEW_MOVE_DILEMMA_CONSTRUCTION
+   Definition: Framing the opponent's position as a forced choice between two or more characterizations, each of which triggers a separate fatal defect. Unlike a simple reductio, this move does not show the opponent's position is absurd — it shows the opponent cannot escape defeat regardless of which version of their argument they advance. Structural form: "If X, then [fatal consequence A]. If instead Y, then [fatal consequence B]."
+   Found in: Respondent Section 1, Unit R1B.
+
+2. NEW_MOVE_STRATEGIC_SHIFT_EXPOSURE
+   Definition: Documenting and calling attention to the opponent's mid-litigation change in legal theory, framing it as tactical maneuvering rather than legitimate refinement. Distinguished from FRAME_AS_ERROR (which attacks the substance of a position) because this move attacks the evolution of the position itself — the shift is the evidence of weakness.
+   Found in: Respondent Section 3, Unit R3A.

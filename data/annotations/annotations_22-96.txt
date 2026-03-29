@@ -1,0 +1,440 @@
+ANNOTATED STRATEGIC MOVES — CASE DOCKET 22-96
+Financial Oversight and Management Board for Puerto Rico v. Centro de Periodismo Investigativo
+Taxonomy: v0.3 (40 moves, 4 layers)
+
+================================================================================
+PETITIONER BRIEF (Docket22-96_Brief002.pdf)
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: Questions Concerning Puerto Rico's Sovereign Immunity Do Not Create Vehicle Issues
+--------------------------------------------------------------------------------
+
+ARGUMENT UNIT 1.1: Court can assume sovereign immunity arguendo and proceed to abrogation
+"CPI is wrong that the Court must first decide whether Puerto Rico enjoys sovereign immunity before it can address the abrogation question... the Court can assume Puerto Rico possesses sovereign immunity and proceed directly to the abrogation question."
+
+  DOCTRINAL:
+    ANALOGIZE — Draws parallel to Port Authority Trans-Hudson Corp. v. Feeney (495 U.S. 299), where the Court assumed immunity arguendo and proceeded to the waiver question. Also analogizes to Petty v. Tenn.-Mo. Bridge Comm'n (359 U.S. 275) for the same procedural shortcut.
+    INVOKE_AUTHORITY — Cites two cases establishing the practice of assuming immunity without deciding it: Feeney and Petty.
+    NARROW_HOLDING — Frames the question presented as limited to abrogation only, sidestepping the broader immunity question entirely.
+
+  NARRATIVE:
+    PREEMPTIVE_REBUTTAL — Opens by labeling CPI's threshold argument "wrong" and immediately offers an alternative procedural path, heading off the vehicle objection before it can gain traction.
+    AFFIRMATIVE_FRAME — Positions the case as procedurally clean: the Court has a well-worn path for handling assumed immunity, so no threshold obstacle exists.
+
+  FACT-FRAMING:
+    BACKGROUND — Pushes the underlying sovereign immunity question into the background, treating it as a non-issue the Court need not reach.
+    SEQUENCE — Presents the procedural path in a deliberate order: assume immunity first, then decide abrogation. The sequencing itself is the argument.
+
+  STYLISTIC:
+    AUTHORITY_SIGNALING — Stacks three SCOTUS citations (Feeney, Petty, P.R. Aqueduct) in rapid succession to signal that this procedural approach is thoroughly established, not improvised.
+    COMPRESSION — "Consistent with past practice" does significant work in four words, implying routine rather than novelty.
+
+ARGUMENT UNIT 1.2: P.R. Aqueduct & Sewer Authority already established this procedural approach for Puerto Rico specifically
+"in Puerto Rico Aqueduct & Sewer Authority v. Metcalf & Eddy, Inc., the Court held that a Puerto Rico utility had the right to appeal an order denying its sovereign-immunity defense without first deciding whether a Puerto Rico entity could claim immunity in the first place."
+
+  DOCTRINAL:
+    ANALOGIZE — This is the strongest analogy in the section because it involves a Puerto Rico entity, making it directly on point rather than merely procedurally analogous.
+    APPLY_TO_FACTS — Applies the P.R. Aqueduct holding to the present case: if the Court could sidestep the immunity question for a Puerto Rico utility, it can do the same here.
+
+  NARRATIVE:
+    AFFIRMATIVE_FRAME — By surfacing a Puerto Rico-specific precedent, Petitioner frames CPI's vehicle objection as already foreclosed on facts closer to these than the bistate-corporation cases.
+
+  FACT-FRAMING:
+    FOREGROUND — Elevates the P.R. Aqueduct case to prominence precisely because it involves Puerto Rico, making the factual overlap hard to dismiss.
+
+  STYLISTIC:
+    CONCRETE_ANCHOR — The citation to 506 U.S. 139, 141 n.1, 147 grounds the procedural argument in a specific holding rather than an abstract principle.
+
+ARGUMENT UNIT 1.3: Even if the Court addresses sovereign immunity, the question was briefed below and is not close
+"Contrary to CPI's contention, the question of whether Puerto Rico possesses sovereign immunity was briefed and decided below... the First Circuit has recognized Puerto Rico's sovereign immunity for four decades."
+
+  DOCTRINAL:
+    INVOKE_AUTHORITY — Cites Ezratty v. Puerto Rico (648 F.2d 770, 1st Cir. 1981) and notes decisions by three sitting Members of the Court to establish that the immunity question is settled.
+    STARE_DECISIS_SHIELD — "Four decades" of First Circuit recognition functions as a stare decisis argument: the law on Puerto Rico's sovereign immunity is not in flux.
+
+  NARRATIVE:
+    ESCALATE_STAKES — Signals that every court to consider the issue has come out the same way, making CPI's position not just wrong but isolated.
+    PREEMPTIVE_REBUTTAL — Addresses CPI's factual claim that the issue was not briefed below by pointing to specific docket entries (App. 22a-23a, briefing from Case No. 21-1301).
+
+  FACT-FRAMING:
+    FOREGROUND — "Four decades" and "every court to consider the issue" are foregrounded to create an impression of unanimity.
+    DIMINISHING_MODIFIER — The word "close" in "the question is not a close one" diminishes the seriousness of the opposing position without extended argument.
+
+  STYLISTIC:
+    AUTHORITY_SIGNALING — Citing decisions by three Members of the current Court is a pointed signal: the Justices themselves have already endorsed this position in prior capacities.
+
+--------------------------------------------------------------------------------
+SECTION 2: There Is No Serious Question Concerning "Arm of the State"
+--------------------------------------------------------------------------------
+
+ARGUMENT UNIT 2.1: CPI conceded the arm-of-state issue below and now reverses position
+"Below, CPI did not dispute the Board's assertion that it is an arm of Puerto Rico entitled to the same immunity as the Commonwealth... Yet now, in opposing certiorari, CPI contends the arm-of-the-state question is a thorny threshold issue... That is disingenuous."
+
+  DOCTRINAL:
+    DISTINGUISH — Distinguishes the posture at the certiorari stage from the posture below, arguing CPI cannot raise an issue it conceded.
+    BURDEN_SHIFT — Shifts the burden back to CPI: having conceded below, CPI bears the weight of explaining its reversal.
+
+  NARRATIVE:
+    INSTITUTIONAL_REBUKE — "Disingenuous" is a direct attack on CPI's litigation conduct, framing the arm-of-state argument as a bad-faith vehicle objection manufactured for certiorari.
+    FRAME_AS_ERROR — CPI's position shift is characterized not as a permissible strategic adjustment but as a procedural error that forfeited the argument.
+    OPPONENT_CONCESSION_CAPTURE [FACT-FRAMING layer, deployed here in service of narrative] — Uses CPI's own below-court position against it.
+
+  FACT-FRAMING:
+    OPPONENT_CONCESSION_CAPTURE — CPI's failure to dispute arm-of-state status below is captured and turned into affirmative evidence that the issue is settled.
+    RECHARACTERIZE — Recharacterizes CPI's certiorari argument from "legitimate threshold concern" to "opportunistic reversal."
+
+  STYLISTIC:
+    UNDERSTATED_DEVASTATION — "That is disingenuous" is a two-word sentence carrying maximum accusatory force. The brevity amplifies the charge.
+    CADENCE_SHIFT — The passage moves from a longer descriptive sentence about CPI's below-court conduct to the short, sharp "That is disingenuous," creating emphasis through contrast.
+
+ARGUMENT UNIT 2.2: Court can assume arm-of-state status, as it has done before
+"this Court can assume the Board is an arm of Puerto Rico, as the court below did, and avoid the issue entirely."
+
+  DOCTRINAL:
+    ANALOGIZE — Returns to Feeney, Petty, Northern Insurance Co., and College Savings Bank to show the Court routinely assumes entity status without deciding it.
+    APPLY_STANDARD — Applies the arguendo assumption framework from Section 1 to the arm-of-state question, extending the same procedural solution.
+
+  NARRATIVE:
+    AFFIRMATIVE_FRAME — Positions the arm-of-state question as another non-obstacle the Court can sidestep, reinforcing the vehicle-is-clean narrative.
+
+  FACT-FRAMING:
+    BACKGROUND — Pushes the arm-of-state analysis into procedural background, treating it as something the Court need not reach.
+
+  STYLISTIC:
+    COMPRESSION — "avoid the issue entirely" compresses a complex procedural point into a phrase that makes it sound trivial.
+
+ARGUMENT UNIT 2.3: The Board is structurally an arm of Puerto Rico
+"The Board is part of the Puerto Rico government. 48 U.S.C. §2121(c)(1). It has the power to impose its own fiscal plans and budgets, overriding the Governor and Legislature."
+
+  DOCTRINAL:
+    APPLY_TO_FACTS — Applies the arm-of-state framework (from Feeney, Brennan concurrence) to the Board's specific statutory powers under PROMESA.
+    BROADEN_HOLDING — Extends the arm-of-state principle: if the Governor and Legislature are arms of the state, an entity that can overrule them must be one too. This is an a fortiori argument dressed as doctrinal application.
+
+  NARRATIVE:
+    ESCALATE_STAKES — The argument that the Board can override the Governor and Legislature raises the stakes: if this entity is not an arm of the state, the concept loses meaning.
+
+  FACT-FRAMING:
+    FOREGROUND — The Board's power to override the Governor and Legislature is foregrounded because it is the most dramatic structural fact.
+    SEQUENCE — Builds from basic fact (part of government) to extraordinary fact (overrides elected branches), creating an escalating sequence.
+
+  STYLISTIC:
+    CONCRETE_ANCHOR — Specific statutory citations (48 U.S.C. §§2121(c)(1), 2128(a)(2), 2141, 2142, 2144) anchor the structural argument in text rather than characterization.
+
+--------------------------------------------------------------------------------
+SECTION 3: There Are No "Procedural Roadblocks"
+--------------------------------------------------------------------------------
+
+ARGUMENT UNIT 3.1: CPI mischaracterizes the procedural posture
+"CPI's contention that the case's posture counsels against review mischaracterizes the record."
+
+  DOCTRINAL:
+    APPLY_TO_FACTS — Explains the actual procedural posture: two nearly identical complaints, sovereign-immunity defense asserted in both, appellate review of the second complaint's motion to dismiss.
+
+  NARRATIVE:
+    FRAME_AS_ERROR — Labels CPI's account a "mischaracteriz[ation]," framing the vehicle objection as factually unfounded rather than merely wrong on the law.
+    PREEMPTIVE_REBUTTAL — Directly addresses CPI's "piecemeal litigation" argument before it can take root.
+
+  FACT-FRAMING:
+    RECHARACTERIZE — Corrects CPI's framing of two separate lawsuits as unmanageable complexity; recharacterizes them as "nearly identical complaints" where one ruling resolves both.
+    FOREGROUND — Emphasizes that both complaints present "identical sovereign-immunity issues," making the case cleaner than CPI suggests.
+
+  STYLISTIC:
+    COMPRESSION — "A ruling for the Board would terminate both cases below" is a single sentence that collapses CPI's procedural objection.
+
+ARGUMENT UNIT 3.2: The abrogation question is a clean question of law
+"The Petition presents a clean question of law: Did Congress intend to abrogate the Board's sovereign immunity when it enacted 48 U.S.C. §2126(a)?"
+
+  DOCTRINAL:
+    NARROW_HOLDING — Narrows the question to statutory interpretation of a single provision, stripping away factual and procedural complexity.
+    DISTINGUISH — Distinguishes the abrogation question from the Board's other defenses (statutory immunity under §105, preemption), citing the court below's own finding that these are separate.
+
+  NARRATIVE:
+    AFFIRMATIVE_FRAME — "Clean question of law" is the culmination of the vehicle argument: the case is presented as surgically focused.
+
+  FACT-FRAMING:
+    BACKGROUND — The Board's other defenses (§105 immunity, preemption) are deliberately backgrounded as irrelevant to the question presented.
+    STRATEGIC_SILENCE — No engagement with what those other defenses might entail; they are mentioned only to be set aside.
+
+  STYLISTIC:
+    STRATEGIC_QUOTATION — Quotes the court below's own language (App. 17a-18a) to show that even the lower court recognized the abrogation question's independence, turning the opposing court's words into support.
+
+--------------------------------------------------------------------------------
+SECTION 4: The Decision Below Creates a Circuit Split
+--------------------------------------------------------------------------------
+
+ARGUMENT UNIT 4.1: CPI's characterization of the decision as routine application of settled law is false
+"CPI contends that the decision below merely involves the application of settled rules for abrogation. That is false."
+
+  DOCTRINAL:
+    APPLY_STANDARD — Lays out the three recognized methods of abrogation: (1) express mention, (2) identifying states as potential defendants, (3) statutory scheme with no purpose absent state defendants. This establishes the doctrinal framework against which the circuit split is measured.
+    INVOKE_AUTHORITY — Cites Allen v. Cooper, Kimel v. Fla. Bd. of Regents, and Seminole Tribe as the sources of the three-method framework.
+
+  NARRATIVE:
+    FRAME_AS_ERROR — The dissent's characterization ("departed dramatically") is deployed to frame the majority opinion as an outlier, not a routine application.
+    ESCALATE_STAKES — "Every other circuit's jurisprudence" signals that the decision below stands alone against a unified body of law.
+
+  FACT-FRAMING:
+    FOREGROUND — The dissent's language ("departed dramatically") is foregrounded to borrow the authority of a sitting circuit judge's assessment.
+    RECHARACTERIZE — CPI's characterization of the decision as "application of settled rules" is recharacterized as a departure from those very rules.
+
+  STYLISTIC:
+    CADENCE_SHIFT — "That is false" mirrors the earlier "That is disingenuous" — a short declarative that stops the reader and resets the frame.
+    STRATEGIC_QUOTATION — Quotes the dissent (App. 36a, Lynch, J.) to let a lower-court judge make the Petitioner's argument for it.
+
+ARGUMENT UNIT 4.2: The three recognized methods of abrogation all require express language or necessary logic
+"All three approaches leave no room for doubt that abrogation was intended, through either express language or necessary logic, not inferences."
+
+  DOCTRINAL:
+    NARROW_HOLDING — Draws a hard line between "express language or necessary logic" and "inferences," narrowing the standard for valid abrogation.
+    DISTINGUISH — Distinguishes the decision below from the cited circuit cases (Alaska v. EEOC, Timmer): those cases fell into category two (statutes expressly listing states as defendants), which is different from what PROMESA does.
+
+  NARRATIVE:
+    PREEMPTIVE_REBUTTAL — Anticipates CPI's argument that its cited circuit cases support the decision below, and preemptively distinguishes them as category-two cases inapplicable here.
+
+  FACT-FRAMING:
+    FOREGROUND — The specific textual provisions of GERA (42 U.S.C. §2000e-16c(a)(1), §2000e-16b(a)(1), §2000e-5(g)(1)) are foregrounded to show how those statutes did what PROMESA does not: expressly list states as defendants.
+    RECHARACTERIZE — CPI's cited cases, presented by CPI as supporting the decision below, are recharacterized as supporting the Petitioner's position because they show what clear abrogation actually looks like.
+
+  STYLISTIC:
+    CONCRETE_ANCHOR — Walks through the specific GERA provisions to make the contrast tangible rather than abstract.
+    PARALLEL_STRUCTURE — "expressly covers state workers... guarantees them a workplace free of discrimination... authorizes them to collect damages" creates a parallel structure that emphasizes the cumulative clarity of GERA, implicitly contrasting it with PROMESA's lack of equivalent provisions.
+
+================================================================================
+RESPONDENT BRIEF (Docket22-96_Brief005.pdf)
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: No Other Clear-Statement Rule Constrains Congress in Subjecting Territories to Suit
+--------------------------------------------------------------------------------
+
+ARGUMENT UNIT R1.1: Congress's plenary power over territories is incompatible with clear-statement requirements
+"Congress' plenary power over territories is incompatible with forcing Congress to convey an unequivocal intent to abrogate before it can subject territories to suit."
+
+  DOCTRINAL:
+    JURISDICTIONAL_REFRAME — Reframes the entire case around the Territories Clause rather than the Eleventh Amendment, shifting the doctrinal foundation from state-sovereignty principles to congressional plenary power.
+    DISTINGUISH_PURPOSE — Distinguishes the purpose of the clear-statement rule (protecting state sovereignty in a federal system) from the territorial context (where plenary federal power exists by design).
+    SLIPPERY_SLOPE — If the Court requires a clear-statement rule for subjecting territories to suit, why has it never required one for "reconfiguring territorial governments or redlining territorial constitutions"? The implication: the rule sought would be incoherent with the broader framework.
+
+  NARRATIVE:
+    AFFIRMATIVE_FRAME — Frames the case as fundamentally about congressional power over territories, not about sovereign immunity doctrine at all.
+    ESCALATE_STAKES — By invoking Congress's power to reconfigure governments and redline constitutions, Respondent escalates the stakes of the Petitioner's position: accepting it would constrain plenary power in an unprecedented way.
+
+  FACT-FRAMING:
+    FOREGROUND_ABSENCE — Foregrounds the absence of any prior SCOTUS suggestion that clear-statement requirements apply to territorial suits. The silence of the case law is treated as affirmative evidence.
+    RECHARACTERIZE — The government's theory is recharacterized as "novel," signaling it has no doctrinal pedigree.
+
+  STYLISTIC:
+    REGISTER_CONTRAST — "Reconfiguring territorial governments or redlining territorial constitutions" uses vivid, aggressive language to describe accepted congressional power, making the comparatively modest act of subjecting a territory to suit seem trivial by contrast.
+    UNDERSTATED_DEVASTATION — "This Court tellingly has never suggested" packs a devastating observation into a calm, almost casual sentence.
+
+ARGUMENT UNIT R1.2: Territories enjoy only limited immunity in their own courts, not inherent federal-court immunity
+"Territories do not enjoy inherent immunity in federal court. They merely enjoy immunity in territorial courts under the longstanding rule that entities that are sufficiently governmental to enact their own laws and administer their own courts are sufficiently sovereign-like to claim immunity in those courts."
+
+  DOCTRINAL:
+    NARROW_HOLDING — Narrows the scope of territorial immunity to territorial courts only, denying any extension to federal court.
+    DISTINGUISH — Distinguishes territorial immunity (limited, court-specific) from state sovereign immunity (inherent, extending to federal court).
+
+  NARRATIVE:
+    CONCEDE_AND_REDIRECT — Concedes that territories do enjoy some immunity ("They merely enjoy immunity in territorial courts") but immediately redirects: that immunity does not reach federal court, which is where this case sits.
+
+  FACT-FRAMING:
+    RECHARACTERIZE — Recharacterizes "territorial immunity" from a broad shield (as the government frames it) to a narrow, context-dependent doctrine.
+    DIMINISHING_MODIFIER — "Merely" before "enjoy immunity in territorial courts" diminishes the scope of whatever immunity exists.
+
+  STYLISTIC:
+    COMPRESSION — The distinction between territorial-court immunity and federal-court immunity is compressed into two sentences, giving it an air of self-evidence.
+
+ARGUMENT UNIT R1.3: PROMESA's structure presupposes the Board faces suit
+"Congress enacted a judicial-review scheme that applies only to the Board and presupposes that the Board cannot assert sovereign immunity. Section 2126(a) grants federal-court jurisdiction over 'any action against' the Board and channels all such claims there."
+
+  DOCTRINAL:
+    APPLY_TO_FACTS — Applies the statutory text of PROMESA (§2126(a), §2126(e), §2126(c), §2125) to show that the statute's architecture presupposes the Board as a defendant.
+    BROADEN_STATUTE — Reads §2126(a)'s "any action against" broadly — as a comprehensive waiver, not merely a jurisdictional provision.
+    NEW_MOVE_SUPERFLUITY_ARGUMENT — Argues that exceptions to jurisdiction in §2126(a) and (e), declaratory and injunctive relief provisions in §2126(c), and liability protections in §2125 would all be superfluous if the Board were immune. This is a canon-of-construction move (surplusage avoidance) deployed across multiple provisions simultaneously.
+
+  NARRATIVE:
+    AFFIRMATIVE_FRAME — Frames PROMESA as a coherent statutory scheme that only makes sense if the Board can be sued; the alternative reading renders multiple provisions meaningless.
+
+  FACT-FRAMING:
+    FOREGROUND — "Any action against" is foregrounded as the textual anchor; the breadth of the language does the argumentative work.
+    SEQUENCE — Builds through the provisions in ascending order of specificity: jurisdiction (§2126(a)), exceptions (§2126(a), (e)), relief contemplated (§2126(c)), liability protections (§2125). Each provision adds another layer of evidence.
+
+  STYLISTIC:
+    CONCRETE_ANCHOR — Every claim is tied to a specific statutory section, making the argument feel text-driven rather than inferential.
+    PARALLEL_STRUCTURE — "Exceptions to jurisdiction... would be unnecessary... Congress also clearly recognized... Congress granted... would be superfluous" creates a parallel drumbeat of textual evidence.
+
+--------------------------------------------------------------------------------
+SECTION 2: Rules Governing State Sovereign Immunity Do Not Apply to Territories
+--------------------------------------------------------------------------------
+
+ARGUMENT UNIT R2.1: Puerto Rico as a territory cannot claim state sovereign immunity, which resolves the case
+"Puerto Rico, as a territory, by definition cannot claim state sovereign immunity. That principle resolves the case."
+
+  DOCTRINAL:
+    JURISDICTIONAL_REFRAME — The core doctrinal move: territories are not states, so state sovereign immunity does not apply. This reframes the entire dispute.
+    DISTINGUISH — Distinguishes territories from states as a categorical matter, not a matter of degree.
+
+  NARRATIVE:
+    AFFIRMATIVE_FRAME — "That principle resolves the case" is a bold framing move: Respondent is asking the Court to dispose of the case on this ground alone, without reaching abrogation.
+
+  FACT-FRAMING:
+    FOREGROUND — The territorial/state distinction is placed front and center as the dispositive fact.
+    STRATEGIC_SILENCE — No engagement with the nuances of Puerto Rico's unique political status; the argument depends on treating Puerto Rico as categorically "a territory."
+
+  STYLISTIC:
+    COMPRESSION — "That principle resolves the case" is five words doing the work of an entire section. Maximum confidence, minimum elaboration.
+
+ARGUMENT UNIT R2.2: The Board's own theory rests on state sovereign immunity, despite rebranding
+"Throughout this litigation, the Board has pressed one theory of immunity only: Puerto Rico can assert state sovereign immunity... Though the Board's opening brief expunges mentions of state sovereign immunity or the Eleventh Amendment, that changes nothing."
+
+  DOCTRINAL:
+    DISTINGUISH — Distinguishes between the Board's label for its immunity theory (which has shifted between briefs) and the substance of that theory (which remains state sovereign immunity throughout).
+
+  NARRATIVE:
+    FRAME_AS_ERROR — The Board's attempt to rebrand its theory is characterized as cosmetic revision that "changes nothing," exposing an inconsistency in the Board's litigation posture.
+    AGREEMENT_TRAP — Points out that the Board's merits brief still invokes "paramount values of federalism" (at 18), catching the Board using state-sovereignty concepts even while disclaiming reliance on state sovereign immunity.
+
+  FACT-FRAMING:
+    OPPONENT_CONCESSION_CAPTURE — The Board's prior self-identification as an entity sharing "Eleventh Amendment immunity" (Cert. Reply 4-6; Pet. C.A. Br. 22 & 23 n.3) is captured and used against it.
+    RECHARACTERIZE — The Board's doctrinal shift is recharacterized from evolution of argument to attempted concealment ("expunges").
+
+  STYLISTIC:
+    UNDERSTATED_DEVASTATION — "That changes nothing" is three words that dismiss an entire briefing strategy.
+    STRATEGIC_QUOTATION — Quotes the Board's own prior briefs (Cert. Reply 4-6) to create an internal contradiction the Board cannot escape.
+
+ARGUMENT UNIT R2.3: The Eleventh Amendment is a misnomer in this case
+"This Eleventh Amendment immunity defense is a misnomer. That amendment divests federal courts of jurisdiction over suits against a State brought by citizens of another State. The Eleventh Amendment would not apply here, because respondent is a Puerto Rico entity suing a putative arm of Puerto Rico."
+
+  DOCTRINAL:
+    NARROW_STATUTE — Narrows the Eleventh Amendment to its textual scope: suits by citizens of another state against a state. Because both parties are Puerto Rico entities, the Amendment is inapplicable on its own terms.
+    INVOKE_AUTHORITY — Cites Allen v. Cooper and PennEast Pipeline (Gorsuch, J., dissenting) for the distinction between the Eleventh Amendment and inherent state sovereign immunity.
+
+  NARRATIVE:
+    FRAME_AS_ERROR — By calling the Board's theory a "misnomer," Respondent suggests the Board has been litigating under a doctrinal label that does not apply to the facts of this case.
+
+  FACT-FRAMING:
+    FOREGROUND — The fact that respondent is a Puerto Rico entity suing a Puerto Rico entity is foregrounded as dispositive of the Eleventh Amendment question.
+    RECHARACTERIZE — The Board's "Eleventh Amendment" defense is recharacterized as a mislabeled claim of inherent state sovereign immunity — a doctrine that requires separate justification.
+
+  STYLISTIC:
+    CONCRETE_ANCHOR — The textual scope of the Eleventh Amendment (suits by citizens of another state) is anchored in its actual language, making the misapplication visible.
+
+--------------------------------------------------------------------------------
+SECTION 3: Under Any Standard, Congress Abrogated Whatever Immunity the Board Enjoys
+--------------------------------------------------------------------------------
+
+ARGUMENT UNIT R3.1: PROMESA clears any abrogation bar
+"Even were Congress subject to a clear-statement rule when subjecting territories to federal suits, PROMESA clears that bar."
+
+  DOCTRINAL:
+    ALTERNATIVE_HOLDING — Structures the argument as an alternative: even if the Court rejects Respondent's primary argument (no clear-statement rule applies), PROMESA satisfies the clear-statement rule anyway.
+    APPLY_TO_FACTS — Applies the abrogation standard to PROMESA's specific provisions: judicial-review scheme, contemplation of federal-law claims, liability protections, injunctive and declaratory relief.
+
+  NARRATIVE:
+    CONCEDE_AND_REDIRECT — Concedes arguendo that a clear-statement rule might apply, then redirects to show PROMESA satisfies it. This creates a win-either-way structure.
+    ESCALATE_STAKES — "Congress was even clearer in expressing its intent that federal-court suits against the Board for injunctive and declaratory relief could proceed — and those are the very claims at issue here." The final clause ties the general argument to the specific relief sought, raising the stakes for the Petitioner.
+
+  FACT-FRAMING:
+    FOREGROUND — "Those are the very claims at issue here" foregrounds the match between what Congress authorized and what CPI seeks, making the abrogation argument directly dispositive rather than abstract.
+    SEQUENCE — Builds from broad (judicial-review scheme) to specific (injunctive and declaratory relief at issue), with the final step tying directly to the case.
+
+  STYLISTIC:
+    COMPRESSION — The entire section is four sentences. The brevity signals confidence: the point needs little elaboration.
+
+--------------------------------------------------------------------------------
+SECTION 4: At Most, PROMESA Must Evince the Unmistakable Implication that Congress Intended Abrogation
+--------------------------------------------------------------------------------
+
+ARGUMENT UNIT R4.1: Congress need not state its abrogation intent in any particular way
+"Congress must make 'intention to abrogate unmistakably clear in the language of the statute.' ... But 'Congress need not state its intent in any particular way.'"
+
+  DOCTRINAL:
+    BROADEN_HOLDING — Broadens the abrogation standard by emphasizing flexibility: Congress can abrogate "by expressly mentioning sovereign immunity" or through "inferences from the statutory text," so long as intent is unmistakably clear.
+    INVOKE_AUTHORITY — Marshals Seminole Tribe, Hibbs, Cooper, Dellmuth (Scalia, J., concurring), and Kimel to support the proposition that the standard is flexible.
+
+  NARRATIVE:
+    PREEMPTIVE_REBUTTAL — Directly rebuts the Petitioner's Section 4 argument that abrogation requires "express language or necessary logic, not inferences." Respondent's counter: inferences are permissible so long as they yield unmistakable clarity.
+
+  FACT-FRAMING:
+    DIMINISHING_MODIFIER — "At most" in the section heading diminishes the standard Petitioner seeks to impose, suggesting even the strongest version of the rule favors Respondent.
+
+  STYLISTIC:
+    STRATEGIC_QUOTATION — Juxtaposes two quotations: "unmistakably clear in the language of the statute" (Hibbs) and "Congress need not state its intent in any particular way" (Cooper). The juxtaposition frames the standard as demanding but flexible.
+
+ARGUMENT UNIT R4.2: The Board previously conceded that abrogation via inference is valid, then reversed
+"The Board previously conceded the point, yet now denies this principle. Compare Cert. Reply 8 ('ways Congress can unequivocally abrogate sovereign immunity' include 'creat[ing] a statutory scheme having no purpose if states were not defendants'), with Board Br. 22 (no longer)."
+
+  DOCTRINAL:
+    STARE_DECISIS_SHIELD — Invokes the Board's own prior position as a form of judicial estoppel or at minimum a credibility problem.
+
+  NARRATIVE:
+    AGREEMENT_TRAP — Catches the Board in a prior concession: the Board previously acknowledged that abrogation via statutory-scheme inference is a valid method, but now denies it. The "Compare... with" structure makes the contradiction unmistakable.
+    FRAME_AS_ERROR — The reversal is characterized as the Board abandoning a position it held as recently as the certiorari reply brief.
+
+  FACT-FRAMING:
+    OPPONENT_CONCESSION_CAPTURE — The Board's Cert. Reply 8 language is captured verbatim and deployed against it. The parenthetical "(no longer)" after Board Br. 22 is a devastating editorial annotation.
+
+  STYLISTIC:
+    UNDERSTATED_DEVASTATION — "(no longer)" is two words in a parenthetical that do the work of a full paragraph. The restraint amplifies the impact.
+    STRATEGIC_QUOTATION — Directly quotes the Board's own Cert. Reply brief to create an internal contradiction the Board cannot explain away.
+
+ARGUMENT UNIT R4.3: Seminole Tribe establishes that jurisdictional provisions can abrogate immunity
+"Congress clearly abrogated state sovereign immunity in the Indian Gaming Regulatory Act (IGRA) by granting federal jurisdiction over 'any cause of action initiated by an Indian tribe arising from the failure of a State to enter into negotiations'... The provision, read alongside others, clearly abrogated States' immunity, because only States could fail to negotiate. Without abrogation, the provision would be a nullity."
+
+  DOCTRINAL:
+    ANALOGIZE — Draws a direct parallel between IGRA's jurisdictional provision and PROMESA's §2126(a). Both grant federal jurisdiction over claims that can only be brought against a specific type of defendant. If IGRA's provision abrogated immunity, PROMESA's should too.
+    APPLY_STANDARD — Applies the Seminole Tribe framework: when a jurisdictional provision, read alongside related provisions, would be a nullity without abrogation, Congress has clearly abrogated.
+
+  NARRATIVE:
+    AFFIRMATIVE_FRAME — Uses the Court's own precedent to show that what PROMESA does is not novel but follows an established pattern.
+
+  FACT-FRAMING:
+    FOREGROUND — "Only States could fail to negotiate" and by parallel, only the Board can be the defendant under §2126(a). This structural parallel is the linchpin.
+    RECHARACTERIZE — Recharacterizes PROMESA's §2126(a) from "merely a jurisdictional provision" (the Board's framing) to a provision that, like IGRA's, necessarily implies abrogation.
+
+  STYLISTIC:
+    PARALLEL_STRUCTURE — The IGRA analysis mirrors the PROMESA analysis: jurisdictional provision, read alongside others, only one possible defendant, nullity without abrogation. The structural echo is itself the argument.
+    CONCRETE_ANCHOR — Specific statutory citations (25 U.S.C. §2710(d)(7)(A)(i)) anchor the analogy in text.
+
+================================================================================
+CROSS-BRIEF INTERACTION SUMMARY
+================================================================================
+
+1. ARGUENDO ASSUMPTION vs. DISPOSITIVE RESOLUTION
+   Petitioner (Unit 1.1): ANALOGIZE + NARROW_HOLDING — Court can assume immunity and decide only abrogation.
+   Respondent (Unit R2.1): JURISDICTIONAL_REFRAME — No need to assume; Puerto Rico categorically cannot claim state sovereign immunity, which resolves the case outright.
+   INTERACTION: Respondent rejects the Petitioner's procedural shortcut as unnecessary. Where Petitioner wants to narrow the question, Respondent wants to broaden the holding to foreclose territorial sovereign immunity entirely.
+
+2. THREE METHODS OF ABROGATION vs. FLEXIBLE STANDARD
+   Petitioner (Unit 4.2): NARROW_HOLDING — Abrogation requires "express language or necessary logic, not inferences."
+   Respondent (Unit R4.1): BROADEN_HOLDING + PREEMPTIVE_REBUTTAL — The standard allows inferences so long as they yield unmistakable clarity; Congress "need not state its intent in any particular way."
+   INTERACTION: The central doctrinal clash. Petitioner draws a bright line between logic and inference; Respondent argues the distinction is illusory because the Court has already approved inference-based abrogation (Seminole Tribe, Kimel).
+
+3. BOARD'S LITIGATION POSTURE — CONCESSION CAPTURE
+   Petitioner (Unit 2.1): OPPONENT_CONCESSION_CAPTURE — CPI conceded arm-of-state below and now reverses; labeled "disingenuous."
+   Respondent (Units R2.2, R4.2): OPPONENT_CONCESSION_CAPTURE + AGREEMENT_TRAP — Board previously conceded inference-based abrogation is valid (Cert. Reply 8), now denies it; Board previously self-identified under Eleventh Amendment immunity, now "expunges" the label.
+   INTERACTION: Both sides deploy the same move (OPPONENT_CONCESSION_CAPTURE) against each other. Each accuses the other of shifting position between litigation stages. The symmetry highlights that both parties have adjusted their arguments for the merits stage, but each characterizes the other's adjustment as bad faith while treating its own as clarification.
+
+4. CIRCUIT SPLIT vs. ROUTINE APPLICATION
+   Petitioner (Unit 4.1): FRAME_AS_ERROR + STRATEGIC_QUOTATION (dissent) — Decision below "departed dramatically" from every circuit.
+   Respondent (Unit R4.3): ANALOGIZE — PROMESA's structure parallels IGRA's, which the Court already held abrogated immunity; the decision below applied settled principles.
+   INTERACTION: Petitioner relies on the dissent's framing to paint the majority as an outlier; Respondent responds by showing the majority's reasoning follows Seminole Tribe's logic. The contest is whether the decision below is a departure or an application.
+
+5. SUPERFLUITY AND STATUTORY ARCHITECTURE
+   Petitioner (Unit 3.2): NARROW_HOLDING — The abrogation question is "clean" and turns on §2126(a) alone.
+   Respondent (Unit R1.3): NEW_MOVE_SUPERFLUITY_ARGUMENT — Reads §2126(a) alongside §2126(c), (e), and §2125, arguing multiple provisions would be superfluous if the Board were immune.
+   INTERACTION: Petitioner wants the Court to read §2126(a) in isolation; Respondent insists on reading the provisions "in tandem." The disagreement over interpretive method (single provision vs. statutory architecture) drives the disagreement over outcome.
+
+6. TERRITORIAL vs. STATE FRAMEWORK
+   Petitioner (entire brief): Operates within the state sovereign immunity framework, treating Puerto Rico's immunity as analogous to a state's.
+   Respondent (Units R1.1, R1.2, R2.1): JURISDICTIONAL_REFRAME + DISTINGUISH — Rejects the state-immunity framework entirely for territories, arguing the plenary-power framework governs.
+   INTERACTION: The briefs operate in different doctrinal universes. Petitioner assumes the state-immunity framework applies and argues within it. Respondent challenges the framework itself. This is the deepest structural disagreement in the case.
+
+================================================================================
+NEW MOVES
+================================================================================
+
+NEW_MOVE_SUPERFLUITY_ARGUMENT
+  DEFINITION: Arguing that multiple provisions of a statute would be rendered superfluous or meaningless under the opponent's interpretation, invoking the canon against surplusage across several interlocking provisions simultaneously rather than applying it to a single provision. Distinguished from APPLY_TO_FACTS (which applies a rule to facts) and BROADEN_STATUTE (which expands a single provision's reach): this move treats the statute's architecture as a unified evidentiary package where each provision corroborates the others.
+  OBSERVED IN: Respondent Unit R1.3 — Exceptions in §2126(a) and (e), declaratory/injunctive relief in §2126(c), and liability protections in §2125 are all cited as provisions that would be superfluous if the Board were immune, read together as a structural argument for abrogation.

@@ -1,0 +1,82 @@
+{
+  "version": "0.3",
+  "total_moves": 47,
+  "layers": {
+    "doctrinal": {
+      "description": "The legal reasoning operation being performed",
+      "moves": {
+        "NARROW_STATUTE": "Confine a statute's scope to exclude the case at hand",
+        "BROADEN_STATUTE": "Expand a statute's reach to include the case at hand",
+        "NARROW_HOLDING": "Contract what a precedent stands for",
+        "BROADEN_HOLDING": "Expand what a precedent stands for",
+        "DISTINGUISH": "Show why a cited case doesn't apply to these facts",
+        "ANALOGIZE": "Show why a favorable case controls these facts",
+        "APPLY_STANDARD": "Walk through elements of an established legal test",
+        "APPLY_TO_FACTS": "Map a legal rule onto the specific facts of this case",
+        "BURDEN_SHIFT": "Argue the other side bears the obligation to prove something",
+        "INVOKE_AUTHORITY": "Cite a court, judge count, or institutional weight for persuasive force",
+        "DISTINGUISH_PURPOSE": "Draw a line between two statutory or doctrinal purposes",
+        "CONSTITUTIONAL_AVOIDANCE": "Argue for a reading of a statute that avoids a constitutional question",
+        "JURISDICTIONAL_REFRAME": "Swap the entire governing legal framework rather than adjusting one rule's scope",
+        "SLIPPERY_SLOPE": "Argue the opponent's proposed rule would produce unacceptable downstream consequences",
+        "ALTERNATIVE_HOLDING": "Even-if argument that the outcome should be the same regardless of which legal standard applies",
+        "STARE_DECISIS_SHIELD": "Use the standard for overruling precedent as an affirmative barrier to the opponent's position",
+        "INTRA_STATUTORY_CONTRAST": "Read neighboring provisions within the same statute against each other to show deliberate word choices",
+        "SUPERFLUITY_ARGUMENT": "Multi-provision surplusage canon deployed as architectural evidence of statutory meaning",
+        "STRAW_MAN_EXPOSURE": "Deny the factual predicate of the opponent's legal challenge — the standard being attacked was never adopted"
+      }
+    },
+    "narrative": {
+      "description": "The story or structural strategy being deployed",
+      "moves": {
+        "AFFIRMATIVE_FRAME": "State your position as a declarative fact rather than a rebuttal of the opponent",
+        "CONCEDE_AND_REDIRECT": "Acknowledge a weak point, then pivot to why it doesn't matter",
+        "PREEMPTIVE_REBUTTAL": "Address the opponent's strongest anticipated point before they make it",
+        "ESCALATE_STAKES": "Frame the case as having implications beyond the immediate parties",
+        "FRAME_AS_ERROR": "Label the lower court's decision as wrong from the opening sentence",
+        "INSTITUTIONAL_REBUKE": "Criticize an institutional actor for inconsistency or overreach",
+        "AGREEMENT_TRAP": "Use the opponent's own procedural concession to foreclose a substantive position",
+        "DILEMMA_CONSTRUCTION": "Frame the opponent's position as a lose-lose regardless of which path they take",
+        "STRATEGIC_SHIFT_EXPOSURE": "Document the opponent's change in theory between stages of litigation",
+        "WAIVER_TRAP": "Weaponize the opponent's prior litigation strategy as a vehicle defect",
+        "SELF_REFUTING_DEFENSE": "Turn the opponent's own defense into evidence against their position"
+      }
+    },
+    "fact_framing": {
+      "description": "How facts are selected, ordered, and characterized",
+      "moves": {
+        "FOREGROUND": "Lead with or emphasize a favorable fact",
+        "BACKGROUND": "Bury an unfavorable fact in a dependent clause, footnote, or parenthetical",
+        "RECHARACTERIZE": "Describe the same event using different framing language",
+        "SEQUENCE": "Control the timeline order of facts to imply causation or urgency",
+        "STRATEGIC_SILENCE": "Deliberately omit a fact where the absence won't draw attention",
+        "FOREGROUND_ABSENCE": "Emphasize what hasn't happened to show irrelevance or inaction",
+        "DIMINISHING_MODIFIER": "Insert adjectives that systematically minimize the significance of opposing facts",
+        "OPPONENT_CONCESSION_CAPTURE": "Foreground a concession from the opposing brief and deploy it offensively",
+        "SILENCE_AS_CONCESSION": "Convert the opponent's failure to contest a point into a tacit admission",
+        "PROCESS_LEGITIMATION": "Detailed narration of an institutional process as self-legitimating evidence",
+        "ACCUMULATION_OVERWHELM": "Stack multiple supporting facts in rapid succession to create cumulative weight"
+      }
+    },
+    "stylistic": {
+      "description": "How the move is delivered for rhetorical effect",
+      "moves": {
+        "COMPRESSION": "Say in one sentence what the opponent took a paragraph to say — signals confidence",
+        "CADENCE_SHIFT": "Follow a complex, heavily-cited passage with a short declarative sentence for emphasis",
+        "CONCRETE_ANCHOR": "Ground an abstract legal principle in a specific, vivid factual detail",
+        "UNDERSTATED_DEVASTATION": "Deliver the most damaging point in calm, clinical language",
+        "STRATEGIC_QUOTATION": "Let the opponent's own words or a court's language make the point for you",
+        "RHETORICAL_QUESTION": "Pose a question where the answer is obvious, forcing the reader to supply your conclusion",
+        "PARALLEL_STRUCTURE": "Line up multiple points in identical syntactic form for cumulative weight",
+        "REGISTER_CONTRAST": "Shift from formal legal register to colloquial or dismissive language to signal an argument is unworthy of serious engagement",
+        "AUTHORITY_SIGNALING": "Cite a case for the identity of its author rather than just the holding",
+        "AUTHORITY_INVERSION": "Capture an opponent's cited authority and deploy it for the opposite proposition"
+      }
+    }
+  },
+  "additional_attributes": {
+    "audience_target": ["reinforce_friendly", "persuade_undecided", "preempt_hostile", "general"],
+    "information_regime": ["opening_brief", "response_brief", "reply_brief"],
+    "risk_profile": "spectrum from chess (deterministic, law is clear) to poker (probabilistic, managing audience uncertainty)"
+  }
+}

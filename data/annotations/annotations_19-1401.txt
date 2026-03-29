@@ -1,0 +1,966 @@
+LEGAL MOVE ANNOTATIONS
+Case: Hughes v. Northwestern University, No. 19-1401
+Subject: ERISA duty of prudence for participant-directed retirement plans
+Annotated from: Petitioner's Reply Brief & Respondent's Brief on the Merits
+
+================================================================================
+NOTE ON TRUNCATION
+================================================================================
+
+Both source files contain truncated section text (each capped at ~1,500
+characters). Annotations below cover only the text available. Where a section
+cuts off mid-sentence, that is noted.
+
+================================================================================
+PETITIONER BRIEF -- SECTION I
+"RESPONDENTS FAIL TO REFUTE THE EXISTENCE OF A CIRCUIT SPLIT WARRANTING REVIEW"
+================================================================================
+
+ARGUMENT UNIT P-I-1
+Text: "Petitioners demonstrated the existence of a circuit split. The Third,
+Eighth, and Ninth Circuits have held that allegations that a defined-contribution
+plan paid or charged to participants excessive fees (including recordkeeping and
+investment management fees) suffice to support a claim for violation of ERISA's
+duty of prudence."
+
+  DOCTRINAL:    INVOKE_AUTHORITY
+                Three circuits (3d, 8th, 9th) cited as establishing the rule
+                petitioners favor. The move is not to analyze the holdings but to
+                stack them -- three circuits agreeing creates implicit weight.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                Opens by declaring the split "demonstrated," treating the
+                petitioner's position as already proven and placing the burden of
+                disproof on respondents from the first sentence.
+
+  FACT-FRAMING: FOREGROUND
+                The specific fee types (recordkeeping and investment management)
+                are foregrounded immediately to anchor the case in concrete,
+                relatable economic harm.
+
+  STYLISTIC:    COMPRESSION
+                Dense, single-sentence summary of three circuits' holdings.
+                Compresses complex appellate history into one assertion.
+
+----------
+
+ARGUMENT UNIT P-I-2
+Text: "The Seventh Circuit rejected a claim based on such allegations, holding
+instead that petitioners' claims were precluded by the potential to craft a
+prudent explanation for respondents' conduct from petitioners' allegations."
+
+  DOCTRINAL:    NARROW_HOLDING
+                Petitioners characterize the Seventh Circuit's holding narrowly
+                and unfavorably -- not as a reasonable reading of the pleading
+                standard, but as an outlier requiring a "potential to craft a
+                prudent explanation." This framing makes the holding sound like
+                an invention rather than an application of existing law.
+
+  NARRATIVE:    FRAME_AS_ERROR
+                The word "rejected" and the phrasing "potential to craft a
+                prudent explanation" are chosen to make the Seventh Circuit's
+                approach sound intellectually dishonest -- the court was
+                fabricating defenses for the respondents rather than evaluating
+                the complaint.
+
+  FACT-FRAMING: RECHARACTERIZE
+                The Seventh Circuit's reasoning (that the complaint failed to
+                state a plausible claim because alternative explanations existed)
+                is recharacterized as something closer to burden-shifting -- the
+                court "craft[ed]" explanations for the defendant.
+
+  STYLISTIC:    CONCRETE_ANCHOR
+                "Potential to craft a prudent explanation" is a specific,
+                memorable phrase that petitioners use to pin a characterization
+                on the Seventh Circuit's methodology.
+
+----------
+
+ARGUMENT UNIT P-I-3
+Text: "Respondents scarcely try to deny the existence of this circuit split.
+The bulk of respondents' argument on the supposed lack of a circuit split is an
+extended defense of the decision below on the merits, which, even if it were
+correct (it is not, see infra Part II), would not refute the split's existence."
+
+  DOCTRINAL:    DISTINGUISH_PURPOSE
+                Petitioners separate two distinct questions: (1) does a circuit
+                split exist, and (2) was the Seventh Circuit correct. They argue
+                respondents conflated the two, defending the merits when the
+                question at the cert stage is whether the split exists at all.
+
+  NARRATIVE:    CONCEDE_AND_REDIRECT
+                The parenthetical "(it is not, see infra Part II)" concedes
+                awareness of respondents' merits argument but immediately
+                redirects: even if that argument had force, it is irrelevant to
+                the split question.
+
+  FACT-FRAMING: FOREGROUND_ABSENCE
+                Highlights what respondents did NOT do: they "scarcely try to
+                deny" the split. The absence of a direct denial is treated as
+                a concession.
+
+  STYLISTIC:    UNDERSTATED_DEVASTATION
+                "Scarcely try" is deliberately mild. The understatement implies
+                that respondents' position is so weak they could not even mount
+                a serious argument on this point.
+
+  CROSS-BRIEF INTERACTION: This unit directly responds to Respondent Section I,
+  where respondents reframed the duty-of-prudence question rather than engaging
+  the circuit-split question head-on. Petitioners call out this evasion
+  explicitly.
+
+----------
+
+ARGUMENT UNIT P-I-4
+Text: "Regarding the two cases that most clearly conflict with the decision
+below -- Sweda v. University of Pennsylvania and Davis v. Washington University
+in St. Louis -- respondents rationalize (at 20, 22-23) the diverging outcomes as
+the 'inevitable' result of the application of the same 'holistic approach' to
+different allegations. This argument fails for two reasons. First, respondents
+point to no relevant differences in the allegations at issue in Sweda or Dav[is]"
+
+  DOCTRINAL:    ANALOGIZE
+                Petitioners argue Sweda and Davis are materially similar to
+                their own case. The move is to collapse the factual distinctions
+                respondents claim exist, treating the cases as functionally
+                identical to the one at bar.
+
+  NARRATIVE:    PREEMPTIVE_REBUTTAL
+                Petitioners quote and then rebut respondents' "holistic approach"
+                argument. They do not wait for the argument to gain traction but
+                attack it preemptively and categorically.
+
+  FACT-FRAMING: STRATEGIC_SILENCE
+                Note what is absent: petitioners do not describe what the
+                factual allegations in Sweda or Davis actually were. They assert
+                no "relevant differences" exist without detailing the comparison,
+                putting the burden on the reader to take their word for it.
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                The word "inevitable" is placed in scare quotes from
+                respondents' brief, signaling that petitioners view this
+                characterization as spin rather than analysis. "Holistic
+                approach" gets the same treatment.
+
+  [Text truncates here]
+
+
+================================================================================
+PETITIONER BRIEF -- SECTION II
+"THE SEVENTH CIRCUIT ERRED"
+================================================================================
+
+ARGUMENT UNIT P-II-1
+Text: "The Seventh Circuit erred by dismissing the case when plaintiffs'
+allegations gave rise to the plausible inference that the Plans' excessive fees
+resulted from imprudent management."
+
+  DOCTRINAL:    APPLY_STANDARD
+                Petitioners invoke the Twombly/Iqbal plausibility standard.
+                Their claim is procedural: at the motion-to-dismiss stage, all
+                that matters is whether the allegations support a "plausible
+                inference." They do not need to prove their case; they need only
+                show the inference is plausible.
+
+  NARRATIVE:    FRAME_AS_ERROR
+                The section header and opening sentence both declare error
+                directly. No hedging, no buildup.
+
+  FACT-FRAMING: FOREGROUND
+                "Excessive fees" and "imprudent management" are foregrounded
+                as the two operative facts the reader should carry forward.
+
+  STYLISTIC:    COMPRESSION
+                One sentence carries the entire thesis of Section II. Everything
+                that follows is elaboration.
+
+----------
+
+ARGUMENT UNIT P-II-2
+Text: "Respondents' defenses of the decision below only underscore that the
+decision hinged on inverting the applicable pleading standard by accepting
+respondents' inferences and disregarding petitioners' reasonable inferences."
+
+  DOCTRINAL:    BURDEN_SHIFT
+                This is the core doctrinal move of the petitioner's case.
+                They argue the Seventh Circuit flipped the Twombly/Iqbal
+                standard: instead of drawing inferences in the plaintiff's
+                favor (as required at the motion-to-dismiss stage), the court
+                drew inferences in the defendant's favor. This is a burden-shift
+                argument -- the lower court applied the wrong directional
+                presumption.
+
+  NARRATIVE:    ESCALATE_STAKES
+                "Inverting the applicable pleading standard" elevates this from
+                a case-specific error to a systemic procedural concern. If the
+                Seventh Circuit can invert the standard here, it can do so in
+                any ERISA case.
+
+  FACT-FRAMING: RECHARACTERIZE
+                Respondents' defense is recharacterized not as a legitimate
+                argument but as evidence that "underscore[s]" the very error
+                petitioners are alleging. The defense becomes proof of the
+                problem.
+
+  STYLISTIC:    --
+
+  CROSS-BRIEF INTERACTION: Directly counters Respondent Section II-A, where
+  respondents cite Twombly/Iqbal and Fifth Third to argue petitioners' complaint
+  was insufficiently specific. Petitioners flip this: they agree Twombly/Iqbal
+  governs, but argue the Seventh Circuit applied it backward.
+
+----------
+
+ARGUMENT UNIT P-II-3
+Text: "For example, respondents argue (at 14, 25) that the Seventh Circuit
+properly held that respondents' choice of recordkeepers was justified because it
+allowed respondents to offer a specific annuity fund. Respondents argue (at
+13-14) that, because such an inference could be derived 'from [petitioners']
+complaint,' it was proper for the court to draw that inference in respondents'
+favor to dismiss the lawsuit."
+
+  DOCTRINAL:    APPLY_TO_FACTS
+                Takes the abstract doctrinal point (inverted pleading standard)
+                and applies it to specific facts: respondents' recordkeeper
+                choice and the annuity fund justification.
+
+  NARRATIVE:    CONCEDE_AND_REDIRECT
+                Petitioners do not deny that the annuity-fund inference can be
+                derived from the complaint. They concede the inference exists
+                but redirect: the question is not whether it exists but whether
+                it should be drawn in respondents' favor at the pleading stage.
+
+  FACT-FRAMING: FOREGROUND
+                The annuity fund is surfaced as the specific factual detail
+                around which the legal dispute crystallizes. This gives the
+                abstract pleading-standard argument a tangible reference point.
+
+  STYLISTIC:    CONCRETE_ANCHOR
+                "A specific annuity fund" is a particular, graspable detail
+                that makes the respondents' justification sound both narrow and
+                ad hoc.
+
+----------
+
+ARGUMENT UNIT P-II-4
+Text: "But petitioners alleged facts plausibly supporting the inference that the
+Plans paid excessive recordkeeping fees because of their imprudent failure to
+pursue strategies -- such as competitive bidding, consolidation to a single
+recordkeeper, or negotiation of fee reductions -- that other university plans had
+successfully employed to lower fees."
+
+  DOCTRINAL:    APPLY_TO_FACTS
+                Maps the plausibility standard onto specific alleged conduct:
+                failure to competitively bid, failure to consolidate, failure
+                to negotiate. These are concrete prudence failures.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                After spending P-II-2 and P-II-3 on defense (rebutting
+                respondents' arguments), petitioners pivot to their own
+                affirmative case. "Petitioners alleged facts" recenters the
+                discussion on what petitioners said in their complaint.
+
+  FACT-FRAMING: SEQUENCE
+                The three strategies (competitive bidding, consolidation,
+                negotiation) are listed in a deliberate order of escalating
+                specificity. Competitive bidding is generic; negotiating fee
+                reductions is the most concrete and most damning omission.
+
+  STYLISTIC:    PARALLEL_STRUCTURE
+                "Competitive bidding, consolidation to a single recordkeeper,
+                or negotiation of fee reductions" -- tripartite list structured
+                to accumulate weight.
+
+  CROSS-BRIEF INTERACTION: Directly counters Respondent Section II-B, where
+  respondents argue petitioners' $35-per-participant fee benchmark was "plucked
+  out of thin air." Petitioners respond not by defending the $35 figure but by
+  shifting to the process failures -- a different factual basis that sidesteps
+  respondents' attack on the numerical benchmark.
+
+  [Text truncates here]
+
+
+================================================================================
+PETITIONER BRIEF -- SECTION III
+"RESPONDENTS RAISE NO VEHICLE PROBLEMS THAT WOULD HINDER THIS COURT'S REVIEW"
+================================================================================
+
+ARGUMENT UNIT P-III-1
+Text: "This case squarely presents the legal question whether excessive-fee
+allegations are sufficient to state an ERISA claim. Given the similarity of the
+allegations here to those that survived in Sweda and Davis, this case presents
+the ideal vehicle to resolve the circuit split."
+
+  DOCTRINAL:    ANALOGIZE
+                Sweda and Davis are invoked again as analogues. The argument
+                is that factual similarity across cases makes this one a clean
+                test case.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                "Squarely presents" and "ideal vehicle" are confident framing
+                choices. Petitioners do not argue this case is merely adequate;
+                they claim it is optimal.
+
+  FACT-FRAMING: BACKGROUND
+                The underlying facts of the case are backgrounded here.
+                Petitioners want the Court to see this as a pure legal question,
+                not a fact-intensive dispute.
+
+  STYLISTIC:    COMPRESSION
+                Two sentences do all the work. The brevity signals confidence --
+                extended argument would suggest the point is debatable.
+
+----------
+
+ARGUMENT UNIT P-III-2
+Text: "Respondents' supposed vehicle problems are nonexistent or overblown."
+
+  DOCTRINAL:    --
+
+  NARRATIVE:    PREEMPTIVE_REBUTTAL
+                Blanket dismissal of vehicle objections before addressing any
+                of them individually. Sets the frame: these are not serious
+                arguments.
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    COMPRESSION
+                One sentence. Deliberately terse to communicate contempt for
+                the objections.
+
+----------
+
+ARGUMENT UNIT P-III-3
+Text: "First, respondents' assertion (at 30) that lower courts are unaware of
+a conflict does not justify denial of certiorari. Commentators have widely
+acknowledged the split..."
+
+  DOCTRINAL:    INVOKE_AUTHORITY
+                Petitioners cite commentators and the CareerBuilder decision
+                as external authorities that recognize the split. The move
+                converts a disputed factual claim (is there a split?) into one
+                backed by third-party recognition.
+
+  NARRATIVE:    CONCEDE_AND_REDIRECT
+                Implicitly concedes that some lower courts may not have
+                explicitly acknowledged the split, but redirects: awareness
+                among courts is not the test for certiorari. Commentator
+                recognition suffices.
+
+  FACT-FRAMING: FOREGROUND
+                The CareerBuilder footnote (2020 WL 3578022, at 5 n.8) is
+                surfaced as specific evidence. A footnote in a district court
+                opinion is given outsized prominence because it supports the
+                petitioners' split narrative.
+
+  STYLISTIC:    CONCRETE_ANCHOR
+                CareerBuilder citation with pinpoint footnote reference.
+                Specificity signals homework and reinforces credibility.
+
+----------
+
+ARGUMENT UNIT P-III-4
+Text: "Second, for the reasons described above, the decision is not 'painfully
+narrow and fact-bound.' Moreover, because many fiduciaries engage in similar
+practices, the same fact patterns recur frequently in the dozens of ERISA
+excessive-fee lawsuits filed each year."
+
+  DOCTRINAL:    BROADEN_HOLDING
+                Petitioners widen the frame: this is not one idiosyncratic case
+                but a recurring pattern across "dozens" of lawsuits annually.
+                The holding below, if left standing, will have systemic effects.
+
+  NARRATIVE:    ESCALATE_STAKES
+                "Dozens of ERISA excessive-fee lawsuits filed each year"
+                transforms a case about Northwestern's retirement plans into a
+                case about the entire ERISA excessive-fee docket. The Court is
+                being told this will matter far beyond this dispute.
+
+  FACT-FRAMING: RECHARACTERIZE
+                Respondents' characterization ("painfully narrow and fact-bound")
+                is quoted and then rejected. Petitioners recharacterize the case
+                as broadly applicable.
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                "Painfully narrow and fact-bound" is quoted from respondents'
+                BIO to highlight what petitioners consider an overstatement.
+
+  CROSS-BRIEF INTERACTION: Responds to respondents' vehicle objections
+  (referenced in their BIO at 30). Petitioners treat these objections as
+  attempts to avoid Supreme Court review rather than legitimate procedural
+  concerns.
+
+----------
+
+ARGUMENT UNIT P-III-5
+Text: "Third, denial of certiorari in Sweda does not support denial here. Since
+that denial, the Davis decision deepened the circuit split."
+
+  DOCTRINAL:    DISTINGUISH
+                Petitioners distinguish the present cert posture from the
+                posture when Sweda was denied. The intervening Davis decision
+                changes the landscape. This is a temporal distinction: the legal
+                world has changed since Sweda was denied.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                Reframes a potential weakness (prior cert denial) as a strength:
+                the split has gotten worse, making review more urgent, not less.
+
+  FACT-FRAMING: SEQUENCE
+                Temporal ordering matters here: Sweda denial came first, then
+                Davis "deepened" the split. The sequence implies an escalating
+                problem that the Court must eventually address.
+
+  STYLISTIC:    --
+
+  [Text truncates here]
+
+
+================================================================================
+RESPONDENT BRIEF -- SECTION I
+"PETITIONERS AND THE GOVERNMENT MISCHARACTERIZE THE NATURE OF THE DUTY OF
+PRUDENCE UNDER ERISA FOR PARTICIPANT-DIRECTED PLANS"
+================================================================================
+
+ARGUMENT UNIT R-I-1
+Text: "Petitioners and the government argue that, although the Plans'
+participants are responsible for selecting their own investments, ERISA authorizes
+a damages action for breach of the duty of prudence based on marginal costs
+differences in isolated investment options, regardless of their place in the menu
+of available options."
+
+  DOCTRINAL:    NARROW_STATUTE
+                Respondents narrow the scope of ERISA's duty of prudence by
+                emphasizing that participants in defined-contribution plans
+                select their own investments. This narrows the fiduciary
+                obligation: if participants choose, the fiduciary's duty is
+                limited to menu design, not individual option pricing.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                By pairing "petitioners and the government," respondents
+                acknowledge they face two adversaries but frame both as
+                advancing the same flawed argument. The pairing also subtly
+                signals that the government is not a neutral party but an
+                aligned advocate.
+
+  FACT-FRAMING: RECHARACTERIZE
+                Petitioners' claim (excessive fees from imprudent management) is
+                recharacterized as about "marginal costs differences in isolated
+                investment options." "Marginal" and "isolated" are doing heavy
+                lifting -- they make petitioners' claim sound trivial and
+                cherry-picked.
+
+  STYLISTIC:    NEW_MOVE_[DIMINISHING_MODIFIER]
+                The words "marginal" and "isolated" are not neutral descriptors.
+                They are chosen to minimize the significance of the cost
+                differences at issue. This is a stylistic move that works by
+                word choice rather than structure -- inserting adjectives that
+                shrink the opposing argument.
+
+  CROSS-BRIEF INTERACTION: Directly counters Petitioner Section II, where
+  petitioners frame the issue as "excessive fees resulted from imprudent
+  management." Respondents reframe it as "marginal costs differences" --
+  replacing "excessive" with "marginal" and "imprudent management" with a
+  neutral description of investment-menu design.
+
+----------
+
+ARGUMENT UNIT R-I-2
+Text: "That argument ignores the context-specific inquiry demanded by ERISA's
+text and is based solely on trust law developed for the different situation in
+which trustees make investment decisions for their beneficiaries."
+
+  DOCTRINAL:    DISTINGUISH
+                Respondents distinguish defined-contribution plans (where
+                participants choose investments) from traditional trust
+                arrangements (where trustees choose). The duty of prudence
+                from trust law, they argue, does not map cleanly onto
+                participant-directed plans.
+
+  NARRATIVE:    FRAME_AS_ERROR
+                Petitioners' reliance on trust-law principles is framed as a
+                category error -- applying doctrine developed for a "different
+                situation."
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    --
+
+----------
+
+ARGUMENT UNIT R-I-3
+Text: "Under ERISA, a fiduciary must 'discharge his duties . . . with the care,
+skill, prudence, and diligence under the circumstances then prevailing that a
+prudent man acting in a like capacity and familiar with such matters would use in
+the conduct of an enterprise of a like character and with like aims.' 29 U.S.C.
+Section 1104(a)(1)(B)."
+
+  DOCTRINAL:    APPLY_STANDARD
+                Full quotation of the statutory text. Respondents ground their
+                argument in the statute itself rather than in case law, a move
+                that claims textual authority and distances the argument from
+                judicial gloss.
+
+  NARRATIVE:    --
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                The full statutory quotation is deployed not because the reader
+                needs to see it (both sides know the statute) but because the
+                phrase "under the circumstances then prevailing" and "in a like
+                capacity" support respondents' context-specific reading. The
+                quotation does the doctrinal work.
+
+----------
+
+ARGUMENT UNIT R-I-4
+Text: "This duty serves as an important safeguard of participants' retirement
+benefits, but it is not a straightjacket. Rather, fiduciaries have a significant
+amount of discretion and flexibility in deciding how to prudently administer an
+ERISA plan."
+
+  DOCTRINAL:    BROADEN_STATUTE
+                Respondents broaden the fiduciary's zone of discretion under
+                ERISA. The statute, they argue, permits a range of reasonable
+                choices. This broadens the safe harbor: if multiple approaches
+                are prudent, picking one over another is not a breach.
+
+  NARRATIVE:    CONCEDE_AND_REDIRECT
+                "Important safeguard" concedes the duty's significance.
+                "But it is not a straightjacket" immediately redirects to
+                the limits of that duty.
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    --
+
+----------
+
+ARGUMENT UNIT R-I-5
+Text: "[W]here, as here, there is no claim of trustee self-dealing or the like,
+we do not simply substitute our judgment for that of the trustees. We review the
+trustees' decision at a distance." (Quoting Caterino v. Barry, Breyer, C.J.)
+
+  DOCTRINAL:    INVOKE_AUTHORITY
+                Citation to then-Judge Breyer (now Chief Justice) carries
+                significant weight. This is a strategic authority choice:
+                Breyer is identified as the author, and his stature on the
+                Court at the time of briefing adds implicit persuasive force.
+
+  NARRATIVE:    NEW_MOVE_[AUTHORITY_SIGNALING]
+                The parenthetical "(Breyer, C.J.)" is not legally required but
+                is strategically included. Naming the author of a circuit
+                opinion is a narrative move that says: one of your own
+                colleagues already endorsed this principle. This goes beyond
+                standard INVOKE_AUTHORITY because the persuasive force comes
+                from the author's identity, not the holding.
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                The Breyer quotation is selected for its language ("at a
+                distance") which supports respondents' deference framework. The
+                phrase "at a distance" is vivid and memorable -- it does
+                rhetorical work beyond its doctrinal content.
+
+  CROSS-BRIEF INTERACTION: Counters Petitioner Section II's argument that the
+  Seventh Circuit "inverted" the pleading standard. Respondents respond: no,
+  the court properly applied deference. The Breyer quotation is deployed to
+  make deference sound not like a Seventh Circuit invention but like a
+  widely shared judicial norm.
+
+
+================================================================================
+RESPONDENT BRIEF -- SECTION II
+"THE COURTS BELOW CORRECTLY HELD THAT PETITIONERS FAILED TO PLAUSIBLY ALLEGE
+A BREACH OF ERISA'S DUTY OF PRUDENCE"
+================================================================================
+
+ARGUMENT UNIT R-II-1
+Text: "Even if this Court adopts petitioners' and the government's paternalistic
+conception of the duty of prudence, the courts below still correctly concluded
+that petitioners' allegations fail to state a claim."
+
+  DOCTRINAL:    CONSTITUTIONAL_AVOIDANCE (structural analogue)
+                This is an "even if" argument -- a doctrinal hedging move.
+                Respondents argue in the alternative: even accepting
+                petitioners' legal framework, the result does not change. This
+                does not map perfectly to CONSTITUTIONAL_AVOIDANCE but shares
+                its structure: avoiding a doctrinal question by winning on
+                independent grounds.
+
+                NEW_MOVE_[ALTERNATIVE_HOLDING_ARGUMENT]
+                An argument that the result holds regardless of which legal
+                standard the Court adopts. Distinct from constitutional
+                avoidance because it does not involve constitutional
+                interpretation, but the structural logic is identical: win on
+                ground B without needing to resolve question A.
+
+  NARRATIVE:    CONCEDE_AND_REDIRECT
+                "Even if" concedes the possibility that petitioners' legal
+                standard is correct. The redirect is immediate: it does not
+                matter, because petitioners lose anyway.
+
+  FACT-FRAMING: RECHARACTERIZE
+                Petitioners' and the government's reading of the duty of
+                prudence is labeled "paternalistic." This is a loaded
+                recharacterization that imports a politically inflected
+                critique -- the government is being overprotective and treating
+                plan participants as incapable of making their own choices.
+
+  STYLISTIC:    NEW_MOVE_[DIMINISHING_MODIFIER]
+                "Paternalistic" does double duty: it is both a fact-framing
+                recharacterization and a stylistic choice. The word is selected
+                to trigger skepticism in a Court that has generally been hostile
+                to government overreach in the private-sector context.
+
+  CROSS-BRIEF INTERACTION: This is a direct structural counter to Petitioner
+  Section II. Petitioners argued the Seventh Circuit applied the wrong standard.
+  Respondents respond: even under your preferred standard, you still lose. This
+  neutralizes the petitioners' strongest doctrinal move by making the choice of
+  standard irrelevant.
+
+
+================================================================================
+RESPONDENT BRIEF -- SECTION II-A
+"ERISA REQUIRES PLAUSIBLE ALLEGATIONS OF COMPARATIVELY IMPRUDENT BEHAVIOR"
+================================================================================
+
+ARGUMENT UNIT R-IIA-1
+Text: "The motion to dismiss is an especially 'important mechanism for weeding
+out meritless [breach-of-duty] claims.' Fifth Third, 573 U.S. at 425."
+
+  DOCTRINAL:    INVOKE_AUTHORITY
+                Fifth Third Bancorp v. Dudenhoeffer is cited for the specific
+                proposition that the motion-to-dismiss stage serves a
+                gatekeeping function in ERISA cases. This is a defensive use of
+                authority: the same case petitioners rely on is turned against
+                them.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                Respondents frame the motion to dismiss not as a procedural
+                technicality but as a substantive protection against meritless
+                litigation. The word "weeding out" imports a normative judgment:
+                some claims should be eliminated early.
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                "Weeding out meritless claims" is quoted from Fifth Third and
+                deployed for its rhetorical force. The agricultural metaphor
+                implies petitioners' claims are weeds, not flowers.
+
+  CROSS-BRIEF INTERACTION: Directly counters Petitioner Section II's argument
+  that the Seventh Circuit applied Twombly/Iqbal incorrectly. Respondents
+  respond: Fifth Third itself contemplated exactly this kind of gatekeeping.
+  The petitioners' own authority supports dismissal.
+
+----------
+
+ARGUMENT UNIT R-IIA-2
+Text: "To survive [a motion to dismiss], a complaint must (1) 'give the
+defendant fair notice of what the claim is and the grounds upon which it rests,'
+Twombly, 550 U.S. at 555; and (2) state 'a plausible claim for relief' by
+alleging 'sufficient factual matter' that 'permit[s] the court to infer more
+than the mere possibility of misconduct,' Iqbal, 556 U.S. at 678-79."
+
+  DOCTRINAL:    APPLY_STANDARD
+                Standard Twombly/Iqbal two-part test, laid out methodically.
+                This is the same standard petitioners invoke, but respondents
+                set it up to argue that petitioners' allegations fall short.
+
+  NARRATIVE:    --
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    --
+                This is workmanlike doctrinal exposition. No stylistic moves;
+                the persuasion comes from the standard itself.
+
+----------
+
+ARGUMENT UNIT R-IIA-3
+Text: "'[A] complaint [that] pleads facts that are "merely consistent with" a
+defendant's liability' will not do. Nor will factual allegations for which there
+is an '"obvious alternative explanation"' that is 'lawful.'"
+
+  DOCTRINAL:    APPLY_STANDARD
+                Continues the Twombly/Iqbal framework, but now respondents
+                emphasize the elements favorable to their position: "merely
+                consistent with" liability is insufficient, and "obvious
+                alternative explanations" defeat plausibility.
+
+  NARRATIVE:    PREEMPTIVE_REBUTTAL
+                By emphasizing the "obvious alternative explanation" prong,
+                respondents preempt petitioners' argument that any inference
+                from the complaint should be drawn in petitioners' favor.
+                Respondents are setting up the argument that their conduct has
+                an obvious lawful explanation.
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                Heavy use of nested quotations from Iqbal and Twombly. The
+                density of quotation marks signals that this is not respondents'
+                characterization but the Court's own words being deployed
+                against petitioners.
+
+----------
+
+ARGUMENT UNIT R-IIA-4
+Text: "First, the complaint 'must plausibly allege an alternative action that
+the defendant could have taken' -- i.e., an alternative action that was actually
+available to the fiduciary. Second, the complaint must 'plausibly allege[] that
+a prudent fiduciary in the same position could not have concluded that the
+alternative action would do mor[e harm than good]...'"
+
+  DOCTRINAL:    APPLY_STANDARD / NARROW_HOLDING
+                Respondents apply Fifth Third's two-part test for ERISA
+                breach-of-duty claims. But notice the narrowing: they emphasize
+                "actually available" (the alternative must have been real, not
+                hypothetical) and the "could not have concluded" formulation,
+                which sets a demanding standard for plaintiffs.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                The two-part framework is presented as settled law, not
+                respondents' preferred reading. By formatting it as "First...
+                Second..." they create the impression of a clear, mechanical
+                test that petitioners simply failed to satisfy.
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    --
+
+  CROSS-BRIEF INTERACTION: This framework is the doctrinal spine of
+  respondents' opposition to Petitioner Section II. Petitioners argued the
+  Seventh Circuit "inverted" the standard. Respondents respond by reciting the
+  standard in detail to show that it inherently demands specificity from
+  plaintiffs. The standard is not inverted; petitioners' complaint is just
+  deficient.
+
+  [Text truncates here]
+
+
+================================================================================
+RESPONDENT BRIEF -- SECTION II-B
+"PETITIONERS' RECORDKEEPING CLAIM FAILS"
+================================================================================
+
+ARGUMENT UNIT R-IIB-1
+Text: "In Count III of the FAC, petitioners asserted that respondents breached
+their duty of prudence by causing the Plans' participants to incur excessive
+recordkeeping fees. That claim fails."
+
+  DOCTRINAL:    --
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                "That claim fails." Two-word sentence that declares the
+                conclusion before presenting the argument. Respondents are
+                signaling confidence and framing petitioners' claim as already
+                defeated.
+
+  FACT-FRAMING: --
+
+  STYLISTIC:    COMPRESSION
+                Maximum compression. The paragraph sets up the claim and
+                disposes of it in two sentences. The brevity projects certainty.
+
+----------
+
+ARGUMENT UNIT R-IIB-2
+Text: "This claim ostensibly rests on the allegation that a 'reasonable' fee
+'would be approximately $1,050,000 in the aggregate for both Plans combined (or
+a flat fee based on $35 per participant).' But that is precisely the sort of
+'"naked assertion[]" devoid of further factual enhancement' that cannot survive
+a motion to dismiss."
+
+  DOCTRINAL:    APPLY_TO_FACTS
+                Respondents apply the Twombly/Iqbal "naked assertion" standard
+                directly to the $35-per-participant figure. The doctrinal move
+                is concrete: this specific number, in this specific complaint,
+                fails this specific test.
+
+  NARRATIVE:    FRAME_AS_ERROR
+                "Ostensibly rests" casts doubt on whether the claim has any
+                genuine foundation. The word "ostensibly" implies that the
+                stated basis is a front for something weaker.
+
+  FACT-FRAMING: RECHARACTERIZE
+                The $35-per-participant figure -- which petitioners presented
+                as a market-based benchmark -- is recharacterized as a "naked
+                assertion" and a number "plucked out of thin air." The same
+                number, viewed through respondents' lens, transforms from
+                evidence into speculation.
+
+  STYLISTIC:    CONCRETE_ANCHOR
+                "$1,050,000" and "$35 per participant" are specific numbers
+                that respondents use to make petitioners' claim tangible and
+                then attack it. The concreteness cuts both ways: the numbers
+                are specific enough to seem like evidence, but respondents
+                argue they are unsupported specificity -- precision without
+                foundation.
+
+  CROSS-BRIEF INTERACTION: This is a direct factual counter to Petitioner
+  Section II's argument about excessive recordkeeping fees. Where petitioners
+  cited "competitive bidding, consolidation to a single recordkeeper, or
+  negotiation of fee reductions" as available alternatives, respondents attack
+  the underlying numerical benchmark. The two sides are fighting on different
+  terrain: petitioners argue process failures; respondents attack the
+  quantitative claim.
+
+----------
+
+ARGUMENT UNIT R-IIB-3
+Text: "Indeed, the FAC essentially plucks that number out of thin air, vaguely
+gesturing at 'the Plans' features' and 'the recordkeeping market' without any
+factual enhancement."
+
+  DOCTRINAL:    APPLY_TO_FACTS
+                Continued application of the "factual enhancement" requirement
+                from Iqbal. Respondents argue the complaint gestures at sources
+                of authority (market conditions, plan features) without actually
+                alleging specific facts derived from those sources.
+
+  NARRATIVE:    --
+
+  FACT-FRAMING: RECHARACTERIZE
+                "Vaguely gesturing" is a devastating recharacterization. What
+                petitioners presented as market analysis becomes hand-waving.
+
+  STYLISTIC:    NEW_MOVE_[REGISTER_CONTRAST]
+                "Plucks that number out of thin air" and "vaguely gesturing"
+                are colloquial, almost dismissive phrases deployed in the
+                middle of a technically precise legal argument. The shift from
+                formal legal analysis to informal ridicule is itself a
+                rhetorical move -- it signals that the claim is not worthy of
+                serious engagement.
+
+----------
+
+ARGUMENT UNIT R-IIB-4
+Text: "The FAC also offers no basis to conclude that a '$35 per participant' fee
+was an available alternative. Indeed, petitioners admit that they failed to
+allege even one 'specific recordkeeper that would have serviced the Plans at a
+lower price.'"
+
+  DOCTRINAL:    APPLY_TO_FACTS
+                Applies the Fifth Third requirement that plaintiffs must allege
+                an available alternative. Respondents argue petitioners cannot
+                identify a single recordkeeper willing to offer the $35 rate.
+
+  NARRATIVE:    NEW_MOVE_[OPPONENT_CONCESSION_CAPTURE]
+                "Petitioners admit" is a narrative move that converts
+                petitioners' own brief into evidence against them. This goes
+                beyond CONCEDE_AND_REDIRECT (which describes one's own
+                concession). Here, respondents are capturing the other side's
+                concession and weaponizing it.
+
+  FACT-FRAMING: FOREGROUND_ABSENCE
+                The absence of a specific recordkeeper is foregrounded. What
+                petitioners did NOT allege becomes the most important fact.
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                "Specific recordkeeper that would have serviced the Plans at
+                a lower price" is quoted from petitioners' own brief (Pet. Br.
+                34). Using petitioners' own words to demonstrate the deficiency
+                of their claim.
+
+  CROSS-BRIEF INTERACTION: Responds to Petitioner Section II's process-failure
+  argument. Petitioners argued respondents should have pursued competitive
+  bidding or consolidation. Respondents counter: you cannot even name a single
+  vendor who would have charged less. The process-failure argument is hollow
+  without a concrete alternative.
+
+
+================================================================================
+CROSS-BRIEF INTERACTION SUMMARY
+================================================================================
+
+1. THE PLEADING-STANDARD BATTLE
+   Petitioners (P-II-2): The Seventh Circuit "inverted" Twombly/Iqbal by drawing
+   inferences in defendants' favor.
+   Respondents (R-IIA-1 through R-IIA-4): The standard inherently demands
+   specificity. Petitioners' complaint is simply deficient.
+   Assessment: Both sides claim the same standard supports their position. The
+   doctrinal dispute is not about which standard applies but about its
+   directionality at the motion-to-dismiss stage.
+
+2. THE RECHARACTERIZATION WAR
+   Petitioners frame the case as: excessive fees + imprudent management.
+   Respondents reframe it as: marginal cost differences + available alternatives.
+   Key terms:
+     Petitioners: "excessive," "imprudent," "failure to pursue strategies"
+     Respondents: "marginal," "isolated," "paternalistic," "naked assertion"
+   Both sides are fighting to define the vocabulary the Court will use. Whoever's
+   terminology sticks will likely win.
+
+3. THE PROCESS vs. OUTCOME SPLIT
+   Petitioners emphasize process failures (no competitive bidding, no
+   consolidation, no fee negotiation) -- P-II-4.
+   Respondents emphasize outcome deficiencies (no specific vendor named, no
+   factual basis for the $35 figure) -- R-IIB-2 through R-IIB-4.
+   These arguments talk past each other: petitioners say the process was
+   imprudent; respondents say the complaint does not plausibly allege a better
+   outcome was available.
+
+4. THE CIRCUIT-SPLIT vs. MERITS DEFLECTION
+   Petitioners (P-I-3): Respondents are conflating the split question with the
+   merits question.
+   Respondents (R-I): Reframe the duty of prudence itself, which is a merits
+   argument embedded in what should be a split discussion.
+   Petitioners correctly identify this maneuver in P-I-3.
+
+5. THE DEFERENCE FRAMING
+   Respondents (R-I-5): Cite Breyer's "at a distance" language to argue for
+   fiduciary deference.
+   Petitioners (P-II-2): Argue this deference was applied at the wrong stage --
+   it may govern substantive review but should not govern pleading sufficiency.
+   The Breyer quotation is respondents' strongest single rhetorical move in the
+   available text.
+
+
+================================================================================
+NEW MOVES IDENTIFIED
+================================================================================
+
+1. NEW_MOVE_[DIMINISHING_MODIFIER] (found in R-I-1, R-II-1)
+   Definition: Inserting adjectives or adverbs that systematically minimize the
+   significance of opposing facts or arguments. "Marginal costs differences,"
+   "isolated investment options," "paternalistic conception." These are not
+   neutral descriptors; they are calibrated to shrink the opposing claim. Differs
+   from RECHARACTERIZE in that the facts themselves are not re-described -- they
+   are modified with diminishing qualifiers that change their perceived scale.
+
+2. NEW_MOVE_[AUTHORITY_SIGNALING] (found in R-I-5)
+   Definition: Citing a case not just for its holding but for the identity of
+   its author, where the author's stature on the current Court adds persuasive
+   force beyond the legal reasoning. The parenthetical identification of the
+   judge (here, Breyer as Chief Justice) is the move itself. Standard
+   INVOKE_AUTHORITY focuses on the holding; AUTHORITY_SIGNALING focuses on who
+   said it and their current relevance.
+
+3. NEW_MOVE_[ALTERNATIVE_HOLDING_ARGUMENT] (found in R-II-1)
+   Definition: An "even if" argument that the outcome should be the same
+   regardless of which legal standard the Court adopts. Structurally similar to
+   CONSTITUTIONAL_AVOIDANCE but operates outside the constitutional context.
+   The move neutralizes the opponent's doctrinal argument by making the choice
+   of doctrine irrelevant to the outcome.
+
+4. NEW_MOVE_[OPPONENT_CONCESSION_CAPTURE] (found in R-IIB-4)
+   Definition: Identifying and foregrounding a concession made in the opposing
+   brief and deploying it as evidence against the opposing party. Differs from
+   CONCEDE_AND_REDIRECT (which describes a party's own strategic concession).
+   Here, the concession belongs to the opponent and is used offensively.
+
+5. NEW_MOVE_[REGISTER_CONTRAST] (found in R-IIB-3)
+   Definition: Deliberate shift from formal legal register to colloquial or
+   dismissive language ("plucks out of thin air," "vaguely gesturing") to signal
+   that an argument is not worthy of serious technical engagement. The contrast
+   between the surrounding formal analysis and the informal characterization is
+   itself the rhetorical device.
+
+
+================================================================================
+END OF ANNOTATIONS
+================================================================================

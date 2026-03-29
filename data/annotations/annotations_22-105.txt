@@ -1,0 +1,229 @@
+ANNOTATED STRATEGIC MOVES — DOCKET 22-105
+Coinbase, Inc. v. Bielski
+============================================================
+
+PETITIONER BRIEF (Docket22-105_Brief009.pdf)
+
+============================================================
+SECTION 1: C. Divestiture Comports With The Purpose Of Section 16 / D. Context Confirms That Divestiture Is Required / E. Divestiture Is Required In Comparable Immunity Contexts
+============================================================
+
+DOCTRINAL:
+- DISTINGUISH_PURPOSE: The central doctrinal move. Petitioner identifies the FAA's animating purpose — combating "judicial hostility to arbitration" — and then argues that allowing litigation to proceed during an arbitrability appeal is itself an expression of that hostility. This turns the FAA's purpose into a rule of construction: any interpretation that burdens arbitration is presumptively wrong.
+- NARROW_STATUTE: Reads Section 16(a) as necessarily incorporating divestiture, since Congress "authorized parties to immediately appeal the refusal to arbitrate." The statutory right to appeal is narrowed to mean a right to appeal with an automatic stay — otherwise the appeal right would be hollow.
+- ANALOGIZE: Draws a structural parallel between FAA arbitrability appeals and qualified-immunity appeals under the collateral order doctrine. Both protect a "right to avoid litigation entirely," and in the immunity context divestiture is settled. The analogy asks the Court to treat arbitration rights and immunity rights as functionally equivalent.
+- CONST_AVOIDANCE: Implicit. If allowing litigation during appeal "uniquely burdens arbitration," that outcome raises FAA preemption problems. The interpretation that avoids burdening arbitration is the one that comports with the statute's design.
+- APPLY_STANDARD: Invokes the expressio unius canon with respect to interlocutory appeal statutes. Congress included an express no-stay proviso in a statute enacted the day before Section 16(a). Congress's silence in Section 16(a) is read as intentional adoption of the divestiture default.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The argument is framed around congressional purpose. Divestiture is what Congress wanted; it's respondent who must explain away statutory design. Petitioner holds the affirmative ground throughout.
+- ESCALATE_STAKES: The class-action parenthetical does heavy lifting — "particularly class-action litigation." This escalates the practical consequences of the Ninth Circuit's rule from ordinary litigation costs to the distinctive burdens of defending a class action, which are orders of magnitude larger.
+- PREEMPTIVE_REBUTTAL: Addresses the argument that discretionary stays are sufficient by pointing to the immunity analogy. In the immunity context, no one argues that discretionary stays are adequate to protect the right to avoid trial. The same logic should apply here.
+
+FACT-FRAMING:
+- FOREGROUND: The temporal burden is foregrounded — "the many months or years it takes to complete the appeal." This makes the cost of the Ninth Circuit's rule feel concrete and ongoing.
+- RECHARACTERIZE: Allowing litigation during appeal is recharacterized as "judicial hostility to arbitration" — the very evil the FAA was enacted to prevent. What respondent frames as ordinary judicial administration, petitioner frames as statutory violation.
+- SEQUENCE: The statutory chronology is spotlighted — Congress enacted an express no-stay proviso in another interlocutory appeal statute "the day before" Section 16(a). The temporal proximity makes the inference of deliberate omission stronger.
+
+STYLISTIC:
+- COMPRESSION: Three distinct arguments (purpose, context, immunity analogy) are compressed into a single section. Each is stated with enough authority to stand alone, but their combination creates cumulative force.
+- CONCRETE_ANCHOR: The qualified-immunity analogy provides a concrete, familiar reference point for a somewhat abstract jurisdictional argument. Justices who have written qualified-immunity opinions can immediately grasp the parallel.
+- AUTHORITY_SIGNALING: The expressio unius argument — contrasting Section 16(a) with the statute enacted "the day before" — is a technically precise piece of statutory construction that signals careful legislative research.
+
+============================================================
+SECTION 2: I. AN ARBITRABILITY APPEAL DIVESTS THE DISTRICT COURT OF AUTHORITY TO PROCEED WITH LITIGATION (Roadmap)
+============================================================
+
+DOCTRINAL:
+- BROADEN_HOLDING: Characterizes Section 16(a) as granting an "immediate and unqualified right to appeal." The word "unqualified" does significant work — it forecloses any reading that would limit the appeal right by allowing litigation to continue during the appeal.
+- APPLY_STANDARD: Identifies four interpretive tools — "text, structure, purpose, and context" — and asserts that all four point in the same direction. This is a standard statutory-interpretation framework, but deploying all four at once signals confidence that no single tool is doing disproportionate lifting.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The roadmap paragraph frames divestiture as the natural, intended consequence of the statutory text. Petitioner is not asking for a new rule; petitioner is asking the Court to recognize what Congress already enacted.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Orders denying motions to compel arbitration are described as "threshold refusals to arbitrate." This recharacterizes the district court's denial from a routine procedural ruling into a jurisdictional affront — the court refused to honor a threshold contractual right.
+
+STYLISTIC:
+- COMPRESSION: The entire opening argument is compressed into a single short paragraph. This is deliberate — the roadmap signals that petitioner's position is straightforward and that the supporting analysis will do the detailed work.
+- CADENCE_SHIFT: The brevity of this roadmap, compared to the dense analysis that follows, creates a cadence shift — a clean, confident thesis statement before the supporting architecture unfolds.
+
+============================================================
+SECTION 3: A. The FAA's Text Requires Divestiture During An Arbitrability Appeal
+============================================================
+
+DOCTRINAL:
+- APPLY_STANDARD: The core statutory-interpretation move. Petitioner reads the word "appeal" in Section 16(a) against the "backdrop of the divestiture rule." The argument is that "appeal" is a legal term of art that carries divestiture consequences with it — Congress didn't need to say "appeal with divestiture" because divestiture is what "appeal" already means.
+- INVOKE_AUTHORITY: The background-principles canon is invoked through 9 U.S.C. Section 16(a)(1)(C) and the general divestiture rule. Petitioner is positioning the divestiture rule as the default against which Congress legislated, making the burden fall on respondent to show Congress intended to depart from it.
+- BROADEN_STATUTE: Reads Section 16(a) as encompassing not just the text's grant of appeal rights, but also the entire body of divestiture principles that attach to any appeal. The statute is broadened from a grant of appellate jurisdiction to a grant of appellate jurisdiction plus automatic stay.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Divestiture is presented as the automatic consequence of what Congress did, not something Congress separately had to provide for. This keeps petitioner on the affirmative — they are explaining what the law already is.
+
+FACT-FRAMING:
+- FOREGROUND: The statutory text — "appeal" and "denying an application to compel arbitration" — is placed front and center and quoted directly. The argument rests on close reading, and petitioner wants the Court to look at the actual words.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: Direct quotation of the statutory text, followed by the U.S. Code citation, signals textualist fidelity. Petitioner is anchoring the argument in the statute itself before layering on structural and purposive reasoning.
+
+============================================================
+SECTION 4: 1. The Divestiture Rule Prevents District Courts From Proceeding To The Merits While An Arbitrability Appeal Proceeds
+============================================================
+
+DOCTRINAL:
+- INVOKE_AUTHORITY: The section opens with Griggs — the same case respondent relies on — and quotes its foundational statement of the divestiture rule. By leading with Griggs, petitioner claims the case as support rather than conceding the ground to respondent.
+- BROADEN_HOLDING: Griggs held that appeal is "an event of jurisdictional significance" that "divests the district court of its control over those aspects of the case involved in the appeal." Petitioner reads "aspects of the case involved in the appeal" broadly to encompass merits proceedings, not just the specific order under review.
+- APPLY_STANDARD: Lays out the scope of retained jurisdiction — matters "genuinely collateral" to the appeal, orders "in aid of" appellate jurisdiction, status quo preservation. By defining what district courts can do during an appeal, petitioner implicitly defines what they cannot: proceed to the merits.
+- ANALOGIZE: Invokes multiple circuit court formulations of the divestiture rule (Bradford-Scott, Doe v. Public Citizen, Wolfe v. Clarke) to show that the principle is not contested — the circuits agree on the rule itself, even where they disagree on its application to FAA appeals.
+- DISTINGUISH: Carefully distinguishes retained jurisdiction (collateral matters, status quo orders, aid-of-appellate-jurisdiction orders) from the prohibited category (proceeding on the merits). This preempts respondent's argument that the divestiture rule already accounts for severability.
+
+NARRATIVE:
+- ESCALATE_STAKES: The divestiture rule is described as "fundamental to a hierarchical judiciary" (quoting Easterbrook). This elevates the argument from statutory interpretation to structural constitutional principle — rejecting divestiture doesn't just misread a statute, it threatens the judicial hierarchy.
+- PREEMPTIVE_REBUTTAL: Anticipates the objection that district courts retain some authority during appeals and addresses it head-on — yes, they retain authority over collateral matters, but merits proceedings are not collateral to an arbitrability appeal.
+
+FACT-FRAMING:
+- FOREGROUND: The risk of "confusion and inefficiency" from simultaneous jurisdiction, and the risk of "inconsistent results," are foregrounded as the practical evils the divestiture rule prevents.
+- SEQUENCE: Builds from general principle (Griggs) to supporting rationales (judicial economy, consistency) to exceptions (collateral matters) to application. Each step narrows the frame toward petitioner's conclusion.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Multiple quotations from Griggs, Bradford-Scott, and Wright & Miller are deployed not for their content alone but for their source authority. Easterbrook's name is parenthetically noted — a signal to textualist Justices.
+- AUTHORITY_SIGNALING: The citation of Wright & Miller's Federal Practice and Procedure, Shapiro's Supreme Court Practice, and multiple circuit court opinions creates a dense web of supporting authority. The density signals that the divestiture rule is black-letter law, not a contested proposition.
+- PARALLEL_STRUCTURE: The exceptions to divestiture are listed in parallel form — "conduct[ing] proceedings looking toward permanent injunctive relief," "award[ing] costs and attorneys' fees," modifying injunctions to preserve "status quo." The parallelism makes the exceptions feel finite and well-defined, leaving no room for respondent's preferred exception.
+
+============================================================
+SECTION 5: 2. Section 16(a) Codifies The Divestiture Rule For Arbitrability Appeals
+============================================================
+
+DOCTRINAL:
+- INVOKE_AUTHORITY: Invokes the "background principles" canon — Congress legislates against the backdrop of this Court's decisions (North Star Steel, Merck, Edelman). This is the doctrinal engine of petitioner's textual argument: because divestiture was settled law in 1988, Congress's use of the word "appeal" in Section 16(a) incorporated divestiture automatically.
+- ANALOGIZE: Hall v. Hall is the key analogy. There, the Court interpreted Rule 42(a)'s consolidation practice "in accordance with the long 'legal lineage' that predated Rule 42's enactment." Petitioner asks the Court to do the same thing here — read Section 16(a) in accordance with the divestiture rule that predated it.
+- APPLY_STANDARD: The argument structure is syllogistic. Major premise: Congress legislates against the backdrop of this Court's decisions. Minor premise: the divestiture rule was well established when Congress enacted Section 16(a) in 1988 (citing Griggs (1983) and Marrese (1985)). Conclusion: Congress intended Section 16(a) to incorporate divestiture.
+- BROADEN_STATUTE: Section 16(a) is read to "codify" the divestiture rule for arbitrability appeals — a verb that implies Congress affirmatively enacted divestiture as part of the statute, not merely that divestiture applies by default.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Petitioner presents this as straightforward statutory interpretation — Congress knew what "appeal" meant and legislated accordingly. The frame makes respondent's position appear to require the Court to assume Congress was ignorant of its own legal backdrop.
+- FRAME_AS_ERROR: Implicit. Any court that reads Section 16(a) without divestiture is misreading the statute by ignoring the established legal backdrop against which Congress acted.
+
+FACT-FRAMING:
+- SEQUENCE: The chronological sequencing is precise — Griggs was decided in 1983, Marrese in 1985, Section 16(a) was enacted in 1988. The three-year and five-year gaps are short enough that Congress is presumed to have been aware of both decisions.
+- FOREGROUND: Hall v. Hall receives extended treatment as a unanimous decision that applied the same interpretive methodology petitioner advocates. The unanimity is foregrounded — this approach commanded nine votes.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: The citation density is high even by Supreme Court brief standards. North Star Steel, Merck, Edelman, Griggs, Marrese, Hall v. Hall, Sebelius v. Auburn Regional Medical Center, Henderson v. Shinseki — the volume of precedent signals that petitioner's interpretive methodology is unremarkable.
+- STRATEGIC_QUOTATION: Hall v. Hall's language — "did not purport to alter the settled understanding" — is quoted because it maps directly onto petitioner's argument. Section 16(a) did not purport to alter the settled understanding of divestiture. The quotation does the argumentative work.
+- CONCRETE_ANCHOR: The specific dates (1983 for Griggs, 1985 for Marrese, 1988 for Section 16(a)) make the background-principles argument feel grounded in legislative history rather than abstract canon.
+
+
+RESPONDENT BRIEF (Docket22-105_Brief004.pdf)
+
+============================================================
+SECTION 1: I. THE COURT SHOULD GRANT CERTIORARI BECAUSE THE CIRCUIT SPLIT IS CLEAR AND CONSEQUENTIAL
+============================================================
+
+DOCTRINAL:
+- NARROW_HOLDING: Respondent reads Griggs narrowly — courts have "interpreted" Griggs differently, but the case itself does not dictate an automatic divestiture rule for FAA appeals. The holding addressed only the specific situation of simultaneous jurisdiction over the same judgment, not the severability of arbitrability from merits.
+- APPLY_TO_FACTS: Applies the FAA's own text — 9 U.S.C. Section 3 — against petitioner's position. Section 3 requires stays "only where district courts themselves are 'satisfied that the issue involved in such suit or proceeding is referable to arbitration.'" This textual argument reframes the stay question as one Congress committed to district court discretion, not automatic operation.
+- BURDEN_SHIFT: Reframes who holds the presumptive right after denial of a motion to compel. Petitioner treats the appellant as holding a "presumptive right to arbitrate"; respondent counters that after a denial, the "presumptive right should be an appellee's decided right to litigate." This shifts the default from stay to no-stay.
+- JURISDICTIONAL_REFRAME: The circuit split itself is recharacterized as a disagreement about the meaning of Griggs, not a disagreement about the FAA's text. This subtly lowers the stakes — the circuits agree on the underlying statute; they disagree about how to read a precedent, which is a more routine problem.
+
+NARRATIVE:
+- CONCEDE_REDIRECT: Respondent concedes the circuit split exists and is "important," then redirects: the importance cuts both ways. The variance in litigants' rights hurts appellees as much as appellants. By conceding cert-worthiness, respondent avoids wasting credibility on a losing procedural argument and moves directly to the merits.
+- AFFIRMATIVE_FRAME: Respondent reframes the appellee's position as the one Congress protected. The FAA's text gives district courts discretion over stays, and when a district court denies arbitration, the appellee has a "decided right to litigate." Petitioner's automatic-stay rule strips appellees of that right without any statutory basis.
+- PREEMPTIVE_REBUTTAL: Acknowledges cases where discretionary-stay standards "caused appellants to litigate temporarily, when they should have been enjoying 'the benefits of private dispute resolution.'" But this concession is calibrated — it admits the cost of the status quo while arguing that an automatic rule creates worse costs.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Petitioner's "presumptive right to arbitrate" is recharacterized as a litigation tactic — Coinbase "focuses only on the appellant's side of a case, as if every appellant has some 'presumptive' right to arbitrate." The scare quotes around "presumptive" signal that respondent views this framing as manufactured.
+- OPPONENT_CONCESSION_CAPTURE: Captures Coinbase's own concession (Pet. 21-24) that discretionary stays have sometimes worked unfairly, then deploys it as evidence that the system needs refinement, not revolution.
+- FOREGROUND: The FAA's text — "satisfied that the issue involved in such suit or proceeding is referable to arbitration" — is quoted directly to foreground Congress's actual words. The textual argument puts petitioner in the position of arguing against the statute's plain language.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: The quotation of Section 3's "satisfied" language is the section's most potent stylistic move. It puts into the Court's mind the FAA's own framework for stays — one that depends on judicial satisfaction, not automatic operation.
+- REGISTER_CONTRAST: Respondent writes in a practical, even-handed register that acknowledges legitimate concerns on both sides. This contrasts with petitioner's more assertive, one-directional tone and positions respondent as the reasonable party seeking a balanced rule.
+- UNDERSTATED_DEVASTATION: "Such presumptive rights to arbitrate or to stay a suit, regardless of any district court's findings or decisions, contravenes the FAA's text." The sentence is calm, but its content is damaging — it accuses petitioner of arguing against the statute's own language.
+
+CROSS-BRIEF INTERACTION: Directly engages petitioner's framing of who holds the default right. Petitioner (Sections 1-2) frames divestiture as protecting the appellant's right to arbitrate. Respondent flips the default — after denial, the appellee holds the "decided right to litigate." The section also deploys the FAA's own stay provision (Section 3) against petitioner, a text petitioner conspicuously avoids in its brief.
+
+============================================================
+SECTION 2: A. Griggs Does Not Support the Majority View
+============================================================
+
+DOCTRINAL:
+- NARROW_HOLDING: The central doctrinal move. Respondent reads Griggs as addressing only the situation where "a district court and a court of appeals would be simultaneously analyzing the same judgment." Since an arbitrability ruling and a merits proceeding involve different questions, Griggs' jurisdictional concern does not arise.
+- DISTINGUISH: Distinguishes Griggs from the FAA context on two grounds: (1) Griggs involved the same judgment being reviewed by two courts simultaneously; FAA appeals involve different issues (arbitrability vs. merits). (2) Griggs did not address jurisdictional severability; Moses H. Cone did, and it held that arbitrability is "easily severable from the merits."
+- ANALOGIZE: Moses H. Cone is deployed as the controlling analogy. There, the Court held that arbitrability is "easily severable" from the merits for jurisdictional purposes. Respondent extends this: if the issues are severable going up (for purposes of interlocutory appeal), they are severable going down (for purposes of retained district court jurisdiction).
+- BROADEN_HOLDING: Broadens Moses H. Cone's severability holding. The Court said a "refusal to adjudicate the merits plainly represents an important issue separate from the merits." Respondent extends this — if refusal to adjudicate is separate from the merits, then the decision to adjudicate is equally separate. This logical extension is clean but requires the Court to apply Moses H. Cone's reasoning beyond its original context.
+- APPLY_TO_FACTS: Applies Moses H. Cone's severability principle directly: "a court of appeals' review of that decision" (whether to arbitrate) does not require the district court to stop adjudicating the merits, because the two inquiries are jurisdictionally independent.
+
+NARRATIVE:
+- FRAME_AS_ERROR: The majority circuit view is framed as a misreading of Griggs — those circuits "applied" Griggs but misunderstood what Griggs actually held. The error is not in the circuits' choice of authority but in their interpretation of that authority.
+- AFFIRMATIVE_FRAME: Moses H. Cone, not Griggs, is framed as the relevant precedent for FAA appeals. Respondent claims the affirmative doctrinal ground — the Court's own FAA precedent supports severability, which supports continued district court jurisdiction over the merits.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Griggs is recharacterized from a general divestiture case into a narrow procedural holding about simultaneous review of the "same judgment." This strips Griggs of the broad jurisdictional significance petitioner attributes to it.
+- FOREGROUND: Moses H. Cone's "easily severable" language is given prominence — it is the factual and doctrinal centerpiece of respondent's argument. The word "easily" does important work; it implies that the severability question is not even close.
+- SEQUENCE: Respondent's sequence is deliberate — first narrow Griggs, then introduce Moses H. Cone as the FAA-specific precedent, then apply Moses H. Cone's severability principle. Each step is designed to displace Griggs from the center of the analysis and replace it with a case respondent controls.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Three key quotations carry the argument: Griggs' "simultaneously analyzing the same judgment" (to narrow its holding), Moses H. Cone's "easily severable from the merits" (to establish severability), and Coopers & Lybrand's "completely separate from the merits" (to reinforce the point through a second source).
+- UNDERSTATED_DEVASTATION: "Griggs did not address the FAA, nor did it address the jurisdictional severability of arbitrability and merits decisions." Two short declarative sentences that strip petitioner's primary authority of its relevance. The simplicity makes the point harder to rebut.
+- AUTHORITY_SIGNALING: Citing Moses H. Cone — a SCOTUS FAA case decided the same Term as Griggs — signals that respondent is not reaching for distant precedent. The Court's own FAA jurisprudence supports respondent's position.
+
+CROSS-BRIEF INTERACTION: This section is a direct response to petitioner's Sections 4-5, which build the entire textual argument on Griggs and the background-principles canon. Respondent's counter-move is to narrow Griggs to its facts and substitute Moses H. Cone — a case petitioner does not engage — as the controlling precedent. Petitioner treats Griggs as establishing a general divestiture rule that Congress incorporated; respondent treats Griggs as a narrow procedural holding that says nothing about FAA appeals. The two briefs are reading the same case and reaching opposite conclusions about its scope.
+
+============================================================
+SECTION 3: B. The Majority View Is Imprudent Because It Imposes Substantial Inefficiencies on Litigants and District Courts
+============================================================
+
+DOCTRINAL:
+- NARROW_HOLDING: Applies Griggs' own language — divestiture reaches only "those aspects of the case involved in the appeal" — and reads "aspects" narrowly. The only "aspect" involved in Coinbase's appeal is the arbitrability of Coinbase's claims. Claims against co-defendants like Marden-Kane are categorically outside the appeal's scope.
+- APPLY_TO_FACTS: The Marden-Kane argument is the section's sharpest doctrinal move. Coinbase's arbitrability appeal has nothing to do with claims against Marden-Kane, a non-moving, non-appealing defendant. Even under the majority's jurisdictional theory, the district court retains jurisdiction over those claims. Petitioner's rule would stay claims that no party to the appeal has any interest in staying.
+- JURISDICTIONAL_REFRAME: Reframes the jurisdictional analysis from case-level to claim-level. Federal courts determine jurisdiction "on a claim-by-claim basis," not case by case. This claim-level analysis means an arbitrability appeal over one defendant's claims cannot divest jurisdiction over another defendant's claims.
+- DISTINGUISH: Distinguishes the majority-view circuits from their own stated rule. Even the Seventh Circuit (Bradford-Scott) recognizes that district courts retain merits jurisdiction over claims against non-moving, non-appealing defendants. The majority rule already contains the severability principle respondent advocates — it just applies it inconsistently.
+
+NARRATIVE:
+- FRAME_AS_ERROR: The majority view is framed not just as legally wrong but as "imprudent" — it creates "substantial inefficiencies" for litigants and courts. The header itself makes the policy argument before the doctrinal analysis begins.
+- ESCALATE_STAKES: The Marden-Kane example escalates the practical consequences of petitioner's rule. An automatic stay wouldn't just pause arbitration-related proceedings — it would freeze claims against co-defendants who have nothing to do with the arbitration dispute. The inefficiency is not theoretical; it is demonstrated by the facts of this case.
+- AFFIRMATIVE_FRAME: Respondent positions the claim-by-claim jurisdictional analysis as established law (Santiago-Lugo, Stop Reckless Economic Instability). Petitioner's case-level approach is the departure from settled principle.
+
+FACT-FRAMING:
+- FOREGROUND: The Marden-Kane facts are foregrounded because they expose the overbreadth of petitioner's rule in the starkest possible terms. When Coinbase noticed its appeal, "there was no argument before any court that any party could arbitrate the claims pending against Marden-Kane." Those claims "were, are, and will forever remain wholly unaffected by Coinbase's interlocutory appeal."
+- RECHARACTERIZE: Petitioner's "jurisdictional" theory is recharacterized as a theory that produces absurd results — it would require staying claims that have no connection to the appeal. The recharacterization turns a structural argument into a reductio.
+- OPPONENT_CONCESSION_CAPTURE: Captures the Seventh Circuit's concession (Bradford-Scott, the leading majority-view case) that district courts retain jurisdiction over claims against non-appealing defendants. If the most pro-divestiture circuit recognizes this exception, the majority rule already contains the severability principle that respondent advocates.
+
+STYLISTIC:
+- CONCRETE_ANCHOR: Marden-Kane is a concrete, specific example that makes the abstract jurisdictional argument tangible. The Court can see the actual claims, the actual parties, and the actual absurdity of staying proceedings that have nothing to do with the appeal.
+- UNDERSTATED_DEVASTATION: "Coinbase fails to explain why the Suski District Court must stay Suski Respondents' claims against Marden-Kane on 'jurisdictional' grounds or any other grounds." The sentence identifies a gap in petitioner's argument — not a weakness in their reasoning, but a complete absence of reasoning on this point.
+- STRATEGIC_QUOTATION: The scare quotes around "jurisdictional" signal respondent's view that petitioner's invocation of jurisdiction is rhetorical rather than substantive. Jurisdiction is being used as a label to dress up what is really a policy preference for automatic stays.
+- PARALLEL_STRUCTURE: The Marden-Kane claims "were, are, and will forever remain wholly unaffected" — the three-tense construction emphasizes that no temporal frame makes petitioner's argument work.
+
+CROSS-BRIEF INTERACTION: This section attacks petitioner's argument at its most vulnerable point — the multi-defendant case. Petitioner's Sections 2-5 frame divestiture as a binary question (does an arbitrability appeal divest the district court or not?). Respondent's Marden-Kane argument demonstrates that the question cannot be binary — even under petitioner's rule, some claims must proceed. If some claims are severable from the arbitrability appeal, the principle of severability itself is conceded, and the only question is where to draw the line. Respondent is also turning petitioner's own authority (Bradford-Scott) against petitioner by showing that the leading majority-view case already recognizes the severability principle respondent advocates.
+
+
+============================================================
+CROSS-BRIEF INTERACTION SUMMARY
+============================================================
+
+1. THE BATTLE OVER GRIGGS
+Both briefs treat Griggs v. Provident Consumer Discount Co. as the pivotal precedent, but they read it in opposite directions. Petitioner (Sections 4-5) reads Griggs as establishing a general divestiture principle that Congress incorporated when it enacted Section 16(a) in 1988. The word "appeal" carries divestiture with it as a background legal principle. Respondent (Section 2) reads Griggs as a narrow holding about simultaneous review of "the same judgment" — a situation that does not arise when arbitrability and merits are separate questions. The case is functionally a dispute over Griggs' scope, and the Court will have to decide whether Griggs states a general rule or a fact-specific holding.
+
+2. THE SEVERABILITY QUESTION
+Petitioner's argument depends on treating arbitrability and merits as inseparable for jurisdictional purposes — an arbitrability appeal divests the district court of authority over the merits because the merits are "involved in" the appeal. Respondent counters with Moses H. Cone, which held that arbitrability is "easily severable from the merits of the underlying disputes." This is the doctrinal axis of the case. Petitioner never directly engages Moses H. Cone's severability language, which is a conspicuous gap. Respondent exploits that gap by making Moses H. Cone the centerpiece of its argument in Section 2.
+
+3. WHO HOLDS THE DEFAULT RIGHT
+Petitioner frames the appellant as holding a presumptive right to avoid litigation — the right to arbitrate. Any rule that subjects the appellant to litigation during appeal violates that right. Respondent flips the default (Section 1): after a district court denies arbitration, the appellee holds "an appellee's decided right to litigate." Both sides claim the presumptive position, and each frames the other as the party seeking to override a settled right. Respondent's invocation of Section 3's "satisfied" language — the FAA's own stay provision — gives this reframing textual support that petitioner lacks.
+
+4. THE MARDEN-KANE PROBLEM
+Respondent's most effective concrete argument (Section 3) is the multi-defendant problem. In the actual case, Coinbase's arbitrability appeal has no bearing on claims against co-defendant Marden-Kane. Even under petitioner's rule, those claims would have to proceed. But petitioner's brief frames the question in binary terms (divestiture or no divestiture) and does not address the multi-defendant scenario. Respondent uses this gap to argue that petitioner's rule produces absurd results — and that even the leading majority-view circuit (Bradford-Scott) recognizes the severability principle that respondent advocates. The Marden-Kane facts function as a reductio ad absurdum of petitioner's categorical rule.
+
+5. THE IMMUNITY ANALOGY vs. THE FAA'S OWN TEXT
+Petitioner's strongest structural argument (Section 1) is the qualified-immunity analogy: immunity appeals produce automatic divestiture because they protect a right to avoid litigation entirely, and arbitration appeals protect the same kind of right. Respondent's strongest textual counter (Section 1) is the FAA's own stay provision in Section 3, which conditions stays on the district court being "satisfied" that the dispute is referable to arbitration. The two arguments pass each other — petitioner reasons by structural analogy to immunity law, while respondent reasons from the FAA's internal structure. The Court will have to decide whether the immunity analogy or the FAA's text controls.
+
+6. THE EXPRESSIO UNIUS ARGUMENT
+Petitioner (Section 1) argues that Congress enacted an express no-stay proviso in a statute passed "the day before" Section 16(a), and its silence in Section 16(a) is evidence that divestiture applies by default. Respondent does not directly address this legislative-context argument in the sections provided. This is a gap in respondent's brief — the expressio unius inference from same-session legislation is a strong form of the argument, and respondent's failure to engage it leaves petitioner's point standing.
+
+
+============================================================
+NEW MOVES
+============================================================
+
+NEW_MOVE_REDUCTIO_BY_EXAMPLE: Respondent uses the specific facts of the multi-defendant posture (claims against Marden-Kane) not as a fact-framing exercise but as a logical reductio. The move takes petitioner's categorical rule, applies it to facts that expose its overbreadth, and uses the resulting absurdity to undermine the rule itself. This differs from APPLY_TO_FACTS (which tests a rule against facts to show it works) and DISTINGUISH (which separates this case from the rule). Here, respondent applies petitioner's rule to the case's own facts to show the rule fails on its own terms. The move combines factual specificity with logical argumentation in a way that does not map cleanly onto the existing taxonomy.

@@ -1,0 +1,233 @@
+ANNOTATED STRATEGIC MOVES — CASE 21-806
+Health & Hospital Corp. of Marion County v. Talevski
+Taxonomy v0.3 (40 moves, 4 layers)
+
+==============================================================================
+PETITIONER BRIEF (Docket21-806_Brief002.pdf)
+==============================================================================
+
+--- Section 1: II. QUESTION TWO SHOULD BE GRANTED ---
+
+ARGUMENT UNIT 1: Respondent's silence on Justice criticisms of Wilder
+Text: "Respondent conspicuously fails to address the opinions of several Justices calling Wilder seriously into question."
+
+  DOCTRINAL: INVOKE_AUTHORITY — Relies on individual Justices' expressed skepticism toward Wilder to argue the precedent is already eroding from within the Court itself.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Opens by attacking what Respondent did not say, putting Respondent on the defensive before the merits are even reached.
+  FACT-FRAMING: FOREGROUND_ABSENCE — The word "conspicuously" highlights Respondent's omission as itself a telling fact, treating silence as an admission.
+  STYLISTIC: UNDERSTATED_DEVASTATION — "Conspicuously fails to address" is a controlled accusation; it imputes evasion without calling Respondent dishonest outright.
+
+ARGUMENT UNIT 2: No circuit conflict is unsurprising given Wilder's binding force
+Text: "Respondent observes (BIO 7-8) that there is no circuit conflict... Quelle surprise. Unless and until this Court changes course on the first question presented, no lower court, state or federal, can be expected to do so."
+
+  DOCTRINAL: STARE_DECISIS_SHIELD — Turns the absence of a circuit split from a weakness into a structural artifact of vertical stare decisis. Lower courts cannot split because they are bound.
+  NARRATIVE: CONCEDE_AND_REDIRECT — Concedes the factual point (no split exists) but recharacterizes it as irrelevant. The concession is tactical rather than substantive.
+  FACT-FRAMING: RECHARACTERIZE — Reframes what Respondent presented as evidence of settled law into evidence that the system is locked in place by hierarchy, not by correctness.
+  STYLISTIC: REGISTER_CONTRAST — "Quelle surprise" drops a sardonic foreign phrase into otherwise formal legal prose, signaling that Respondent's argument is so obvious it barely merits serious engagement.
+
+ARGUMENT UNIT 3: Blessing/Gonzaga test is unworkable
+Text: "the multi-factor test this Court set forth in Blessing, and seemingly narrowed in Gonzaga... has in fact proven 'unworkable.'"
+
+  DOCTRINAL: BROADEN_HOLDING — Argues the doctrinal framework downstream of Wilder has generated confusion, not clarity, extending the critique beyond Wilder itself to the entire analytical apparatus.
+  NARRATIVE: FRAME_AS_ERROR — Positions Blessing/Gonzaga not as evolving doctrine but as a failed experiment producing incoherent outcomes across circuits.
+  FACT-FRAMING: FOREGROUND — Emphasizes intra-circuit and inter-circuit disagreements about which test to apply, foregrounding disorder as the dominant factual reality.
+  STYLISTIC: AUTHORITY_SIGNALING — Marshals multiple circuit court opinions (including a concurrence published "just this month") to create a sense of live, ongoing dysfunction.
+
+ARGUMENT UNIT 4: Judge Richardson's concurrence as a call for certiorari
+Text: "Circuit Judge Richardson reiterated his concern that Gonzaga may have 'laid down a different test than Wilder and Blessing'; that this Court has not squarely stated which of those tests (if either) should be applied; and that he was therefore 'left hoping that clarity will soon be provided.'"
+
+  DOCTRINAL: INVOKE_AUTHORITY — Uses a sitting circuit judge's own words to argue that the lower courts need guidance. The authority is both personal (a named judge) and institutional (a federal appellate court).
+  NARRATIVE: ESCALATE_STAKES — Frames the confusion not as academic disagreement but as a live plea from the judiciary for intervention.
+  FACT-FRAMING: STRATEGIC_QUOTATION (cross-layer) — Selects Richardson's language ("left hoping") to cast the lower courts as stranded, waiting for rescue.
+  STYLISTIC: STRATEGIC_QUOTATION — Direct quotation from a recent concurrence creates immediacy and urgency. The recency ("just this month") amplifies the signal.
+
+ARGUMENT UNIT 5: "The center cannot hold"
+Text: "Members of this Court have likewise recognized that the center cannot hold."
+
+  DOCTRINAL: STARE_DECISIS_SHIELD — Argues stare decisis should not protect Wilder because the Court's own members have signaled the doctrine is unstable.
+  NARRATIVE: ESCALATE_STAKES — The Yeats allusion ("the center cannot hold") implies the current framework is approaching collapse, not merely in need of refinement.
+  FACT-FRAMING: FOREGROUND — Highlights dissenting and concurring opinions of sitting Justices to suggest internal momentum toward overruling.
+  STYLISTIC: CONCRETE_ANCHOR — The literary allusion functions as a rhetorical anchor. It compresses a complex doctrinal argument (multiple Justices across multiple cases have questioned Wilder) into a single memorable phrase.
+
+--- Section 2: III. THIS CASE IS AN IDEAL VEHICLE TO RESOLVE BOTH QUESTIONS PRESENTED ---
+
+ARGUMENT UNIT 6: Interlocutory posture is not a valid vehicle objection
+Text: "Respondent contends, finally, that the Court should deny review because the case is 'interlocutory' and Petitioners could still prevail... This 'vehicle' objection is insubstantial."
+
+  DOCTRINAL: ANALOGIZE — Draws a structural analogy to qualified immunity, where interlocutory review is routine and the possibility of prevailing on the merits has never been a barrier.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Addresses and dismisses the vehicle objection head-on, labeling it "insubstantial" before unpacking the reasons.
+  FACT-FRAMING: RECHARACTERIZE — Reframes Respondent's "interlocutory" label as a generic feature of all threshold legal defenses, stripping it of special force.
+  STYLISTIC: COMPRESSION — "This 'vehicle' objection is insubstantial" is a single-sentence dismissal that sets the tone before the detailed argument follows.
+
+ARGUMENT UNIT 7: Qualified immunity analogy
+Text: "Government officials, for example, may assert qualified immunity defenses; the mere fact that such officials, if forced to defend on the merits, might ultimately prevail has not dissuaded this Court from granting review of the threshold legal issue."
+
+  DOCTRINAL: ANALOGIZE — Qualified immunity is the closest structural parallel: a threshold defense that this Court routinely reviews on interlocutory appeal. The analogy is tight because both defenses serve to spare defendants from litigation costs.
+  NARRATIVE: AGREEMENT_TRAP — If Respondent accepts the qualified immunity analogy (which is well-established), it becomes difficult to argue that the same logic should not apply here.
+  FACT-FRAMING: SEQUENCE — Lines up a series of qualified immunity cases (Ashcroft v. Al-Kidd, Wilkie v. Robbins, Pearson v. Callahan, Harlow v. Fitzgerald) to show a consistent pattern of interlocutory review.
+  STYLISTIC: AUTHORITY_SIGNALING — Five Supreme Court citations in rapid succession, spanning three decades, signal that the analogy is not cherry-picked but deeply rooted.
+
+ARGUMENT UNIT 8: States should not litigate based on a "fictitious" right
+Text: "States should not be required to absorb the costs and uncertainties of merits litigation based on a 'right' that is fictitious."
+
+  DOCTRINAL: BURDEN_SHIFT — Reframes the question from whether Petitioners can win later to whether they should have to defend at all. Shifts the burden to Respondent to justify forcing litigation under a contested right.
+  NARRATIVE: ESCALATE_STAKES — "Fictitious" is a strong word choice. It does not say the right is "disputed" or "uncertain" — it says the right does not exist.
+  FACT-FRAMING: RECHARACTERIZE — The word "fictitious" recharacterizes the § 1983 right that Respondent asserts as something invented rather than discovered in the statute.
+  STYLISTIC: UNDERSTATED_DEVASTATION — Placing "right" in scare quotes while calling it "fictitious" delivers a pointed critique in compact form.
+
+ARGUMENT UNIT 9: Federalism concerns with judicial modification of federal-state bargains
+Text: "this Court has repeatedly noted the federalism concerns that are implicated when a federal-state bargain is modified by the courts."
+
+  DOCTRINAL: DISTINGUISH_PURPOSE — Invokes Pennhurst's contract theory of Spending Clause legislation. If the federal-state relationship is contractual, courts should not add terms (like § 1983 enforcement) that the parties did not agree to.
+  NARRATIVE: ESCALATE_STAKES — Raises the argument from a procedural vehicle question to a structural federalism concern, broadening the frame significantly.
+  FACT-FRAMING: FOREGROUND — Pulls Pennhurst's language about states "voluntarily and knowingly" accepting conditions to the surface, positioning it as the governing principle.
+  STYLISTIC: STRATEGIC_QUOTATION — Quotes Pennhurst directly to ground the federalism argument in the Court's own precedent rather than in Petitioner's characterization.
+
+==============================================================================
+RESPONDENT BRIEF (Docket21-806_Brief006.pdf)
+==============================================================================
+
+--- Section 1: I. FNHRA's Rights Against Chemical Restraint and Involuntary Discharge and Transfer Are Enforceable Under § 1983 ---
+
+ARGUMENT UNIT 10: FNHRA as an unmistakable rights-creating statute
+Text: "It is hard to imagine a more unambiguous rights-creating statute than FNHRA."
+
+  DOCTRINAL: APPLY_STANDARD — Applies the Blessing/Gonzaga "unambiguously conferred rights" standard and argues FNHRA passes it with room to spare. The argument is that the test, properly applied, yields a clear answer here.
+  NARRATIVE: AFFIRMATIVE_FRAME — Rather than responding defensively to the stare decisis attack on Wilder, Respondent goes on offense: FNHRA is so obviously rights-creating that the doctrinal question answers itself.
+  FACT-FRAMING: FOREGROUND — Piles up textual features: "bill of rights," oral and written notification requirements, statutory references to "rights" and "legal rights," transfer of rights to guardians, mandatory "must" language.
+  STYLISTIC: COMPRESSION — "It is hard to imagine a more unambiguous rights-creating statute" front-loads the conclusion. Everything that follows is evidence for a point already stated with confidence.
+
+ARGUMENT UNIT 11: Cataloging FNHRA's rights-creating features
+Text: "Residents must be notified repeatedly of these rights, the rights are part of a 'bill of rights,' provided orally and in writing to each resident (often posted on the wall of the facility, as they were at VCR), the statute repeatedly refers to them as 'rights,' the rights are specifically described as 'legal rights,' and the statute provides that these rights pass to a resident's guardian if he becomes incompetent."
+
+  DOCTRINAL: APPLY_TO_FACTS — Walks through the statutory text feature by feature, mapping each onto the Blessing factors.
+  NARRATIVE: ESCALATE_STAKES — The accumulation of features is designed to make any contrary reading look absurd. Each additional feature raises the cost of disagreement.
+  FACT-FRAMING: FOREGROUND — Strategic selection and ordering of textual features. The parenthetical "(often posted on the wall of the facility, as they were at VCR)" grounds the abstract statutory text in a physical, concrete image.
+  STYLISTIC: PARALLEL_STRUCTURE — The series of comma-separated clauses, each beginning with a reference to "rights," creates a rhythmic accumulation effect.
+
+ARGUMENT UNIT 12: FNHRA's enforcement gap proves § 1983 is necessary
+Text: "FNHRA offers no path to federal judicial review for rights violations and no federal accountability mechanism for individual rights violations at all; instead, in its savings clause, it explicitly preserves access to other federal remedies outside FNHRA."
+
+  DOCTRINAL: CONST_AVOIDANCE — Implicitly argues that reading FNHRA as lacking any individual enforcement mechanism would raise serious due process and constitutional concerns (rights without remedies).
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Anticipates the argument that Congress provided its own enforcement scheme. The rebuttal: Congress provided no individual enforcement scheme, and affirmatively preserved external remedies like § 1983.
+  FACT-FRAMING: FOREGROUND_ABSENCE — The absence of a federal enforcement path becomes affirmative evidence that Congress intended § 1983 to fill the gap.
+  STYLISTIC: CADENCE_SHIFT — The sentence pivots from the negative ("no path... no federal accountability mechanism... at all") to the affirmative ("instead... explicitly preserves"), creating a rhetorical turn.
+
+ARGUMENT UNIT 13: Congress enacted FNHRA because regulation alone was inadequate
+Text: "There would have been no reason to enact FNHRA if regulatory enforcement was adequate, because there already were regulations. Congress wanted more."
+
+  DOCTRINAL: DISTINGUISH_PURPOSE — Distinguishes between regulatory enforcement (which already existed) and statutory rights creation (which FNHRA added), arguing that the statute must be doing something that regulation alone could not.
+  NARRATIVE: AFFIRMATIVE_FRAME — Positions Congress as acting deliberately and purposefully, not redundantly.
+  FACT-FRAMING: SEQUENCE — Arranges the timeline: regulations first, then FNHRA. The sequence makes the statutory enactment look like an intentional escalation.
+  STYLISTIC: COMPRESSION — "Congress wanted more." Three words carry the weight of the entire legislative-purpose argument.
+
+--- Section 2: A. Rights protected by Spending Clause statutes are "rights" "secured by" the "laws" ---
+
+ARGUMENT UNIT 14: Textualist argument from § 1983's plain language
+Text: "Section 1983 permits suit against any person who, under color of state law, deprives another of 'any rights, privileges, or immunities secured by the Constitution and laws.'"
+
+  DOCTRINAL: NARROW_STATUTE — Reads "and laws" as encompassing all federal laws, including Spending Clause statutes. Argues that limiting "laws" to exclude Spending Clause legislation would require adding words to the statute.
+  NARRATIVE: AFFIRMATIVE_FRAME — Opens with text, not precedent. This is a deliberate choice to meet Petitioner on textualist ground rather than relying solely on Wilder.
+  FACT-FRAMING: FOREGROUND — Isolates the statutory phrase "secured by the Constitution and laws" and treats it as dispositive.
+  STYLISTIC: AUTHORITY_SIGNALING — Grounding the argument in statutory text signals that this is not a policy argument or a precedent-dependent argument but a textual one.
+
+ARGUMENT UNIT 15: Historical meaning of "secured by the laws"
+Text: "'secured by the laws,' had a well-recognized ordinary meaning at the time of § 1983's enactment — it meant protected by law."
+
+  DOCTRINAL: NARROW_STATUTE — Uses original public meaning to fix the scope of § 1983. If "secured" meant "protected" in 1871, then any right protected by any federal law falls within § 1983's reach.
+  NARRATIVE: AGREEMENT_TRAP — If the Court accepts original-meaning textualism (as it frequently does in other contexts), this argument becomes very difficult to escape.
+  FACT-FRAMING: SEQUENCE — Arranges historical sources chronologically: Webster's (1828), Bouvier's (1856), Gibbons v. Ogden (1824), Calder v. Bull (1798), Harrison v. Sterry (1809), Story's Commentaries (1833). The cumulative timeline makes the meaning look stable and uncontested across nearly a century.
+  STYLISTIC: AUTHORITY_SIGNALING — Heavy citation density. Dictionaries, founding-era cases, and treatises are stacked to make the textual argument feel overwhelming.
+
+ARGUMENT UNIT 16: 120-year gap as evidence of ordinary meaning
+Text: "That more than 120 years elapsed before anyone conceived of the possibility that § 1983 excludes rights in Spending Clause legislation is powerful evidence that the phrase 'secured by the laws' carries its ordinary meaning."
+
+  DOCTRINAL: STARE_DECISIS_SHIELD — The 120-year gap functions as a form of historical stare decisis: nobody questioned this reading for over a century, which suggests the reading is correct.
+  NARRATIVE: FRAME_AS_ERROR — Implicitly frames Petitioner's position as a modern novelty rather than a recovery of original meaning.
+  FACT-FRAMING: FOREGROUND — The sheer duration (120 years) is foregrounded as a standalone fact that carries independent evidentiary weight.
+  STYLISTIC: CONCRETE_ANCHOR — "120 years" is a specific, memorable number. It anchors the abstract textual argument in something countable.
+
+--- Section 3: B. FNHRA's chemical restraint and wrongful discharge and transfer rights are individually enforceable rights that § 1983 protects ---
+
+ARGUMENT UNIT 17: Blessing's three-factor test
+Text: "the Court has 'traditionally looked at three factors' in considering whether a federal statute confers individual rights enforceable under § 1983: (1) whether the provision in question was intended to benefit the putative plaintiff; (2) whether the interest the plaintiff asserts is not so 'vague and amorphous' that 'its enforcement would strain judicial competence'; and (3) whether the statute 'unambiguously impose[s] a binding obligation.'"
+
+  DOCTRINAL: APPLY_STANDARD — Lays out the Blessing framework as the governing test. By reciting the test in full and then applying it, Respondent implicitly resists Petitioner's argument that the test is unworkable.
+  NARRATIVE: CONCEDE_AND_REDIRECT — Acknowledges that not every statutory violation is redressable under § 1983 (a concession to Petitioner's general point), then redirects to the specific inquiry that FNHRA passes.
+  FACT-FRAMING: FOREGROUND — Recites the test in numbered form, making it appear orderly and administrable — the opposite of Petitioner's "unworkable" characterization.
+  STYLISTIC: PARALLEL_STRUCTURE — The numbered three-part structure creates an impression of analytical rigor and methodical application.
+
+ARGUMENT UNIT 18: "Unambiguous" intent as the touchstone
+Text: "Whether a statute is enforceable under § 1983 turns on whether Congress 'unambiguously confer[red] upon the beneficiaries of the Act a right to enforce the requirement' at issue."
+
+  DOCTRINAL: APPLY_STANDARD — Identifies the key operative word ("unambiguously") from the doctrine and positions it as the test FNHRA must pass.
+  NARRATIVE: AGREEMENT_TRAP — By adopting the strictest formulation of the standard ("unambiguously"), Respondent signals confidence that FNHRA passes even the most demanding version of the test. This preempts any argument that Respondent is asking for a relaxed standard.
+  FACT-FRAMING: DIMINISHING_MODIFIER — The word "unambiguously" is quoted from the Court's own precedent, but Respondent deploys it strategically: it sounds like a high bar, which makes clearing it all the more persuasive.
+  STYLISTIC: STRATEGIC_QUOTATION — Quoting the Court's own formulation verbatim signals fidelity to precedent, not advocacy for expansion.
+
+--- Section 4: II. An Adverse Ruling Would Be Disastrous For Federal Safety-Net Programs ---
+
+ARGUMENT UNIT 19: Elimination of § 1983 would leave millions without enforcement
+Text: "Eliminating the availability of § 1983 would leave tens of millions of people that Congress provided with rights under these Spending Clause programs without any effective means of enforcement."
+
+  DOCTRINAL: SLIPPERY_SLOPE — Extends the logic of Petitioner's position beyond FNHRA to all Spending Clause programs, arguing that the rule Petitioner seeks would have consequences far beyond this case.
+  NARRATIVE: ESCALATE_STAKES — "Tens of millions" and "87 million people" are deployed to make the case about more than one nursing home resident. The stakes are systemic.
+  FACT-FRAMING: FOREGROUND — The number "87 million" is pulled from Medicaid enrollment data and placed at the center of the argument. The scale is the fact.
+  STYLISTIC: CONCRETE_ANCHOR — Specific numbers (87 million, "more than a quarter of the United States population") give the policy argument empirical weight.
+
+ARGUMENT UNIT 20: Federal government underenforcement as structural reality
+Text: "The federal government almost never withdraws federal funds from states as a penalty for failing to safeguard required rights... Federal government enforcement also means underenforcement."
+
+  DOCTRINAL: DISTINGUISH_PURPOSE — Distinguishes between the theoretical availability of federal enforcement (fund withdrawal) and its practical utility. The distinction matters because Petitioner's position implicitly assumes federal enforcement is an adequate substitute for § 1983.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Anticipates the objection that federal administrative enforcement provides an adequate alternative to § 1983. Rebuts it by pointing to structural underenforcement.
+  FACT-FRAMING: FOREGROUND_ABSENCE — The absence of actual fund-withdrawal enforcement is treated as a systemic fact, not an aberration. The gap between the enforcement mechanism on paper and enforcement in practice is the central evidence.
+  STYLISTIC: UNDERSTATED_DEVASTATION — "Federal government enforcement also means underenforcement" compresses a complex institutional critique into a single, direct sentence.
+
+ARGUMENT UNIT 21: Executive discretion as a threat to rights
+Text: "And if the Executive Branch disagrees that certain rights are worthy of protection, it may exercise discretion and decline to penalize states for failing to protect disfavored rights."
+
+  DOCTRINAL: JURISDICTIONAL_REFRAME — Reframes the enforcement question from "is there a mechanism?" to "who controls the mechanism?" The answer (the Executive) introduces political discretion into what should be a rights-enforcement framework.
+  NARRATIVE: ESCALATE_STAKES — Raises the specter of an Executive Branch that selectively enforces rights based on political preference. This transforms the case from a technical statutory question into a separation-of-powers concern.
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes federal enforcement from a safety net into a source of vulnerability. The same discretion that allows enforcement also allows non-enforcement.
+  STYLISTIC: CADENCE_SHIFT — The sentence builds from a conditional ("And if") through an institutional observation ("may exercise discretion") to the pointed conclusion ("disfavored rights"). The final phrase carries the argumentative weight.
+
+ARGUMENT UNIT 22: § 1983 as an "essential component" of cooperative federalism
+Text: "Section 1983 offers an essential component of the remedies available to individuals for violations of their rights under cooperative spending programs. These rights are embedded in the law and in the fabric of society."
+
+  DOCTRINAL: STARE_DECISIS_SHIELD — Argues that § 1983 enforcement of Spending Clause rights is not merely a doctrinal position but a structural feature of cooperative federalism that has operated for decades. Overruling would disrupt settled institutional arrangements.
+  NARRATIVE: ESCALATE_STAKES — "Embedded in the law and in the fabric of society" elevates the argument from legal doctrine to social infrastructure.
+  FACT-FRAMING: FOREGROUND — Positions § 1983 not as one of several remedial options but as "essential" — the indispensable one.
+  STYLISTIC: REGISTER_CONTRAST — Shifts from technical legal argument ("essential component of the remedies") to a broader register ("the fabric of society"), expanding the audience from the Court to the public.
+
+==============================================================================
+CROSS-BRIEF INTERACTION SUMMARY
+==============================================================================
+
+1. STARE DECISIS FRAMING (Petitioner AU 1-5 vs. Respondent AU 14-16)
+   Petitioner attacks Wilder through stare decisis: the doctrine is unworkable, Justices have questioned it, and the lower courts are confused. Respondent sidesteps the stare decisis debate almost entirely. Rather than defending Wilder on stare decisis grounds, Respondent rebuilds the argument from the ground up using original-meaning textualism (AU 14-16). This is a strategic non-engagement: by grounding the argument in text rather than precedent, Respondent makes the stare decisis attack less relevant. If § 1983's text independently supports the result, Wilder becomes supporting authority rather than the foundation.
+
+2. UNWORKABILITY vs. ORDERED APPLICATION (Petitioner AU 3 vs. Respondent AU 17-18)
+   Petitioner argues the Blessing/Gonzaga framework is unworkable, citing circuit confusion. Respondent responds by calmly reciting and applying the three-factor Blessing test in numbered, methodical form (AU 17). The implicit message: the test works fine when properly applied. Respondent also adopts the strictest version of the standard ("unambiguously conferred") to signal that FNHRA passes even a demanding test (AU 18). This is a direct counter to Petitioner's unworkability argument — if the test produces clear results here, the problem may be with lower-court application, not the test itself.
+
+3. VEHICLE OBJECTION vs. SYSTEMIC CONSEQUENCES (Petitioner AU 6-9 vs. Respondent AU 19-22)
+   Petitioner argues the case is an ideal vehicle by analogizing to qualified immunity. Respondent does not directly engage the vehicle question but instead escalates the stakes of an adverse ruling (AU 19-22), arguing that the consequences would extend to 87 million Medicaid beneficiaries and all Spending Clause programs. This functions as an indirect vehicle counter-argument: if the stakes are this high, the Court should be cautious about using this case as the vehicle for a broad ruling.
+
+4. FEDERALISM FRAMING CONTEST (Petitioner AU 9 vs. Respondent AU 20-22)
+   Both sides invoke federalism, but with opposite valences. Petitioner uses Pennhurst's contract theory (AU 9) to argue that courts should not impose § 1983 enforcement on states that did not agree to it. Respondent reframes federalism as cooperative (AU 22) and argues that § 1983 enforcement is already built into the cooperative structure. The competing federalism frames — contractual vs. cooperative — represent the deepest doctrinal disagreement between the briefs.
+
+5. SILENCE AND ABSENCE AS EVIDENCE (Petitioner AU 1 vs. Respondent AU 12, 20)
+   Both sides use absence strategically. Petitioner foregrounds Respondent's failure to address Justice-level criticisms of Wilder (AU 1). Respondent foregrounds the absence of a federal enforcement path for individual FNHRA violations (AU 12) and the absence of actual fund-withdrawal penalties (AU 20). Each side treats the other's silence or the statute's gaps as affirmative evidence for its position.
+
+6. "FICTITIOUS" RIGHT vs. "FUNDAMENTAL" RIGHTS (Petitioner AU 8 vs. Respondent AU 10-11)
+   Petitioner characterizes the asserted § 1983 right as "fictitious" (AU 8). Respondent characterizes the underlying FNHRA rights as "fundamental basic rights, like rights to bodily autonomy and against surprise eviction" (AU 11). This is a direct recharacterization battle: Petitioner wants the Court to see a manufactured cause of action, while Respondent wants the Court to see vulnerable people with concrete, congressionally-created rights.
+
+==============================================================================
+NEW MOVES
+==============================================================================
+
+NEW_MOVE_ACCUMULATION_OVERWHELM (observed in Respondent AU 11, AU 15)
+Definition: Stacking multiple independent pieces of textual or historical evidence in rapid sequence, each individually sufficient but collectively designed to make the opposing position appear untenable. Distinct from PARALLEL_STRUCTURE (which is a stylistic device) and FOREGROUND (which highlights a single fact). ACCUMULATION_OVERWHELM is a fact-framing tactic that uses sheer evidentiary volume as its primary persuasive mechanism — the argument is not that any one piece of evidence is dispositive, but that the weight of the collection forecloses reasonable disagreement.
+Instances: Respondent's catalog of FNHRA's rights-creating features (AU 11); Respondent's chronological stack of founding-era sources on the meaning of "secured" (AU 15).
+
+NEW_MOVE_STRATEGIC_NON_ENGAGEMENT (observed in Respondent's handling of stare decisis)
+Definition: Deliberately declining to engage with an opponent's framing or argument, not out of inability to respond but as a tactical choice to deny the argument oxygen. Distinct from STRATEGIC_SILENCE (which concerns facts) and CONCEDE_AND_REDIRECT (which acknowledges the opposing point). STRATEGIC_NON_ENGAGEMENT refuses to enter the opponent's arena entirely, forcing the debate onto different ground.
+Instance: Respondent's decision to bypass the stare decisis debate and rebuild the argument from first-principles textualism (Cross-Brief Interaction 1).

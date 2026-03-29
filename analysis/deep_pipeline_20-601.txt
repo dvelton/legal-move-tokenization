@@ -1,0 +1,1006 @@
+DEEP PIPELINE ANALYSIS
+Cameron v. EMW Women's Surgical Center, S. Ct. Docket No. 20-601
+Decided March 3, 2022 | 8-1 reversal (Alito, J., majority)
+Tracing moves from briefs -> oral argument -> opinion
+
+================================================================================
+SECTION 1: MOVE ENGAGEMENT AT ORAL ARGUMENT
+================================================================================
+
+This section maps each major move from the brief annotations to the justice
+questions at oral argument. Petitioner's counsel was Matthew F. Kuhn.
+Respondent's counsel was Alexa Kolbi-Molinas. The argument ran 238 turns.
+
+------------------------------------------------------------------------------
+P-SOVEREIGNTY (AU-P1.1 through AU-P1.3)
+States are sovereigns with special status in federal litigation; "normal
+rules" must accommodate sovereign interests.
+------------------------------------------------------------------------------
+
+This was the most heavily engaged move at oral argument and received the
+most favorable treatment.
+
+  GORSUCH -- ENGAGED_FAVORABLY
+    Turn 94: Asked where sovereignty interests "run out" and when a court of
+    appeals could properly deny state intervention. The question presupposes
+    the validity of the sovereignty frame and asks only about its limits.
+    Turn 176: Pressed Kolbi-Molinas directly: "should this Court give any
+    weight to the fact that we are dealing with a sovereign?"
+    Turn 186: Called intervention "particularly powerful as a sovereign."
+
+  BARRETT -- ENGAGED_FAVORABLY
+    Turn 103: Suggested the case implicates SCOTUS's "inherent supervisory
+    authority" over circuit courts and raised the concern that the Sixth
+    Circuit was "trying to evade our review." This actively builds a
+    rationale for petitioner by linking sovereignty to institutional concerns.
+    Turn 105: Accepted the sovereignty framing while probing whether the
+    principle extends to private parties.
+
+  ROBERTS -- ENGAGED_FAVORABLY
+    Turns 220-224: During respondent's argument, Roberts reasoned toward
+    petitioner's sovereignty position. Turn 220: "once the Secretary's out
+    of it, Kentucky ought to -- maybe ought to be there in some form."
+    Turn 224: Adopted the "deck reshuffled" metaphor and framed the question
+    in terms favorable to petitioner. These turns came late, during the
+    respondent's time, which amplifies their signal.
+
+  BREYER -- ENGAGED_FAVORABLY
+    Turn 134: Extended hypothetical that recast the case from petitioner's
+    vantage: "if there's no prejudice to anybody, and I can't see where
+    there is, why can't he just come in and defend the law?"
+
+  KAGAN -- ENGAGED_MIXED
+    Turn 164: Told Kolbi-Molinas the jurisdictional rule would be "extremely
+    harsh" if it prevented anyone from defending Kentucky's law "even though
+    there are significant parts of Kentucky's government that still want
+    its law defended." Sympathetic to the practical result, but her framing
+    was about outcomes, not constitutional status.
+    Turn 196: Tested whether Torres forecloses the sovereignty argument
+    entirely. Question cut both ways.
+
+  SOTOMAYOR -- ENGAGED_SKEPTICALLY
+    Turns 25, 29: "Why would we call it an abuse of discretion for a court
+    of appeals... to say we don't really care what has happened in the
+    political arena." Direct rejection of the sovereignty/political-
+    transition framing.
+    Turns 66-68: Pressed on sovereign immunity waiver, which threatens to
+    make the sovereignty move costly rather than free.
+
+  THOMAS -- NEUTRAL/PROBING
+    Turns 2, 4: Foundational questions about the doctrinal basis for
+    appellate intervention and the standard for timeliness. Not signaling
+    direction, but his lack of hostility to Kuhn and his sustained pressure
+    on Kolbi-Molinas (Turns 110-128) suggest alignment with petitioner.
+
+
+------------------------------------------------------------------------------
+P-BETHUNE-HILL-FLIP (AU-P2.1, AU-P2.4)
+"Flip side" of Bethune-Hill: Kentucky's agent wants to "fight on."
+"Intramural" decisions are the state's business.
+------------------------------------------------------------------------------
+
+  KAGAN -- ENGAGED_SKEPTICALLY
+    Turns 79, 83, 85: Sustained attack on the "two hats theory." Turn 85:
+    "the Secretary's role in this entire litigation pretty much proves that
+    the two hats theory doesn't work because your theory is that the
+    Attorney General was stepping in to replace the Secretary... But the
+    Secretary was sued in his capacity as a state official who could enforce
+    state law." This was the most direct challenge to any petitioner move
+    during the argument.
+
+  SOTOMAYOR -- ENGAGED_SKEPTICALLY
+    Turns 70, 72: "If you had stayed in this litigation, would you have been
+    defending this law?" and "You were being sued as an agent of the state,
+    correct?" Collapses the distinction between the AG's two capacities.
+
+  GORSUCH -- ENGAGED_FAVORABLY
+    Turn 94: By asking where sovereignty interests "run out," Gorsuch
+    implicitly accepted the Bethune-Hill frame that sovereignty interests
+    are at stake.
+
+  BARRETT -- NEUTRAL/PROBING
+    Turn 64: "Could you have intervened on behalf of the state qua state?"
+    Probing the mechanics without endorsing or rejecting.
+
+  NOTE: Respondent's counsel tried to flip Bethune-Hill at Turn 165: "the
+  decision not to appeal is as much an exercise of sovereign authority as
+  the decision to appeal." No justice picked this up.
+
+
+------------------------------------------------------------------------------
+P-SIXTH-CIRCUIT-ERROR (AU-P2.2, AU-P2.3)
+The Sixth Circuit "folded Kentucky's hand" / "refused" / "required" the
+Commonwealth to accept the Secretary's decision.
+------------------------------------------------------------------------------
+
+  ROBERTS -- ENGAGED_FAVORABLY
+    Turn 216: Identified the catch-22: respondent had opposed the AG's
+    intervention in a prior case (Friedlander litigation) before the panel
+    opinion, then opposed it here after the opinion. "I wonder if that's
+    really putting him in a catch-22." This tracks petitioner's "folded
+    Kentucky's hand" move precisely.
+    Turns 220-224: Pressed the point that the Sixth Circuit's denial was
+    unreasonable given no delay and no prejudice.
+
+  BARRETT -- ENGAGED_FAVORABLY
+    Turn 103: Raised SCOTUS supervisory authority and the possibility that
+    the Sixth Circuit was insulating its decision from review.
+
+  THOMAS -- ENGAGED_FAVORABLY
+    Turn 124: Questioned the Sixth Circuit's reliance on "prejudice" from
+    the third-party standing argument, exposing the weakness of the lower
+    court's reasoning.
+
+  BREYER -- ENGAGED_FAVORABLY
+    Turn 134: His hypothetical presupposed the Sixth Circuit should have
+    let the AG in. Turn 212: Suggested remanding, which implies the
+    timeliness holding was wrong.
+
+  SOTOMAYOR -- ENGAGED_SKEPTICALLY
+    Turn 25: Framed the denial as reasonable: the AG "agreed to be bound"
+    and "didn't appeal."
+
+
+------------------------------------------------------------------------------
+P-TIMELY-10-DAYS (AU-P3.1 through AU-P3.4)
+AG moved 10 days after Secretary's decision -- the "absolute earliest"
+point. McDonald analogy.
+------------------------------------------------------------------------------
+
+  ROBERTS -- ENGAGED_FAVORABLY
+    Turn 222: "the Attorney General filed a petition for rehearing on the
+    same date that it would have been due if the Secretary had still been
+    in the case. So it seems a bit much to say that they were delaying
+    the proceedings." Direct endorsement.
+
+  BREYER -- ENGAGED_FAVORABLY
+    Turn 134: "two days after he learns that nobody's going to defend it,
+    he comes in and says, let me defend it."
+
+  GORSUCH -- ENGAGED_FAVORABLY
+    Turn 172: Hypothetical stripping away complications: "Assume the
+    Attorney General hadn't been involved initially. Would it have been
+    proper for the Attorney General then to intervene on appeal two days
+    after getting notice?" Forces respondent's counsel to concede the
+    point in the abstract.
+
+  SOTOMAYOR -- ENGAGED_SKEPTICALLY
+    Turns 37, 43: "But you didn't appeal on time." She runs the 30-day
+    clock from final judgment, not the 10-day clock from the Secretary's
+    decision.
+
+  KAGAN -- ENGAGED_SKEPTICALLY
+    Turns 50-60: Extended Torres hypothetical. Tests whether the AG's
+    failure to appeal within 30 days is dispositive. Her clock runs from
+    judgment, but she frames it as a hypothetical rather than a commitment.
+
+
+------------------------------------------------------------------------------
+P-CONCEDE-AND-REDIRECT (AU-P3.1)
+"Even if sovereignty doesn't apply, we still win on timeliness."
+------------------------------------------------------------------------------
+
+  KAGAN -- ENGAGED_PROBING
+    Turns 79-85: Forced Kuhn to articulate the two-prong structure
+    explicitly. She tested what remained after each prong failed.
+
+  No other justice explicitly engaged with this as a structural move,
+  though all engaged with the substance of the individual prongs.
+
+  Assessment: NOT_ENGAGED as a structural technique. The justices cared
+  about the substance of each argument, not the rhetorical architecture.
+
+
+------------------------------------------------------------------------------
+R-JURISDICTIONAL-REFRAME (AU-R1.1 through AU-R1.3)
+AG's intervention is jurisdictionally barred -- agreed to be bound,
+didn't timely appeal. New analytical category.
+------------------------------------------------------------------------------
+
+This was the respondent's central analytical innovation. It was the most
+heavily engaged respondent move and received predominantly skeptical
+treatment -- from almost every direction.
+
+  BARRETT -- ENGAGED_SKEPTICALLY
+    Turn 192: "I'm struggling to see why 28 U.S.C. 2107 is the right way
+    to think about this, because it doesn't seem to me that intervention
+    necessarily overlaps with 2107... He's not filing a notice of appeal.
+    He's seeking to intervene. It seems like a different thing." This was
+    the single most damaging question respondent's counsel faced. Barrett
+    rejected the entire analytical category.
+
+  THOMAS -- ENGAGED_SKEPTICALLY
+    Turns 110-120: Pressed for precedent supporting the proposition that a
+    dismissed party can simultaneously be bound and remain a party.
+    Turn 116: "an example of another case where a party was dismissed but
+    also remained a party?" Got no satisfactory answer.
+
+  GORSUCH -- ENGAGED_SKEPTICALLY
+    Turn 172: Stripped away the stipulation entirely to get respondent's
+    counsel to concede no jurisdictional bar absent it.
+    Turn 190: "So we should ignore the reservation of rights here? Is that
+    the argument?" Rhetorically devastating.
+
+  BREYER -- ENGAGED_SKEPTICALLY
+    Turns 148-156: Probed "final judgment" meaning in ways that undermine
+    the 30-day premise.
+    Turns 200-208: "I'm trying to find in your brief where you make this
+    jurisdictional argument." Openly confused about whether the argument
+    was adequately presented.
+
+  ROBERTS -- ENGAGED_SKEPTICALLY
+    Turns 158, 160: Read the stipulation's reservation-of-rights language
+    as preserving the AG's ability to act further, undercutting the
+    jurisdictional bar.
+
+  KAGAN -- ENGAGED_MIXED
+    Turns 50-60: Took the jurisdictional premise seriously enough to test
+    it during Kuhn's argument. But Turns 194, 196: "We didn't talk about
+    intervention in Torres, correct?" -- skeptical of extending Torres to
+    intervention.
+
+  SOTOMAYOR -- ENGAGED_FAVORABLY
+    Turns 19-25, 37: Only justice who embraced the premise. "You signed a
+    stipulation... would be bound by any final judgment... You didn't
+    appeal the judgment, correct?" But even she shifted to the discretion
+    question by Turn 229, suggesting uncertain footing on jurisdiction.
+
+
+------------------------------------------------------------------------------
+R-COMPETING-CLOCK (AU-R2.1, AU-R2.2)
+30 days from final judgment under 28 U.S.C. 2107(a).
+------------------------------------------------------------------------------
+
+  SOTOMAYOR -- ENGAGED_FAVORABLY (Turns 37, 43)
+  KAGAN -- ENGAGED_PROBING (Turns 50-60, tested as hypothetical)
+  BARRETT -- ENGAGED_SKEPTICALLY (Turn 192, rejected 2107 entirely)
+  ROBERTS -- ENGAGED_SKEPTICALLY (Turn 222, endorsed 10-day clock)
+  BREYER -- ENGAGED_SKEPTICALLY (Turns 148-152, questioned "final judgment")
+  GORSUCH -- ENGAGED_SKEPTICALLY (Turn 172, eliminated the predicate)
+
+  Assessment: One clear adherent (Sotomayor). One tester (Kagan). Four
+  skeptics or outright rejectors (Barrett, Roberts, Breyer, Gorsuch).
+
+
+------------------------------------------------------------------------------
+R-END-RUN (AU-R3.1, AU-R3.2)
+Appellate intervention can't circumvent jurisdictional deadlines.
+Stringfellow cite.
+------------------------------------------------------------------------------
+
+  BARRETT -- ENGAGED_SKEPTICALLY (Turn 192: if intervention and appeal are
+  different procedural vehicles, there's no "end-run")
+  KAGAN -- ENGAGED_PROBING (Turn 194: "we didn't talk about intervention
+  in Torres" -- weakening the end-run analogy)
+
+  Assessment: No justice endorsed the end-run framing. Respondent's counsel
+  deployed it (Turns 109, 193, 197) but gained no traction.
+
+
+------------------------------------------------------------------------------
+R-SLIPPERY-SLOPE (AU-R3.3)
+If AG can do this, any tardy party could revive forfeited appeals.
+------------------------------------------------------------------------------
+
+  KAVANAUGH -- ENGAGED_PROBING (Turn 97: tested whether the same rule
+  applies in private litigation)
+  GORSUCH -- ENGAGED_PROBING (Turn 94: asked for limiting principles, which
+  is the inverse of the slippery slope -- presupposes limits exist)
+
+  Assessment: NOT_ENGAGED in any meaningful way. No justice endorsed the
+  parade of horribles. Kuhn successfully distinguished sovereign from
+  private parties. Dead on arrival.
+
+
+------------------------------------------------------------------------------
+R-ABUSE-OF-DISCRETION (AU-R4.1 through AU-R4.3)
+Sixth Circuit weighed factors reasonably, didn't abuse discretion.
+Uses Bethune-Hill for deference standard.
+------------------------------------------------------------------------------
+
+  SOTOMAYOR -- ENGAGED_FAVORABLY
+    Turns 25, 29, 229: "Why would we call it an abuse of discretion?"
+    The only justice who clearly endorsed the position that the lower
+    court's exercise of discretion should be undisturbed.
+
+  ROBERTS -- ENGAGED_SKEPTICALLY (Turns 220-224: catch-22, no delay,
+  "deck reshuffled" -- all aimed at showing the Sixth Circuit was wrong)
+  GORSUCH -- ENGAGED_SKEPTICALLY (Turn 176: pressed whether the Sixth
+  Circuit gave any weight to sovereignty)
+  THOMAS -- ENGAGED_SKEPTICALLY (Turn 124: questioned the prejudice
+  reasoning)
+
+  Assessment: 1 favorable (Sotomayor), 3+ skeptical.
+
+
+------------------------------------------------------------------------------
+R-CONCEDE-AND-REDIRECT (AU-R4.1)
+"Even if not jurisdictionally barred, it was within discretion to deny."
+------------------------------------------------------------------------------
+
+  SOTOMAYOR -- ENGAGED_FAVORABLY (Turn 229: performed the redirect for
+  respondent's counsel by saying "assuming there's no jurisdictional
+  argument..." and asking Kolbi-Molinas to defend the discretion prong)
+
+  Assessment: Most justices focused on the jurisdictional question rather
+  than the fallback, suggesting the redirect structure was less effective
+  for respondent because the newer, more contested jurisdictional argument
+  consumed the oxygen.
+
+
+================================================================================
+SECTION 2: MOVE ADOPTION IN THE OPINION
+================================================================================
+
+The opinion has four components: Alito's majority (8-1), Thomas's
+concurrence, Kagan's concurrence in judgment (joined by Breyer), and
+Sotomayor's dissent.
+
+------------------------------------------------------------------------------
+P-SOVEREIGNTY -- ADOPTED (majority)
+------------------------------------------------------------------------------
+
+This is the structural backbone of Section III.A of the majority opinion.
+Alito builds a sustained constitutional argument using language that tracks
+the brief closely:
+
+  - "our Constitution 'spli[t] the atom of sovereignty'" (quoting Alden)
+  - "'retained a residuary and inviolable sovereignty'" (quoting Murphy,
+    which quotes Federalist No. 39 -- the same chain the brief used)
+  - "a State 'clearly has a legitimate interest in the continued
+    enforceability of its own statutes'" (quoting Maine v. Taylor)
+  - "a State's opportunity to defend its laws in federal court should not
+    be lightly cut off"
+  - 28 U.S.C. 2403(b) invoked as evidence of "the weighty interest that
+    a State has in protecting its own laws"
+
+The brief's citation set (Printz, Coleman, Hollingsworth, The Federalist)
+overlaps but doesn't perfectly match the opinion's (Alden, Murphy/Fed 39,
+Maine v. Taylor, Arizonans for Official English). The doctrinal argument
+is the same; Alito selected his own authorities but tracked the brief's
+analytical structure.
+
+Kagan concurrence: Partially rejected. She agrees states have a
+"significant interest in enforcing [their] own laws" but argues the
+opinion didn't need to reach the constitutional register. Alito responds
+in footnote 4, defending the sovereignty framing. This footnote exchange
+exposes a real methodological disagreement.
+
+Sotomayor dissent: Engaged and rejected. She concedes the general
+principle ("All agree that States and their authorized officials have
+substantial sovereign interests in defending their laws") but argues it
+doesn't override estoppel on these facts.
+
+Status: ADOPTED by 6 justices in the majority's constitutional framing.
+Kagan agrees with a narrower version. Sotomayor accepts the principle but
+rejects its application.
+
+
+------------------------------------------------------------------------------
+P-BETHUNE-HILL-FLIP -- ADOPTED (majority)
+------------------------------------------------------------------------------
+
+  Majority: "Respect for state sovereignty must also take into account the
+  authority of a State to structure its executive branch in a way that
+  empowers multiple officials to defend its sovereign interests in federal
+  court. See Virginia House of Delegates v. Bethune-Hill."
+
+The "flip side" framing prevails: Bethune-Hill denied intervention to a
+legislative body when the AG was already defending; here, the AG should
+step in when the other official stops. The majority also cites Kentucky
+statutes establishing the AG as "chief law officer" with authority to
+represent the Commonwealth "in all cases."
+
+Kagan concurrence: Ignored. No reference to Bethune-Hill.
+
+Sotomayor dissent: Engaged and reframed. Without citing Bethune-Hill by
+name, she flips the principle against petitioner: "The Court makes much
+of the attorney general's role in defending Kentucky law, but gives short
+shrift to the manner in which Kentucky has structured its law to allow
+other state officers to represent the State's interests." If the AG
+deferred to that structure via stipulation, the "intramural decision"
+was his original decision to step aside.
+
+Status: ADOPTED in the majority. Sotomayor's counter-flip gets her
+own vote only.
+
+
+------------------------------------------------------------------------------
+P-SIXTH-CIRCUIT-ERROR -- ADOPTED (majority, 8-1 with Kagan)
+------------------------------------------------------------------------------
+
+  "[A] court fails to exercise its discretion soundly when it 'base[s]
+  its ruling on an erroneous view of the law,' and that is what happened
+  here. The Sixth Circuit panel failed to account for the strength of the
+  Kentucky attorney general's interest."
+
+The opinion systematically catalogs three errors: (1) wrong on
+timeliness (III.B), (2) wrong on prejudice (III.C), (3) wrong on the
+weight of the AG's interest (III.A). The brief's framing of the Sixth
+Circuit as the agent that erred carries into every section.
+
+Kagan concurrence: Agrees the Sixth Circuit erred, through different
+reasoning (anti-circumvention rationale doesn't apply here).
+
+Sotomayor dissent: Rejects. Defends the Sixth Circuit's exercise of
+discretion.
+
+Status: ADOPTED 8-1.
+
+
+------------------------------------------------------------------------------
+P-TIMELY-10-DAYS -- ADOPTED (majority, Kagan)
+------------------------------------------------------------------------------
+
+  "[T]he most important circumstance relating to timeliness is that the
+  attorney general sought to intervene 'as soon as it became clear' that
+  the Commonwealth's interests 'would no longer be protected' by the
+  parties in the case." -- quoting McDonald
+
+  "The attorney general sought to intervene two days after learning that
+  the secretary would not continue to defend HB 454."
+
+  "[T]he timeliness of his motion should be assessed in relation to that
+  point in time."
+
+The majority adopts petitioner's clock completely: the trigger event is
+the secretary's decision to stop defending, not the entry of judgment or
+any earlier date. The McDonald analogy is cited and applied. The 10-day /
+2-day timeline is the lead fact.
+
+The majority also rejects respondents' counterargument that the AG should
+have anticipated the secretary's change of course: "respondents do not
+explain why the attorney general should have known that the secretary
+would change course after the panel's decision."
+
+Kagan concurrence: Reaches the same result: "The motion was instead a
+response to a major shift in the litigation, creating a new demand for
+the attorney general's participation."
+
+Sotomayor dissent: Rejects. Measures timeliness from the original
+stipulated dismissal years earlier.
+
+Status: ADOPTED 8-1.
+
+
+------------------------------------------------------------------------------
+P-CONCEDE-AND-REDIRECT -- MOOTED
+------------------------------------------------------------------------------
+
+The majority adopts both the sovereignty argument AND the timeliness
+argument, so the fallback structure is unnecessary. Both prongs win.
+
+Kagan performs her own version: she drops the sovereignty framing but
+still reaches reversal on procedural grounds. This is a third
+concede-and-redirect that neither brief anticipated.
+
+Status: MOOTED by total victory.
+
+
+------------------------------------------------------------------------------
+R-JURISDICTIONAL-REFRAME -- REJECTED (9-0)
+------------------------------------------------------------------------------
+
+The entire Section II of the majority (Parts A, B, C) is devoted to
+rejecting this argument. Key language:
+
+  "This argument fails for the simple reason that no provision of law
+  limits the jurisdiction of the courts of appeals in the way respondents
+  suggest."
+
+  "[R]espondents cite no provision of law that deprives a court of appeals
+  of jurisdiction to entertain a motion for intervention that is filed by
+  a non-party who is bound by the judgment that is appealed."
+
+The majority also notes respondents "never advanced this argument below."
+Even treated as a non-jurisdictional claims-processing rule, it fails
+because the stipulation preserved the AG's appellate rights.
+
+Thomas concurrence: Adds a second independent ground for rejection. Rules
+3 and 4 apply only to "parties," and the AG was a non-party after
+dismissal. Thomas also uses the occasion to call for overruling Devlin v.
+Scardelletti.
+
+Sotomayor dissent: Agrees. "I have no quarrel with the Court's holding
+that no jurisdictional bar precluded the attorney general's intervention."
+
+Status: REJECTED 9-0. The respondent's most ambitious analytical move
+received zero votes.
+
+
+------------------------------------------------------------------------------
+R-COMPETING-CLOCK -- REJECTED
+------------------------------------------------------------------------------
+
+Rejected as part of the jurisdictional analysis. The 30-day appeal
+deadline is irrelevant because the AG was not a party who needed to file
+a notice of appeal. Thomas's concurrence drives this point home: "A
+'party' dismissed from a lawsuit is no longer a 'party' to it after
+his dismissal."
+
+Even Sotomayor abandons the 30-day clock (she concedes the jurisdictional
+point) and runs timeliness from the AG's original actions, not from the
+appeal deadline.
+
+Status: REJECTED across all opinions.
+
+
+------------------------------------------------------------------------------
+R-END-RUN -- REJECTED (8-1, with Kagan's detailed engagement)
+------------------------------------------------------------------------------
+
+Kagan provides the most granular treatment. She concedes the "end run"
+concern is legitimate in the abstract, but:
+
+  "[The anti-circumvention rationale] does not sensibly apply here because
+  of the change in circumstances between the time to appeal and the time
+  of the motion to intervene."
+
+  "Granting the motion would not countenance an end-run around the timely-
+  appeal rule by giving the attorney general a do-over."
+
+Sotomayor adopts the end-run framing: she quotes the Sixth Circuit's
+language about intervenors having "every incentive to sit out litigation
+until [a court of appeals] issue[s] a decision contrary to their
+preferences, whereupon they can spring to action."
+
+Status: REJECTED 8-1. Kagan's treatment is notable because she takes the
+argument seriously and explains exactly why it fails here, rather than
+dismissing it outright.
+
+
+------------------------------------------------------------------------------
+R-SLIPPERY-SLOPE -- IGNORED (majority), REJECTED (Kagan)
+------------------------------------------------------------------------------
+
+The majority does not address the parade of horribles. The opinion limits
+its holding to the facts: "we do not attempt to set out a general rule
+governing the right of non-parties to appeal or to move for appellate
+intervention."
+
+Kagan's changed-circumstances framework implicitly provides the limiting
+principle that defuses the slippery slope without naming it.
+
+Sotomayor is the sole voice adopting this concern.
+
+Status: IGNORED by majority. The brief's most alarmist argument was dead
+before the opinion was drafted.
+
+
+------------------------------------------------------------------------------
+R-ABUSE-OF-DISCRETION -- REJECTED (8-1)
+------------------------------------------------------------------------------
+
+The majority finds the Sixth Circuit abused its discretion on every
+factor it considered: interest (failed to account for sovereignty),
+timeliness (wrong triggering event), and prejudice (flawed analysis
+of the third-party standing argument).
+
+Sotomayor's dissent is built on this move. She argues the panel
+"correctly identified" the AG's change of position and exercised
+"sound discretion."
+
+Status: REJECTED 8-1. This was the respondent's fallback position, and
+it failed everywhere except the dissent.
+
+
+------------------------------------------------------------------------------
+R-CONCEDE-AND-REDIRECT -- REJECTED (8-1)
+------------------------------------------------------------------------------
+
+Both prongs failed. The jurisdictional bar failed 9-0. The discretion
+defense failed 8-1. Sotomayor's dissent adopts the redirect structure:
+she concedes jurisdiction and pivots to discretion.
+
+Status: REJECTED 8-1. The respondent lost on both the primary and
+fallback arguments.
+
+
+================================================================================
+SECTION 3: CROSS-BRIEF RESOLUTION
+================================================================================
+
+------------------------------------------------------------------------------
+1. COMPETING CLOCKS
+Pet (AU-P3.3): 10 days from Secretary's decision not to appeal.
+Resp (AU-R2.1): 30 days from final judgment under 28 U.S.C. 2107(a).
+------------------------------------------------------------------------------
+
+WINNER: Petitioner (8-1)
+
+The majority adopts the 10-day clock completely. The opinion's timeliness
+analysis (Section III.B) is built around the trigger event of the
+secretary's decision. The 30-day appeal clock is irrelevant because
+(a) the AG was not a party who needed to file a notice of appeal, and
+(b) even on timeliness, the relevant moment is when the AG learned the
+defense was abandoned.
+
+At oral argument, the 30-day clock had only Sotomayor. Roberts endorsed
+the 10-day clock explicitly (Turn 222). Breyer accepted the "prompt
+response" narrative (Turn 134). Gorsuch's hypothetical stripped away
+the complications (Turn 172). Barrett rejected 2107 entirely (Turn 192).
+
+Pipeline: The 10-day clock moved from brief (AU-P3.3) through favorable
+oral argument engagement (Roberts Turn 222, Breyer Turn 134) into
+majority adoption as the organizing fact of the timeliness analysis.
+
+
+------------------------------------------------------------------------------
+2. BETHUNE-HILL TUG-OF-WAR
+Pet (AU-P2.1, AU-P2.4): Bethune-Hill's "intramural" language supports
+the AG's right to take over the defense.
+Resp (AU-R4.2): Bethune-Hill supplies the abuse-of-discretion standard,
+which is deferential to the Sixth Circuit.
+------------------------------------------------------------------------------
+
+WINNER: Petitioner
+
+Petitioner's use of Bethune-Hill (for the sovereignty/intramural
+principle) was adopted by the majority. Respondent's use of Bethune-Hill
+(for the deferential standard of review) was effectively irrelevant: the
+majority found abuse of discretion on every factor, so the deferential
+standard didn't save the Sixth Circuit.
+
+At oral argument, Kagan challenged the "two hats" mechanism (Turns 79-85)
+but was sympathetic to the underlying sovereignty concern. Sotomayor
+rejected the framing outright. Gorsuch, Barrett, and Roberts accepted the
+sovereignty premise.
+
+Interesting wrinkle: respondent's counsel tried to flip Bethune-Hill at
+oral argument (Turn 165: "the decision not to appeal is as much an
+exercise of sovereign authority as the decision to appeal"). No justice
+picked this up. Sotomayor attempted a version of this in her dissent but
+was alone.
+
+Pipeline: Petitioner claimed Bethune-Hill in the brief (AU-P2.1, AU-P2.4),
+faced a challenge from Kagan at oral argument on the "two hats" mechanism
+(Turns 79-85), and prevailed in the majority opinion which cites
+Bethune-Hill for the "empowers multiple officials" principle.
+
+
+------------------------------------------------------------------------------
+3. CHARACTERIZATION CONTEST
+Pet: "fight on," "pick up the mantle," sovereign succession.
+Resp: "belated effort," "circumvent," "evade," "end-run."
+------------------------------------------------------------------------------
+
+WINNER: Petitioner (8-1)
+
+The majority characterizes the AG as "taking up the defense" after the
+secretary "elected to acquiesce." Language throughout is about the AG
+stepping forward, not circumventing rules.
+
+Kagan: "a response to a major shift in the litigation, creating a new
+demand for the attorney general's participation." Explicitly rejects
+circumvention: "Granting the motion would not countenance an end-run."
+
+Sotomayor: Sole voice for "evade/circumvent." She calls it an
+"impermissible change in position" and quotes the Sixth Circuit's
+"spring to action" language.
+
+At oral argument, more justices spoke in terms of Kentucky wanting to
+defend its law (Roberts, Breyer, Gorsuch) than in terms of circumventing
+jurisdictional rules. Sotomayor was the only justice who adopted "evade"
+language.
+
+Pipeline: Petitioner's characterization moved from brief through favorable
+oral argument (where Roberts adopted "deck reshuffled" and Breyer said "he
+wants to defend it") into the majority opinion's "taking up the defense"
+/ "elected to acquiesce" framing.
+
+
+------------------------------------------------------------------------------
+4. AGENCY INVERSION
+Pet: Sixth Circuit is the actor (it "folded Kentucky's hand," "refused").
+Resp: AG is the actor (he "agreed to be bound," "failed to file,"
+"seeks to circumvent").
+------------------------------------------------------------------------------
+
+WINNER: Petitioner (majority), Respondent gets Sotomayor only
+
+The majority frames the Sixth Circuit as the erring agent throughout: it
+"failed to account for," its assessment "was mistaken," its finding "was
+similarly flawed." The AG is cast as a legitimate actor defending
+sovereign interests.
+
+Sotomayor flips this: the AG "eschewed" arguments, "changed" his
+position, tries to "evade" consequences. The Sixth Circuit responded
+reasonably.
+
+At oral argument, Roberts's catch-22 framing (Turn 216) placed agency on
+the court system that trapped the AG. Breyer's "why can't he just come
+in?" (Turn 134) treated the denial as the obstacle. Only Sotomayor
+adopted the AG-as-actor framing (Turns 25, 29, 37).
+
+Pipeline: Petitioner's agency framing moved from brief (AU-P2.2, AU-P2.3)
+through Roberts's catch-22 at oral argument (Turn 216) into the majority's
+systematic attribution of error to the Sixth Circuit.
+
+
+------------------------------------------------------------------------------
+5. STRUCTURAL MIRROR
+Both sides use CONCEDE_AND_REDIRECT as their transition to alternative
+arguments.
+Pet (AU-P3.1): "Even if sovereignty, we win on timeliness."
+Resp (AU-R4.1): "Even if not jurisdictional, we win on discretion."
+------------------------------------------------------------------------------
+
+RESOLUTION: Both structures are visible in the opinion, but they yield
+opposite results.
+
+Petitioner's redirect: Mooted. Both prongs won, so the fallback was
+unnecessary.
+
+Respondent's redirect: Both prongs failed. Jurisdiction failed 9-0.
+Discretion failed 8-1.
+
+Kagan generated a third concede-and-redirect that neither brief
+anticipated: she dropped sovereignty but reached reversal on procedural
+anti-circumvention reasoning.
+
+At oral argument, Kagan was the justice who surfaced petitioner's
+structure (Turns 79-85). Sotomayor performed respondent's structure at
+Turn 229.
+
+Pipeline: The structural mirror was not discussed as a meta-pattern in
+either the oral argument or the opinion. The justices engaged with
+substance, not rhetorical architecture.
+
+
+================================================================================
+SECTION 4: PIPELINE SUMMARY TABLE
+================================================================================
+
+Move ID          | Side | Move Type              | OA Engagement      | Justice(s)                   | Opinion Status    | Worked?
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+P-SOVEREIGNTY    | Pet  | INVOKE_AUTHORITY,       | ENGAGED_FAVORABLY  | Gorsuch, Barrett, Roberts,   | ADOPTED           | YES
+(AU-P1.1-1.3)   |      | ESCALATE_STAKES,       | (5 fav, 1 mixed,   | Breyer, Kagan (mixed),       | (majority)        |
+                 |      | RECHARACTERIZE         | 1 skept)           | Sotomayor (skept), Thomas    |                   |
+                 |      |                        |                    | (neutral)                    |                   |
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+P-BETHUNE-HILL   | Pet  | DISTINGUISH,           | ENGAGED_MIXED      | Kagan (skept), Sotomayor     | ADOPTED           | YES
+(AU-P2.1, 2.4)  |      | ANALOGIZE,             | (1 fav, 2 skept,   | (skept), Gorsuch (fav),      | (majority)        | (despite OA
+                 |      | BROADEN_HOLDING        | 1 neutral)         | Barrett (neutral)            |                   | skepticism)
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+P-6CIR-ERROR     | Pet  | FRAME_AS_ERROR,        | ENGAGED_FAVORABLY  | Roberts, Barrett, Thomas,    | ADOPTED           | YES
+(AU-P2.2-2.3)   |      | RECHARACTERIZE,        | (4 fav, 1 skept)   | Breyer (all fav),            | (8-1)             |
+                 |      | FOREGROUND/BACKGROUND  |                    | Sotomayor (skept)            |                   |
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+P-TIMELY-10      | Pet  | APPLY_TO_FACTS,        | ENGAGED_FAVORABLY  | Roberts, Breyer, Gorsuch     | ADOPTED           | YES
+(AU-P3.1-3.4)   |      | INVOKE_AUTHORITY,      | (3 fav, 2 skept)   | (all fav), Sotomayor, Kagan  | (8-1 + Kagan)     |
+                 |      | FOREGROUND, SEQUENCE   |                    | (both skept)                 |                   |
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+P-CONCEDE-       | Pet  | CONCEDE_AND_REDIRECT   | NOT_ENGAGED        | Kagan (probing only)         | MOOTED            | N/A
+REDIRECT (P3.1)  |      |                        | (as structural     |                              | (both prongs      | (unnecessary)
+                 |      |                        | move)              |                              | won)              |
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+R-JURISD-        | Resp | NEW_MOVE               | ENGAGED_           | Barrett, Thomas, Gorsuch,    | REJECTED          | NO
+REFRAME          |      | [JURISDICTIONAL_       | SKEPTICALLY        | Breyer, Roberts (all skept), | (9-0)             |
+(AU-R1.1-1.3)    |      | REFRAME]               | (5 skept, 1 mixed, | Kagan (mixed), Sotomayor     |                   |
+                 |      |                        | 1 fav)             | (fav)                        |                   |
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+R-COMPETING      | Resp | APPLY_STANDARD,        | ENGAGED_           | Sotomayor (fav), Kagan       | REJECTED          | NO
+CLOCK (R2.1-2.2) |      | NARROW_STATUTE         | SKEPTICALLY        | (probing), Barrett, Roberts, |                   |
+                 |      |                        | (1 fav, 1 probe,   | Breyer, Gorsuch (all skept)  |                   |
+                 |      |                        | 4 skept)           |                              |                   |
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+R-END-RUN        | Resp | PREEMPTIVE_REBUTTAL,   | ENGAGED_           | Barrett (skept), Kagan       | REJECTED          | NO
+(AU-R3.1-3.2)    |      | INVOKE_AUTHORITY,      | SKEPTICALLY        | (probing)                    | (8-1; Kagan       | (but Kagan
+                 |      | NARROW_STATUTE         |                    |                              | engages most)     | engaged)
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+R-SLIPPERY       | Resp | NEW_MOVE               | NOT_ENGAGED        | Kavanaugh, Gorsuch           | IGNORED           | NO
+SLOPE (R3.3)     |      | [SLIPPERY_SLOPE]       |                    | (probing only)               | (majority)        |
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+R-ABUSE-OF-      | Resp | APPLY_STANDARD,        | ENGAGED_MIXED      | Sotomayor (fav), Roberts,    | REJECTED          | NO
+DISCRETION       |      | ANALOGIZE,             | (1 fav, 3 skept)   | Gorsuch, Thomas (all skept)  | (8-1)             | (except
+(AU-R4.1-4.3)    |      | APPLY_TO_FACTS         |                    |                              |                   | dissent)
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+R-CONCEDE-       | Resp | CONCEDE_AND_REDIRECT   | ENGAGED_FAVORABLY  | Sotomayor (fav)              | REJECTED          | NO
+REDIRECT (R4.1)  |      |                        | (by Sotomayor)     |                              | (8-1)             | (dissent
+                 |      |                        |                    |                              |                   | only)
+-----------------+------+------------------------+--------------------+------------------------------+-------------------+--------
+
+
+================================================================================
+SECTION 5: INSIGHTS
+================================================================================
+
+What follows is drawn from a single case. Patterns identified here are
+hypotheses for testing across the full dataset, not conclusions.
+
+1. SOVEREIGNTY AND STRUCTURAL FRAMING DOMINATED THE PIPELINE
+
+   Petitioner's brief opened with a sovereignty argument at the
+   highest level of constitutional abstraction (Printz, Federalist No. 39,
+   Coleman), rather than engaging the procedural question on the
+   respondent's terrain. This move did three things: it reframed the entire
+   dispute as a sovereignty case rather than a timeliness case; it gave the
+   majority a constitutional vocabulary for the opinion that carried
+   normative weight beyond the facts; and it provided an organizing
+   principle that connected the specific intervention question to a body
+   of law the Court cares about. Of all the moves in the petitioner's
+   brief, this was the one most directly adopted by the opinion.
+
+   Research question: Do moves that elevate the doctrinal altitude of a
+   dispute (INVOKE_AUTHORITY at the constitutional level, ESCALATE_STAKES)
+   outperform moves that engage on the opponent's procedural terrain?
+
+2. THE RESPONDENT'S MOST AMBITIOUS MOVE FAILED HARDEST
+
+   The JURISDICTIONAL_REFRAME was the respondent's most analytically
+   creative argument and the one that would have been most powerful if
+   accepted. Recategorizing the dispute from discretionary timeliness to
+   mandatory jurisdiction would have rendered most of the petitioner's
+   brief irrelevant. But it received zero votes.
+
+   Two features of this failure are worth tracking. First, the argument
+   was not made below, and the majority noted this fact. Analytical
+   innovations that appear for the first time at the Supreme Court face
+   a higher burden. Second, the argument required the Court to accept
+   a novel legal category (dismissed-but-still-bound parties face
+   jurisdictional limits on intervention) for which respondent could point
+   to no precedent. Thomas exposed this at oral argument (Turn 116: "an
+   example of another case where a party was dismissed but also remained a
+   party?" -- getting no answer).
+
+   Research question: Do NEW_MOVEs that create novel analytical categories
+   face higher rejection rates than moves built on existing doctrinal
+   frameworks? Is there a correlation between the ambition of a move and
+   the risk of total failure?
+
+3. ORAL ARGUMENT SIGNALS PREDICTED THE OPINION WITH HIGH ACCURACY
+
+   The oral argument engagement mapped cleanly onto the opinion's
+   treatment. Moves that received favorable engagement from multiple
+   justices (P-SOVEREIGNTY, P-TIMELY-10-DAYS, P-SIXTH-CIRCUIT-ERROR)
+   were adopted by the majority. Moves that received primarily skeptical
+   engagement (R-JURISDICTIONAL-REFRAME, R-COMPETING-CLOCK) were rejected.
+   Moves that were not engaged (R-SLIPPERY-SLOPE) were ignored.
+
+   The justice-by-justice alignment at oral argument also predicted the
+   final vote: Roberts, Thomas, Gorsuch, Barrett, Kavanaugh, and Breyer
+   signaled petitioner-favorable at argument and joined the majority.
+   Sotomayor signaled respondent-favorable and dissented. Kagan was the
+   swing -- the most analytically rigorous questioner who challenged both
+   sides -- and she concurred in the judgment through reasoning that
+   diverged from both briefs.
+
+   Kagan's position is the most interesting data point. She rejected the
+   petitioner's "two hats" / Bethune-Hill mechanism at oral argument
+   (Turns 79-85) and then wrote separately to reject the sovereignty
+   framing in the opinion. But she still ruled for the petitioner,
+   constructing a narrower procedural path (anti-circumvention doesn't
+   apply given changed circumstances). This suggests that favorable OA
+   engagement with a move's framing is not the only path to adoption -- a
+   justice can reject the framing but arrive at the same destination
+   through alternative reasoning.
+
+   Research question: How often do justices who challenge a move at oral
+   argument still rule for the side that made the move? Is there a
+   category of "skeptical but persuaded on outcome"?
+
+4. FACT-FRAMING MOVES OPERATED AS FORCE MULTIPLIERS
+
+   The competing clocks (10 days vs 30 days) and the characterization
+   contest ("fight on" vs "evade/circumvent") are pure fact-framing moves.
+   They don't cite new authority or propose new doctrine. They select
+   which facts to foreground and which to background, and they choose
+   loaded or neutral language for describing identical conduct.
+
+   These moves appear to have had outsized influence relative to their
+   doctrinal content. The 10-day framing is arguably the single most
+   effective move in the case because it made the timeliness argument
+   intuitively obvious: 10 days sounds prompt; "years of litigation"
+   sounds tardy. The choice of which clock to run determined which side's
+   narrative felt natural.
+
+   Research question: Do FOREGROUND/BACKGROUND and RECHARACTERIZE moves
+   have disproportionate impact relative to their apparent analytical
+   weight? Are fact-framing moves underappreciated because they don't look
+   like "legal argument"?
+
+5. THE STRUCTURAL MIRROR REVEALS ASYMMETRIC CONFIDENCE
+
+   Both sides used CONCEDE_AND_REDIRECT as their transition to alternative
+   arguments, which might suggest equal confidence. But the quality of
+   the fallback positions was asymmetric. Petitioner's fallback (timeliness
+   even without sovereignty) was strong -- it won on its own merits.
+   Respondent's fallback (discretion even without jurisdiction) required
+   deference to the Sixth Circuit and a favorable reading of the record.
+
+   The structural similarity masked a substantive asymmetry: petitioner
+   had two independently strong arguments, while respondent had one
+   ambitious argument (jurisdiction) propping up a weaker one (discretion).
+   When the ambitious argument collapsed 9-0, the fallback had no
+   independent support.
+
+   Research question: When both sides use CONCEDE_AND_REDIRECT, does the
+   relative strength of the fallback position predict the outcome? Is
+   CONCEDE_AND_REDIRECT more effective when the fallback is genuinely
+   independent rather than parasitic on the primary argument?
+
+6. KAGAN'S CONCURRENCE IS A METHODOLOGICAL CASE STUDY
+
+   Kagan's concurrence performs an operation that neither brief anticipated.
+   She rejects the majority's constitutional framing while reaching the
+   same result through a procedural path -- the anti-circumvention
+   rationale fails here because of changed circumstances, not because
+   of sovereignty. She engages the respondent's END-RUN argument more
+   seriously than the majority does, concedes it has force in the abstract,
+   and then explains why it doesn't apply on these facts.
+
+   For the move-tracking project, this raises a question about
+   categorization. When a justice reaches the same outcome through
+   reasoning that neither brief proposed, should that be coded as the
+   opinion "ignoring" the brief moves? Or as the opinion engaging with the
+   moves but reconstructing them? Kagan's concurrence appears to reject
+   petitioner's framing while adopting petitioner's factual narrative
+   (the "10-day" / "changed circumstances" story). The doctrinal move
+   is rejected; the fact-framing move is adopted. This suggests fact-
+   framing and doctrinal moves can travel independently through the
+   pipeline.
+
+7. AUDIENCE-TARGETING: WHICH JUSTICES ENGAGED WHICH MOVES
+
+   If the brief was designed to target specific justices, P-SOVEREIGNTY
+   appears designed for the conservative bloc (Gorsuch, Barrett, Roberts,
+   Thomas, Kavanaugh) and succeeded with all of them. P-TIMELY-10-DAYS
+   appears designed as a universal argument and succeeded universally
+   (everyone except Sotomayor accepted some version of it, including
+   Kagan). P-BETHUNE-HILL-FLIP was the most vulnerable move at oral
+   argument (Kagan's sustained challenge) but survived into the opinion
+   through the majority's adoption.
+
+   The respondent's R-JURISDICTIONAL-REFRAME appears designed to win
+   Kagan and Sotomayor by offering a doctrinal path that avoids the
+   sovereignty question entirely. It got Sotomayor but not Kagan. Kagan
+   took it seriously enough to test extensively at oral argument but
+   ultimately declined to adopt it.
+
+   Research question: Can we identify audience-targeting patterns in brief
+   moves, and do those patterns predict which justices engage favorably?
+
+8. DEAD-ON-ARRIVAL MOVES
+
+   R-SLIPPERY-SLOPE received essentially no engagement at oral argument
+   and was ignored by the majority opinion. R-END-RUN received skeptical
+   engagement only. Both are moves that depend on downstream consequences
+   rather than the facts of this case. The Court appeared uninterested in
+   hypothetical future cases and focused on the specific facts before it.
+
+   The majority reinforced this by limiting its holding: "we do not
+   attempt to set out a general rule governing the right of non-parties
+   to appeal or to move for appellate intervention." This case-specific
+   framing directly neutralizes both consequence-based moves.
+
+   Research question: Do moves premised on consequences in future cases
+   (slippery slope, parade of horribles) perform worse than moves grounded
+   in the facts and doctrine of the present case?
+
+
+================================================================================
+METHODOLOGICAL NOTES
+================================================================================
+
+Sources: Brief annotations from annotations_20-601.txt (31 annotated
+argument units across both briefs, four-layer taxonomy). Oral argument
+from oral_arg_20-601.json (238 turns). Opinion from opinion_20-601.txt
+and supplemental web fetch for concurrences and dissent.
+
+Limitations: This is a single case study. The 8-1 margin means the
+petitioner's moves were overwhelmingly successful, which limits the
+analytical value for understanding marginal effectiveness. Cases with
+closer margins (5-4, 6-3) may reveal more about which moves tip
+uncertain justices. The case is also procedural rather than substantive,
+which may affect how the moves operate compared to cases involving
+contested constitutional or statutory interpretation.
+
+The opinion file appears truncated at the end of Section III.B (timeliness
+analysis for the majority). The full opinion, including the prejudice
+analysis (III.C), a portion of III.B's tail, footnotes, Kagan's
+concurrence, and Sotomayor's dissent, was reconstructed from the web
+source.
+
+================================================================================
+END OF DEEP PIPELINE ANALYSIS
+================================================================================

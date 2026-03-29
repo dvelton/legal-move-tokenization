@@ -1,0 +1,247 @@
+CASE DOCKET: 21-757
+Amgen Inc. v. Sanofi (Patent Enablement under 35 U.S.C. 112(a))
+ANNOTATED STRATEGIC MOVES
+
+==================================================
+PETITIONER BRIEF (Docket21-757_Brief006.pdf)
+==================================================
+
+--- Section 1: B. This Court's Precedents Refute the Federal Circuit's Test ---
+
+ARGUMENT UNIT 1.1: This Court has never endorsed a "reach-the-full-scope" enablement test.
+
+  DOCTRINAL: DISTINGUISH — Draws a line between what the Court has actually held and what the Federal Circuit adopted, treating the Federal Circuit's test as a departure from, not an application of, existing precedent. NARROW_HOLDING — Reads the Court's prior enablement decisions as never having turned on the cumulative effort required to produce all embodiments, thereby narrowing those holdings to foreclose the Federal Circuit's interpretation.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Frames the argument as a defense of existing law rather than a request for new law. The Federal Circuit is the innovator; Amgen is the conservative restorationist. FRAME_AS_ERROR — Characterizes the Federal Circuit's standard as an error, not a reasonable alternative, using the word "never" to close off any reading that would find support for the standard in prior decisions.
+
+  FACT-FRAMING: FOREGROUND_ABSENCE — The central move. Petitioner foregrounds what this Court has never said: that enablement turns on cumulative time and effort to make all embodiments. Treating absence of endorsement as affirmative evidence of error. STRATEGIC_SILENCE — Avoids discussing any Court language that might hint at full-scope concerns, keeping the precedent discussion tightly curated.
+
+  STYLISTIC: COMPRESSION — "This Court has never suggested that enablement turns on the cumulative 'time and effort' that would be required to make all, or virtually all, of a claimed invention's potentially numerous embodiments." A single sentence carries the entire weight of the precedent argument. STRATEGIC_QUOTATION — Puts "time and effort" in scare quotes, borrowing the Federal Circuit's own language and marking it as foreign to the Court's jurisprudence.
+
+ARGUMENT UNIT 1.2: The Court has repeatedly upheld patents that would fail the Federal Circuit's test.
+
+  DOCTRINAL: ANALOGIZE — Implicitly analogizes prior upheld patents to Amgen's patents, arguing they share the same structural feature (broad claim scope relative to disclosed embodiments) and should be treated the same. APPLY_TO_FACTS — Applies the Federal Circuit's test retrospectively to historical patents and argues those patents would not have survived, creating a reductio ad absurdum.
+
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Anticipates the respondent's argument that the Federal Circuit's test is consistent with prior decisions, and rebuts it by showing those decisions reached results incompatible with the test.
+
+  FACT-FRAMING: SEQUENCE — Walks through multiple historical decisions (Framing-era English courts, early American circuit courts, regional courts of appeals) in chronological order to build a narrative of unbroken practice contradicting the Federal Circuit.
+
+  STYLISTIC: CADENCE_SHIFT — Moves from the compressed negative assertion (Unit 1.1) to an expansive historical survey, broadening the temporal canvas to emphasize the novelty of the Federal Circuit's position. AUTHORITY_SIGNALING — Layering of courts across centuries (English courts, early American courts, pre-Federal Circuit regional courts) to create an impression of overwhelming historical weight.
+
+ARGUMENT UNIT 1.3: No court identified the reach-the-full-scope standard before the Federal Circuit.
+
+  DOCTRINAL: STARE_DECISIS_SHIELD — Deploys the absence of prior endorsement as stare decisis in reverse: the longstanding failure of any court to adopt this standard confirms it is wrong. DISTINGUISH — Distinguishes the Federal Circuit's recent innovation from all prior enablement doctrine.
+
+  NARRATIVE: INSTITUTIONAL_REBUKE — Implies the Federal Circuit overstepped its role by creating a new test where no court had found one for centuries. The unspoken premise is institutional: a lower court should not invent tests the Supreme Court never endorsed.
+
+  FACT-FRAMING: FOREGROUND_ABSENCE — Again, the absence is the evidence. "No court had identified" the test "in those many years."
+
+  STYLISTIC: UNDERSTATED_DEVASTATION — "The fact that no court had identified a reach-the-full-scope test in those many years confirms the Federal Circuit's error." The sentence is structured to let the temporal gap do the rhetorical work without amplification.
+
+
+--- Section 2: D. The Federal Circuit's Reach-the-Full-Scope Standard Defies Patent-Law Policy ---
+
+ARGUMENT UNIT 2.1: The Federal Circuit's test fundamentally alters the patent bargain.
+
+  DOCTRINAL: DISTINGUISH_PURPOSE — Identifies the purpose of the patent system (disclosure in exchange for exclusivity) and argues the Federal Circuit's test undermines it by denying patents based on embodiment count rather than quality of disclosure. BROADEN_STATUTE — Reads Section 112(a)'s "make and use" language broadly: it requires teaching how to make and use the invention, not teaching how to make every possible variant.
+
+  NARRATIVE: ESCALATE_STAKES — "Threatens devastating consequences." Raises the argument from doctrinal error to systemic harm: the test will deter breakthrough innovation across the patent system. AFFIRMATIVE_FRAME — Frames the patent bargain as fundamentally about teaching the world to make and use the invention, positioning Amgen as protecting the deal Congress struck.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes the Federal Circuit's test from one about adequate disclosure to one about "the number of possible embodiments," making it sound arbitrary and disconnected from the statute's purpose. FOREGROUND — Foregrounds the policy consequences (discouraging breakthrough innovation, cutting off protection for significant inventions) rather than the doctrinal mechanics.
+
+  STYLISTIC: REGISTER_CONTRAST — Shifts from statutory-text analysis to policy register, using terms like "patent bargain," "breakthrough innovations," and "devastating consequences" to reframe the debate. PARALLEL_STRUCTURE — "Denying an inventor a patent based sheerly on the number of possible embodiments, even if the patent's disclosures teach the world how to 'make and use' the claimed invention." The "even if" clause creates a parallel that highlights the disconnect between the Federal Circuit's test and the statutory standard.
+
+ARGUMENT UNIT 2.2: Section 112 supplies the controlling standard, and it is one of "reasonableness."
+
+  DOCTRINAL: APPLY_STANDARD — Identifies the statutory standard directly: the specification must "enable any person skilled in the art to make and use" the invention. NARROW_STATUTE — Reads Section 112(a) as imposing a reasonableness standard, not a completeness standard. The distinction between "enable skilled artisans to make and use individual embodiments as needed" versus "make all embodiments, seriatim" is the doctrinal crux.
+
+  NARRATIVE: CONCEDE_AND_REDIRECT — Implicitly concedes that broad claims raise legitimate concerns but redirects: the statute already addresses those concerns through the "make and use" standard. The Federal Circuit's additional test is unnecessary. PREEMPTIVE_REBUTTAL — Directly anticipates the concern that Amgen's position would allow unchecked overbreadth, and preempts it by pointing to the existing statutory check.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes the opponent's standard from "full scope enablement" to requiring that "skilled artisans can make all embodiments, seriatim, with minimal time and effort," which sounds unreasonable and hyperdemanding. DIMINISHING_MODIFIER — "With minimal time and effort" is petitioner's characterization of what the Federal Circuit demands, framing the opponent's standard as absurdly exacting.
+
+  STYLISTIC: CONCRETE_ANCHOR — Grounds the abstract standard in the statutory text by quoting Section 112(a) directly and repeatedly. COMPRESSION — "Patent claims need not be so narrow that skilled artisans can make all embodiments, seriatim, with minimal time and effort." Compresses the entire attack on the Federal Circuit's standard into one sentence.
+
+ARGUMENT UNIT 2.3: The statutory "make and use" standard already addresses overbreadth concerns.
+
+  DOCTRINAL: APPLY_STANDARD — Applies the statutory standard as a self-contained solution: if a claim exceeds what the patent enables, challengers can produce evidence showing they cannot reasonably make and use the invention. BURDEN_SHIFT — Shifts the burden to challengers: under the statutory standard, a patent is presumed enabled until someone demonstrates otherwise with evidence. The Federal Circuit's test improperly shifts the burden to the patentee.
+
+  NARRATIVE: CONCEDE_AND_REDIRECT — Concedes the Federal Circuit's concern about overbroad claims is real ("If a claim truly exceeds what the patent enables"), then redirects to show the existing standard handles it. AGREEMENT_TRAP — Implicitly forces the respondent into an uncomfortable position: if the "make and use" standard is sufficient to police overbreadth (as the statute says), then the Federal Circuit's additional test is superfluous.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the existing enforcement mechanism (challengers producing evidence of inability to make and use) to make the Federal Circuit's test look like a solution in search of a problem.
+
+  STYLISTIC: CADENCE_SHIFT — Shifts from the broad policy register of Unit 2.1 to a practical, evidentiary register: how the standard actually works in litigation.
+
+
+--- Section 3: III. Amgen's Patents Are Enabled ---
+
+ARGUMENT UNIT 3.1: The patents satisfy the proper enablement standard on their own terms.
+
+  DOCTRINAL: APPLY_TO_FACTS — Applies the statutory "make and use" standard to the specific patents at issue. Claims the 26 identified antibodies can be made by amino-acid sequence, and other antibodies can be made by following the patents' "roadmap" and conservative-substitution instructions. APPLY_STANDARD — Treats enablement as requiring that skilled artisans can follow the patent's teachings to make embodiments, not that the patent pre-identifies every one.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Shifts from attacking the Federal Circuit's test to affirmatively defending the patents. The move from "their standard is wrong" to "and anyway, we win under any standard" is strategically important: it signals confidence and prevents the case from turning solely on the standard-of-review question.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the patents' specific disclosures: 26 antibodies identified by sequence, a roadmap, conservative-substitution methods, all using routine techniques. OPPONENT_CONCESSION_CAPTURE — "Sanofi-Regeneron was given a retrial for the purpose of introducing evidence of specific, actual antibodies not enabled by Amgen's patents. But it failed to identify even one actual antibody within the claims that could not be made following the patents' disclosures." Captures the opponent's failure at trial and weaponizes it as an admission that the patents are, in practice, enabled.
+
+  STYLISTIC: CONCRETE_ANCHOR — The number "26 antibodies identified by amino-acid sequence" grounds the enablement claim in specific, verifiable fact. UNDERSTATED_DEVASTATION — "But it failed to identify even one actual antibody within the claims that could not be made following the patents' disclosures." The devastation is in the factual record, stated without adornment.
+
+  CROSS-BRIEF INTERACTION: Directly preempts Respondent Section 3 (Amgen Provides No Persuasive Reason to Establish a New Standard). By foregrounding that Sanofi failed to produce a single non-enabled antibody at retrial, Petitioner undercuts Respondent's later argument that the patents leave skilled artisans "guessing."
+
+
+--- Section 4: I. The Federal Circuit's Reach-the-Full-Scope Standard Defies Text, Precedent, History, and Policy ---
+
+ARGUMENT UNIT 4.1: The Patent Act is a statute and must be read as written.
+
+  DOCTRINAL: INVOKE_AUTHORITY — Opens with Bilski v. Kappos (2010) for the proposition that the Patent Act must be read as a statute, grounding the argument in the Court's own methodological commitment. NARROW_STATUTE — Uses the textualist framing to narrow the analysis: if the statute does not say what the Federal Circuit says, the Federal Circuit is wrong.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Frames Amgen's position as the faithful-textualist position. The rhetorical move is to claim the mantle of statutory fidelity before the detailed textual argument begins. FRAME_AS_ERROR — The word "cannot" signals certainty: the Federal Circuit's standard is irreconcilable with the statute's text, not merely in tension with it.
+
+  FACT-FRAMING: BACKGROUND — The specific facts of Amgen's patents are absent here. This is a pure doctrinal-altitude argument, operating at the level of statutory interpretation methodology.
+
+  STYLISTIC: AUTHORITY_SIGNALING — Bilski is chosen because it represents the Court's own recent commitment to textual fidelity in patent law, lending Petitioner the Court's own voice. COMPRESSION — "The Federal Circuit's 'enablement' standard cannot be reconciled with the Patent Act's text. It defies precedent, history, and policy as well." Two sentences that serve as a roadmap for the entire brief argument.
+
+
+--- Section 5: A. The Federal Circuit's Reach-the-Full-Scope Standard Finds No Support in Section 112 ---
+
+ARGUMENT UNIT 5.1: Section 112(a) states its requirements in plain language.
+
+  DOCTRINAL: APPLY_STANDARD — Quotes the full text of Section 112(a) and parses it clause by clause, treating the statutory language as self-executing. NARROW_STATUTE — Reads the statute's requirements as a closed list: written description, of the invention, of the manner and process of making and using it, in full/clear/concise/exact terms to enable skilled artisans to make and use the invention. No room for a separate "full scope" overlay.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Treats the statutory text as doing all the work. The Federal Circuit's test is presented as an unauthorized addition, not a plausible interpretation. The framing is: reading the statute is easy; departing from it requires justification.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the statutory text itself as the primary "fact" of the argument. Each clause is isolated and analyzed, treating textual parsing as the decisive factual inquiry.
+
+  STYLISTIC: STRATEGIC_QUOTATION — Quotes Section 112(a) in full, then quotes Schriber-Schroth Co. v. Cleveland Trust Co. (1938) to gloss the statutory object as requiring that "others may construct and use it after the patent expires." The quotation connects the modern text to its historical purpose. CONCRETE_ANCHOR — Clause-by-clause statutory parsing (description, of the invention, of the manner and process, in such terms) gives the argument a granular, close-reading feel.
+
+ARGUMENT UNIT 5.2: The Court has always applied this statutory standard directly.
+
+  DOCTRINAL: INVOKE_AUTHORITY — Marshals a line of cases spanning from Wood v. Underhill (1846) through Mowry v. Whitney (1872) to Loom Co. v. Higgins (1882), showing that the Court has applied the Section 112 standard without modification for over 170 years. STARE_DECISIS_SHIELD — Uses the unbroken line of consistent application as a stare decisis argument: the Court has never felt the need to supplement the statutory language with an additional test.
+
+  NARRATIVE: INSTITUTIONAL_REBUKE — The implicit argument is that if the Court itself has never supplemented the statutory standard across 170 years, the Federal Circuit had no warrant to do so.
+
+  FACT-FRAMING: SEQUENCE — The three cases are presented in reverse chronological order (1882, 1872, 1846), walking backward to show the standard's deep roots. Each case is shown applying nearly identical statutory language. FOREGROUND — Foregrounds the textual continuity across eras: each quoted formulation tracks the statutory text almost word-for-word, emphasizing that courts have not deviated.
+
+  STYLISTIC: PARALLEL_STRUCTURE — Each historical case is introduced with the same grammatical structure ("evaluating whether..."), creating a drumbeat of consistency. STRATEGIC_QUOTATION — Each case's quoted language mirrors the statute almost verbatim, reinforcing the point that the standard has not evolved because it has not needed to. AUTHORITY_SIGNALING — The temporal span of the citations (1846-1882) creates an impression of a standard so settled it predates the Federal Circuit by a century.
+
+ARGUMENT UNIT 5.3: The Court's description of enablement is consistent with the statutory text.
+
+  DOCTRINAL: APPLY_STANDARD — Identifies the Court's formulation as stating that a patent's disclosure "satisfies the law" when it meets the statutory standard, suggesting a pass/fail test aligned with the statute rather than a sliding scale aligned with claim breadth.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Closes the textual argument by showing that both the statute and the Court's gloss point in the same direction: enablement is about whether the specification teaches skilled artisans to make and use the invention, period.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the Court's own characterization of what "satisfies the law" to leave no daylight between the statutory text and the Court's understanding of it.
+
+  STYLISTIC: COMPRESSION — The transition to the Court's own description of the standard is compact, allowing the reader to see the alignment between text and precedent without belaboring it.
+
+  CROSS-BRIEF INTERACTION: This section sets up a direct clash with Respondent Section 1, which will argue that the same statutory text and the same precedents support the full-scope standard. Petitioner's move is to occupy the textual ground first, parsing the statute as self-contained and complete, so that Respondent must argue the text means something beyond what it says.
+
+
+==================================================
+RESPONDENT BRIEF (Docket21-757_Brief016.pdf)
+==================================================
+
+--- Section 1: A. Section 112 and This Court's Decisions Require Enablement of the Full Scope of a Claim Without Elaborate Experimentation ---
+
+ARGUMENT UNIT 1.1: Enablement is the quid pro quo of the patent monopoly.
+
+  DOCTRINAL: APPLY_STANDARD — Quotes the same Section 112(a) text as Petitioner, but reads it differently: enablement is "the quid pro quo of the right to exclude," making the disclosure obligation coextensive with the scope of exclusion. BROADEN_STATUTE — Reads the "make and use the same" language as requiring enablement commensurate with the scope of the claim, not merely enablement of one or some embodiments.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Opens by staking its own claim to the statutory text, refusing to cede the textualist ground to Petitioner. The framing is: we read the same words and reach the opposite conclusion because our reading accounts for the full structure of the patent bargain. ESCALATE_STAKES — Invokes the patent bargain at a systemic level: the monopoly is justified only by a corresponding disclosure, so shortchanging the disclosure undermines the entire system.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the "quid pro quo" framing (quoting J.E.M. Ag Supply and Pennock v. Dialogue) to recast enablement not as a technical requirement but as the central obligation that legitimizes patent exclusivity.
+
+  STYLISTIC: STRATEGIC_QUOTATION — Quotes J.E.M. Ag Supply (2001), Festo (2002), and reaches back to Pennock v. Dialogue (1829, Story, J.) to show the quid pro quo principle has been foundational from the beginning. The Story citation is a prestige signal. AUTHORITY_SIGNALING — Layering modern cases with an early Republic decision written by Justice Story elevates the argument from statutory interpretation to constitutional-era principle.
+
+  CROSS-BRIEF INTERACTION: Directly competes with Petitioner Section 5 for control of the statutory text. Where Petitioner parsed Section 112(a) clause by clause and stopped, Respondent reads the same text within the structural logic of the patent bargain, making the text do different work.
+
+ARGUMENT UNIT 1.2: The enablement-for-monopoly exchange traces back to pre-Framing English law.
+
+  DOCTRINAL: INVOKE_AUTHORITY — Cites King v. Arkwright (K.B. 1785) as establishing the disclosure obligation before the Constitution, grounding the full-scope principle in English patent law. ANALOGIZE — Draws a direct line from Justice Buller's formulation ("disclose his secret...in such a way, that others may be taught by it to do the thing for which the patent is granted") to the modern Section 112(a) requirement.
+
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Respondent anticipates Petitioner's historical argument (that centuries of practice refute the full-scope standard) and preempts it by showing that the same history supports a robust disclosure obligation. Both sides claim the historical record; Respondent gets there first in its own brief.
+
+  FACT-FRAMING: SEQUENCE — Walks from King v. Arkwright (1785) through the Patent Act of 1790, the Patent Act of 1836, the Patent Act of 1870, and the current Section 112 to show unbroken legislative continuity. Each statute is quoted to show that the same "full, clear, and exact terms" language has persisted across two centuries.
+
+  STYLISTIC: STRATEGIC_QUOTATION — Quotes Justice Buller's 1785 language and then each successive Patent Act, creating a textual genealogy that makes the current statute look like the latest expression of an ancient principle. CONCRETE_ANCHOR — Quoting the actual text of the Patent Act of 1790 ("so particular as to enable a person skilled in the art to make, construct, or use the same, to the end that the public may have the full benefit thereof") grounds the argument in historical fact and highlights the "full benefit" language that supports full-scope enablement.
+
+
+--- Section 2: B. The Federal Circuit, in General and in the Decision Below, Requires No More Than the Statutory Text and This Court's Cases Demand ---
+
+ARGUMENT UNIT 2.1: The Federal Circuit's standard faithfully embodies Section 112 and this Court's precedents.
+
+  DOCTRINAL: APPLY_STANDARD — Characterizes the Federal Circuit's standard as a direct application of Section 112 and Court precedent, not a departure from it. INVOKE_AUTHORITY — Cites the CCPA (In re Moore, In re Fisher) as the Federal Circuit's predecessor articulating the same "commensurate in scope" principle. Cites In re Wands as the Federal Circuit's "seminal" decision establishing the undue-experimentation framework.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Frames the Federal Circuit as the faithful steward of the statutory standard, implementing it through the Wands factors rather than adding to it. INSTITUTIONAL_REBUKE — Implicitly rebukes Petitioner's characterization of the Federal Circuit as a rogue court: the CCPA articulated the same standard decades earlier, and the Federal Circuit merely continued it.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes Amgen's patents as an example of "claim a lot and disclose a little," flipping Petitioner's framing (claim breadth as innovation) into a narrative of overreach. OPPONENT_CONCESSION_CAPTURE — Notes that "even Amgen's own scientists must engage in undue experimentation" to make and use the full scope, capturing what Respondent characterizes as an implicit admission from Amgen's own evidence.
+
+  STYLISTIC: AUTHORITY_SIGNALING — The layering of CCPA, Federal Circuit, and Supreme Court citations creates the impression of a unified doctrinal tradition, not a recent Federal Circuit innovation. STRATEGIC_QUOTATION — Quotes the CCPA's "commensurate in scope" formulation and the "undue experimentation" standard to show both predate the Federal Circuit.
+
+ARGUMENT UNIT 2.2: Petitioner does not actually challenge the Federal Circuit's established framework.
+
+  DOCTRINAL: OPPONENT_CONCESSION_CAPTURE — This is the section's central move, deployed repeatedly. Respondent catalogs what Amgen does not challenge: the undue-experimentation standard, the Wands factors, the "full scope" language, and the results in Idenix and Wyeth. Each non-challenge is treated as a concession.
+
+  NARRATIVE: AGREEMENT_TRAP — Forces Petitioner into a bind: if Amgen accepts undue experimentation, Wands, and "full scope" as stated standards, the distance between its position and the Federal Circuit's becomes vanishingly small. FRAME_AS_ERROR — Frames Amgen's position not as a principled disagreement but as a straw-man attack on a standard the Federal Circuit never adopted.
+
+  FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — "Amgen embraced this same 'full scope' standard in its briefing below." "Amgen previously told this Court that, '[f]or enablement, the Federal Circuit applies the statutory standard.'" "Amgen acknowledges that a patent must 'reasonably enable the entire scope of the claim.'" Each is a captured prior statement deployed against Petitioner. FOREGROUND — Foregrounds the list of concessions and non-challenges to make Amgen's position look internally contradictory.
+
+  STYLISTIC: PARALLEL_STRUCTURE — The repeated "Amgen does not..." / "Nor could it..." / "Amgen similarly accepts..." structure creates a drumbeat of captured concessions. UNDERSTATED_DEVASTATION — "Even more remarkably, Amgen does not take issue with the Federal Circuit's recent decisions in Idenix and Wyeth." The word "remarkably" is the only intensifier; the devastation is in what is left unsaid about why that concession matters.
+
+  CROSS-BRIEF INTERACTION: This unit is entirely a response to Petitioner's brief. Every "Amgen does not challenge" is a direct engagement with Petitioner's framing. Respondent's strategy is to shrink the contested ground: if Amgen accepts the framework and only disputes the characterization of the decision below, the case becomes a factual dispute about what the panel actually held, not a doctrinal showdown.
+
+
+--- Section 3: II. Amgen Provides No Persuasive Reason to Establish a New Enablement Standard ---
+
+ARGUMENT UNIT 3.1: Amgen attacks a straw man.
+
+  DOCTRINAL: DISTINGUISH — Distinguishes between the standard Amgen attributes to the Federal Circuit (a "cumulative effort" test measuring time to make all embodiments) and the standard the Federal Circuit actually applied (enablement commensurate with scope, assessed through the Wands factors). NARROW_HOLDING — Narrows the holding below to exclude the "cumulative effort" or "numerosity" standard Amgen attributes to it.
+
+  NARRATIVE: FRAME_AS_ERROR — Amgen's entire brief is characterized as attacking a position the Federal Circuit never held. The rhetorical payoff is significant: if the Court accepts this framing, 20 pages of Petitioner's argument become irrelevant. INSTITUTIONAL_REBUKE — The panel "specifically resisted" and "expressly rejects" the standard Amgen attributes to it. Respondent positions the Federal Circuit as having been clear on this point, making Amgen's characterization look like willful misreading.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes Amgen's core argument from a principled legal challenge to a mischaracterization, a framing error rather than a doctrinal disagreement. STRATEGIC_QUOTATION — Quotes the panel decision extensively to show the Federal Circuit explicitly disclaimed the standard Amgen attributes to it: "do[es] not hold that the effort required to exhaust a genus is dispositive"; the patent need not "describe how to make and use every possible variant."
+
+  STYLISTIC: STRATEGIC_QUOTATION — The section is built on an avalanche of quotations from the panel decision, each showing the Federal Circuit saying the opposite of what Amgen claims. This is quotation as evidence, not decoration. CONCRETE_ANCHOR — Specific page citations to the panel opinion (Pet.App.14a, 8a, 13a, 64a, 65a) ground the rebuttal in the actual record.
+
+  CROSS-BRIEF INTERACTION: This is a frontal response to Petitioner Sections 1, 2, and 4 (the "reach-the-full-scope" argument that spans most of Petitioner's brief). Respondent's counter-move is to deny the premise: the standard Petitioner spent 20 pages attacking does not exist.
+
+
+--- Section 4: A. Amgen Mischaracterizes the Decision Below ---
+
+ARGUMENT UNIT 4.1: Amgen's entire case rests on a misreading of the panel decision.
+
+  DOCTRINAL: NARROW_HOLDING — Narrows the panel's holding to exclude the cumulative-effort standard. Respondent's doctrinal move is to restate what the panel actually held (enablement commensurate with scope, assessed through Wands factors) and contrast it with what Amgen claims it held.
+
+  NARRATIVE: FRAME_AS_ERROR — "There is a singular problem with that approach: The Federal Circuit has never endorsed or relied on any such cumulative-effort standard." The entire brief strategy is characterized as resting on a factual error about the decision below. INSTITUTIONAL_REBUKE — The panel is quoted as having corrected the mischaracterization on rehearing, meaning Amgen persisted in the misreading after the panel itself said it was wrong.
+
+  FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Respondent captures the panel's own language from the rehearing statement, where the panel accused Amgen of mischaracterization, and deploys it as third-party corroboration of Respondent's framing. FOREGROUND — Foregrounds the panel's express disclaimers: "do[es] not hold that the effort required to exhaust a genus is dispositive"; "not concerned simply with the number of embodiments"; "specifically resisted what might be termed a simple 'numerosity' or 'exhaustion' requirement."
+
+  STYLISTIC: STRATEGIC_QUOTATION — The section is structured around a series of direct quotations from the panel opinion and rehearing statement, each contradicting Amgen's characterization. The quotations do the work; Respondent's commentary is minimal. UNDERSTATED_DEVASTATION — "From its Question Presented to the last page of its brief, Amgen rests its case for reversal on a profound mischaracterization of the decision below." The word "profound" is the only qualifier; the sentence's force comes from the scope claim ("Question Presented to the last page"). PARALLEL_STRUCTURE — Repeated pattern of quoting Amgen's characterization, then quoting the panel's actual language, then showing the contradiction. The paired quotations create a before/after effect that makes the gap visible without editorializing.
+
+  CROSS-BRIEF INTERACTION: This is the most directly adversarial section in either brief. Every paragraph takes a specific claim from Petitioner's brief (with page citations: "Br.2, 19-20, 24," "Br.21-41," "Br.26") and juxtaposes it against the panel's actual language. The cross-brief move is to deny Petitioner the ability to define the question presented: if the Federal Circuit never held what Amgen says it held, the case Amgen asks the Court to decide does not exist.
+
+NEW_MOVE_STRAW_MAN_EXPOSURE: Respondent's strategy across Sections 3 and 4 amounts to a sustained demonstration that Petitioner's central argument attacks a position the lower court never took. This goes beyond DISTINGUISH (which separates the present case from a prior one) and beyond FRAME_AS_ERROR (which characterizes a position as wrong). The move is to deny the factual predicate of the opponent's legal argument: the standard being attacked does not exist in the decision being reviewed. This is distinct from doctrinal disagreement; it is a meta-argument about whether the opponent has correctly identified what is at issue.
+
+
+==================================================
+CROSS-BRIEF INTERACTION SUMMARY
+==================================================
+
+1. THE BATTLE OVER STATUTORY TEXT (Pet. Section 5 vs. Resp. Section 1)
+Both sides quote Section 112(a) in full and both claim the text supports their position. Petitioner parses the statute clause by clause to show it imposes a "make and use" standard without reference to claim scope. Respondent reads the same text within the structural logic of the patent bargain (quid pro quo), arguing that "make and use the same" necessarily means enablement must be commensurate with the scope of the claimed invention. The interaction is notable because neither side disputes the text; the disagreement is about how much structural context the text carries with it. Petitioner reads the text as self-contained; Respondent reads it as embedded in a larger transactional logic.
+
+2. THE BATTLE OVER PRECEDENT (Pet. Section 1 vs. Resp. Section 2)
+Petitioner argues the Court has "never suggested" enablement turns on cumulative effort and has "repeatedly upheld patents" that would fail the Federal Circuit's test. Respondent fires back with OPPONENT_CONCESSION_CAPTURE: Amgen accepted the "full scope" standard below, called the Wands factors "seminal," and did not challenge the Idenix and Wyeth decisions. The interaction creates a factual dispute about the distance between the two positions. Petitioner needs the gap to be large (a novel, extratextual test vs. the statutory standard); Respondent needs the gap to be small (a minor characterization dispute about a single panel decision).
+
+3. THE STRAW-MAN SHOWDOWN (Pet. Sections 1-2-4 vs. Resp. Sections 3-4)
+The single most consequential cross-brief interaction. Petitioner spends approximately 20 pages attacking a "reach-the-full-scope" or "cumulative effort" standard. Respondent spends its most aggressive sections (3 and 4) arguing that this standard does not exist in the decision below, quoting the panel's express disclaimers and its rehearing correction. The stakes of this interaction are existential to the case: if Respondent is right that Petitioner mischaracterized the decision, then Petitioner's primary argument is moot and the Court has no reason to disturb the judgment. If Petitioner is right that the panel effectively applied a numerosity/cumulative-effort test regardless of its disclaimers, then the entire line of attack remains live.
+
+4. THE FACTUAL ANCHOR (Pet. Section 3 vs. Resp. Section 2)
+Petitioner's argument that Sanofi "failed to identify even one actual antibody within the claims that could not be made" is a concrete factual counterweight to Respondent's claim that skilled artisans "must engage in undue experimentation" and are left "guessing." The cross-brief tension is between the macro level (can you make all embodiments?) and the micro level (can you point to one you cannot make?). Petitioner wants the Court to focus on the absence of a single counterexample; Respondent wants the Court to focus on the structural gap between what was disclosed and what was claimed.
+
+5. THE POLICY CONTEST (Pet. Section 2 vs. Resp. Section 1)
+Both sides invoke the patent bargain but draw opposite conclusions. Petitioner argues the Federal Circuit's test "threatens devastating consequences" for breakthrough innovation by denying patents to inventors whose discoveries have many applications. Respondent argues that allowing broad claims without commensurate disclosure breaks the bargain from the other direction: the public gets a monopoly imposed on it without receiving the knowledge it was promised. The interaction is symmetric: each side claims the other's position destroys the patent system's core logic.
+
+==================================================
+NEW MOVES
+==================================================
+
+NEW_MOVE_STRAW_MAN_EXPOSURE: A sustained argument that the opponent's central legal argument attacks a position the lower court never adopted. Distinguished from DISTINGUISH (which separates factual or doctrinal situations) and FRAME_AS_ERROR (which says a position is wrong). STRAW_MAN_EXPOSURE denies the factual predicate of the opponent's argument: the legal standard being challenged does not exist in the decision under review. Respondent deploys this across Sections 3 and 4, supported by extensive quotation from the panel opinion and rehearing statement. The move operates at a meta-level: rather than engaging with the doctrinal merits of Petitioner's proposed standard, it argues the Court should not reach the merits because the question presented is based on a false premise.

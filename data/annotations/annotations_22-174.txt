@@ -1,0 +1,1299 @@
+================================================================================
+LEGAL MOVE ANNOTATIONS
+Groff v. DeJoy, S. Ct. Docket No. 22-174
+Issue: Whether the Court should disapprove the de minimis cost test stated in
+Trans World Airlines, Inc. v. Hardison, 432 U.S. 63 (1977), for evaluating
+Title VII religious-accommodation claims, and instead require employers to
+show "significant difficulty or expense" to establish "undue hardship."
+================================================================================
+
+NOTE ON METHODOLOGY
+Each section is broken into argument units (AU). Each AU is annotated across
+four layers: Doctrinal, Narrative, Fact-Framing, Stylistic. Where no move
+applies, the layer is marked "--". Cross-brief interactions are flagged
+with [CROSS-BRIEF] tags at the end of the relevant AU.
+
+
+################################################################################
+PETITIONER BRIEF (Groff)
+################################################################################
+
+================================================================================
+PET. SECTION 1: Roadmap — Hardison's Unsound Definition Of "Undue Hardship"
+Lacks Precedential Force, And The Court Should Construe That Term According
+To Its Plain Meaning
+================================================================================
+
+--- AU-P1.1 ---
+TEXT: "Because Title VII does not define the phrase 'undue hardship,' the Court
+would ordinarily construe it according to its plain meaning."
+
+DOCTRINAL:  APPLY_STANDARD — The brief opens by invoking the default rule of
+            statutory construction: undefined terms receive their ordinary
+            meaning. This is not argumentative so much as it is establishing
+            the baseline analytical framework. The move positions Hardison as
+            the deviation and plain-meaning construction as the norm.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — The brief leads with what the Court "would
+            ordinarily" do, establishing the petitioner's position as the
+            unremarkable default rather than as a challenge to settled law.
+
+FACT-FRAMING: FOREGROUND_ABSENCE — The brief foregrounds a statutory gap
+              (Title VII's failure to define "undue hardship") and treats it
+              as the controlling fact. The absence of a definition becomes
+              affirmative evidence for the petitioner's interpretive approach.
+
+STYLISTIC:  COMPRESSION — A single sentence performs multiple functions:
+            identifies the statutory gap, invokes the interpretive default,
+            and implicitly frames Hardison as aberrant.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.2 ---
+TEXT: "The Court's statement in Trans World Airlines, Inc. v. Hardison,
+432 U.S. 63, 84 (1977), that an employer suffers 'undue hardship' whenever a
+religious accommodation imposes 'more than a de minimis cost' departs from that
+approach and contradicts Title VII's text, structure, history, and purpose."
+
+DOCTRINAL:  DISTINGUISH — The brief characterizes Hardison's de minimis
+            formulation as a departure from the standard interpretive method,
+            setting up the later argument that it is dicta. The word
+            "statement" rather than "holding" is doing doctrinal work.
+
+            APPLY_STANDARD — The four-part reference to "text, structure,
+            history, and purpose" invokes the full toolkit of statutory
+            construction, positioning the petitioner's reading as the product
+            of rigorous methodology rather than policy preference.
+
+NARRATIVE:  FRAME_AS_ERROR — "Departs from" and "contradicts" are chosen to
+            cast Hardison not as a reasonable interpretive choice but as a
+            mistake. The brief is asserting error, not disagreement.
+
+FACT-FRAMING: RECHARACTERIZE — Hardison's de minimis test is recharacterized
+              from a longstanding interpretive framework into a "statement"
+              that "departs" from proper method. The brief is relabeling
+              what lower courts have treated as binding precedent.
+
+STYLISTIC:  AUTHORITY_SIGNALING — The full citation (case name, volume,
+            page, year) followed by the four-category statutory indictment
+            signals that the brief is mounting a comprehensive textual attack,
+            not a narrow doctrinal quibble.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.3 ---
+TEXT: "Stare decisis does not mandate adherence to Hardison's misguided dicta."
+
+DOCTRINAL:  NARROW_HOLDING — The core doctrinal move of the entire brief is
+            compressed into this sentence. By labeling Hardison's de minimis
+            language "dicta," the brief removes it from the stare decisis
+            calculus entirely. If the statement is dicta, the Court need not
+            even perform the usual stare decisis balancing.
+
+NARRATIVE:  FRAME_AS_ERROR — "Misguided" is a judgment on the merits layered
+            on top of the procedural characterization ("dicta"). The brief is
+            saying: not only does stare decisis not apply, but the underlying
+            reasoning was wrong anyway.
+
+FACT-FRAMING: --
+
+STYLISTIC:  COMPRESSION — One sentence carries two independent arguments
+            (dicta classification + substantive wrongness). The brevity
+            signals confidence.
+
+            UNDERSTATED_DEVASTATION — Calling a 45-year-old SCOTUS
+            formulation "misguided dicta" in a single flat sentence. No
+            hedging, no qualification.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.4 ---
+TEXT: "Rather, applying statutory-construction principles, 'undue hardship'
+must mean, as it regularly does throughout the U.S. Code, significant
+difficulty or expense in light of the employer's financial resources, the
+number of individuals it employs, and the nature of its operations and
+facilities."
+
+DOCTRINAL:  BROADEN_STATUTE — The brief proposes replacing the de minimis
+            test with a multi-factor "significant difficulty or expense"
+            standard, substantially broadening the protection for religious
+            employees.
+
+            ANALOGIZE — The reference to how "undue hardship" is "regularly"
+            defined "throughout the U.S. Code" treats other federal statutes
+            (principally the ADA) as persuasive authority for construing the
+            same phrase in Title VII. The move is: Congress uses this term
+            elsewhere with a consistent meaning; Title VII should be read
+            the same way.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — The brief states what the standard "must
+            mean," projecting certainty rather than advocacy.
+
+FACT-FRAMING: FOREGROUND — The brief foregrounds cross-statutory consistency
+              as a factual observation ("as it regularly does throughout
+              the U.S. Code"), treating the multi-factor standard as the
+              established norm from which Hardison departed.
+
+STYLISTIC:  CONCRETE_ANCHOR — The three-factor formulation (financial
+            resources, number of employees, nature of operations and
+            facilities) gives the proposed standard tangible content. This
+            is not an abstract "totality of the circumstances" test; it
+            names specific variables.
+
+            PARALLEL_STRUCTURE — The three factors are presented in a
+            parallel series that reads as a ready-made legal test, designed
+            for direct adoption.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.5 ---
+TEXT: "Anything less disrespects the text and upsets the balance Congress
+struck. This Court should faithfully construe the statute and disapprove
+Hardison's flawed reading of Title VII."
+
+DOCTRINAL:  DISTINGUISH_PURPOSE — "The balance Congress struck" invokes
+            legislative purpose as an independent constraint, positioning
+            the de minimis test as not merely textually wrong but as
+            contrary to the statutory design.
+
+NARRATIVE:  ESCALATE_STAKES — "Disrespects the text" and "upsets the balance
+            Congress struck" elevate the consequences beyond an incorrect
+            interpretation. The brief frames continued adherence to Hardison
+            as institutional failure.
+
+            FRAME_AS_ERROR — "Flawed reading" is the brief's third distinct
+            characterization of Hardison as wrong (after "misguided" and
+            "departs from"), reinforcing the error frame through repetition
+            without identical language.
+
+FACT-FRAMING: --
+
+STYLISTIC:  CADENCE_SHIFT — After the dense, factor-laden preceding sentence,
+            the brief closes the roadmap with two short, declarative
+            sentences. The shift in rhythm signals the conclusion of the
+            argument's setup.
+
+            REGISTER_CONTRAST — "Disrespects" is a register departure from
+            the otherwise formal statutory-construction vocabulary. The word
+            carries a moral charge that "contradicts" or "conflicts with"
+            would not.
+
+
+================================================================================
+PET. SECTION 2: Hardison's undue hardship test is dicta that lacks stare
+decisis effect
+================================================================================
+
+--- AU-P2.1 ---
+TEXT: "The Hardison Court was not interpreting Title VII's 1972 amendment that
+defined 'religion,' rendering its undue-hardship remarks dicta with respect
+to the meaning of that statute."
+
+DOCTRINAL:  NARROW_HOLDING — The section opens with the core classificatory
+            move: Hardison was construing an EEOC guideline, not the statute
+            itself. If the Court was not interpreting the statute, its
+            statements about the statute's meaning cannot be holdings.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — Stated as a factual conclusion ("was not
+            interpreting") rather than as an argument ("should be understood
+            as not interpreting"). The brief presents the dicta
+            classification as self-evident.
+
+FACT-FRAMING: FOREGROUND — The chronological fact that the events in Hardison
+              predated the 1972 amendment is the linchpin. The brief places
+              this fact at the front of the analysis.
+
+              SEQUENCE — The implicit timeline (events occur, EEOC guideline
+              applies, 1972 amendment later enacted, Hardison decides under
+              old guideline) structures the entire argument. The temporal
+              sequence does the argumentative work.
+
+STYLISTIC:  --
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.2 ---
+TEXT: "Hardison, 432 U.S. at 66 ('At the time of the events involved here, a
+guideline of the [EEOC] required, as the Act itself now does, that an
+employer, short of "undue hardship," make "reasonable accommodations" to the
+religious needs of its employees.') (internal citations omitted)."
+
+DOCTRINAL:  INVOKE_AUTHORITY — The brief quotes the Hardison opinion itself
+            to establish the dicta argument. The move is to use the Court's
+            own words to demonstrate that the opinion was aware it was not
+            applying the statute.
+
+NARRATIVE:  --
+
+FACT-FRAMING: STRATEGIC_QUOTATION — The key phrase is "as the Act itself now
+              does," which the brief uses to show that Hardison acknowledged
+              the distinction between the EEOC guideline it was applying
+              and the statute as subsequently amended.
+
+STYLISTIC:  STRATEGIC_QUOTATION — Letting Hardison's own language carry the
+            argument rather than paraphrasing. The brief is signaling: I do
+            not need to characterize; the text speaks for itself.
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.3 ---
+TEXT: "'Because the employee's termination had occurred before the 1972
+amendment, Hardison applied the then-existing EEOC guideline—which also
+contained an "undue hardship" defense—not the amended statutory definition.'
+EEOC v. Abercrombie & Fitch Stores, Inc., 575 U.S. 768, 787 n. (2015)
+(Thomas, J., concurring in part and dissenting in part); see also Patterson
+v. Walgreen Co., 140 S. Ct. 685, 686 n. (2020) (Alito, J., concurring in
+denial of certiorari)."
+
+DOCTRINAL:  INVOKE_AUTHORITY — Two sitting Justices (Thomas and Alito) have
+            already endorsed the dicta characterization in separate
+            writings. The brief stacks these citations to show the argument
+            is not novel but has internal support on the Court.
+
+            NARROW_HOLDING — The Thomas quotation restates the dicta
+            argument with the authority of a Justice's concurrence, adding
+            institutional weight to the classification.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — By showing that Justices have already
+            articulated this position, the brief preempts any suggestion
+            that the dicta argument is a stretch or a litigation invention.
+
+FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Though Thomas and Alito are not
+              opponents, using their words functions similarly: members of
+              the very institution being asked to overrule have already
+              acknowledged the weakness in Hardison's precedential force.
+
+STYLISTIC:  AUTHORITY_SIGNALING — The stacking of Thomas (Abercrombie) and
+            Alito (Patterson) is a targeted signal to the current Court's
+            composition. These are not random lower-court citations; they
+            are sitting Justices on record.
+
+[CROSS-BRIEF: Respondent's Section 1 will concede the merits arguendo
+("Whatever the merits of those criticisms") but redirect to vehicle problems,
+declining to engage the dicta argument directly. See AU-R1.1.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.4 ---
+TEXT: "'[E]xpressions' in an opinion that 'are beyond the point involved do
+not come within the rule of stare decisis.' Humphrey's Ex'r v. United States,
+295 U.S. 602, 626 (1935); see also Seminole Tribe of Florida v. Florida,
+517 U.S. 44, 66-67 (1996) (Court is 'bound' by the 'result' and 'those
+portions of the opinion necessary to that result'). ... if the prior case
+'did not address the point now at issue,' the Court is 'not bound to follow
+any dicta in the case.' Van Buren v. United States, 141 S. Ct. 1648, 1660
+(2021)."
+
+DOCTRINAL:  INVOKE_AUTHORITY — Three additional precedents establishing the
+            general principle that dicta carries no stare decisis weight.
+            The brief is building redundancy: even if one citation is
+            distinguishable, two others stand behind it.
+
+            APPLY_STANDARD — Having classified Hardison's statement as
+            dicta (AU-P2.1 through P2.3), the brief now applies the
+            established rule about dicta's precedential status. The
+            two-step structure (classify, then apply consequences) mirrors
+            standard legal reasoning.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — The brief frames these principles as settled
+            and uncontroversial, not as contested propositions. The
+            argument is: given that Hardison is dicta (established above),
+            the consequence follows automatically from black-letter law.
+
+FACT-FRAMING: --
+
+STYLISTIC:  AUTHORITY_SIGNALING — Three SCOTUS citations spanning 1935 to
+            2021 (Humphrey's Ex'r, Seminole Tribe, Van Buren). The
+            temporal range signals that the principle is durable and
+            repeatedly reaffirmed.
+
+
+================================================================================
+PET. SECTION 3: Title VII's plain language requires a showing of significant
+difficulty or expense
+================================================================================
+
+--- AU-P3.1 ---
+TEXT: "As the United States once urged (but now seems to have recanted),
+Hardison is 'incorrect,' and this Court should construe 'undue hardship'
+consistent with its plain meaning. U.S. Amicus Br. 19-21, Patterson,
+140 S. Ct. 685 (No. 18-349) (hereinafter, 'U.S. Patterson Br.')."
+
+DOCTRINAL:  INVOKE_AUTHORITY — The brief cites the federal government's own
+            prior litigation position as authority for the proposition that
+            Hardison was wrong. This is a distinctive form of authority:
+            the government as institutional actor, not merely as advocate
+            in a single case.
+
+NARRATIVE:  OPPONENT_CONCESSION_CAPTURE — This is the section's most
+            prominent move. The United States is now respondent's ally
+            (USPS is the employer), yet the brief quotes the U.S.
+            government's prior position calling Hardison "incorrect." The
+            parenthetical "(but now seems to have recanted)" sharpens the
+            point: the government's current position is inconsistent with
+            its own prior analysis.
+
+FACT-FRAMING: FOREGROUND — The government's prior brief is foregrounded as
+              the opening authority, ahead of the statutory text itself.
+              The strategic choice is to lead with the adversary's own
+              concession.
+
+              RECHARACTERIZE — The government's shift in position is
+              recharacterized as a "recant[ation]," a word with
+              connotations of abandoning a previously held truth rather
+              than simply changing a litigation posture.
+
+STYLISTIC:  UNDERSTATED_DEVASTATION — The parenthetical "(but now seems to
+            have recanted)" is devastating precisely because it is
+            understated. The brief does not dwell on the inconsistency;
+            the parenthetical lets the reader draw the inference.
+
+[CROSS-BRIEF: Respondent's brief does not address the government's prior
+position in Patterson. This silence is itself notable; the respondent
+leaves this factual point unrebutted.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.2 ---
+TEXT: "Under ordinary rules of statutory construction, 'undue hardship' means
+that an employer must incur significant difficulty or expense in light of the
+employer's financial resources, the number of individuals it employs, and the
+nature of its operations and facilities before it is excused from
+accommodating an employee's religious exercise."
+
+DOCTRINAL:  BROADEN_STATUTE — Restates the proposed standard with additional
+            detail, now framed as the output of "ordinary rules of
+            statutory construction" rather than as a novel proposal.
+
+            APPLY_STANDARD — The phrase "ordinary rules" naturalizes the
+            standard. The brief is asserting that its reading is what
+            standard methodology produces, not what policy preferences
+            require.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — The standard is presented as a conclusion
+            ("means") rather than as a proposal ("should mean"). The
+            confidence of the framing mirrors the certainty claimed for
+            the underlying methodology.
+
+FACT-FRAMING: --
+
+STYLISTIC:  PARALLEL_STRUCTURE — The three-factor test (financial resources,
+            number of employees, nature of operations) is repeated from
+            the roadmap, building familiarity and making the test feel
+            established through repetition.
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.3 ---
+TEXT: "This definition matches how 'undue hardship' is regularly defined
+throughout the U.S. Code, and it follows from Title VII's text, structure,
+history, and purpose."
+
+DOCTRINAL:  ANALOGIZE — Cross-statutory consistency is deployed again as
+            independent support. The ADA's definition of "undue hardship"
+            (42 U.S.C. 12111(10)) lurks behind this reference without
+            being named, letting the brief invoke the principle of
+            consistent statutory meaning without getting into the
+            differences between the two statutes.
+
+NARRATIVE:  --
+
+FACT-FRAMING: FOREGROUND — Cross-statutory consistency is treated as a
+              factual observation rather than an interpretive argument.
+
+STYLISTIC:  --
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.4 ---
+TEXT: "By contrast, Hardison's de minimis test 'makes a mockery' of Title VII.
+432 U.S. at 88 (Marshall, J., dissenting). Its construction defies 'simple
+English usage' and 'effectively nullif[ies]' the statute's promise of a
+workplace free from religious discrimination. Id. at 89, 92 n.6."
+
+DOCTRINAL:  FRAME_AS_ERROR — The brief adopts Justice Marshall's dissenting
+            language wholesale, treating the dissent's critique as the
+            correct analysis. The move converts a dissent into a
+            prospective holding.
+
+NARRATIVE:  ESCALATE_STAKES — "Makes a mockery," "defies simple English
+            usage," and "effectively nullifies" are all Marshall's words,
+            but the brief deploys them to characterize the consequences of
+            retaining Hardison in the strongest available terms.
+
+FACT-FRAMING: RECHARACTERIZE — The de minimis test is recharacterized from
+              a workable legal standard into a nullification of the statute.
+
+STYLISTIC:  STRATEGIC_QUOTATION — The brief uses Marshall's dissent to
+            deliver its harshest characterizations of Hardison. By
+            attributing these judgments to a Justice rather than to
+            counsel, the brief gains rhetorical force without appearing
+            hyperbolic.
+
+            REGISTER_CONTRAST — "Makes a mockery" is sharply colloquial
+            against the brief's otherwise formal register. The contrast
+            is strategic: Marshall's vernacular carries more force than
+            formal statutory language would.
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.5 ---
+TEXT: "see also Small v. Memphis Light, Gas & Water, 141 S. Ct. 1227, 1228
+(2021) (Gorsuch, J., dissenting from denial of certiorari) (same)."
+
+DOCTRINAL:  INVOKE_AUTHORITY — A third sitting Justice (Gorsuch, joining
+            Thomas and Alito) is cited as having endorsed the critique of
+            Hardison. The brief is building a head count.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — By showing three Justices already on
+            record questioning Hardison, the brief preempts any framing
+            of its position as radical or lacking institutional support.
+
+FACT-FRAMING: --
+
+STYLISTIC:  COMPRESSION — The parenthetical "(same)" does maximum work
+            with minimum text, incorporating Gorsuch's entire position
+            by reference.
+
+            AUTHORITY_SIGNALING — The citation to a denial of certiorari
+            is unusual; the brief is mining every available source of
+            internal Court skepticism toward Hardison.
+
+
+================================================================================
+PET. SECTION 4: Requiring significant difficulty or expense accords with
+the ordinary meaning
+================================================================================
+
+--- AU-P4.1 ---
+TEXT: "'When a statute does not define a term, we typically give the phrase
+its ordinary meaning.' FCC v. AT&T Inc., 562 U.S. 397, 403 (2011). Because
+Title VII does not define the term 'undue hardship,' the Court must determine
+'the ordinary public meaning of [that] term[] at the time of its enactment.'
+Bostock v. Clayton County, 140 S. Ct. 1731, 1738 (2020)."
+
+DOCTRINAL:  APPLY_STANDARD — The section opens by restating the interpretive
+            default with additional authority. FCC v. AT&T and Bostock are
+            recent, uncontroversial applications of the ordinary-meaning
+            principle.
+
+            INVOKE_AUTHORITY — Bostock is a strategically chosen citation.
+            It is a recent Title VII case, and its textualist methodology
+            was embraced by a 6-3 majority. Citing it signals alignment
+            with the Court's current interpretive approach.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — The brief frames the analysis as
+            compelled by method ("must determine") rather than chosen
+            for convenience.
+
+FACT-FRAMING: --
+
+STYLISTIC:  --
+
+--------------------------------------------------------------------------------
+
+--- AU-P4.2 ---
+TEXT: "'Hardship' ordinarily means 'a condition that is difficult to endure,'
+'suffering,' or 'something hard to bear.' The Random House Dictionary of the
+English Language 602 (1968). This word alone conveys that a business must
+incur 'some pretty substantial costs' before it is excused from offering an
+accommodation. Small v. Memphis Light, Gas & Water, 952 F.3d 821, 827
+(6th Cir. 2020) (Thapar, J., concurring). Nothing less than a true
+'hardship' can justify refusing a religious accommodation."
+
+DOCTRINAL:  APPLY_STANDARD — Dictionary definition analysis, the canonical
+            method for establishing ordinary meaning. The brief uses a
+            1968 dictionary to fix meaning at the time of enactment, as
+            Bostock prescribes.
+
+            APPLY_TO_FACTS — The brief draws a direct inferential line
+            from the dictionary definition to the legal standard: if
+            "hardship" means "something hard to bear," then de minimis
+            costs cannot qualify.
+
+NARRATIVE:  --
+
+FACT-FRAMING: FOREGROUND — The dictionary definition is foregrounded as
+              objective evidence of meaning, positioned ahead of
+              judicial interpretation.
+
+STYLISTIC:  CONCRETE_ANCHOR — The 1968 Random House Dictionary citation,
+            with page number, provides a tangible, verifiable source. The
+            date (1968, before the 1972 amendment) is itself an argument
+            for contemporaneous meaning.
+
+            STRATEGIC_QUOTATION — Judge Thapar's colloquial gloss ("some
+            pretty substantial costs") translates the dictionary
+            definition into practical terms without the brief itself
+            adopting informal language.
+
+--------------------------------------------------------------------------------
+
+--- AU-P4.3 ---
+TEXT: "But Congress went further, specifying that the 'hardship' must also be
+'undue.' 'Undue' means 'unwarranted,' 'excessive,' 'inappropriate,'
+'unjustifiable,' or 'improper.' The Random House Dictionary of the English
+Language 1433 (1968)."
+
+DOCTRINAL:  APPLY_STANDARD — The brief disaggregates "undue hardship" into
+            its component words and defines each separately, a standard
+            textualist technique.
+
+NARRATIVE:  --
+
+FACT-FRAMING: FOREGROUND — Five synonyms for "undue" are presented,
+              each one carrying more weight than "more than de minimis."
+              The accumulation of synonyms creates an implicit contrast
+              with Hardison's low threshold.
+
+STYLISTIC:  CONCRETE_ANCHOR — Same dictionary, same year, specific page
+            number. The parallel citation structure (AU-P4.2 and P4.3
+            both citing Random House 1968) creates a sense of
+            methodological rigor.
+
+--------------------------------------------------------------------------------
+
+--- AU-P4.4 ---
+TEXT: "Accordingly, the term 'undue' indicates that a hardship must be judged
+against some set of factors to determine whether it is 'excessive.' The
+statute provides the context for this determination: 'the conduct of the
+employer's business.'"
+
+DOCTRINAL:  APPLY_TO_FACTS — The brief bridges from word meaning to
+            statutory context. The phrase "conduct of the employer's
+            business" provides the benchmark against which "undue" is
+            measured, generating the multi-factor test the brief proposes.
+
+NARRATIVE:  --
+
+FACT-FRAMING: --
+
+STYLISTIC:  --
+
+--------------------------------------------------------------------------------
+
+--- AU-P4.5 ---
+TEXT: "'Undue' thus calibrates the 'hardship' with reference to the
+circumstances of the employer. That is, whether the 'condition that is
+difficult to endure' rises to the level of excessiveness must be assessed
+against the employer's resources and operations. An 'undue hardship' is
+therefore one that imposes significant costs or difficulties on the employer
+in light of the employer's financial resources, the number of individuals it
+employs, and the nature of its operations and facilities."
+
+DOCTRINAL:  BROADEN_STATUTE — The full proposed standard is articulated
+            for the third time in the brief, now as the logical terminus
+            of the textual analysis. Each repetition adds a layer of
+            derivation: first stated as a conclusion (roadmap), then as
+            a statutory-construction output (Section 3), now as the
+            product of word-by-word analysis.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — "Thus" and "therefore" present the
+            standard as derived rather than proposed. The brief avoids
+            any language of advocacy; the three-factor test is framed as
+            following necessarily from the textual analysis.
+
+FACT-FRAMING: --
+
+STYLISTIC:  PARALLEL_STRUCTURE — The three-factor formulation appears for
+            the third time in the brief with nearly identical wording.
+            The repetition is strategic: it builds familiarity and makes
+            the test feel established before the Court has adopted it.
+
+
+================================================================================
+PET. SECTION 5: Requiring significant difficulty or expense honors Title VII's
+unique treatment of religion
+================================================================================
+
+--- AU-P5.1 ---
+TEXT: "Defining 'undue hardship' to mean significant difficulty or expense
+also accords with Title VII's unique treatment of religion. For Title VII's
+other protected categories, Congress mandated mere neutrality: Employers may
+not 'discriminate' on account of race, sex, etc. But Congress recognized
+that religion is different."
+
+DOCTRINAL:  DISTINGUISH_PURPOSE — The brief draws a structural distinction
+            within Title VII itself: religion receives different treatment
+            than other protected categories. The "mere neutrality" vs.
+            "accommodation" distinction is used to argue that the de
+            minimis test collapses the two categories into one.
+
+NARRATIVE:  ESCALATE_STAKES — By positioning religion as categorically
+            different from race and sex under Title VII, the brief raises
+            the stakes: getting the "undue hardship" standard wrong does
+            not merely under-protect religious employees; it contradicts
+            Congress's deliberate structural choice.
+
+FACT-FRAMING: FOREGROUND — The distinction between neutrality and
+              accommodation is presented as a structural fact about the
+              statute, not as a contested interpretation.
+
+STYLISTIC:  --
+
+--------------------------------------------------------------------------------
+
+--- AU-P5.2 ---
+TEXT: "To avoid religious discrimination, mere neutrality toward religion is
+not enough; active 'accommodat[ion]' of religious practices is required. By
+making it easy to avoid accommodations, Hardison's de minimis standard
+overrode Congress's design and deferred to employers' neutral treatment of
+religious and secular practices."
+
+DOCTRINAL:  DISTINGUISH_PURPOSE — The brief sharpens the structural
+            argument: if Title VII requires affirmative accommodation
+            (not mere neutrality), then a standard that permits employers
+            to avoid accommodation at de minimis cost effectively reads
+            the accommodation requirement out of the statute.
+
+            FRAME_AS_ERROR — "Overrode Congress's design" characterizes
+            Hardison as judicial overreach, a court substituting its own
+            policy judgment for the legislature's.
+
+NARRATIVE:  FRAME_AS_ERROR — The brief frames Hardison as having frustrated
+            congressional intent, converting the case from a dispute about
+            word meaning into a separation-of-powers concern.
+
+FACT-FRAMING: RECHARACTERIZE — "Making it easy to avoid accommodations"
+              recharacterizes the de minimis test's operation. Employers
+              applying Hardison might describe themselves as meeting a
+              legal standard; the brief describes them as avoiding a
+              statutory obligation.
+
+STYLISTIC:  --
+
+--------------------------------------------------------------------------------
+
+--- AU-P5.3 ---
+TEXT: "Abercrombie points the way. There, the Court explained that 'Title VII
+does not demand mere neutrality with regard to religious practices—that they
+be treated no worse than other practices.' Abercrombie, 575 U.S. at 775.
+'Rather, it gives them favored treatment.'"
+
+DOCTRINAL:  ANALOGIZE — The brief deploys Abercrombie as a recent majority
+            opinion that supports the structural distinction drawn in
+            AU-P5.1 and P5.2. The "favored treatment" language is taken
+            from the majority opinion, making it binding rather than
+            persuasive authority.
+
+            INVOKE_AUTHORITY — Abercrombie is a 2015 majority opinion;
+            its characterization of Title VII's treatment of religion as
+            "favored treatment" is binding law that the brief uses as a
+            doctrinal anchor for its broader argument.
+
+NARRATIVE:  --
+
+FACT-FRAMING: --
+
+STYLISTIC:  STRATEGIC_QUOTATION — "Favored treatment" is the key phrase,
+            and the brief lets the Court's own words carry the weight of
+            the argument. The quotation is short enough to be memorable
+            and pointed enough to do independent argumentative work.
+
+--------------------------------------------------------------------------------
+
+--- AU-P5.4 ---
+TEXT: "In requiring 'favored treatment' for religious practices, Title VII
+recognizes that formally neutral workplace rules may discriminate in practice
+against religious employees. For example, a rule barring head coverings may
+appear neutral, but that prohibition will penalize Muslim employees who wear
+headscarves."
+
+DOCTRINAL:  APPLY_TO_FACTS — The brief applies the "favored treatment"
+            principle to a concrete scenario, illustrating how neutrality
+            and accommodation diverge in practice.
+
+NARRATIVE:  ESCALATE_STAKES — The headscarf example adds a concrete human
+            dimension. The brief is moving from abstract statutory
+            structure to lived religious experience.
+
+FACT-FRAMING: FOREGROUND — The headscarf example is chosen for maximum
+              accessibility and sympathy. It is a widely understood form
+              of religious practice that immediately illustrates the gap
+              between formal neutrality and practical discrimination.
+
+STYLISTIC:  CONCRETE_ANCHOR — The headscarf example grounds the abstract
+            "favored treatment" principle in a specific, visualizable
+            scenario. This is the section's most tangible moment.
+
+--------------------------------------------------------------------------------
+
+--- AU-P5.5 ---
+TEXT: "Only an accommodation that gives favored treatment to the religious
+employee's practices—e.g., permitting Muslim employees to wear headscarves
+despite the employer's facially neutral rule—can prevent a coercive choice
+between work and faith."
+
+DOCTRINAL:  APPLY_TO_FACTS — The brief extends the example to its logical
+            conclusion: without affirmative accommodation, religious
+            employees face a binary choice. This is framed as the
+            inevitable consequence of applying a de minimis standard.
+
+NARRATIVE:  ESCALATE_STAKES — "Coercive choice between work and faith" is
+            the section's highest-stakes formulation. The brief is
+            asserting that Hardison's test forces religious employees to
+            choose between their livelihood and their beliefs.
+
+FACT-FRAMING: --
+
+STYLISTIC:  CADENCE_SHIFT — After several sentences of analytical prose,
+            "coercive choice between work and faith" is compressed and
+            forceful, designed to land as the section's emotional anchor.
+
+--------------------------------------------------------------------------------
+
+--- AU-P5.6 ---
+TEXT: "Congress recognized that accommodations that grant favored treatment
+to religious practices are necessary to create a truly level playing field
+for religious employees. Hardison sharply contradicts the statutory design
+and Abercrombie."
+
+DOCTRINAL:  DISTINGUISH_PURPOSE — The brief returns to congressional purpose
+            one final time, now reinforced by Abercrombie's "favored
+            treatment" language. The argument has come full circle:
+            Congress's design requires accommodation, Abercrombie confirms
+            it, and Hardison contradicts both.
+
+            FRAME_AS_ERROR — "Sharply contradicts" positions Hardison as
+            in tension not only with the statute but with the Court's
+            own more recent precedent (Abercrombie). The brief is
+            creating a doctrinal pincer.
+
+NARRATIVE:  FRAME_AS_ERROR — The closing sentence frames Hardison as
+            inconsistent with both legislative intent and the Court's
+            own evolving jurisprudence.
+
+FACT-FRAMING: --
+
+STYLISTIC:  COMPRESSION — The section's closing sentence is brief and
+            declarative. No hedging, no qualifications. The structural
+            argument is treated as concluded.
+
+[CROSS-BRIEF: The respondent does not engage with the Abercrombie "favored
+treatment" argument or the structural distinction between neutrality and
+accommodation. The respondent's brief operates on a different argumentative
+plane—vehicle and factual sufficiency—rather than contesting the statutory-
+structure argument. See AU-R1.1.]
+
+
+################################################################################
+RESPONDENT BRIEF (DeJoy / USPS)
+################################################################################
+
+================================================================================
+RESP. SECTION 1: This case would be a poor vehicle in which to revisit
+Hardison's de minimis standard
+================================================================================
+
+--- AU-R1.1 ---
+TEXT: "Petitioner contends (Pet. 12-27) that Hardison's 'de minimis' standard
+should be revisited on the grounds that it was obiter dictum, conflicts with
+the text of Title VII, and does not warrant adherence under principles of
+stare decisis. Whatever the merits of those criticisms, this case would be
+an inappropriate vehicle in which to address them for at least three reasons."
+
+DOCTRINAL:  JURISDICTIONAL_REFRAME — The respondent declines to defend
+            Hardison on the merits. Instead, the entire response is
+            reframed as a vehicle objection: even if petitioner is right
+            about Hardison, this case is the wrong one in which to
+            address it. The move shifts the battlefield from statutory
+            interpretation to case selection.
+
+NARRATIVE:  CONCEDE_REDIRECT — "Whatever the merits of those criticisms"
+            is a textbook concede-and-redirect. The respondent does not
+            concede that the criticisms are correct, but it declines to
+            contest them, treating the vehicle issue as dispositive
+            regardless. This is a high-risk, high-reward framing: it
+            avoids a losing fight on the merits but implicitly
+            acknowledges that the merits arguments are strong.
+
+FACT-FRAMING: BACKGROUND — The entire substantive debate about Hardison's
+              correctness is pushed to the background. The respondent
+              treats it as a question for another case and another day.
+
+STYLISTIC:  COMPRESSION — The opening paragraph summarizes petitioner's
+            three-part merits argument in a single sentence, then pivots
+            to the vehicle issue. The compression of the merits arguments
+            signals that the respondent considers them beside the point.
+
+[CROSS-BRIEF: This AU directly responds to all of Petitioner Sections 1-4.
+The respondent's strategy is to avoid engaging AU-P2.1 through P2.4 (dicta),
+AU-P3.1 through P3.5 (plain meaning), and AU-P4.1 through P4.5 (dictionary
+analysis) by treating them as irrelevant to the vehicle question. The
+concession ("whatever the merits") implicitly validates the strength of
+petitioner's textual arguments.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.2 ---
+TEXT: "First, petitioner's proposed accommodation would have required USPS to
+violate a collectively bargained agreement, which Title VII does not require
+under an independent holding of Hardison that petitioner does not challenge."
+
+DOCTRINAL:  ALTERNATIVE_HOLDING — The respondent invokes a separate,
+            unchallenged holding from Hardison: that Title VII does not
+            require employers to violate collective bargaining agreements.
+            Because petitioner does not challenge this holding, it
+            independently defeats the claim regardless of the de minimis
+            question.
+
+            DISTINGUISH — The respondent distinguishes between two
+            holdings in Hardison: the de minimis cost test (challenged)
+            and the CBA-preservation rule (unchallenged). By identifying
+            an independent ground for the decision below, the respondent
+            argues that revisiting the de minimis test would be advisory.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — The CBA argument is deployed
+            preemptively: before the Court reaches the statutory-
+            interpretation question, it must contend with the fact that
+            petitioner would lose on independent grounds.
+
+FACT-FRAMING: FOREGROUND — The CBA violation is foregrounded as a factual
+              predicate that makes the de minimis question irrelevant to
+              the outcome of this case.
+
+              FOREGROUND_ABSENCE — Petitioner's failure to challenge the
+              CBA holding is itself foregrounded as a dispositive fact.
+              The brief treats the absence of a challenge as a concession.
+
+STYLISTIC:  UNDERSTATED_DEVASTATION — "That petitioner does not challenge"
+            is a quiet parenthetical that carries significant weight. It
+            identifies a fatal gap in petitioner's case without
+            elaboration, letting the reader recognize the problem.
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.3 ---
+TEXT: "Second, and in any event, the court of appeals found that the hardship
+in this case 'far surpasses a de minimis burden,' Pet. App. 22a n.18, and
+petitioner would not be entitled to relief on his Title VII claim under any
+plausible 'undue hardship' standard."
+
+DOCTRINAL:  APPLY_TO_FACTS — The respondent argues that the facts of this
+            case independently defeat petitioner's claim. The hardship
+            here was so substantial that it would qualify as "undue"
+            under any standard—de minimis or "significant difficulty
+            or expense."
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — This is the most direct rebuttal to
+            petitioner's framing. Even if the Court adopts petitioner's
+            proposed standard, the respondent argues, petitioner still
+            loses on the facts. The argument removes any practical
+            consequence from the legal question presented.
+
+FACT-FRAMING: FOREGROUND — The lower court's factual finding ("far
+              surpasses a de minimis burden") is placed front and center.
+              The quotation converts a factual finding into a vehicle
+              objection.
+
+              DIMINISHING_MODIFIER — "Under any plausible 'undue hardship'
+              standard" diminishes the significance of the legal question.
+              Whatever the standard, the outcome is the same.
+
+STYLISTIC:  UNDERSTATED_DEVASTATION — "Under any plausible 'undue hardship'
+            standard" is a devastating factual claim delivered in measured
+            language. The brief is saying petitioner's claim fails on the
+            merits even under petitioner's own proposed test, without
+            raising its rhetorical voice.
+
+            STRATEGIC_QUOTATION — "Far surpasses" is the lower court's
+            language, not the respondent's. By quoting the court below,
+            the respondent avoids appearing to characterize the facts
+            self-servingly.
+
+[CROSS-BRIEF: This AU directly counters petitioner's entire merits argument
+(Sections 1-5). The respondent's position is that the factual record makes
+the doctrinal question moot. This is a factual flanking maneuver against a
+textual frontal assault.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.4 ---
+TEXT: "Third, a case involving a federal employer like USPS would be a poor
+vehicle in which to reconsider Hardison because the federal government is
+bound by the Religious Freedom Restoration Act of 1993 (RFRA), Pub. L.
+No. 103-141, 107 Stat. 1488 (42 U.S.C. 2000bb et seq.). Although petitioner
+did not bring a RFRA claim here, RFRA generally provides at least as much
+protection for religious-accommodation claims as any interpretation of
+Title VII, rendering the precise meaning of Title VII's 'undue hardship'
+standard largely academic in the federal employment context."
+
+DOCTRINAL:  JURISDICTIONAL_REFRAME — The respondent introduces an entirely
+            different statute (RFRA) to argue that the Title VII question
+            is academic in this case. RFRA's strict-scrutiny standard
+            provides stronger protection than any plausible reading of
+            "undue hardship," making the Title VII question unnecessary
+            to resolve.
+
+            CONST_AVOIDANCE — While not strictly constitutional avoidance,
+            the argument has the same structure: the Court should avoid
+            deciding a difficult statutory question when an alternative
+            statutory ground (RFRA) makes the question unnecessary.
+
+NARRATIVE:  CONCEDE_REDIRECT — The respondent implicitly concedes that
+            RFRA may provide stronger protection than Hardison's reading
+            of Title VII, but redirects: that is a reason not to decide
+            the Title VII question in this case, not a reason to decide
+            it differently.
+
+FACT-FRAMING: FOREGROUND_ABSENCE — Petitioner's failure to bring a RFRA
+              claim is foregrounded. The brief treats the absence of a
+              RFRA claim as evidence that the case is a poor vehicle:
+              petitioner chose not to invoke the statute that would
+              actually help him.
+
+              DIMINISHING_MODIFIER — "Largely academic" diminishes the
+              practical significance of the Title VII question in the
+              federal-employment context.
+
+STYLISTIC:  AUTHORITY_SIGNALING — Full statutory citation (public law
+            number, Statutes at Large, U.S.C. section) signals
+            thoroughness and frames RFRA as a weighty alternative
+            ground.
+
+[CROSS-BRIEF: Petitioner's brief does not address the RFRA issue. The
+respondent is introducing a new consideration that petitioner's merits-
+focused brief left unaddressed. This is a flanking move: rather than
+meeting petitioner's textual arguments head-on, the respondent opens
+a new front.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.5 ---
+TEXT: (Hardison CBA holding discussion) "In Hardison, an airline employee who
+worked in a 24-hour department ... The only reasonable accommodation proposed
+in this case—that USPS simply skip petitioner in the Sunday work rotation—
+would have violated the MOU between USPS and the union representing RCAs."
+
+DOCTRINAL:  ANALOGIZE — The respondent draws a direct parallel between
+            the facts of Hardison (airline employee, seniority system,
+            CBA) and the facts here (USPS employee, work rotation, MOU).
+            The structural similarity is used to argue that Hardison's
+            CBA holding applies directly.
+
+            ALTERNATIVE_HOLDING — The respondent reinforces the argument
+            that even if the de minimis test is overruled, the CBA
+            holding independently resolves this case.
+
+NARRATIVE:  --
+
+FACT-FRAMING: FOREGROUND — The specific proposed accommodation (skipping
+              Groff in the Sunday rotation) is foregrounded to show that
+              it directly implicates a collectively bargained agreement.
+
+              SEQUENCE — The respondent parallels the Hardison facts with
+              the present facts to show structural correspondence.
+
+STYLISTIC:  CONCRETE_ANCHOR — "Simply skip petitioner in the Sunday work
+            rotation" reduces the proposed accommodation to its most
+            practical description, making it easier to show the CBA
+            conflict.
+
+
+================================================================================
+RESP. SECTION 2: The question whether an employer may demonstrate undue
+hardship by showing that the requested accommodation burdens the employee's
+coworkers does not warrant review
+================================================================================
+
+--- AU-R2.1 ---
+TEXT: "Petitioner briefly contends that the court of appeals erred in holding
+'that an employer may establish undue hardship merely by showing that an
+accommodation burdens or inconveniences the plaintiff's co-workers.' Pet. 27;
+see Pet. 27-31. But the court did not adopt any such categorical rule."
+
+DOCTRINAL:  NARROW_HOLDING — The respondent narrows the lower court's
+            holding, arguing that it did not adopt a "categorical rule"
+            about coworker burden. This move recharacterizes what
+            petitioner portrays as an erroneous legal rule as a
+            fact-specific application of the correct standard.
+
+            DISTINGUISH — The respondent distinguishes between a rule
+            (coworker burden = undue hardship) and a factual finding
+            (this particular burden, among others, constituted undue
+            hardship). The distinction neutralizes petitioner's argument
+            by eliminating the legal error it targets.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — The respondent heads off the argument
+            by denying its factual premise. Petitioner attacks a rule
+            the lower court did not adopt; therefore, there is no error
+            to review.
+
+FACT-FRAMING: RECHARACTERIZE — Petitioner's characterization of the lower
+              court's holding (a categorical rule about coworker burden)
+              is rejected and replaced with a narrower reading (a
+              fact-specific finding).
+
+STYLISTIC:  UNDERSTATED_DEVASTATION — "But the court did not adopt any
+            such categorical rule" is a flat denial that does significant
+            work. If accepted, it eliminates petitioner's second question
+            presented entirely.
+
+[CROSS-BRIEF: This AU directly responds to Petitioner's argument at
+Pet. 27-31. The respondent's strategy is to deny the premise rather than
+defend the conclusion: the lower court did not do what petitioner claims
+it did.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.2 ---
+TEXT: "Instead, it acknowledged that '[e]xamples of undue hardship include
+negative impacts on the employer's operations, such as on productivity or
+quality, personnel and overtime costs, increased workload on other employees,
+and reduced employee morale.' Pet. App. 22a (emphasis added). As the
+italicized 'such as' makes clear, the court recognized that an undue hardship
+is one on 'the employer's operations,' an example of which is 'increased
+workload on other employees.'"
+
+DOCTRINAL:  NARROW_HOLDING — The respondent parses the lower court's
+            language closely, using "such as" to demonstrate that
+            coworker burden was listed as one example of operational
+            harm, not as a standalone basis for undue hardship.
+
+            APPLY_TO_FACTS — The respondent maps the lower court's
+            language onto the legal standard, showing that the court
+            focused on "the employer's operations" (the statutory
+            touchstone) rather than on coworker inconvenience as an
+            independent ground.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — The respondent reframes the lower court's
+            analysis as correct application of the proper standard,
+            turning petitioner's attack into evidence of agreement.
+
+FACT-FRAMING: FOREGROUND — The "such as" language is foregrounded with
+              added emphasis (noted as italicized) to demonstrate the
+              non-categorical nature of the lower court's analysis.
+
+STYLISTIC:  STRATEGIC_QUOTATION — The respondent's emphasis on "such as"
+            is a close-reading move, using the lower court's own syntax
+            to rebut petitioner's characterization.
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.3 ---
+TEXT: "As the court explained, '[a] business may be compromised, in part,' by
+'poor morale among the work force and disruption of work flow' because those
+circumstances 'could affect an employer's business and could constitute undue
+hardship.' Id. at 22a n.19. In focusing on the hardship to the employer,
+therefore, the court set forth precisely the rule that petitioner presses.
+Cf. Pet. 27-28."
+
+DOCTRINAL:  APPLY_TO_FACTS — The respondent demonstrates that the lower
+            court anchored its analysis in employer harm, not coworker
+            inconvenience. The "precisely the rule that petitioner
+            presses" formulation is designed to eliminate daylight
+            between the lower court's standard and petitioner's proposed
+            standard.
+
+NARRATIVE:  NEW_MOVE_[AGREEMENT_TRAP] — The respondent argues that the
+            lower court already applied petitioner's preferred legal
+            standard. If the standard is not in dispute, there is no
+            question for the Court to resolve. This is a distinctive
+            move: rather than contesting the rule, the respondent
+            claims to have already satisfied it.
+
+FACT-FRAMING: RECHARACTERIZE — The lower court's focus on "poor morale"
+              and "disruption of work flow" is recharacterized as
+              employer-focused analysis rather than coworker-focused
+              analysis. The same facts are reframed as evidence of
+              operational harm.
+
+STYLISTIC:  UNDERSTATED_DEVASTATION — "The court set forth precisely the
+            rule that petitioner presses" is quietly destructive of
+            petitioner's second question presented. If accepted, it
+            means petitioner is asking the Court to adopt a rule the
+            lower court already applied.
+
+[CROSS-BRIEF: This is the respondent's strongest cross-brief move. By
+claiming the lower court already applied petitioner's preferred standard,
+the respondent converts petitioner's offensive (adopt a new standard)
+into a defensive position (the standard is already being applied).
+Compare AU-P5.1 through P5.6, where petitioner argues for a structural
+distinction that the respondent's framing renders unnecessary.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.4 ---
+TEXT: "The court of appeals also correctly applied that rule to the record in
+this case. The court expressly stated that it found an undue hardship not
+only because skipping petitioner in the Sunday rotation 'imposed on his
+coworkers,' but also because it 'disrupted the workplace and workflow, and
+diminished employee morale'—which are harms to USPS."
+
+DOCTRINAL:  APPLY_TO_FACTS — The respondent walks through the lower
+            court's factual findings to show they encompassed employer
+            harm beyond coworker inconvenience. The enumeration of
+            multiple types of harm (coworker burden, workflow disruption,
+            morale) is used to demonstrate a multi-factor analysis.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — The lower court's analysis is presented
+            as correct, comprehensive, and focused on the right legal
+            standard.
+
+FACT-FRAMING: FOREGROUND — Multiple categories of harm are foregrounded
+              (coworker burden, workflow disruption, morale, timely
+              delivery difficulty) to show the breadth of the record
+              evidence.
+
+STYLISTIC:  PARALLEL_STRUCTURE — The enumeration of harms ("imposed on
+            his coworkers ... disrupted the workplace and workflow ...
+            diminished employee morale") creates a cumulative effect,
+            suggesting that the hardship finding rests on multiple
+            independent grounds.
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.5 ---
+TEXT: "[S]ome portion of those harms may have been the result of the burdens
+imposed on petitioner's coworkers, see id. at 24a-25a, but petitioner himself
+acknowledges that 'an accommodation's impact on coworkers can be relevant
+under the proper reading of Title VII,' Pet. 30."
+
+DOCTRINAL:  APPLY_TO_FACTS — The respondent concedes that coworker burden
+            was part of the analysis but argues this is consistent with
+            petitioner's own stated position.
+
+NARRATIVE:  OPPONENT_CONCESSION_CAPTURE — The section's most effective
+            move. The respondent quotes petitioner's own brief (Pet. 30)
+            conceding that coworker impact "can be relevant." Having
+            secured this concession, the respondent argues that the
+            lower court did nothing more than consider coworker impact
+            as one relevant factor—which petitioner himself endorses.
+
+FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Petitioner's own words are
+              used to demonstrate that the parties agree on the applicable
+              legal principle, eliminating the need for Supreme Court
+              review.
+
+              DIMINISHING_MODIFIER — "Some portion" minimizes the role of
+              coworker burden in the overall hardship finding, suggesting
+              it was a minor component of a multi-factor analysis.
+
+STYLISTIC:  STRATEGIC_QUOTATION — The quotation from petitioner's own
+            brief is the section's key rhetorical move. The respondent
+            turns petitioner's words into a concession, using the
+            adversary's language to close the argumentative gap.
+
+[CROSS-BRIEF: This AU is the culmination of the respondent's second-
+question strategy. Petitioner argues (Pet. 27-31) that coworker burden
+cannot independently establish undue hardship. Respondent replies:
+(1) the lower court did not treat it as independently sufficient
+(AU-R2.1-R2.2); (2) the lower court applied petitioner's own standard
+(AU-R2.3); and (3) petitioner himself concedes coworker impact is
+relevant (AU-R2.5). The three-part response is designed to eliminate
+the question presented without reaching the merits.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.6 ---
+TEXT: "Consistent with those principles, EEOC recognizes that 'a showing
+of ...'"
+
+DOCTRINAL:  INVOKE_AUTHORITY — The respondent invokes EEOC guidance as
+            additional support, aligning the lower court's approach with
+            the enforcement agency's position.
+
+NARRATIVE:  --
+
+FACT-FRAMING: --
+
+STYLISTIC:  AUTHORITY_SIGNALING — Citing the EEOC adds an institutional
+            voice to the respondent's characterization of the lower
+            court's analysis.
+
+[NOTE: The text is truncated here. The annotation covers the available
+portion.]
+
+
+################################################################################
+CROSS-BRIEF INTERACTION SUMMARY
+################################################################################
+
+1. DICTA vs. VEHICLE (Core Strategic Divergence)
+   Petitioner (AU-P2.1 through P2.4) builds a comprehensive argument that
+   Hardison's de minimis test is dicta lacking stare decisis force.
+   Respondent (AU-R1.1) concedes the point arguendo ("Whatever the merits
+   of those criticisms") and redirects to vehicle problems. This is a
+   deliberate non-engagement: the respondent treats the dicta argument as
+   potentially correct but irrelevant to whether certiorari should be
+   granted. The concede-redirect avoids a fight respondent may not win
+   while preserving the argument for another case.
+
+2. PLAIN MEANING vs. FACTUAL SUFFICIENCY
+   Petitioner (AU-P3.1 through P4.5) builds a textual case for "significant
+   difficulty or expense." Respondent (AU-R1.3) counters not by defending
+   the de minimis standard but by arguing that petitioner loses under any
+   standard: the hardship here "far surpasses a de minimis burden." This is
+   a factual flanking maneuver. Rather than defending Hardison's textual
+   interpretation, the respondent argues the case is moot on its own
+   facts. The interaction illustrates a common pattern: when the doctrinal
+   argument favors one side, the other side retreats to the factual record.
+
+3. ACCOMMODATION STRUCTURE vs. CBA HOLDING
+   Petitioner (AU-P5.1 through P5.6) argues that Title VII's structure
+   requires "favored treatment" for religion, citing Abercrombie.
+   Respondent (AU-R1.2, R1.5) does not engage this structural argument.
+   Instead, it identifies an independent holding (CBA preservation) that
+   petitioner does not challenge. The interaction reveals that the briefs
+   are operating on different planes: petitioner is litigating the
+   meaning of "undue hardship" while respondent is arguing the case never
+   reaches that question.
+
+4. RFRA AS ESCAPE VALVE
+   Petitioner's brief does not mention RFRA. Respondent (AU-R1.4)
+   introduces it as a third vehicle objection, arguing that RFRA makes
+   the Title VII question "largely academic" for federal employers. This
+   is a flanking move that petitioner left unaddressed, opening a new
+   argumentative front that petitioner's merits-focused brief did not
+   anticipate.
+
+5. COWORKER BURDEN: CONCESSION vs. CAPTURE
+   Petitioner (Pet. 27-31, referenced in AU-R2.1) argues that coworker
+   burden cannot independently establish undue hardship. Respondent
+   (AU-R2.5) captures petitioner's own concession (Pet. 30) that coworker
+   impact "can be relevant" and uses it to argue that no legal
+   disagreement exists between the parties on this point. This is a
+   classic opponent-concession-capture that converts a merits argument
+   into a vehicle objection: if the parties agree on the legal standard,
+   there is no question for the Court to resolve.
+
+6. GOVERNMENT'S PRIOR POSITION (Unrebutted)
+   Petitioner (AU-P3.1) highlights the U.S. government's prior position
+   in Patterson calling Hardison "incorrect." Respondent's brief does not
+   address the government's prior position at all. This silence is
+   notable: the respondent (a federal agency) does not attempt to explain
+   or distinguish the government's prior litigation posture. Whether this
+   silence reflects a strategic choice (engaging would draw more attention
+   to the inconsistency) or an oversight is unclear, but the result is
+   that petitioner's strongest institutional-credibility argument goes
+   unrebutted.
+
+
+################################################################################
+NEW MOVES
+################################################################################
+
+NEW_MOVE_[AGREEMENT_TRAP]
+Definition: A move in which the respondent argues that the lower court already
+applied the petitioner's proposed legal standard, thereby eliminating the
+need for Supreme Court review. Unlike CONCEDE_REDIRECT (which concedes one
+point to redirect to another), AGREEMENT_TRAP asserts that no disagreement
+exists on the legal question presented. The move converts what appears to be
+a merits dispute into a vehicle objection by claiming the parties and the
+lower court all agree on the applicable rule.
+
+Observed in: AU-R2.3, where the respondent argues that the lower court "set
+forth precisely the rule that petitioner presses." If accepted, this
+characterization eliminates the second question presented.
+
+Taxonomic note: AGREEMENT_TRAP sits between CONCEDE_REDIRECT and
+OPPONENT_CONCESSION_CAPTURE. It differs from CONCEDE_REDIRECT because the
+respondent is not conceding and redirecting; it is asserting agreement on
+the disputed point. It differs from OPPONENT_CONCESSION_CAPTURE because it
+is not capturing a concession from the opponent's brief; it is
+recharacterizing the lower court's holding to match the opponent's proposed
+standard.
+
+================================================================================
+END OF ANNOTATIONS
+================================================================================

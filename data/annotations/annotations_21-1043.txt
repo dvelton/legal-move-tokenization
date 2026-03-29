@@ -1,0 +1,364 @@
+CASE DOCKET: 21-1043
+Abitron Austria GmbH v. Hetronic International, Inc.
+ANNOTATED STRATEGIC MOVES
+
+==================================================
+PETITIONER BRIEF (Docket21-1043_Brief006.pdf)
+==================================================
+
+--- Section 1: I. The Lanham Act Is Not Extraterritorial ---
+
+ARGUMENT UNIT 1.1: The presumption against extraterritoriality is foundational law.
+
+  DOCTRINAL: APPLY_STANDARD — Lays the RJR Nabisco two-step framework as the controlling analytical structure. INVOKE_AUTHORITY — Cites RJR Nabisco (2016) repeatedly to establish the standard as settled and recent.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Opens the entire brief by establishing the presumption as a bedrock principle rather than a technical hurdle, casting the respondent as the party seeking deviation from normal law.
+
+  FACT-FRAMING: BACKGROUND — The actual dispute facts (foreign sales, parties) are entirely absent from this opening. The section operates at pure doctrinal altitude. STRATEGIC_SILENCE — No mention of Steele v. Bulova or the 70-year history of lower courts applying the Act abroad.
+
+  STYLISTIC: STRATEGIC_QUOTATION — The opening sentence is a quotation from RJR Nabisco ("United States law governs domestically but does not rule the world"), chosen for maximum rhetorical punch. AUTHORITY_SIGNALING — Heavy layering of Supreme Court language through block quotations to establish that this is not a novel argument but a simple application of existing rules. COMPRESSION — The two-step framework is reduced to a tight paragraph, then the conclusion snaps shut: "The Lanham Act does not extend to petitioners' foreign sales at either step."
+
+ARGUMENT UNIT 1.2: The presumption serves a policy function of avoiding international discord.
+
+  DOCTRINAL: DISTINGUISH_PURPOSE — Identifies the purpose behind the presumption (avoiding international friction) and deploys it as a substantive argument, not merely a canon of construction.
+
+  NARRATIVE: ESCALATE_STAKES — Moves beyond statutory interpretation to invoke international consequences: "international discord that can result when U.S. law is applied to conduct in foreign countries."
+
+  FACT-FRAMING: FOREGROUND — Elevates the "international discord" rationale from one of several RJR considerations to a central justification.
+
+  STYLISTIC: STRATEGIC_QUOTATION — Uses the Court's own "commonsense notion" language to characterize the presumption as intuitive rather than technical.
+
+
+--- Section 2: A. The Act Lacks the Requisite Unmistakable Indication of Extraterritorial Effect ---
+
+ARGUMENT UNIT 2.1: The statutory text is silent on extraterritorial application.
+
+  DOCTRINAL: NARROW_STATUTE — Reads the Lanham Act's operative sections (32(1)(a), 43(a)(1)(A)) as facially domestic by pointing to the absence of extraterritorial language. APPLY_STANDARD — Applies the RJR step-one test: does the statute give a "clear, affirmative indication" of extraterritorial reach?
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Frames the argument as the textually obvious reading; it is the opponent who must overcome textual silence. PREEMPTIVE_REBUTTAL — Anticipates the counterargument that express language is not required, and pre-concedes the point ("While an 'express statement of extraterritoriality is not essential'") before arguing that the exception is vanishingly narrow.
+
+  FACT-FRAMING: FOREGROUND_ABSENCE — The central move here. Petitioner foregrounds what the statute does NOT say, treating statutory silence as affirmative evidence of domestic-only application. RECHARACTERIZE — Reframes statutory breadth (the "commerce" definition) as irrelevant to the extraterritoriality question.
+
+  STYLISTIC: CONCRETE_ANCHOR — Cites specific statutory provisions by section number (15 U.S.C. 1114(1)(a), 1125(a), 1116(a), 1117(a)) to create an impression of close textual engagement. UNDERSTATED_DEVASTATION — "That should be dispositive." A four-word sentence carrying the weight of the entire textual argument.
+
+ARGUMENT UNIT 2.2: Congress knows how to legislate extraterritorially when it wants to.
+
+  DOCTRINAL: DISTINGUISH — Draws a sharp contrast between the Lanham Act and other statutes where Congress explicitly provided for extraterritorial reach (18 U.S.C. 351(i), 1751(k), 1957(d)(2)). NARROW_STATUTE — Uses the negative-inference canon: Congress's express extraterritorial language elsewhere implies its absence here is intentional.
+
+  NARRATIVE: FRAME_AS_ERROR — Implies that reading the Lanham Act as extraterritorial would require ignoring a well-established pattern of how Congress signals extraterritorial intent.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the specific textual examples of extraterritorial statutes to make the Lanham Act's silence look conspicuous by comparison.
+
+  STYLISTIC: PARALLEL_STRUCTURE — Stacks examples of explicit extraterritorial provisions in rapid succession to emphasize the contrast. STRATEGIC_QUOTATION — Quotes the actual text of other statutes ("There is extraterritorial jurisdiction over the conduct prohibited by this section") to make the Lanham Act's silence visceral.
+
+ARGUMENT UNIT 2.3: RJR's exception for statutes that "clearly evidence" extraterritorial effect without express language does not apply here.
+
+  DOCTRINAL: DISTINGUISH — Distinguishes the Lanham Act from RICO (the statute at issue in RJR), which overcame the presumption by incorporating statutes that themselves applied extraterritorially. The Lanham Act does no such thing.
+
+  NARRATIVE: CONCEDE_REDIRECT — Concedes that express language is not the only path to extraterritoriality under RJR, then redirects to show that the alternative path (incorporation by reference) is equally unavailable.
+
+  FACT-FRAMING: DIMINISHING_MODIFIER — Characterizes the non-express path as "exceedingly rare" to minimize its availability.
+
+  STYLISTIC: AUTHORITY_SIGNALING — Relies entirely on the Court's own words from RJR to frame the exception as narrow.
+
+
+--- Section 3: B. Extraterritoriality Defies Traditional Trademark Principles ---
+
+ARGUMENT UNIT 3.1: Trademark law has a separate, independent territoriality doctrine.
+
+  DOCTRINAL: ANALOGIZE — Analogizes the general presumption against extraterritoriality to trademark law's own, independent territoriality doctrine, reinforcing the domestic-only reading from two directions. INVOKE_AUTHORITY — Invokes McCarthy on Trademarks (the leading treatise) as establishing that territoriality "is basic to American trademark law."
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Frames territoriality not as a contested principle but as universally accepted bedrock: "should be no surprise." ESCALATE_STAKES — The argument raises the stakes from statutory construction to disrupting an entire legal tradition.
+
+  FACT-FRAMING: FOREGROUND — Foregrounding the treatise-level consensus on territoriality to make the respondent's position look like an outlier.
+
+  STYLISTIC: STRATEGIC_QUOTATION — Uses McCarthy's language ("basic to American trademark law") to establish doctrinal consensus. AUTHORITY_SIGNALING — The layering of the McCarthy treatise, Person's Co. (Fed. Cir.), and historical Supreme Court cases creates an impression of overwhelming authority.
+
+ARGUMENT UNIT 3.2: Historical Supreme Court precedent confirms trademark territoriality.
+
+  DOCTRINAL: INVOKE_AUTHORITY — Cites Baglin v. Cusenier Co. (1911) and A. Bourjois & Co. v. Katzel (1923) as establishing territorial limits long before the Lanham Act. ANALOGIZE — Uses the fact that the Court refused to apply foreign trademark law to U.S. conduct (Baglin) as the mirror image of the current question: applying U.S. trademark law to foreign conduct.
+
+  NARRATIVE: PREEMPTIVE_REBUTTAL — The Katzel discussion anticipates a possible respondent argument that trademark rights flow from the mark owner's rights globally. Petitioner shows that even the "same powder" sold by the genuine foreign manufacturer could infringe U.S. marks, confirming that trademark rights are territorially bounded.
+
+  FACT-FRAMING: SEQUENCE — Walks through Baglin (1911) to Katzel (1923) in chronological order to construct a narrative of consistent, century-old precedent.
+
+  STYLISTIC: CONCRETE_ANCHOR — The Katzel facts (French face powder, identical boxes) make the abstract territoriality principle tangible.
+
+  CROSS-BRIEF INTERACTION: This section preemptively responds to Respondent Section 3's characterization of Steele as establishing broad extraterritorial reach. Petitioner's move is to surround Steele with older precedent (Baglin, Katzel) that cuts the other way, making Steele look like the exception rather than the rule.
+
+
+--- Section 4: C. The Act's Commerce Provision Reinforces Rather than Lifts Territorial Limits ---
+
+ARGUMENT UNIT 4.1: The "commerce" definition does not rebut the presumption.
+
+  DOCTRINAL: NARROW_STATUTE — Reads the Act's "all commerce which may lawfully be regulated by Congress" as a constitutional-scope limitation, not an extraterritoriality provision. INVOKE_AUTHORITY — Cites RJR, Morrison, and Kiobel for the proposition that broad "commerce" definitions do not rebut the presumption. APPLY_STANDARD — Applies the established rule that "even statutes that contain broad language in their definitions of 'commerce' that expressly refer to 'foreign commerce' do not apply abroad."
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Frames the commerce definition as "the only conceivable hook," thereby limiting the respondent's available textual arguments to a single provision and then closing it off. PREEMPTIVE_REBUTTAL — Directly addresses the respondent's strongest textual argument (the breadth of "commerce") and systematically dismantles it.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes the word "all" from a signal of breadth to a generic quantifier indistinguishable from "any" or "every," which prior decisions have held insufficient. OPPONENT_CONCESSION_CAPTURE — Uses the constitutional equivalence ("all commerce which may lawfully be regulated by Congress" = Commerce Clause commerce) against the respondent: since the Court has already held that explicit "foreign commerce" language is insufficient, the implicit reference here fails a fortiori.
+
+  STYLISTIC: COMPRESSION — "A fortiori, the Lanham Act's at-best implicit reference is insufficient to extend the statute abroad." Packs a complex logical chain into one sentence. CADENCE_SHIFT — Moves from detailed doctrinal analysis to the punchy a-fortiori conclusion. REGISTER_CONTRAST — Shifts from heavy citation to a plain-language constitutional-synonymy argument (the "commerce" definition just restates the Commerce Clause).
+
+ARGUMENT UNIT 4.2: Legislative history confirms the domestic purpose.
+
+  DOCTRINAL: DISTINGUISH_PURPOSE — Argues the "commerce" definition was adopted to cure a constitutional defect (the Trade-Mark Cases holding), not to expand geographic reach.
+
+  NARRATIVE: FRAME_AS_ERROR — Casts the respondent's reading as a misunderstanding of why Congress chose the "all commerce" language.
+
+  FACT-FRAMING: SEQUENCE — Walks through the historical sequence: the 1879 invalidation, Congress's narrowing of trademark statutes, and the eventual Lanham Act definition, to show that "all commerce" was about constitutional authority, not geographic scope.
+
+  STYLISTIC: AUTHORITY_SIGNALING — Cites the Trade-Mark Cases, 100 U.S. 82 (1879), grounding the argument in 19th-century precedent.
+
+  CROSS-BRIEF INTERACTION: Directly counters Respondent Argument Unit 1.1's claim that the "commerce" definition is "as broad as it is clear." Petitioner inverts the argument: the breadth of the language proves only that Congress was tracking the Commerce Clause, not that Congress intended extraterritorial reach.
+
+
+--- Section 5: D. Extraterritoriality Contravenes Treaty Obligations and Threatens International Friction ---
+
+ARGUMENT UNIT 5.1: International trademark treaties are premised on territoriality.
+
+  DOCTRINAL: INVOKE_AUTHORITY — Invokes the Paris Convention (1883, 179 members) and other treaties to establish that territoriality is an international legal obligation, not merely a domestic choice. CONST_AVOIDANCE — Implicitly argues that reading the Act as extraterritorial would put it in tension with treaty obligations, creating a reason to prefer the narrower reading.
+
+  NARRATIVE: ESCALATE_STAKES — Elevates the dispute from statutory interpretation to potential violations of international obligations. Signals that a pro-respondent ruling would create friction with 179 countries.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the breadth of international consensus (naming EU, Germany, Netherlands, Switzerland, Japan, common-law countries) to make the respondent's position look globally isolated. SEQUENCE — Traces the Paris Convention from 1883 to present, emphasizing its durability and near-universal adoption.
+
+  STYLISTIC: CONCRETE_ANCHOR — The number "179 members" makes the international consensus tangible. AUTHORITY_SIGNALING — Heavy citation of international legal scholarship (Peukert, Hiebert) alongside McCarthy and the Paris Convention to signal that the petitioner's position has both domestic and international academic support.
+
+ARGUMENT UNIT 5.2: Extraterritorial application invites retaliation and conflict.
+
+  DOCTRINAL: SLIPPERY_SLOPE — If the U.S. projects its trademark law abroad, other nations may reciprocate, creating a "first-to-file vs. first-to-use" collision with countries that use different registration systems. JURISDICTIONAL_REFRAME — Reframes the question from "can the Act reach abroad?" to "should the U.S. risk a reciprocal breakdown of the international trademark order?"
+
+  NARRATIVE: ESCALATE_STAKES — Moves beyond legal doctrine to practical geopolitical consequences.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the risk of foreign-government retaliation to make the practical costs of the respondent's position vivid.
+
+  STYLISTIC: REGISTER_CONTRAST — Shifts from doctrinal analysis to international-relations language (treaty obligations, international friction, retaliation).
+
+
+==================================================
+RESPONDENT BRIEF (Docket21-1043_Brief016.pdf)
+==================================================
+
+--- Section 1: I. The Lanham Act Applies Extraterritorially And Encompasses Petitioners' Willful Infringement ---
+
+ARGUMENT UNIT 1.1: The Act's "commerce" definition overcomes the presumption.
+
+  DOCTRINAL: BROADEN_STATUTE — Reads "all commerce which may lawfully be regulated by Congress" as a maximally broad grant that reaches to the outer limits of Congress's power, including foreign conduct affecting U.S. commerce. APPLY_STANDARD — Applies the RJR step-one test and argues the Lanham Act passes it. INVOKE_AUTHORITY — Cites Steele v. Bulova Watch Co. (1952), Aramco (1991), and Morrison (2010) as a consistent line confirming the Act's extraterritorial reach.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Opens with an affirmative claim of extraterritorial reach rather than treating the presumption as an obstacle to overcome. The framing is: the Act plainly covers this; petitioner is the one running from the text. ESCALATE_STAKES — Warns that denying extraterritorial reach would "require U.S. mark owners to chase wrongdoers around the world."
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the "all commerce" language as the dispositive textual hook. RECHARACTERIZE — Recharacterizes the "commerce" definition from a routine constitutional-scope provision (petitioner's framing) to a "uniquely broad" provision that is singular in the U.S. Code: "the only civil statute in the U.S. Code that expressly reaches to the outer limits of Congress's authority."
+
+  STYLISTIC: COMPRESSION — "That phrasing is as broad as it is clear" collapses the textual argument into a single declarative sentence. AUTHORITY_SIGNALING — Marshals three Supreme Court decisions in rapid succession (Steele, Aramco, Morrison) to show a consistent line of authority.
+
+  CROSS-BRIEF INTERACTION: Directly counters Petitioner Section 4 (commerce provision). Where Petitioner argued the commerce definition is generic and interchangeable with "any" or "every," Respondent insists it is uniquely broad and distinguishable from every other federal statute's commerce definition.
+
+ARGUMENT UNIT 1.2: Seventy years of lower-court practice confirm extraterritorial application.
+
+  DOCTRINAL: INVOKE_AUTHORITY — Cites "seventy years of lower-court cases" as a body of consistent practice confirming the Act's extraterritorial reach.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Presents the lower-court consensus as vindicating Congress's judgment, not as an error to be corrected.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the duration ("seventy years") and consistency of lower-court practice. DIMINISHING_MODIFIER — Implicitly diminishes petitioner's position as requiring the Court to overturn decades of settled practice.
+
+  STYLISTIC: COMPRESSION — The seventy-year practice point is compressed into a single sentence, deployed as a factual trump card.
+
+ARGUMENT UNIT 1.3: Background doctrines provide sufficient safeguards.
+
+  DOCTRINAL: CONCEDE_REDIRECT — Acknowledges that extraterritorial application raises concerns, then redirects to background doctrines (personal jurisdiction, forum non conveniens, comity) as adequate limiting principles. This is a CONCEDE_REDIRECT at the doctrinal level: "Yes, extraterritorial application could be problematic, but the legal system already has tools to handle it."
+
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Preempts petitioner's international-friction arguments (Section 5) by arguing that existing doctrines already cabin the Act's reach.
+
+  FACT-FRAMING: BACKGROUND — Backgrounds the potential for over-application by treating it as a manageable case-by-case issue rather than a systemic problem.
+
+  STYLISTIC: AUTHORITY_SIGNALING — References to Hartford Fire Insurance and established procedural doctrines signal that this is well-trodden ground.
+
+
+--- Section 2: A. The Lanham Act's Text Overcomes The Presumption Against Extraterritoriality ---
+
+ARGUMENT UNIT 2.1: Petitioners argue from what the Act does not say rather than what it does say.
+
+  DOCTRINAL: BURDEN_SHIFT — Shifts the analytical focus from respondent's burden to prove extraterritoriality to petitioner's failure to engage with the actual statutory language. The implicit argument: petitioner's textual case rests on silence, not text.
+
+  NARRATIVE: FRAME_AS_ERROR — Characterizes petitioner's entire approach to the statutory text as methodologically flawed: "They instead focus on what the Act does not say, unrelated provisions of the Act, and irrelevant comparisons to language in other statutes."
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes petitioner's statutory-comparison argument (Section 2, Argument Unit 2.2) from a principled negative-inference argument to a misleading focus on "irrelevant" comparisons.
+
+  STYLISTIC: COMPRESSION — Dismisses petitioner's entire textual argument in three clauses. UNDERSTATED_DEVASTATION — "Petitioners largely ignore the relevant statutory language." A single sentence that frames petitioner's entire brief as an exercise in avoidance.
+
+ARGUMENT UNIT 2.2: Petitioner's re-reading of Steele is revisionist.
+
+  DOCTRINAL: INVOKE_AUTHORITY — Deploys Steele as directly controlling authority that the Court has "squarely rejected" attempts to reinterpret. NEW_MOVE_[STARE_DECISIS_SHIELD] — Uses statutory stare decisis as an affirmative barrier: petitioner must meet the heightened standard for overruling a statutory precedent, and they fall "well short."
+
+  NARRATIVE: FRAME_AS_ERROR — Labels petitioner's reading of Steele as "revisionist," a word carrying strong negative connotations of intellectual dishonesty.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes petitioner's Steele argument from a legitimate doctrinal distinction (Steele was about U.S. defendants) to a bad-faith attempt to overturn settled law.
+
+  STYLISTIC: REGISTER_CONTRAST — The word "revisionist" imports political/historiographic connotations into a doctrinal dispute, casting petitioner as distorting the record.
+
+ARGUMENT UNIT 2.3: The legislative-history argument backfires on petitioners.
+
+  DOCTRINAL: DISTINGUISH_PURPOSE — Argues that Congress's choice of "uniquely broad language" is more plausibly read as an effort to expand the Act's reach than to restrict it. Turns petitioner's legislative-history argument against them.
+
+  NARRATIVE: FRAME_AS_ERROR — "It is simply implausible that Congress opted for uniquely broad language in an effort to restrict the Act's reach." Characterizes petitioner's reading as internally contradictory.
+
+  FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Petitioner concedes the language is broad; respondent captures that concession and deploys it to argue that breadth implies extraterritorial reach.
+
+  STYLISTIC: UNDERSTATED_DEVASTATION — The word "implausible" does heavy lifting. Rather than a lengthy rebuttal, respondent treats petitioner's position as self-refuting.
+
+ARGUMENT UNIT 2.4: Seventy years of experience refute the international-conflict argument.
+
+  DOCTRINAL: APPLY_TO_FACTS — Applies the actual historical record of 70 years of extraterritorial application to defeat the speculative harms petitioner identifies.
+
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Preempts petitioner's treaty and international-friction arguments by pointing to the absence of actual conflict over seven decades.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the temporal duration (70 years) as empirical proof that the feared harms have not materialized. FOREGROUND_ABSENCE — Foregrounds the absence of international conflict as affirmative evidence.
+
+  STYLISTIC: COMPRESSION — "The specter of international conflict should be dismissed outright in light of 70 years of experience to the contrary." Packs an empirical argument into a single sentence.
+
+  CROSS-BRIEF INTERACTION: Directly counters Petitioner Section 5 (treaty obligations/international friction). Where Petitioner argued extraterritoriality would create international discord, Respondent points to seven decades of practice without significant friction.
+
+ARGUMENT UNIT 2.5: Alternative domestic-application argument (Step Two).
+
+  DOCTRINAL: ALTERNATIVE_HOLDING — Offers an independent basis for affirmance: even if the Act does not apply extraterritorially, the case involves a domestic application because petitioners' conduct harmed U.S.-based goodwill and confused U.S. consumers. BROADEN_HOLDING — Argues the Act has two foci (protecting goodwill AND preventing consumer confusion), broadening the Step Two inquiry beyond the government's narrower single-focus view.
+
+  NARRATIVE: CONCEDE_REDIRECT — Structured as "even if you reject our primary argument, the judgment can be affirmed on this independent ground."
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the domestic effects: lost sales, customer confusion, reputational harm, all felt "at Hetronic's home in Oklahoma." CONCRETE_ANCHOR — "Oklahoma" grounds the harm domestically in a specific geographic location.
+
+  STYLISTIC: CONCRETE_ANCHOR — The Oklahoma reference makes domestic harm tangible.
+
+
+--- Section 3: B. This Court Has Repeatedly Recognized That The Lanham Act's Unique Language Overcomes The Presumption ---
+
+ARGUMENT UNIT 3.1: Steele v. Bulova is directly controlling.
+
+  DOCTRINAL: INVOKE_AUTHORITY — Treats Steele as squarely holding that the Lanham Act applies extraterritorially. Emphasizes the Court held this "over dissent," signaling that the issue was fully deliberated. BROADEN_HOLDING — Reads Steele broadly as establishing a categorical rule of extraterritorial reach, not a fact-specific holding limited to U.S. defendants or particular effects on U.S. commerce.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Frames Steele as an early and decisive resolution of the extraterritoriality question, confirmed twice thereafter. The narrative arc is: this question was answered 70 years ago.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the facts of Steele (knockoff BULOVA watches sold in Mexico) to show that the Court applied the Act to purely foreign sales. SEQUENCE — Traces the doctrinal line from Steele (1952) through Aramco (1991) to Morrison (2010), constructing a three-decision confirmation sequence.
+
+  STYLISTIC: STRATEGIC_QUOTATION — Deploys the Steele Court's language that the Act's definition has a "sweeping reach" that "even when most jealously read" covers foreign infringement. The "most jealously read" quotation is particularly effective because it pre-answers petitioner's narrow-reading approach. CONCRETE_ANCHOR — The facts of Steele (U.S.-registered BULOVA mark stamped on knockoff watches assembled and sold in Mexico) make the holding vivid.
+
+  CROSS-BRIEF INTERACTION: Directly counters Petitioner Section 3's attempt to surround Steele with older territoriality precedent. Respondent insists Steele is the directly applicable modern precedent, and petitioner's older cases (Baglin, Katzel) addressed a different question (whether foreign law applies in the U.S., not whether U.S. law applies abroad).
+
+ARGUMENT UNIT 3.2: The dissent in Steele confirms the majority's holding.
+
+  DOCTRINAL: INVOKE_AUTHORITY — Uses the Steele dissent's reasoning to confirm that the majority genuinely held the Act applies extraterritorially: both sides agreed on the presumption as a principle of interpretation but disagreed on whether the Act's text overcame it.
+
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Preempts petitioner's attempt to re-read Steele as not truly an extraterritoriality holding. The footnote pointing to the dissent shows the issue was squarely joined.
+
+  FACT-FRAMING: OPPONENT_CONCESSION_CAPTURE — Captures the dissent's framing to confirm what was actually at stake in Steele. If even the dissenting Justices understood the case as about extraterritoriality, petitioner's revisionist reading is untenable.
+
+  STYLISTIC: AUTHORITY_SIGNALING — Footnote 6 is a surgical use of the dissent to close off an interpretive escape route.
+
+
+--- Section 4: C. The Lanham Act's Extraterritorial Reach Rightfully Encompasses Foreign Infringement ---
+
+ARGUMENT UNIT 4.1: The relevant question is whether conduct is "in commerce," not where it occurs.
+
+  DOCTRINAL: BROADEN_STATUTE — Reads the Act's "use in commerce" element as geographically unbounded: the question is whether the use falls within commerce regulable by Congress, regardless of location. JURISDICTIONAL_REFRAME — Reframes the extraterritoriality question from "Does the Act apply abroad?" to "Does the foreign conduct fall within regulable commerce?"
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Frames the legal test as straightforward: if Congress can regulate it, the Act covers it.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes the geographic question (domestic vs. foreign) as a Commerce Clause power question (substantial effect on U.S. commerce).
+
+  STYLISTIC: COMPRESSION — "Both text and precedent thus establish that the Lanham Act governs 'use' of a trademark 'in commerce' -- regardless where that 'use' occurs."
+
+ARGUMENT UNIT 4.2: The Commerce Clause analogy (interstate-to-foreign).
+
+  DOCTRINAL: ANALOGIZE — Analogizes Congress's Foreign Commerce Clause power to its Interstate Commerce Clause power, arguing that just as Congress can regulate intrastate activity with a "substantial effect" on interstate commerce, it can regulate foreign activity with a substantial effect on U.S. commerce. INVOKE_AUTHORITY — Cites Gonzales v. Raich, Lopez, Japan Line, and Atlantic Cleaners to establish the analogy.
+
+  NARRATIVE: AFFIRMATIVE_FRAME — Presents the commerce-power argument as uncontroversial established law, not a novel extension.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes foreign trademark infringement from a sovereignty/territoriality problem into a commerce-regulation problem, where Congress's authority is well established.
+
+  STYLISTIC: AUTHORITY_SIGNALING — The density of citations (Raich, Lopez, Japan Line, Atlantic Cleaners) signals that this is thoroughly settled law.
+
+ARGUMENT UNIT 4.3: Trademark infringement differs from patent/copyright infringement in ways that justify extraterritorial reach.
+
+  DOCTRINAL: DISTINGUISH — Distinguishes trademark infringement from patent and copyright infringement to explain why Congress gave the Lanham Act broader geographic reach than the Patent Act or Copyright Act. DISTINGUISH_PURPOSE — The purpose distinction: foreign trademark infringement causes domestic reputational harm and consumer confusion in a way that foreign patent/copyright infringement does not.
+
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Anticipates the argument that if patent and copyright law do not apply extraterritorially, trademark law should not either. Respondent preempts this by explaining the functional distinction.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes the comparison between IP statutes from a uniformity argument (petitioner's framing: all IP law should have the same territorial scope) to a functional argument (trademark infringement uniquely causes domestic harm through reputational injury).
+
+  STYLISTIC: AUTHORITY_SIGNALING — Cites Impression Products and Microsoft v. AT&T as establishing the patent/copyright rule while distinguishing them.
+
+ARGUMENT UNIT 4.4: The U.S. government's reading of Steele is wrong.
+
+  DOCTRINAL: DISTINGUISH — Rejects the U.S. government's characterization of Steele as involving a domestic application rather than extraterritorial reach. FRAME_AS_ERROR — "Having not learned its lesson from Morrison, the United States again urges its strained interpretation."
+
+  NARRATIVE: FRAME_AS_ERROR — Frames the government's position as a recurring mistake: the government took a similar losing position in Morrison and is repeating it here.
+
+  FACT-FRAMING: RECHARACTERIZE — Recharacterizes the government's Steele reading as "implausible" because Steele predated the "focus" concept by 60 years.
+
+  STYLISTIC: UNDERSTATED_DEVASTATION — "Having not learned its lesson from Morrison" is a sharp jab at the Solicitor General's office, unusual in SCOTUS briefing. NEW_MOVE_[INSTITUTIONAL_REBUKE] — Directly criticizing a repeat-player amicus (the U.S. government) for making the same mistake twice, leveraging the institutional relationship to cast doubt on the government's position.
+
+
+--- Section 5: D. Background Legal Principles Limit The Class Of Lanham Act Suits Involving Foreign Conduct ---
+
+ARGUMENT UNIT 5.1: Existing doctrines adequately limit extraterritorial application.
+
+  DOCTRINAL: CONCEDE_REDIRECT — Concedes that extraterritorial application of the Act could, in some cases, create conflict with foreign law or raise jurisdictional concerns. Redirects to background doctrines (personal jurisdiction, forum non conveniens, international comity) as adequate limiting mechanisms. APPLY_STANDARD — Applies the comity framework from Hartford Fire Insurance to show that courts already have tools to decline jurisdiction where appropriate.
+
+  NARRATIVE: PREEMPTIVE_REBUTTAL — This entire section is structured as a preemptive answer to petitioner's international-friction argument (Petitioner Section 5). The message: the legal system already handles these problems; there is no need to rewrite the statute's scope. CONCEDE_REDIRECT — Acknowledges the potential for conflict but redirects to existing solutions rather than the blunt instrument of denying extraterritorial application entirely.
+
+  FACT-FRAMING: FOREGROUND — Foregrounds the unanimous lower-court agreement that "conflict with foreign law or foreign legal proceedings is a valid reason for declining to exercise jurisdiction." BACKGROUND — Backgrounds the severity of potential conflicts by treating them as manageable, case-by-case occurrences.
+
+  STYLISTIC: AUTHORITY_SIGNALING — Cites Hartford Fire Insurance, Steele itself (on the "valid foreign registration" point), Trader Joe's, and the lower-court consensus to show these are not novel safeguards but existing, battle-tested doctrines. STRATEGIC_QUOTATION — Quotes Steele's recognition that a "valid foreign registration" could limit jurisdiction, using petitioner's own favored precedent against them.
+
+  CROSS-BRIEF INTERACTION: Directly counters Petitioner Section 5. Where Petitioner argued extraterritoriality "contravenes treaty obligations and threatens international friction," Respondent argues the feared harms are managed by existing doctrines. Respondent also turns Petitioner's use of Steele against them: even Steele recognized comity-based limits, meaning extraterritorial application and adequate safeguards already coexist in the case law.
+
+
+==================================================
+CROSS-BRIEF INTERACTION SUMMARY
+==================================================
+
+1. COMMERCE DEFINITION (Central Battleground)
+   Pet. Section 4 vs. Resp. Section 1 (Unit 1.1) and Section 2 (Unit 2.3)
+   - Petitioner: NARROW_STATUTE -- "all commerce" is a constitutional-scope provision, not an extraterritoriality provision. Broad commerce definitions have "emphatically" been held insufficient to rebut the presumption (citing RJR, Morrison, Kiobel).
+   - Respondent: BROADEN_STATUTE -- "all commerce" is "uniquely broad" and distinguishable from boilerplate commerce definitions in other statutes. The Act is the "only civil statute in the U.S. Code" that reaches to the outer limits of Congress's authority.
+   - Structural dynamic: Both sides accept that the commerce definition is the key textual battleground, but they characterize it in opposite directions. Petitioner uses the a-fortiori move (if express "foreign commerce" language is insufficient, implicit references are even weaker). Respondent uses the uniqueness move (no other statute goes this far, so this one was designed to go further).
+
+2. STEELE v. BULOVA (Precedent Fight)
+   Pet. Sections 3 and implied Section E vs. Resp. Sections 1, 3
+   - Petitioner: DISTINGUISH -- Surrounds Steele with older territoriality precedent (Baglin, Katzel) and attempts to recharacterize it as a case about U.S. defendants or a domestic application, not a holding about extraterritoriality per se.
+   - Respondent: BROADEN_HOLDING -- Reads Steele as a categorical holding that the Act applies extraterritorially, confirmed by Aramco and Morrison. Deploys the Steele dissent (footnote 6) to show the extraterritoriality question was squarely joined. Labels petitioner's re-reading as "revisionist" and invokes statutory stare decisis.
+   - Structural dynamic: Petitioner tries to shrink Steele; Respondent tries to expand it. Respondent has the stronger positional advantage because statutory stare decisis places the burden on the party seeking to change the reading.
+
+3. INTERNATIONAL FRICTION (Stakes Framing)
+   Pet. Section 5 vs. Resp. Section 2 (Unit 2.4) and Section 5
+   - Petitioner: ESCALATE_STAKES + SLIPPERY_SLOPE -- Extraterritoriality contravenes treaty obligations (Paris Convention), threatens retaliation, and disrupts the global trademark order.
+   - Respondent: PREEMPTIVE_REBUTTAL + FOREGROUND_ABSENCE -- Seventy years of extraterritorial application with no significant international friction. Background doctrines (comity, forum non conveniens) adequately manage conflicts. The feared harms are speculative; the empirical record refutes them.
+   - Structural dynamic: Petitioner argues from theory (treaty structure, potential consequences); Respondent argues from practice (70 years of evidence). Respondent holds the stronger ground here because empirical evidence generally outweighs hypothetical risk in judicial reasoning.
+
+4. TEXTUAL SILENCE vs. TEXTUAL BREADTH
+   Pet. Section 2 vs. Resp. Section 2 (Unit 2.1)
+   - Petitioner: FOREGROUND_ABSENCE -- The Act's silence on extraterritoriality is dispositive. Congress knows how to legislate extraterritorially when it wants to.
+   - Respondent: BURDEN_SHIFT + FRAME_AS_ERROR -- Petitioner is arguing from what the Act does NOT say rather than engaging with what it DOES say. The "all commerce" language is not silence; it is an affirmative textual indication of breadth.
+   - Structural dynamic: Petitioner treats the absence of express extraterritoriality language as the end of the inquiry. Respondent reframes the question from "Did Congress use the magic words?" to "What does the language Congress actually chose mean?"
+
+5. TRADEMARK vs. OTHER IP (Distinctiveness Argument)
+   Pet. implicit (no specific section) vs. Resp. Section 4 (Unit 4.3)
+   - Petitioner: Implicitly argues all IP statutes should be treated similarly (patent and copyright law do not apply extraterritorially, so trademark law should not either).
+   - Respondent: DISTINGUISH -- Trademark infringement uniquely causes domestic harm (consumer confusion, reputational injury) even when consummated abroad, justifying Congress's different treatment.
+   - Structural dynamic: Respondent has a structural advantage: by distinguishing rather than defending a broad principle, it only needs to show one relevant difference between trademark and other IP.
+
+6. U.S. GOVERNMENT POSITION (Three-Way Fight)
+   Resp. Section 4 (Unit 4.4)
+   - Respondent takes the unusual step of sharply criticizing the U.S. government's amicus position, calling its Steele reading "strained" and accusing it of not having "learned its lesson from Morrison." This NEW_MOVE_[INSTITUTIONAL_REBUKE] is noteworthy: it signals confidence and attempts to isolate petitioner by denying them the benefit of governmental support, even though the government's position was partially favorable to petitioner.
+
+
+==================================================
+NEW MOVES
+==================================================
+
+1. NEW_MOVE_[STARE_DECISIS_SHIELD]
+   Definition: Invoking the heightened standard for overruling statutory precedent (statutory stare decisis) as an affirmative barrier to the opposing party's argument, requiring them to meet a threshold showing before the Court even reaches the merits of their doctrinal claim.
+   Location: Respondent Section 2, Unit 2.2. Respondent argues petitioner's suggestion that Steele should be overruled "falls well short of the necessary showing to overcome statutory stare decisis," converting a procedural standard into a substantive shield.
+
+2. NEW_MOVE_[INSTITUTIONAL_REBUKE]
+   Definition: Directly criticizing a repeat-player institutional amicus (here, the U.S. government/Solicitor General) for advancing a position the Court has previously rejected, leveraging the institution's track record to undermine its credibility on the current issue.
+   Location: Respondent Section 4, Unit 4.4. "Having not learned its lesson from Morrison, the United States again urges its strained interpretation." This move is distinct from ordinary FRAME_AS_ERROR because it targets an institution's pattern of error across cases, not just a single argument's logical flaws.

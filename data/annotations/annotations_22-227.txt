@@ -1,0 +1,313 @@
+STRATEGIC MOVE ANNOTATIONS — CASE DOCKET 22-227
+(Tribal Sovereign Immunity / Bankruptcy Code Abrogation)
+
+==================================================
+PETITIONER BRIEF (Docket22-227_Brief003.pdf)
+Section: III. THIS CASE IS AN IDEAL VEHICLE FOR RESOLVING AN UNMISTAKABLY IMPORTANT QUESTION
+==================================================
+
+--- ARGUMENT UNIT P-1: Respondent concedes the circuit split ---
+Text: "Respondent concedes the deepening of an 'irreconcilable' circuit split on whether the Bankruptcy Code abrogates tribal sovereign immunity."
+
+DOCTRINAL:
+  INVOKE_AUTHORITY — Petitioner leverages the Respondent's own concession as authority for cert-worthiness. The word "irreconcilable" is pulled directly from Respondent's brief (captured via strategic quotation) to foreclose any argument that the split is shallow or reconcilable.
+  JURISDICTIONAL_REFRAME — Frames the dispute not as a substantive merits question but as a structural problem of circuit disunity that only this Court can fix.
+
+NARRATIVE:
+  OPPONENT_CONCESSION_CAPTURE (via Narrative layer) — The lead sentence weaponizes Respondent's own admission. By opening with "Respondent concedes," Petitioner converts the opposition's brief into evidence supporting cert.
+  ESCALATE_STAKES — "Deepening" signals a worsening problem, implying that delay compounds the harm.
+
+FACT-FRAMING:
+  FOREGROUND — The circuit split is placed at the very top of Section III, foregrounding the vehicle question over the merits.
+  OPPONENT_CONCESSION_CAPTURE — Respondent's own characterization ("irreconcilable") is extracted and redeployed against Respondent's interest in avoiding review.
+
+STYLISTIC:
+  STRATEGIC_QUOTATION — Quoting "irreconcilable" from Respondent's brief rather than paraphrasing it. The quotation marks do rhetorical work: they pin Respondent to a specific word choice.
+  COMPRESSION — The entire argument for cert-worthiness is packed into a single sentence that does triple duty (concession, split, deepening).
+
+--- ARGUMENT UNIT P-2: Table of Authorities as doctrinal signaling ---
+Text: [Table of Authorities listing Cherokee Nation, Bay Mills, Kiowa Tribe, Upper Skagit, etc.]
+
+DOCTRINAL:
+  INVOKE_AUTHORITY — Heavy citation to foundational tribal sovereignty cases (Cherokee Nation, Bay Mills, Kiowa Tribe) signals that Petitioner is grounded in the Court's own precedent. The "passim" designations for Greektown Holdings and Krystal Energy signal these are the key circuit-split cases.
+  ANALOGIZE — Grouping federal sovereign immunity cases (Dellmuth v. Muth, Federal Maritime Comm'n) alongside tribal cases implicitly argues that the same immunity principles apply across sovereign types.
+
+NARRATIVE:
+  AFFIRMATIVE_FRAME — The authorities are organized to tell a story of robust, well-established tribal immunity doctrine, positioning Petitioner as the party aligned with settled law.
+
+FACT-FRAMING:
+  FOREGROUND — Tribal sovereignty and immunity cases dominate the table. Bankruptcy-specific citations are secondary.
+  FOREGROUND_ABSENCE — No citation to any case holding that the Bankruptcy Code does abrogate tribal immunity, subtly implying that no such holding exists in this Court's precedent.
+
+STYLISTIC:
+  AUTHORITY_SIGNALING — The sheer density of Supreme Court citations (Cherokee Nation, Bay Mills, Kiowa Tribe, Upper Skagit, Santa Clara Pueblo, National Farmers Union) functions as a credibility marker. Petitioner is signaling: "We have the weight of this Court's jurisprudence."
+
+--- ARGUMENT UNIT P-3: Statutory citation of 11 U.S.C. sections 101(27) and 106 ---
+Text: [Statutes section listing 11 U.S.C. sections 101(27) and 106]
+
+DOCTRINAL:
+  NARROW_STATUTE — By isolating sections 101(27) and 106, Petitioner frames the statutory question tightly around whether these specific provisions, as written, reach tribes. This narrowing move limits the field of battle to text that does not mention "tribe."
+  DISTINGUISH_PURPOSE — The statutory framing sets up a later argument that Congress's purpose in section 106 was to address federal and state sovereign immunity, not tribal immunity.
+
+NARRATIVE:
+  PREEMPTIVE_REBUTTAL — Listing the statutes early signals awareness of Respondent's textual argument and prepares the ground for Petitioner's counter-reading.
+
+FACT-FRAMING:
+  FOREGROUND_ABSENCE — The statutes are cited in a way that draws attention to what they do not say: the word "tribe" is absent from both provisions.
+
+STYLISTIC:
+  COMPRESSION — Standard statutory citation format, but the minimalism is itself strategic. The bare listing invites the reader to notice the absence of tribal-specific language.
+
+--- ARGUMENT UNIT P-4: FDIC survey citation and practical stakes ---
+Text: "FDIC, 2021 National Survey of Unbanked and Underbanked Households (updated Nov. 14, 2022)"
+
+DOCTRINAL:
+  APPLY_TO_FACTS — Petitioner moves from abstract legal doctrine to real-world impact by citing an empirical source about underbanked households, connecting the tribal immunity question to financial access for tribal communities.
+
+NARRATIVE:
+  ESCALATE_STAKES — The FDIC citation escalates the case beyond a procedural bankruptcy dispute into a question with systemic consequences for tribal financial inclusion.
+
+FACT-FRAMING:
+  FOREGROUND — Empirical data about unbanked/underbanked households is placed in a cert petition, an unusual move that foregrounds policy consequences typically reserved for merits briefing.
+  RECHARACTERIZE — Reframes what Respondent presents as a straightforward statutory interpretation case into one with broader economic and social dimensions.
+
+STYLISTIC:
+  CONCRETE_ANCHOR — The FDIC survey provides a concrete, data-driven anchor for what could otherwise be an abstract sovereignty argument. Grounds the dispute in measurable harm.
+
+
+==================================================
+RESPONDENT BRIEF (Docket22-227_Brief005.pdf)
+Section 1: II. THE BAND FAILS TO SHOW THAT THE BANKRUPTCY CODE IS UNCLEAR
+==================================================
+
+--- ARGUMENT UNIT R-1: Congress does not need "magic words" ---
+Text: "That contention runs afoul of this Court's repeated admonition that Congress does not need magic words or special phrases to make its meaning clear."
+
+DOCTRINAL:
+  BROADEN_STATUTE — Respondent argues for a broad reading of the statutory text: Congress need not use the specific word "tribe" to capture tribes within the Bankruptcy Code's coverage.
+  INVOKE_AUTHORITY — "This Court's repeated admonition" invokes a line of precedent without naming specific cases, asserting that the no-magic-words principle is well-established and frequently applied.
+  APPLY_STANDARD — Applies the general clear-statement rule flexibly, arguing that clarity does not require specific terminology.
+
+NARRATIVE:
+  FRAME_AS_ERROR — Petitioner's position is characterized as seeking to "invent" a "special-word requirement," casting it as legal innovation untethered from precedent.
+  PREEMPTIVE_REBUTTAL — Directly addresses Petitioner's strongest textual argument (the absence of "tribe") and reframes it as a misunderstanding of how statutory drafting works.
+
+FACT-FRAMING:
+  RECHARACTERIZE — Transforms Petitioner's argument from "the statute doesn't mention tribes" into "Petitioner demands magic words Congress never had to use."
+  DIMINISHING_MODIFIER — The phrase "special-word requirement it now seeks to invent" diminishes Petitioner's position by implying it is novel and fabricated.
+
+STYLISTIC:
+  COMPRESSION — "Magic words" is a two-word encapsulation of an entire doctrinal principle about statutory construction. High information density.
+  REGISTER_CONTRAST — "Magic words" is colloquial and slightly dismissive, contrasted with the formal legal register of the surrounding text. The tonal shift subtly mocks the position being rebutted.
+
+--- ARGUMENT UNIT R-2: Congress uses different words in different statutes ---
+Text: "Congress can and does use different words in different statutes to achieve similar or related purposes. Indeed, the statutes that the Band cites as comparisons had other reasons for using the word 'tribe' that do not apply to the Code."
+
+DOCTRINAL:
+  DISTINGUISH — Respondent distinguishes the other statutes Petitioner relies on (those using the word "tribe") by arguing they had different drafting contexts and purposes. This neutralizes the negative-inference argument (if Congress knew how to say "tribe" elsewhere, its silence here is meaningful).
+  DISTINGUISH_PURPOSE — The statutes that do name "tribe" did so for reasons specific to those statutes, not as part of a general congressional practice of always naming tribes when abrogating immunity.
+
+NARRATIVE:
+  CONCEDE_REDIRECT — Implicitly concedes that other statutes do use the word "tribe," but redirects by explaining why that fact is irrelevant to interpreting the Bankruptcy Code.
+
+FACT-FRAMING:
+  BACKGROUND — The other statutes' use of "tribe" is acknowledged but pushed to the background as contextually inapposite.
+  RECHARACTERIZE — What Petitioner presents as a meaningful pattern (Congress says "tribe" when it means tribes) is recharacterized as coincidence driven by statute-specific drafting needs.
+
+STYLISTIC:
+  UNDERSTATED_DEVASTATION — "Can and does" is a quiet, factual assertion that carries significant weight. It treats the Petitioner's cross-statute comparison as so obviously flawed that a brief, matter-of-fact rebuttal suffices.
+
+--- ARGUMENT UNIT R-3: Ordinary meaning controls, no strong contextual indications otherwise ---
+Text: "this Court frequently looks to the ordinary meanings of the words in a phrase to determine the meaning of that phrase. It takes a different approach when it finds strong contextual indications that ordinary meaning does not apply. There are no such indications here."
+
+DOCTRINAL:
+  APPLY_STANDARD — Applies the ordinary-meaning canon as the default interpretive rule and places the burden on Petitioner to show "strong contextual indications" that the default should not apply.
+  BURDEN_SHIFT — Shifts the interpretive burden to Petitioner: the ordinary-meaning approach is the baseline, and departure requires affirmative justification that Petitioner has not provided.
+
+NARRATIVE:
+  AFFIRMATIVE_FRAME — Respondent positions itself as following the Court's standard methodology, putting Petitioner in the position of seeking an exception.
+
+FACT-FRAMING:
+  FOREGROUND — The absence of contextual indications against ordinary meaning is foregrounded as an affirmative fact supporting Respondent's reading.
+  FOREGROUND_ABSENCE — "There are no such indications here" — the absence itself is treated as evidence.
+
+STYLISTIC:
+  COMPRESSION — "There are no such indications here" is a six-word sentence that carries the weight of the entire contextual analysis. The brevity signals confidence.
+
+--- ARGUMENT UNIT R-4: Tribes as "unique" does not mean they are not "domestic" or "governments" ---
+Text: "The Court's past descriptions of tribes as 'unique' or 'peculiar' do not suggest that they are not 'domestic' or not 'governments.' Instead, beginning with Cherokee Nation, the Court has focused on the unique nature of tribes as entities that once had full sovereignty, that retain some inherent sovereignty today, but that are subject to congressional control."
+
+DOCTRINAL:
+  DISTINGUISH — Distinguishes the Court's characterizations of tribes as "unique" or "peculiar" from the statutory question of whether tribes qualify as "domestic governments." These are separate analytical categories.
+  NARROW_HOLDING — Narrows the holdings of cases describing tribal uniqueness: those cases addressed the nature of tribal sovereignty, not whether tribes fall within a statutory definition of "governmental unit."
+  ANALOGIZE — By tracing the line from Cherokee Nation forward, Respondent analogizes the current case to a long doctrinal tradition that consistently treats tribes as subject to congressional authority, which is the predicate for abrogation.
+
+NARRATIVE:
+  PREEMPTIVE_REBUTTAL — Directly confronts the argument that tribal "uniqueness" places tribes outside ordinary statutory categories.
+  CONCEDE_REDIRECT — Concedes that tribes are "unique" but redirects: uniqueness goes to the nature of their sovereignty, not to whether they are governments or domestic entities.
+
+FACT-FRAMING:
+  RECHARACTERIZE — Recharacterizes "unique" and "peculiar" from markers of exclusion (tribes are too different to be captured by general statutory language) into markers of a specific type of sovereignty that remains subject to congressional power.
+  SEQUENCE — Traces a doctrinal sequence from Cherokee Nation to the present, creating a historical arc that supports Respondent's reading.
+
+STYLISTIC:
+  AUTHORITY_SIGNALING — The Cherokee Nation citation anchors the argument in the foundational case of federal Indian law.
+  PARALLEL_STRUCTURE — "entities that once had full sovereignty, that retain some inherent sovereignty today, but that are subject to congressional control" — three-clause structure tracking the historical trajectory of tribal sovereignty.
+
+--- ARGUMENT UNIT R-5: Ejusdem generis does not limit "other foreign or domestic government" ---
+Text: "The ejusdem generis canon does not help the Band to limit the phrase 'other foreign or domestic government.'"
+
+DOCTRINAL:
+  DISTINGUISH — Respondent distinguishes the ejusdem generis canon's applicability, arguing the catch-all phrase "other foreign or domestic government" is not the kind of residual clause that the canon is designed to constrain.
+  NARROW_HOLDING — Implicitly narrows the reach of ejusdem generis by arguing it applies only where a residual term follows a list of specific items sharing common characteristics — and that the section 101(27) list does not set up that structure.
+
+NARRATIVE:
+  FRAME_AS_ERROR — Petitioner's reliance on ejusdem generis is framed as a misapplication of a canon to a context where it does not fit.
+
+FACT-FRAMING:
+  DIMINISHING_MODIFIER — "Does not help" is a deliberately understated way of saying the canon is inapplicable, treating the argument as unpersuasive rather than mounting a full-scale assault.
+
+STYLISTIC:
+  COMPRESSION — A single sentence dispatches an entire canon of construction. The brevity signals that the argument does not warrant extended treatment.
+
+
+==================================================
+RESPONDENT BRIEF (Docket22-227_Brief005.pdf)
+Section 2: A. The Operative Language of section 106(a) and section 101(27) Is Clear
+==================================================
+
+--- ARGUMENT UNIT R-6: Statutory walkthrough of sections 106(a) and 101(27) ---
+Text: [Full quotation of section 106(a) and section 101(27), with explanation of how the automatic stay, enforcement provisions, and "governmental unit" definition interlock]
+
+DOCTRINAL:
+  APPLY_STANDARD — Methodical application of the statutory text. Respondent walks the Court through the Code's architecture: section 106(a) abrogates immunity for "governmental units," section 101(27) defines that term, and the definition includes "other foreign or domestic government."
+  BROADEN_STATUTE — The statutory walkthrough is designed to show that the Code's reach is capacious. Each provision builds on the last, creating a broad framework that, on its face, reaches any entity fitting the definition.
+  INVOKE_AUTHORITY — Cites Tanzin v. Tanvir for the principle that when a statute includes an explicit definition, the Court follows it. This anchors the textual argument in recent precedent.
+
+NARRATIVE:
+  AFFIRMATIVE_FRAME — Respondent presents its reading as a straightforward exercise in following statutory definitions. The implicit message: this is not a hard case.
+
+FACT-FRAMING:
+  FOREGROUND — The statutory text itself is foregrounded at length. By quoting the provisions in full, Respondent lets the text do the argumentative work.
+  SEQUENCE — The walkthrough proceeds in logical order: section 106(a) (abrogation) leads to section 101(27) (definition) leads to the catch-all phrase. The sequencing mirrors the statutory structure and makes the reading feel inevitable.
+
+STYLISTIC:
+  CONCRETE_ANCHOR — Direct quotation of statutory text provides the most concrete possible anchor. The argument is built on the words Congress actually enacted.
+  AUTHORITY_SIGNALING — Tanzin v. Tanvir (2020) and Digital Realty (2018) are recent, unanimous or near-unanimous decisions, signaling that the interpretive principle Respondent relies on is current and uncontroversial.
+
+--- ARGUMENT UNIT R-7: "There is no dispute" that section 106(a) abrogates immunity for governmental units ---
+Text: "There is no dispute that section 106(a) unequivocally abrogates the sovereign immunity of a 'governmental unit.'"
+
+DOCTRINAL:
+  APPLY_STANDARD — Establishes the undisputed legal premise (section 106(a) abrogates immunity for governmental units) before turning to the disputed question (whether tribes are governmental units).
+
+NARRATIVE:
+  OPPONENT_CONCESSION_CAPTURE — "There is no dispute" captures Petitioner's implicit concession on the abrogation mechanism. By establishing common ground, Respondent narrows the contested terrain to the definitional question alone.
+  AFFIRMATIVE_FRAME — Frames the case as having only one real question (does "governmental unit" include tribes?), with the abrogation mechanism already settled.
+
+FACT-FRAMING:
+  FOREGROUND — The undisputed premise is stated as a standalone sentence, giving it structural prominence.
+
+STYLISTIC:
+  COMPRESSION — One sentence eliminates an entire line of potential argument. If section 106(a) unequivocally abrogates immunity for governmental units, the only question left is definitional.
+  UNDERSTATED_DEVASTATION — "There is no dispute" quietly forecloses any challenge to the abrogation mechanism itself.
+
+
+==================================================
+RESPONDENT BRIEF (Docket22-227_Brief005.pdf)
+Section 3: 1. A Tribe Is a "Government"
+==================================================
+
+--- ARGUMENT UNIT R-8: Dictionary definitions of "government" ---
+Text: "the Court should 'look first to th[at] word's ordinary meaning,' to which contemporaneous dictionary definitions are a useful guide... 'the organization, machinery, or agency through which a political unit exercises authority and performs functions.'"
+
+DOCTRINAL:
+  APPLY_STANDARD — Applies the ordinary-meaning canon, citing Schindler Elevator Corp. for the proposition that undefined statutory terms receive their ordinary meaning.
+  BROADEN_STATUTE — The dictionary definition of "government" is broad ("organization, machinery, or agency through which a political unit exercises authority"), and Respondent deploys this breadth to capture tribes within it.
+  INVOKE_AUTHORITY — Schindler Elevator Corp. (2011) provides the methodological framework. Webster's Third New International Dictionary (1976 edition, contemporaneous with the 1978 enactment) provides the definitional anchor.
+
+NARRATIVE:
+  AFFIRMATIVE_FRAME — Respondent presents the definitional inquiry as straightforward: look up the word, apply its ordinary meaning, conclude that tribes fit.
+
+FACT-FRAMING:
+  FOREGROUND — The 1976 dictionary edition is foregrounded as contemporaneous with the 1978 enactment of section 101(27), reinforcing the temporal alignment between definition and statute.
+  SEQUENCE — The argument moves from interpretive principle (look to ordinary meaning) to source (contemporaneous dictionary) to definition to application. The logical sequence makes the conclusion feel compelled.
+
+STYLISTIC:
+  CONCRETE_ANCHOR — The dictionary definition provides a concrete, external reference point. The argument does not depend on Respondent's characterization of what "government" means; it depends on what Webster's Third says.
+  AUTHORITY_SIGNALING — Citation to a specific dictionary edition (1976) and a footnote referencing additional dictionaries ("Other dictionaries before and since similarly define...") signals thoroughness and durability of the definition across sources.
+
+--- ARGUMENT UNIT R-9: Tribes exercise governmental authority and perform governmental functions ---
+Text: "Tribes are 'government[s]' within the ordinary meaning of that term because they exercise governmental authority and perform governmental functions. They have authority 'to legislate and to tax activities on the reservation'... They have authority to execute and administer the laws they make... They have authority to create courts..."
+
+DOCTRINAL:
+  APPLY_TO_FACTS — Having established the legal standard (ordinary meaning of "government"), Respondent applies it to the facts of tribal governance: tribes legislate, tax, execute laws, administer criminal justice, and operate courts.
+  BROADEN_HOLDING — Draws on multiple Supreme Court holdings (Plains Commerce Bank, Montana, Lara, Strate) to demonstrate that the Court has repeatedly recognized tribes as exercising core governmental functions. The breadth of citation broadens the evidentiary base.
+  ANALOGIZE — Implicitly analogizes tribal governmental functions to those of states and the federal government (legislation, taxation, law enforcement, adjudication), making the classification of tribes as "governments" feel obvious.
+
+NARRATIVE:
+  AFFIRMATIVE_FRAME — The argument is structured as an affirmative demonstration rather than a rebuttal. Respondent is not defending against an attack; it is building an independent case that tribes are governments.
+  PREEMPTIVE_REBUTTAL — By cataloging specific governmental functions, Respondent preempts any argument that tribes lack the hallmarks of government.
+
+FACT-FRAMING:
+  FOREGROUND — Specific governmental functions (legislation, taxation, criminal punishment, courts) are foregrounded in a catalog that emphasizes breadth and specificity.
+  SEQUENCE — The catalog follows the classic tripartite division of government: legislative ("legislate and tax"), executive ("execute and administer"), judicial ("create courts"). This sequencing maps tribal governance onto the familiar three-branch framework.
+
+STYLISTIC:
+  PARALLEL_STRUCTURE — "They have authority to legislate and to tax... They have authority to execute and administer... They have authority to create courts..." — Repeated "They have authority" structure hammers the point through accumulation.
+  CONCRETE_ANCHOR — Each function is tied to a specific Supreme Court citation, grounding the argument in adjudicated facts rather than abstract characterization.
+  AUTHORITY_SIGNALING — Five Supreme Court cases cited in rapid succession (Plains Commerce Bank, Kerr-McGee, Montana, Lara, Strate) creates a wall of authority.
+
+--- ARGUMENT UNIT R-10: Tribal immunity itself is a governmental attribute ---
+Text: "Indeed, the immunity from suit the Band invokes in this case is itself one of tribes' 'governmental powers and attributes,' Bay Mills, 572 U.S. at 789"
+
+DOCTRINAL:
+  ANALOGIZE — The argument is structurally elegant: if sovereign immunity is a governmental attribute, then the entity asserting it is necessarily a government. The Band's own defense (immunity) proves the Respondent's premise (tribes are governments).
+  APPLY_TO_FACTS — Applies Bay Mills's characterization of immunity as a governmental attribute directly to this case.
+
+NARRATIVE:
+  NEW_MOVE_[SELF-REFUTING_DEFENSE] — Respondent turns Petitioner's own defense mechanism against it. The act of asserting sovereign immunity is recast as evidence that the asserting entity is a government, which is the predicate for the statute that abrogates the immunity. The defense consumes itself.
+
+FACT-FRAMING:
+  RECHARACTERIZE — The Band's assertion of immunity is recharacterized from a shield into evidence for the opposing side's statutory argument.
+
+STYLISTIC:
+  UNDERSTATED_DEVASTATION — "Indeed" introduces the point as though it is a minor observation, but the logical force is significant: the Band's defense proves the Respondent's case.
+  STRATEGIC_QUOTATION — Quoting Bay Mills's phrase "governmental powers and attributes" pins the characterization to the Court's own language.
+
+
+==================================================
+CROSS-BRIEF INTERACTION SUMMARY
+==================================================
+
+1. MAGIC WORDS vs. TEXTUAL SILENCE (P-3 / R-1, R-2)
+   Petitioner's core textual argument is that the Bankruptcy Code does not mention "tribe," and this silence is meaningful given that Congress uses the word "tribe" in other abrogation statutes. Respondent reframes this as a demand for "magic words" that the Court has repeatedly rejected. The interaction is a direct clash between NARROW_STATUTE (Petitioner: the statute must specifically name tribes) and BROADEN_STATUTE (Respondent: general language suffices). Respondent's DISTINGUISH move on the comparator statutes (they had separate reasons for using "tribe") attempts to neutralize Petitioner's negative-inference argument.
+
+2. CONCESSION CAPTURE (P-1 / R-7)
+   Both sides deploy OPPONENT_CONCESSION_CAPTURE. Petitioner opens by noting that Respondent concedes the circuit split is "irreconcilable." Respondent counters by noting that Petitioner does not dispute that section 106(a) abrogates immunity for governmental units. Each side uses the other's concessions to narrow the dispute to favorable terrain: Petitioner narrows to the cert question (split exists, review is warranted); Respondent narrows to the definitional question (the only issue is whether tribes are "governmental units").
+
+3. TRIBAL UNIQUENESS: SHIELD vs. IRRELEVANCE (P-2 / R-4)
+   Petitioner's authority table foregrounds cases emphasizing tribal sovereignty's unique character (Cherokee Nation, Bay Mills, Kiowa Tribe), implicitly arguing that this uniqueness places tribes outside ordinary statutory categories. Respondent directly confronts this in R-4, conceding tribal uniqueness but redirecting: uniqueness goes to the nature of sovereignty, not to whether tribes are "governments" or "domestic." This is a CONCEDE_REDIRECT that attempts to strip Petitioner's strongest doctrinal theme of its statutory relevance.
+
+4. IMMUNITY AS SELF-REFUTING DEFENSE (P implicit / R-10)
+   Petitioner's entire case rests on tribal sovereign immunity. Respondent's R-10 move turns this into a logical trap: asserting immunity proves you are a government, which proves you are a "governmental unit" under section 101(27), which means section 106(a) abrogates your immunity. This is the brief's most structurally creative move and directly targets the coherence of Petitioner's position.
+
+5. STAKES FRAMING: PRACTICAL vs. DOCTRINAL (P-4 / R-6)
+   Petitioner escalates stakes via the FDIC survey, pulling the case toward policy consequences (tribal financial inclusion, unbanked households). Respondent keeps the stakes doctrinal and textual, walking through statutory provisions with clinical precision. The interaction reflects competing framings of what kind of case this is: Petitioner wants it to be a case about the real-world impact on tribal communities; Respondent wants it to be a case about reading statutory definitions.
+
+6. BURDEN OF PROOF ON INTERPRETATION (P-3 / R-3)
+   Petitioner's NARROW_STATUTE move implicitly places the burden on Respondent to show the statute affirmatively reaches tribes. Respondent's BURDEN_SHIFT in R-3 flips this: ordinary meaning is the default, and Petitioner must show "strong contextual indications" to depart from it. The interaction is a fight over who bears the interpretive burden, which often determines the outcome of close statutory questions.
+
+
+==================================================
+NEW MOVES
+==================================================
+
+NEW_MOVE_[SELF-REFUTING_DEFENSE]
+Definition: A move in which one party demonstrates that the opposing party's own legal defense, by its nature or logical structure, supplies a necessary element of the argument against which the defense is raised. The defense, once asserted, undermines its own foundation. In this case, the Band's assertion of sovereign immunity (a governmental attribute) is used as evidence that the Band is a "government" under the statutory definition, which is the predicate for the abrogation provision that eliminates the immunity.
+
+Distinct from OPPONENT_CONCESSION_CAPTURE because the opposing party has not conceded anything; rather, the structural logic of its own defense is turned against it. Distinct from ANALOGIZE because the move does not compare the defense to something else; it uses the defense's own internal logic.
+
+==================================================
+END OF ANNOTATIONS
+==================================================

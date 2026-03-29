@@ -1,0 +1,13 @@
+# Prompt files and working artifacts
+prompt_*.txt
+scale_up_dockets.json
+move-annotations-sample.txt
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Environment
+.env
+.venv/

@@ -1,0 +1,152 @@
+Found 22 annotation files
+
+======================================================================
+COMPREHENSIVE ANALYSIS — 22 CASES, 374 ARGUMENT UNITS
+======================================================================
+
+======================================================================
+1. LAYER COVERAGE
+======================================================================
+
+  DOCTRINAL      : ███████████████████░  97.3% (364/374)
+  NARRATIVE      : ██████████████████░░  92.5% (346/374)
+  FACT-FRAMING   : █████████████████░░░  86.6% (324/374)
+  STYLISTIC      : ██████████████████░░  93.7% (329/351)
+
+======================================================================
+2. MOVE FREQUENCY DISTRIBUTION
+======================================================================
+
+  Total move applications: 2073
+  Unique moves used: 43
+
+   1. FOREGROUND                          159 ( 7.7%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+   2. RECHARACTERIZE                      128 ( 6.2%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+   3. AFFIRMATIVE_FRAME                   123 ( 5.9%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+   4. STRATEGIC_QUOTATION                 108 ( 5.2%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+   5. INVOKE_AUTHORITY                    103 ( 5.0%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+   6. APPLY_STANDARD                       95 ( 4.6%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+   7. PREEMPTIVE_REBUTTAL                  87 ( 4.2%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+   8. FRAME_AS_ERROR                       86 ( 4.1%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+   9. COMPRESSION                          85 ( 4.1%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  10. AUTHORITY_SIGNALING                  81 ( 3.9%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  11. CONCRETE_ANCHOR                      77 ( 3.7%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  12. ESCALATE_STAKES                      70 ( 3.4%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  13. APPLY_TO_FACTS                       70 ( 3.4%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  14. DISTINGUISH                          60 ( 2.9%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  15. SEQUENCE                             57 ( 2.7%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  16. FOREGROUND_ABSENCE                   49 ( 2.4%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  17. OPPONENT_CONCESSION_CAPTURE          48 ( 2.3%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  18. ANALOGIZE                            46 ( 2.2%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  19. UNDERSTATED_DEVASTATION              45 ( 2.2%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  20. PARALLEL_STRUCTURE                   36 ( 1.7%) ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+  ... plus 23 more moves with counts: NARROW_STATUTE(35), DIMINISHING_MODIFIER(35), BROADEN_HOLDING(33), DISTINGUISH_PURPOSE(32), CONCEDE_AND_REDIRECT(32), NARROW_HOLDING(31), STARE_DECISIS_SHIELD(27), REGISTER_CONTRAST(26), CADENCE_SHIFT(26), CONCEDE_REDIRECT(24)
+
+======================================================================
+3. TOP MOVES PER LAYER
+======================================================================
+
+  DOCTRINAL:
+    INVOKE_AUTHORITY                    102
+    APPLY_STANDARD                       95
+    APPLY_TO_FACTS                       70
+    DISTINGUISH                          59
+    ANALOGIZE                            46
+    NARROW_STATUTE                       34
+    DISTINGUISH_PURPOSE                  32
+    BROADEN_HOLDING                      32
+
+  NARRATIVE:
+    AFFIRMATIVE_FRAME                   123
+    PREEMPTIVE_REBUTTAL                  86
+    FRAME_AS_ERROR                       74
+    ESCALATE_STAKES                      69
+    CONCEDE_AND_REDIRECT                 31
+    CONCEDE_REDIRECT                     20
+    OPPONENT_CONCESSION_CAPTURE          17
+    AGREEMENT_TRAP                       17
+
+  FACT-FRAMING:
+    FOREGROUND                          159
+    RECHARACTERIZE                      127
+    SEQUENCE                             57
+    FOREGROUND_ABSENCE                   48
+    DIMINISHING_MODIFIER                 32
+    OPPONENT_CONCESSION_CAPTURE          30
+    BACKGROUND                           16
+    STRATEGIC_SILENCE                    11
+
+  STYLISTIC:
+    STRATEGIC_QUOTATION                 105
+    COMPRESSION                          84
+    AUTHORITY_SIGNALING                  80
+    CONCRETE_ANCHOR                      74
+    UNDERSTATED_DEVASTATION              45
+    PARALLEL_STRUCTURE                   36
+    REGISTER_CONTRAST                    26
+    CADENCE_SHIFT                        26
+
+======================================================================
+4. TAXONOMY CONVERGENCE
+======================================================================
+
+  Case  1 ( 19-1401):   5 new  (cumulative: 5)
+  Case  2 ( 20-1199): ✓ 0 new  (cumulative: 5)
+  Case  3 (  20-480): ✓ 0 new  (cumulative: 5)
+  Case  4 (  20-601):   2 new  (cumulative: 7)
+  Case  5 (  20-637): ✓ 0 new  (cumulative: 7)
+  Case  6 ( 21-1043):   2 new  (cumulative: 9)
+  Case  7 ( 21-1164): ✓ 0 new  (cumulative: 9)
+  Case  8 ( 21-1449): ✓ 0 new  (cumulative: 9)
+  Case  9 ( 21-1496): ✓ 0 new  (cumulative: 9)
+  Case 10 (  21-442): ✓ 0 new  (cumulative: 9)
+  Case 11 (  21-757): ✓ 0 new  (cumulative: 9)
+  Case 12 (  21-806): ✓ 0 new  (cumulative: 9)
+  Case 13 (  21-869): ✓ 0 new  (cumulative: 9)
+  Case 14 (  21-984): ✓ 0 new  (cumulative: 9)
+  Case 15 (  22-105): ✓ 0 new  (cumulative: 9)
+  Case 16 (  22-166): ✓ 0 new  (cumulative: 9)
+  Case 17 (  22-174):   1 new  (cumulative: 10)
+  Case 18 (  22-179):   2 new  (cumulative: 12)
+  Case 19 (  22-210): ✓ 0 new  (cumulative: 12)
+  Case 20 (  22-227): ✓ 0 new  (cumulative: 12)
+  Case 21 (   22-23): ✓ 0 new  (cumulative: 12)
+  Case 22 (   22-96): ✓ 0 new  (cumulative: 12)
+
+  Zero-new cases: 17/22 (77%)
+  Last 6 avg: 0.5 new/case
+
+======================================================================
+5. CROSS-CASE CONSISTENCY
+======================================================================
+
+  Moves appearing in most cases:
+    AFFIRMATIVE_FRAME                   19/22 cases (86%)
+    FOREGROUND                          19/22 cases (86%)
+    ESCALATE_STAKES                     19/22 cases (86%)
+    FOREGROUND_ABSENCE                  19/22 cases (86%)
+    APPLY_TO_FACTS                      19/22 cases (86%)
+    RECHARACTERIZE                      19/22 cases (86%)
+    STRATEGIC_QUOTATION                 19/22 cases (86%)
+    APPLY_STANDARD                      19/22 cases (86%)
+    INVOKE_AUTHORITY                    19/22 cases (86%)
+    SEQUENCE                            19/22 cases (86%)
+    PREEMPTIVE_REBUTTAL                 19/22 cases (86%)
+    FRAME_AS_ERROR                      18/22 cases (82%)
+    UNDERSTATED_DEVASTATION             18/22 cases (82%)
+    ANALOGIZE                           18/22 cases (82%)
+    DISTINGUISH                         18/22 cases (82%)
+
+  Singleton moves (1 case only): 2
+    ALTERNATIVE_HOLDING_ARGUMENT
+    RHETORICAL_QUESTION
+
+======================================================================
+6. DISTRIBUTION SHAPE
+======================================================================
+
+  Top 5 moves:  30.0% of all applications
+  Top 10 moves: 50.9% of all applications
+  Bottom half:  20.5% of all applications
+  Gini-like concentration: MODERATE

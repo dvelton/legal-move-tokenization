@@ -1,0 +1,215 @@
+VALIDATION PLAN — Testing the Framework Against Reality
+=====================================================================
+
+The point of this document: our taxonomy and framework are hypotheses.
+The annotations are data. What specific tests would show us that the
+framework is wrong, incomplete, or poorly defined — and how do we
+adjust?
+
+
+1. TAXONOMY STABILITY TEST
+=====================================================================
+
+QUESTION: Is the move vocabulary converging or diverging?
+
+If every new case generates 3-5 new moves, the taxonomy is leaking.
+It means our categories are too narrow and we're inventing bespoke
+labels instead of identifying real patterns. A healthy taxonomy should
+see diminishing new-move discovery as cases accumulate.
+
+TEST: Plot new moves discovered per case across all annotated cases.
+  - Case 1 (20-601): 2 new moves (JURISDICTIONAL_REFRAME, SLIPPERY_SLOPE)
+  - Case 2 (19-1401): 5 new moves (DIMINISHING_MODIFIER, AUTHORITY_SIGNALING,
+    ALTERNATIVE_HOLDING, OPPONENT_CONCESSION_CAPTURE, REGISTER_CONTRAST)
+  - Cases 3-7: [pending]
+
+FAILURE CONDITION: If cases 5-7 are still generating 3+ genuinely new
+moves each, the taxonomy isn't stabilizing and we need to rethink the
+granularity. Either we're splitting too fine (merge moves) or we're
+missing a fundamental category (add a layer or restructure).
+
+ADJUSTMENT: If new moves keep appearing, analyze whether they cluster.
+If most "new moves" are really subtypes of RECHARACTERIZE or variants
+of INVOKE_AUTHORITY, then the problem is granularity — we need a
+hierarchical taxonomy (move families with subtypes) rather than a flat
+list.
+
+
+2. COVERAGE TEST — ARE THE FOUR LAYERS REAL?
+=====================================================================
+
+QUESTION: Does the four-layer decomposition (doctrinal, narrative,
+fact-framing, stylistic) actually carve nature at its joints?
+
+TEST: Across all annotated argument units, count:
+  - How often each layer is populated vs. marked "--"
+  - Co-occurrence patterns between layers
+
+FAILURE CONDITIONS:
+  a) If one layer is almost always "--", it might not be a real
+     independent layer. Maybe stylistic moves don't occur often enough
+     to justify a separate layer.
+  b) If two layers almost always co-occur with the same move pairs,
+     they might be one layer that we've artificially split. (e.g.,
+     if RECHARACTERIZE and COMPRESSION always appear together, maybe
+     "recharacterize compactly" is a single move, not two.)
+  c) If some argument units resist annotation entirely — no move on
+     any layer feels right — then the taxonomy has blind spots.
+
+ADJUSTMENT: Merge layers that don't provide independent signal. Split
+layers that are doing double duty. Add a layer if there's a consistent
+pattern that doesn't fit any existing layer.
+
+
+3. MOVE FREQUENCY DISTRIBUTION
+=====================================================================
+
+QUESTION: Do all moves in the taxonomy actually get used?
+
+TEST: Count frequency of each move across all annotated cases.
+
+FAILURE CONDITIONS:
+  a) DEAD MOVES: If a move is never or almost never used (e.g.,
+     CONSTITUTIONAL_AVOIDANCE appears in 0 of 7 cases), it might be
+     too specific to be in the core taxonomy. Move it to an
+     "extended" vocabulary.
+  b) DOMINANT MOVES: If a single move accounts for >30% of all
+     annotations (e.g., RECHARACTERIZE everywhere), it might be
+     too broad — we're using it as a catch-all for things that
+     should be differentiated.
+  c) UNIFORM DISTRIBUTION: If every move appears roughly equally,
+     that's suspicious too — it might mean the annotator is
+     distributing labels to be "fair" rather than reflecting reality.
+
+EXPECTED: A power-law distribution — a few moves are very common
+(RECHARACTERIZE, INVOKE_AUTHORITY, APPLY_TO_FACTS), most are
+moderately used, and a long tail of rare but real moves.
+
+
+4. CONSISTENCY TEST — SAME MOVE, DIFFERENT CASES
+=====================================================================
+
+QUESTION: When the annotator labels something NARROW_HOLDING in an
+ERISA case and NARROW_HOLDING in a sovereignty case, is it actually
+the same operation?
+
+TEST: Pull all instances of each move across cases. Read them side
+by side. Are they doing the same thing, or has the label drifted to
+mean different things in different legal contexts?
+
+FAILURE CONDITION: If NARROW_HOLDING means "constrain a precedent's
+scope" in one case but "interpret a statute textually" in another,
+the move definition is too vague to be useful.
+
+ADJUSTMENT: Tighten definitions. Add distinguishing criteria. If a
+move genuinely operates differently across legal domains, split it
+into domain-specific variants (NARROW_HOLDING_STATUTORY vs
+NARROW_HOLDING_CONSTITUTIONAL).
+
+
+5. CROSS-BRIEF INTERACTION VALIDITY
+=====================================================================
+
+QUESTION: Are the identified cross-brief interactions real strategic
+engagements, or is the annotator pattern-matching on surface
+similarity?
+
+TEST: For each identified interaction, ask:
+  a) Do the briefs explicitly reference each other's arguments?
+  b) Is the "response" move actually responsive, or would it exist
+     even if the other brief hadn't made its move?
+  c) Could the interaction be explained by coincidence (both sides
+     naturally address the same legal issue without strategically
+     responding to each other)?
+
+FAILURE CONDITION: If most "interactions" are just both sides arguing
+about the same legal issue (which they would do regardless), then the
+cross-brief interaction analysis isn't adding insight beyond "both
+sides brief the same issues."
+
+ADJUSTMENT: Distinguish between structural interactions (both sides
+must address the same issue) and strategic interactions (one side's
+specific framing or emphasis is a deliberate response to the other's).
+Only the latter is genuine game-theoretic behavior.
+
+
+6. DEEP PIPELINE VALIDATION — DO MOVES PREDICT ANYTHING?
+=====================================================================
+
+QUESTION: Does knowing the move sequence tell us anything we couldn't
+learn from just reading the text?
+
+TEST (from the 20-601 deep pipeline):
+  a) Of moves tagged ADOPTED in the opinion, do they share
+     characteristics? (More doctrinal than narrative? More chess
+     than poker?)
+  b) Of moves tagged IGNORED, do they share characteristics?
+  c) Is there any correlation between a move being ENGAGED at oral
+     argument and being ADOPTED in the opinion?
+
+FAILURE CONDITION: If there's no pattern — if adopted and ignored
+moves are indistinguishable at the move level — then the move
+representation isn't capturing the relevant dimension of what makes
+an argument effective. The framework might be descriptive but not
+predictive.
+
+ADJUSTMENT: If moves don't predict adoption, the problem might be:
+  a) Wrong unit of analysis (maybe it's move SEQUENCES that matter,
+     not individual moves)
+  b) Missing attributes (maybe audience targeting is the critical
+     variable and we haven't captured it yet)
+  c) The framework is descriptive only — useful for analysis but
+     not for prediction. That's still valuable, just a different
+     contribution than we initially hypothesized.
+
+
+7. THE HARDEST TEST: HUMAN EXPERT AGREEMENT
+=====================================================================
+
+QUESTION: Would the lawyer (our collaborator) annotate the same
+text with the same moves?
+
+TEST: Take 10 argument units from the annotations. Present the raw
+text to the lawyer WITHOUT showing the AI's annotations. Ask them to
+annotate using the taxonomy. Compare.
+
+FAILURE CONDITIONS:
+  a) LOW AGREEMENT on move selection: The taxonomy may be too
+     subjective. Two reasonable annotators see different moves.
+  b) LOW AGREEMENT on layer assignment: A move that the AI puts in
+     "narrative" the lawyer puts in "doctrinal." The layers aren't
+     well-defined.
+  c) LAWYER SEES THINGS THE AI MISSES: Systematic blind spots in
+     the AI annotations — moves the AI consistently fails to
+     identify that a human expert catches.
+
+This is the most important test. If expert agreement is low, we need
+to tighten definitions, provide annotation guidelines with examples,
+and possibly simplify the taxonomy.
+
+
+8. META-QUESTION: IS THIS THE RIGHT ABSTRACTION?
+=====================================================================
+
+After running all the above tests, step back and ask: is "moves" the
+right level of abstraction? Alternatives include:
+
+  a) ARGUMENT SCHEMAS: Maybe the unit isn't individual moves but
+     recurring argument patterns (e.g., "sovereignty override" is a
+     schema that combines INVOKE_AUTHORITY + ESCALATE_STAKES +
+     BROADEN_HOLDING in a specific way). The schema, not the
+     individual move, is the predictive unit.
+
+  b) STRATEGIC POSTURES: Maybe briefs have a small number of overall
+     postures (offensive/defensive, doctrinal/narrative, narrow/broad)
+     and individual moves are just implementations of the posture.
+     The posture might be more predictive than the moves.
+
+  c) INFORMATION OPERATIONS: Maybe what matters isn't the logical
+     move but the informational effect — what belief does this move
+     try to create or change in the reader? That's a different
+     taxonomy than what we've built.
+
+The data should tell us which abstraction is most useful. If move-level
+annotation is too noisy to predict anything but posture-level
+classification works, that's the answer.

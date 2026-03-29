@@ -1,0 +1,245 @@
+ANNOTATED BRIEFS — Docket 21-1164
+Wilkinson v. United States
+(Whether the Quiet Title Act's 12-year statute of limitations is jurisdictional)
+
+================================================================================
+PETITIONER BRIEF — Docket21-1164_Brief003.pdf
+(Arguing: The QTA's statute of limitations is NOT jurisdictional)
+================================================================================
+
+--- Section 1: I. The Quiet Title Act Does Not Clearly State That Its Statute of Limitations Is Jurisdictional ---
+
+ARGUMENT UNIT 1.1: Establishing the clear-statement framework
+Text: "we treat a procedural requirement as jurisdictional only if Congress 'clearly states' that it is." ... "the 'traditional tools of statutory construction must plainly show that Congress imbued a procedural bar with jurisdictional consequences.'"
+
+  DOCTRINAL: INVOKE_AUTHORITY — Stacks Boechler, Arbaugh, Wong, Musacchio, Reed Elsevier to establish the clear-statement rule as settled, binding doctrine. APPLY_STANDARD — Frames the entire inquiry as governed by the "traditional tools of statutory construction" standard from Wong. BURDEN_SHIFT — Places the burden squarely on the party claiming jurisdictional status: "It is a steep burden to demonstrate that a rule is jurisdictional."
+  NARRATIVE: AFFIRMATIVE_FRAME — Sets the default position: procedural rules are nonjurisdictional unless Congress speaks clearly. Petitioner frames itself as defending the status quo rather than seeking a change. ESCALATE_STAKES — Signals that getting the jurisdictional label wrong has systemic consequences for adversarial litigation.
+  FACT-FRAMING: FOREGROUND — Elevates the "steep burden" and the fact that the Court has "not yet identified a single filing deadline" meeting the clear-statement test. FOREGROUND_ABSENCE — The Court has never found a filing deadline jurisdictional under this standard; absence becomes affirmative evidence.
+  STYLISTIC: AUTHORITY_SIGNALING — Citation-dense opening paragraph signals deep doctrinal grounding. Cites six SCOTUS cases and a Gorsuch concurrence in the first paragraph. STRATEGIC_QUOTATION — Deploys "quintessential claim-processing rules" from Wong and the observation from Myers v. Commissioner that no filing deadline has ever met the test. COMPRESSION — Packs the entire doctrinal framework into a single opening paragraph to create a sense of overwhelming precedential weight.
+
+ARGUMENT UNIT 1.2: Filing deadlines as claim-processing rules
+Text: "Time and again, the Court has described filing deadlines as 'quintessential claim-processing rules,' which 'seek to promote the orderly progress of litigation,' but do not deprive a court of authority to hear a case."
+
+  DOCTRINAL: BROADEN_HOLDING — Generalizes Wong's holding about the FTCA to establish that filing deadlines as a category are nonjurisdictional. ANALOGIZE — QTA's filing deadline is like every other filing deadline the Court has examined.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Anticipates respondent's argument that the QTA is special by framing all filing deadlines as presumptively nonjurisdictional.
+  FACT-FRAMING: FOREGROUND — Emphasizes the "time and again" repetition of this principle.
+  STYLISTIC: STRATEGIC_QUOTATION — "Quintessential claim-processing rules" does heavy rhetorical lifting, making the nonjurisdictional characterization sound obvious.
+
+--- Section 2: A. The Quiet Title Act Uses Only Mundane Statute-of-Limitations Language ---
+
+ARGUMENT UNIT 2.1: The statutory text is ordinary limitations language
+Text: The QTA provides that an action "shall be barred unless it is commenced within twelve years." Petitioner argues this is "mundane statute-of-limitations language, saying only what every time bar, by definition, must."
+
+  DOCTRINAL: NARROW_STATUTE — Reads the QTA's text narrowly as saying nothing more than what any statute of limitations says. ANALOGIZE — Draws direct textual parallels to statutes in Wong (FTCA), Henderson (veterans claims), Musacchio (criminal SOL), and Fort Bend County (Title VII). APPLY_STANDARD — Applies the clear-statement test to the text and finds it absent.
+  NARRATIVE: AFFIRMATIVE_FRAME — Characterizes the statutory language as "mundane," draining it of any special significance. PREEMPTIVE_REBUTTAL — Addresses "shall" by citing Henderson: the Court has "rejected the notion that all mandatory prescriptions, however emphatic," are jurisdictional.
+  FACT-FRAMING: RECHARACTERIZE — Transforms the mandatory "shall be barred" from a powerful sovereign-immunity condition into unremarkable boilerplate. DIMINISHING_MODIFIER — "Only mundane" and "merely mandatory" minimize the statutory text. FOREGROUND_ABSENCE — The statute "does not expressly refer to subject-matter jurisdiction or speak in jurisdictional terms."
+  STYLISTIC: COMPRESSION — "Saying only what every time bar, by definition, must" reduces the entire statutory provision to a tautology. STRATEGIC_QUOTATION — Borrows Wong's "mundane" characterization and applies it directly.
+
+ARGUMENT UNIT 2.2: Comparison to analogous statutes held nonjurisdictional
+Text: "The Quiet Title Act uses terms similar to other statutes of limitations that the Court has held to be nonjurisdictional." (Henderson, Musacchio, Fort Bend County comparisons.)
+
+  DOCTRINAL: ANALOGIZE — Systematic comparison of QTA language to Henderson's 120-day limit, Musacchio's criminal SOL, and Fort Bend County's Title VII charge-filing requirement. Each was held nonjurisdictional. APPLY_TO_FACTS — Walks through the textual parallels to show the QTA is indistinguishable from these statutes.
+  NARRATIVE: CONCEDE_AND_REDIRECT — Implicitly concedes the QTA says "shall" but redirects to show that Henderson's "shall" was held nonjurisdictional.
+  FACT-FRAMING: SEQUENCE — Lines up case after case in a parade of analogies, creating cumulative weight through repetition.
+  STYLISTIC: PARALLEL_STRUCTURE — Repeats the pattern: cite statute, quote language, note it was held nonjurisdictional. The repetitive structure emphasizes that the QTA is one more example of the same pattern. AUTHORITY_SIGNALING — Each analogy is anchored to a specific SCOTUS holding.
+
+--- Section 3: B. Congress Indicated That the QTA's Statute of Limitations Is Nonjurisdictional By Codifying It in a Separate Section ---
+
+ARGUMENT UNIT 3.1: Structural separation of jurisdictional grant from SOL
+Text: "This Court has often explained that Congress's separation of a filing deadline from a jurisdictional grant indicates that the time bar is not jurisdictional." SOL in Section 2409a(g); jurisdictional grant in Section 1346(f).
+
+  DOCTRINAL: APPLY_STANDARD — Applies the structural-separation principle from Wong, Henderson, Reed Elsevier, Arbaugh, and Zipes. ANALOGIZE — The QTA's jurisdictional grant sits alongside the FTCA's jurisdictional grant in Section 1346, and the FTCA's SOL was held nonjurisdictional in Wong. DISTINGUISH_PURPOSE — The jurisdictional-grant section serves a different function than the limitations provision.
+  NARRATIVE: AFFIRMATIVE_FRAME — Congress's organizational choices are evidence of intent. The structural argument turns the Code's architecture into an affirmative indicator.
+  FACT-FRAMING: FOREGROUND — Emphasizes the physical separation: SOL in 2409a(g), jurisdiction in 1346(f). SEQUENCE — Walks through the parallel structure of the two sections to show Congress grouped QTA's jurisdictional grant with other nonjurisdictional-SOL statutes.
+  STYLISTIC: CONCRETE_ANCHOR — Specific section numbers (2409a(g) vs. 1346(f)) ground the argument in verifiable statutory architecture. AUTHORITY_SIGNALING — Five SCOTUS citations support the structural-separation principle.
+
+ARGUMENT UNIT 3.2: The jurisdictional grant does not condition jurisdiction on the SOL
+Text: Nothing in Section 1346(f) "'conditions its jurisdictional grant on' compliance with" the statute of limitations.
+
+  DOCTRINAL: FOREGROUND_ABSENCE — The absence of a cross-reference between the jurisdictional grant and the SOL is treated as affirmative evidence. APPLY_TO_FACTS — Applies Musacchio/Reed Elsevier's "conditioning" test to the QTA's specific statutory structure.
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Blocks any argument that the jurisdictional grant implicitly incorporates the SOL.
+  FACT-FRAMING: FOREGROUND_ABSENCE — Absence of textual linkage between Sections 1346(f) and 2409a(g) is the central factual predicate.
+  STYLISTIC: COMPRESSION — A single, clean observation that would require respondent to find an affirmative textual link that doesn't exist.
+
+--- Section 4: C. The Legislative and Statutory History Shows That Both Congress and the Department of the Interior Understood the SOL to Be Nonjurisdictional ---
+
+ARGUMENT UNIT 4.1: Legislative history affirmatively indicates nonjurisdictional intent
+Text: "the legislative history doesn't just lack a clear statement that the Quiet Title Act's statute of limitations is jurisdictional; it states directly that the statute of limitations was intended to be a waivable affirmative defense."
+
+  DOCTRINAL: INVOKE_AUTHORITY — Cites Wong's acknowledgment that legislative history provides "further insight," then deploys it affirmatively. APPLY_TO_FACTS — Applies the legislative-history inquiry to the specific Senate Report and statutory background. DISTINGUISH — Distinguishes the QTA's legislative history from cases where history was silent; here it speaks directly.
+  NARRATIVE: ESCALATE_STAKES — Frames the legislative history as going beyond mere silence to affirmative evidence of nonjurisdictional intent. AFFIRMATIVE_FRAME — The QTA was designed to give citizens "their day in court" against the government; a jurisdictional reading would frustrate this remedial purpose.
+  FACT-FRAMING: FOREGROUND — Elevates the Senate Report language about "grave inequity" and citizens' need for a judicial forum. RECHARACTERIZE — Reframes sovereign immunity not as a bar to suit but as an injustice that the QTA was designed to correct. SEQUENCE — Traces the chronological arc from pre-QTA injustice (no remedy) to the 1972 enactment (remedy provided) to demonstrate Congress's remedial purpose.
+  STYLISTIC: STRATEGIC_QUOTATION — "Grave inequity often has resulted to private citizens" from the Senate Report conveys congressional sympathy for the petitioners' position. CADENCE_SHIFT — Moves from technical statutory analysis in prior sections to a purposive, narrative-driven argument about legislative history.
+
+ARGUMENT UNIT 4.2: Sovereign immunity waivers and Congress's remedial purpose
+Text: "Because the United States had never waived sovereign immunity for quiet title actions, title that was disputed between private parties and the federal government could be quieted only when the government initiated suit."
+
+  DOCTRINAL: DISTINGUISH_PURPOSE — The QTA's purpose was to open the courts to citizens, not to restrict access. A jurisdictional reading of the SOL would undermine that purpose.
+  NARRATIVE: ESCALATE_STAKES — A jurisdictional reading slams the courthouse door on citizens with meritorious claims, re-creating the "grave inequity" Congress sought to eliminate.
+  FACT-FRAMING: FOREGROUND — The pre-QTA asymmetry (only the government could initiate suit) highlights the injustice of a jurisdictional bar. RECHARACTERIZE — Transforms the SOL from a neutral time limit into a potential tool of government advantage.
+  STYLISTIC: CONCRETE_ANCHOR — Specific historical context (pre-1972 sovereign immunity regime) grounds the abstract argument.
+
+--- Section 5: II. The Court Has Never Held That the QTA's Statute of Limitations Is Jurisdictional ---
+
+ARGUMENT UNIT 5.1: Prior references to "jurisdiction" were imprecise drive-by rulings
+Text: "sporadic and casual use of the word 'jurisdiction' in this Court's previous Quiet Title Act cases" ... "these Quiet Title Act cases 'predate this Court's effort to bring some discipline to the use of the term jurisdictional.'"
+
+  DOCTRINAL: DISTINGUISH — Distinguishes Block, Beggerly, and Mottaz as pre-discipline cases where "jurisdictional" was used loosely. NARROW_HOLDING — Reads prior QTA cases narrowly: the jurisdictional language was not the holding but obiter dicta. INVOKE_AUTHORITY — Deploys Arbaugh's "drive-by jurisdictional rulings" framework and Eberhart's acknowledgment of historical imprecision. STARE_DECISIS_SHIELD — Uses the Court's own self-correction doctrine (Boechler, Henderson, Fort Bend County) to argue that stare decisis does not protect imprecise past usage.
+  NARRATIVE: FRAME_AS_ERROR — The lower courts' reliance on prior QTA language is characterized as mistaking dicta for holdings. INSTITUTIONAL_REBUKE — Implicitly criticizes lower courts for mechanically applying outdated terminology without engaging the clear-statement framework.
+  FACT-FRAMING: RECHARACTERIZE — Transforms what respondent treats as binding precedent into "resulting imprecision" and "passing references." DIMINISHING_MODIFIER — "Sporadic and casual," "drive-by," "less than meticulous" minimize the precedential significance of prior usage.
+  STYLISTIC: STRATEGIC_QUOTATION — "Drive-by jurisdictional rulings that should be accorded no precedential effect" from Arbaugh is deployed as a decisive label. UNDERSTATED_DEVASTATION — Characterizing SCOTUS's own prior language as "less than meticulous" is a restrained but effective critique. REGISTER_CONTRAST — Shifts between the Court's formal doctrinal language and the colloquial force of "drive-by."
+
+ARGUMENT UNIT 5.2: The jurisdictional/nonjurisdictional distinction has practical consequences
+Text: "'Branding a rule as going to a court's subject-matter jurisdiction alters the normal operation of our adversarial system.'"
+
+  DOCTRINAL: APPLY_STANDARD — The jurisdictional label carries consequences (can't be waived, must be raised sua sponte, no equitable tolling), which is why the clear-statement rule exists.
+  NARRATIVE: ESCALATE_STAKES — The label isn't academic; it determines whether courts can consider untimely-but-meritorious claims.
+  FACT-FRAMING: FOREGROUND — Emphasizes the practical downstream effects of jurisdictional classification.
+  STYLISTIC: STRATEGIC_QUOTATION — Henderson's language about "altering the normal operation of our adversarial system" carries institutional weight.
+
+
+================================================================================
+RESPONDENT BRIEF — Docket21-1164_Brief004.pdf
+(Arguing: The QTA's statute of limitations IS jurisdictional)
+================================================================================
+
+--- Section 1 (Brief Section B): Petitioners' contrary arguments lack merit ---
+
+ARGUMENT UNIT R1.1: North Dakota and Mottaz were deliberate, not imprecise
+Text: "This Court's jurisdictional determinations in North Dakota and Mottaz were not extraneous and imprecise uses of jurisdictional terminology, but rather reflected a correct application of then-prevailing doctrine."
+
+  DOCTRINAL: DISTINGUISH — Distinguishes North Dakota and Mottaz from the "drive-by" cases petitioner invokes: the jurisdictional characterization was operationally significant, not loose language. STARE_DECISIS_SHIELD — Argues prior holdings are binding and should be respected. APPLY_TO_FACTS — Shows concrete operational consequences: the jurisdictional treatment "dictat[ed] the course of the remand in North Dakota and mak[ing] it unnecessary to consider possible waiver arguments in Mottaz."
+  NARRATIVE: PREEMPTIVE_REBUTTAL — Directly counters petitioner's "drive-by rulings" argument. FRAME_AS_ERROR — Frames petitioner's position as asking the Court to retroactively recharacterize its own deliberate holdings as mistakes.
+  FACT-FRAMING: FOREGROUND — Highlights the operational consequences of the jurisdictional classification in each case (remand course in North Dakota, waiver disposition in Mottaz). RECHARACTERIZE — What petitioner calls "imprecise" usage is recast as "a correct application of then-prevailing doctrine."
+  STYLISTIC: REGISTER_CONTRAST — Juxtaposes petitioner's dismissive framing ("extraneous and imprecise") against the respondent's characterization ("correct application"). CONCRETE_ANCHOR — Points to specific procedural outcomes in each case as proof the jurisdictional label mattered.
+
+[Cross-brief interaction: Directly responds to Petitioner Unit 5.1's "drive-by rulings" argument by arguing these were consequential holdings, not dicta.]
+
+ARGUMENT UNIT R1.2: Dalm confirms the precedential status of North Dakota and Mottaz
+Text: "this Court has itself accorded precedential significance to those jurisdictional rulings. See United States v. Dalm, 494 U.S. 596, 608 (1990) (citing Mottaz and North Dakota in support of the 'settled principle' that '[a] statute of limitations requiring that a suit against the Government be brought within a certain time period is one of the terms of [the United States'] consent to be sued' that 'define [a] court's jurisdiction to entertain the suit')."
+
+  DOCTRINAL: INVOKE_AUTHORITY — Dalm treated North Dakota and Mottaz as establishing a "settled principle," not as loose language. STARE_DECISIS_SHIELD — If the Court itself relied on these holdings as settled, petitioner cannot now dismiss them. BROADEN_HOLDING — Extends the principle from the QTA specifically to sovereign-immunity SOLs generally.
+  NARRATIVE: OPPONENT_CONCESSION_CAPTURE — Uses the Court's own subsequent reliance on these cases as a concession that they were binding holdings.
+  FACT-FRAMING: FOREGROUND — Elevates Dalm's characterization of these rulings as reflecting a "settled principle."
+  STYLISTIC: STRATEGIC_QUOTATION — The Dalm quotation ("define [a] court's jurisdiction to entertain the suit") is the strongest available language for respondent's position. AUTHORITY_SIGNALING — SCOTUS itself treated these as authoritative, not casual.
+
+ARGUMENT UNIT R1.3: Irwin announced a prospective rule only
+Text: "This Court later changed its approach to statutory time bars on suits against the United States in Irwin ... adopting a rebuttable presumption that Congress intends such bars to be subject to equitable tolling, and therefore non-jurisdictional. But the Court has already recognized that Irwin announced only a prospective rule."
+
+  DOCTRINAL: DISTINGUISH — Separates Irwin's prospective rule from the pre-Irwin holdings in North Dakota and Mottaz. NARROW_HOLDING — Reads Irwin narrowly as applying only to statutes enacted or interpreted after Irwin. STARE_DECISIS_SHIELD — Pre-Irwin jurisdictional determinations survive Irwin because the rule is prospective.
+  NARRATIVE: CONCEDE_AND_REDIRECT — Acknowledges the doctrinal shift represented by Irwin but redirects: the shift was prospective and cannot retroactively invalidate prior holdings. PREEMPTIVE_REBUTTAL — Blocks petitioner's strongest doctrinal argument (that Irwin's presumption of equitable tolling undermines the jurisdictional characterization).
+  FACT-FRAMING: SEQUENCE — Establishes temporal order: North Dakota (1983) and Mottaz (1986) came before Irwin (1990), so Irwin's prospective rule does not reach back.
+  STYLISTIC: COMPRESSION — Disposes of petitioner's Irwin argument in a few sentences by characterizing it as temporally inapplicable.
+
+[Cross-brief interaction: Responds to Petitioner's reliance on Wong and the post-Irwin clear-statement framework by arguing these rules apply prospectively, not to pre-existing jurisdictional holdings.]
+
+ARGUMENT UNIT R1.4: Beggerly supports jurisdictional status
+Text: "The Court's recognition in Beggerly that the Quiet Title Act's time bar cannot be equitably tolled by the courts supports, rather than undermines, the time bar's jurisdictional status."
+
+  DOCTRINAL: ANALOGIZE — Connects the no-equitable-tolling holding to jurisdictional status: jurisdictional bars are precisely the kind that cannot be equitably tolled. APPLY_TO_FACTS — If the bar can't be tolled, that is consistent with (and reinforces) its jurisdictional character.
+  NARRATIVE: CONCEDE_AND_REDIRECT — Takes a case petitioner cites and turns it into support for respondent's position.
+  FACT-FRAMING: RECHARACTERIZE — What petitioner frames as merely a tolling case is recharacterized as further evidence of jurisdictional character.
+  STYLISTIC: COMPRESSION — A single pivot transforms an opposing citation into a supporting one.
+
+[Cross-brief interaction: Flips Petitioner's use of Beggerly. Petitioner treats Beggerly as part of the Court's modern, discipline-era framework; Respondent treats its no-tolling holding as consistent with jurisdictional status.]
+
+ARGUMENT UNIT R1.5: Stare decisis forecloses relitigation
+Text: "Whether or not that is so, however, it is an insufficient basis for revisiting this Court's prior jurisdictional determinations."
+
+  DOCTRINAL: STARE_DECISIS_SHIELD — Even if the clear-statement rule would produce a different answer de novo, stare decisis prevents overruling settled holdings. ALTERNATIVE_HOLDING — Respondent argues in the alternative: even if petitioner is right about the clear-statement test, stare decisis controls.
+  NARRATIVE: CONCEDE_AND_REDIRECT — Grants arguendo that a fresh analysis might go petitioner's way but argues the inquiry is foreclosed.
+  FACT-FRAMING: STRATEGIC_SILENCE — Does not engage with the substance of the clear-statement analysis as applied de novo; treats it as irrelevant.
+  STYLISTIC: COMPRESSION — Dismisses the entire clear-statement inquiry with a single sentence.
+
+--- Section 2 (Brief Section A): Section 2409a(g)'s 12-year time bar warrants jurisdictional treatment ---
+
+ARGUMENT UNIT R2.1: Establishing the framework (respondent's version)
+Text: Courts ask whether "traditional tools of statutory construction plainly show that Congress imbued [the] procedural bar with jurisdictional consequences." ... Congress need not "incant magic words."
+
+  DOCTRINAL: APPLY_STANDARD — Invokes the same clear-statement framework as petitioner but emphasizes the "no magic words" qualification from Auburn Regional. BROADEN_STATUTE — Broadens what counts as a "clear statement" by including precedent and historical practice, not just text. INVOKE_AUTHORITY — Cites Boechler, Wong, Auburn Regional, Musacchio, Reed Elsevier, Bowles, and John R. Sand & Gravel.
+  NARRATIVE: AFFIRMATIVE_FRAME — Reframes the clear-statement rule as capacious enough to encompass precedent and practice, not just statutory text. PREEMPTIVE_REBUTTAL — Anticipates petitioner's narrow reading of "clear statement" by citing Auburn Regional's "no magic words."
+  FACT-FRAMING: FOREGROUND — Elevates the "precedent and practice in American courts" language from Auburn Regional, which expands the evidentiary base beyond statutory text. RECHARACTERIZE — The clear-statement rule, in respondent's hands, is not an obstacle but a standard the QTA can satisfy.
+  STYLISTIC: STRATEGIC_QUOTATION — "Congress need not 'incant magic words'" is a vivid rejoinder to petitioner's textual focus. AUTHORITY_SIGNALING — Matches petitioner's citation density, signaling equivalent doctrinal grounding.
+
+[Cross-brief interaction: Both sides invoke the same doctrinal framework (Boechler, Wong, Musacchio) but frame its requirements differently. Petitioner emphasizes the strictness of the clear-statement test; respondent emphasizes its flexibility.]
+
+ARGUMENT UNIT R2.2: Prior definitive treatment plus acquiescence equals jurisdictional status
+Text: "when this Court has definitively treated a statutory time bar as jurisdictional in the past, Congress has acquiesced in that interpretation, and the Court's earlier interpretation does not produce unworkable law, the time bar will continue to be treated as jurisdictional unless and until Congress directs otherwise."
+
+  DOCTRINAL: APPLY_STANDARD — Deploys the John R. Sand & Gravel/Bowles framework: prior definitive treatment + congressional acquiescence + workability = continued jurisdictional treatment. STARE_DECISIS_SHIELD — Frames stare decisis not as a background principle but as a three-part test that, once satisfied, resolves the question. INVOKE_AUTHORITY — John R. Sand & Gravel is the controlling precedent for this specific pattern.
+  NARRATIVE: AFFIRMATIVE_FRAME — The question isn't whether the QTA's SOL would be jurisdictional under a clean-slate analysis; it's whether the conditions for continued jurisdictional treatment are met.
+  FACT-FRAMING: FOREGROUND — Elevates the three-part test (prior treatment, acquiescence, workability) as the dispositive framework. STRATEGIC_SILENCE — Does not engage with the substance of the clean-slate inquiry.
+  STYLISTIC: COMPRESSION — Distills the entire argument to a three-element test, creating a clean analytical structure.
+
+--- Section 3 (Brief Section A.1): This Court has previously held that Section 2409a(g)'s time bar is jurisdictional ---
+
+ARGUMENT UNIT R3.1: North Dakota held the SOL jurisdictional
+Text: The Court concluded that where a "suit is barred by [Section] 2409a[(g)]," a court "ha[s] no jurisdiction to inquire into the merits."
+
+  DOCTRINAL: INVOKE_AUTHORITY — North Dakota is presented as a direct, unambiguous holding that the QTA SOL is jurisdictional. APPLY_TO_FACTS — Walks through the specific facts and procedural history of North Dakota to show the jurisdictional characterization was central to the holding. ANALOGIZE — Links the QTA's conditions to the sovereign-immunity framework from Lehman and Sherwood: "when Congress attaches conditions to legislation waiving the sovereign immunity of the United States, those conditions must be strictly observed."
+  NARRATIVE: AFFIRMATIVE_FRAME — Presents North Dakota as dispositive rather than as one data point among many. FRAME_AS_ERROR — Implicitly characterizes petitioner's "drive-by" argument as an attempt to erase binding precedent.
+  FACT-FRAMING: FOREGROUND — Quotes the holding directly: "no jurisdiction to inquire into the merits." SEQUENCE — Walks through the procedural history chronologically (district court, Eighth Circuit, reversal) to show the jurisdictional question was squarely presented and decided.
+  STYLISTIC: STRATEGIC_QUOTATION — "No jurisdiction to inquire into the merits" is the most direct language available. CONCRETE_ANCHOR — Specific factual context (Little Missouri River, North Dakota's land dispute) makes the precedent tangible.
+
+ARGUMENT UNIT R3.2: The sovereign-immunity framework requires strict observance of conditions
+Text: "when Congress attaches conditions to legislation waiving the sovereign immunity of the United States, those conditions must be strictly observed."
+
+  DOCTRINAL: BROADEN_HOLDING — Situates the QTA within the broader sovereign-immunity framework: conditions on waivers are inherently jurisdictional. INVOKE_AUTHORITY — Lehman and Sherwood establish that sovereign-immunity conditions define the scope of consent to suit.
+  NARRATIVE: ESCALATE_STAKES — If the SOL is nonjurisdictional, the sovereign-immunity framework itself is undermined.
+  FACT-FRAMING: RECHARACTERIZE — What petitioner frames as a "mundane" time bar is recast as a condition on the sovereign's consent to be sued, which changes its constitutional significance.
+  STYLISTIC: AUTHORITY_SIGNALING — Invokes the sovereign-immunity canon, which carries structural-constitutional weight beyond ordinary statutory interpretation.
+
+[Cross-brief interaction: Directly opposes Petitioner Unit 2.1's characterization of the SOL as "mundane." Respondent reframes the same statutory language as a condition on sovereign immunity, which carries inherently jurisdictional significance.]
+
+--- Section 4 (Brief Section A.2): Congress acquiesced in this Court's jurisdictional understanding ---
+
+ARGUMENT UNIT R4.1: The 1986 amendment ratified jurisdictional status
+Text: "Congress's implicit ratification of the 12-year bar's jurisdictional status when it amended the Quiet Title Act in November 1986 further justifies that treatment."
+
+  DOCTRINAL: STARE_DECISIS_SHIELD — Congressional acquiescence is treated as ratification: Congress knew the Court had characterized the SOL as jurisdictional and chose not to change that characterization. INVOKE_AUTHORITY — Cites Shapiro v. United States and Forest Grove for the principle that reenactment creates a presumption of adoption. APPLY_TO_FACTS — Congress amended Section 2409a in 1986 specifically in response to North Dakota (exempting States), but left the jurisdictional characterization untouched.
+  NARRATIVE: OPPONENT_CONCESSION_CAPTURE — Congress's silence on the jurisdictional question, while actively amending the statute in response to the same case, is treated as agreement. AFFIRMATIVE_FRAME — The 1986 amendment is presented as affirmative evidence, not mere silence.
+  FACT-FRAMING: FOREGROUND — The specific legislative response to North Dakota (exempting States) shows Congress was aware of and engaged with the decision. FOREGROUND_ABSENCE — Congress's failure to address the jurisdictional characterization while amending the very provision at issue is treated as ratification. SEQUENCE — Traces the chronology: North Dakota (1983), Mottaz (1986), 1986 amendment. Congress acted after both holdings.
+  STYLISTIC: CONCRETE_ANCHOR — Specific statutory references (Pub. L. No. 99-598, subsections (h)-(m), H.R. Rep. No. 924) ground the acquiescence argument in verifiable legislative action. AUTHORITY_SIGNALING — Cites Shapiro's "traditional rule" of reenactment presumption.
+
+[Cross-brief interaction: Responds to Petitioner Unit 4.1's legislative-history argument. Petitioner says the history shows Congress intended a waivable defense; Respondent says Congress's 1986 amendment ratified the jurisdictional characterization by leaving it untouched while amending surrounding provisions.]
+
+ARGUMENT UNIT R4.2: Uniform circuit consensus at time of amendment
+Text: "every court of appeals to have addressed the question at the time of the 1986 amendments had held that the 12-year bar imposed a jurisdictional limitation."
+
+  DOCTRINAL: INVOKE_AUTHORITY — Uniform circuit consensus strengthens the acquiescence argument: Congress legislated against a backdrop of unanimous appellate authority. STARE_DECISIS_SHIELD — Lower-court consensus is additional evidence that the jurisdictional characterization was "settled."
+  NARRATIVE: ESCALATE_STAKES — Petitioner isn't just asking the Court to overrule North Dakota and Mottaz; they're asking it to displace an entire body of uniform circuit authority.
+  FACT-FRAMING: FOREGROUND — Emphasizes unanimity across circuits.
+  STYLISTIC: AUTHORITY_SIGNALING — The circuit consensus functions as a wall of authority.
+
+
+================================================================================
+CROSS-BRIEF INTERACTION SUMMARY
+================================================================================
+
+1. THE CLEAR-STATEMENT FRAMEWORK (Petitioner Units 1.1, 2.1 vs. Respondent Unit R2.1)
+   Both sides invoke the same doctrinal framework (Boechler, Wong, Musacchio) but frame its demands differently. Petitioner emphasizes strictness ("steep burden," "not yet identified a single filing deadline"). Respondent emphasizes flexibility ("no magic words," "precedent and practice" count). This is the central interpretive contest: how demanding is the clear-statement rule?
+
+2. "MUNDANE LANGUAGE" vs. "CONDITIONS ON SOVEREIGN IMMUNITY" (Petitioner Unit 2.1 vs. Respondent Unit R3.2)
+   Petitioner characterizes the QTA's SOL as ordinary limitations language indistinguishable from nonjurisdictional statutes. Respondent recharacterizes the same language as a condition on the sovereign's consent to be sued, which carries inherently jurisdictional weight under the sovereign-immunity framework. This is a RECHARACTERIZE vs. RECHARACTERIZE contest — same text, two entirely different doctrinal frames.
+
+3. "DRIVE-BY RULINGS" vs. "DELIBERATE HOLDINGS" (Petitioner Unit 5.1 vs. Respondent Units R1.1, R1.2)
+   Petitioner invokes Arbaugh's "drive-by jurisdictional rulings" to dismiss North Dakota and Mottaz. Respondent argues these were consequential holdings that determined the course of the proceedings and were subsequently treated by the Court itself (in Dalm) as establishing a "settled principle." This is a NARROW_HOLDING vs. BROADEN_HOLDING contest over the precedential status of prior cases.
+
+4. LEGISLATIVE HISTORY: PURPOSE vs. ACQUIESCENCE (Petitioner Unit 4.1 vs. Respondent Unit R4.1)
+   Petitioner reads the legislative history purposively: Congress intended to give citizens their day in court. Respondent reads it structurally: Congress amended the QTA in 1986 in response to North Dakota but left the jurisdictional characterization untouched, implicitly ratifying it. Both deploy FOREGROUND and SEQUENCE moves to organize the same historical record into opposing narratives.
+
+5. IRWIN AND TEMPORAL SCOPE (Petitioner's framework reliance vs. Respondent Unit R1.3)
+   Petitioner's entire argument assumes the clear-statement framework applies retroactively to pre-existing jurisdictional characterizations. Respondent blocks this by arguing Irwin (and by implication the clear-statement framework) announced a prospective rule that cannot reach back to disturb pre-Irwin holdings. This is a jurisdictional-reframing contest over which temporal framework governs.
+
+6. BEGGERLY FLIP (Petitioner Unit 5.1 vs. Respondent Unit R1.4)
+   Both sides cite Beggerly but derive opposite conclusions. Petitioner treats it as part of the modern, discipline-era case law. Respondent treats its holding that the QTA SOL cannot be equitably tolled as consistent with (and evidence of) jurisdictional status. A CONCEDE_AND_REDIRECT move by respondent that converts a petitioner citation into respondent support.
+
+7. STARE DECISIS AS INDEPENDENT BARRIER (Respondent Units R1.5, R2.2, R4.1)
+   Respondent deploys stare decisis not merely as a tiebreaker but as an independent, dispositive barrier: even if petitioner wins the de novo clear-statement analysis, the prior holdings plus congressional acquiescence plus workability foreclose relief. This creates a two-layer defense that petitioner must penetrate twice (first on the merits of the clear-statement analysis, then on stare decisis).
+
+
+================================================================================
+NEW MOVES
+================================================================================
+
+No new moves identified. All strategic moves observed in these briefs fit within the v0.3 taxonomy. The briefs rely heavily on INVOKE_AUTHORITY, ANALOGIZE/DISTINGUISH, STARE_DECISIS_SHIELD, STRATEGIC_QUOTATION, FOREGROUND_ABSENCE, and RECHARACTERIZE — consistent with a case where both sides are fighting over the precedential significance of prior decisions and the interpretation of shared doctrinal frameworks.

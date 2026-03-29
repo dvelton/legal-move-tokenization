@@ -1,0 +1,973 @@
+LEGAL MOVE ANNOTATIONS
+Case: Babcock v. Kijakazi, No. 20-480
+Subject: Whether dual-status National Guard technicians qualify for the
+uniformed-services exception to the Social Security Act's windfall elimination
+provision
+Annotated from: Petitioner's Brief & Respondent's Brief on the Merits
+
+================================================================================
+NOTE ON TRUNCATION
+================================================================================
+
+Both source files contain truncated section text (each capped at ~1,500
+characters). Annotations below cover only the text available. Where a section
+cuts off mid-sentence, that is noted.
+
+================================================================================
+PETITIONER BRIEF -- SECTION I
+"I. THE UNIFORMED-SERVICES EXCEPTION APPLIES TO DUAL-STATUS TECHNICIANS"
+================================================================================
+
+ARGUMENT UNIT P-I-1
+Text: "Under the exception, the windfall elimination provision does not apply to
+'a payment based wholly on service as a member of a uniformed service (as
+defined in section 410(m) of this title).' 42 U.S.C. 415(a)(7)(A)(III).
+Dual-status technicians serve the National Guard, which is 'a uniformed service'
+as defined in Section 410(m)."
+
+  DOCTRINAL:    APPLY_TO_FACTS
+                Maps the statutory text directly onto dual-status technicians
+                in two steps: (1) the exception covers payments based on
+                uniformed service, (2) the National Guard is a uniformed
+                service under 410(m). The syllogism is presented as
+                self-completing.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                Opens the argument section by stating the conclusion as though
+                it follows automatically from the statute. The reader
+                encounters petitioner's position as the default reading before
+                any competing interpretation is introduced.
+
+  FACT-FRAMING: FOREGROUND
+                The statutory cross-references (42 U.S.C. 415, 38 U.S.C.
+                101(27)(G)-(H)) are stacked immediately to create the
+                impression that the statutory trail leads in only one
+                direction.
+
+  STYLISTIC:    AUTHORITY_SIGNALING
+                Three statutory citations in two sentences. The density of
+                citation creates a sense that the argument is not petitioner's
+                gloss but the statute speaking for itself.
+
+----------
+
+ARGUMENT UNIT P-I-2
+Text: "Dual-status technicians perform their work 'as a member of a uniformed
+service.' Membership is in their job description: A 'person employed' as a
+dual-status technician 'must meet' certain requirements, including that he
+'[b]e a member of the National Guard,' '[h]old the military grade specified by
+the Secretary concerned for that position,' and 'wear the uniform appropriate
+for the member's grade and component of the armed forces.'"
+
+  DOCTRINAL:    APPLY_TO_FACTS
+                Applies the statutory phrase "as a member of a uniformed
+                service" by showing that Guard membership is a precondition
+                of technician employment. The statutory requirements of
+                32 U.S.C. 709(b)(2)-(4) do the doctrinal work: if you must
+                be a member to hold the job, then your service in the job is
+                service as a member.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                "Membership is in their job description" is a one-line
+                thesis that reframes a complex statutory-employment
+                relationship as something obvious. It treats the conclusion
+                as inherent in the job's design rather than something that
+                requires interpretive work.
+
+  FACT-FRAMING: SEQUENCE
+                Three membership requirements presented in ascending order
+                of military specificity: (1) be a Guard member, (2) hold a
+                military grade, (3) wear the military uniform. The sequence
+                builds from status to rank to visible insignia, making each
+                fact reinforce the military character of the position.
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                Every operative phrase is drawn directly from the statute --
+                "must meet," "[b]e a member," "[h]old the military grade,"
+                "wear the uniform." Petitioner lets the statutory language
+                carry the argument, minimizing the appearance of advocacy.
+
+  STYLISTIC:    CONCRETE_ANCHOR
+                The uniform requirement is the most vivid of the three. It
+                converts an abstract legal argument about statutory
+                categorization into something physical: these people wear
+                military uniforms to work.
+
+----------
+
+ARGUMENT UNIT P-I-3
+Text: "Their entire job exists solely to serve the Guard: They 'may be employed'
+in 'organizing, administering, instructing, or training of the National Guard'
+or 'the maintenance and repair of supplies issued to the National Guard or the
+armed forces' and may perform other tasks only if doing so would not interfere
+with their core Guard-focused duties."
+
+  DOCTRINAL:    APPLY_TO_FACTS
+                Continues the statutory mapping by showing that the scope of
+                permissible duties under 32 U.S.C. 709(a)(1)-(3) is
+                circumscribed by Guard needs. The negative constraint --
+                other tasks permitted only if they do not interfere with
+                Guard duties -- reinforces the "wholly" requirement.
+
+  NARRATIVE:    ESCALATE_STAKES
+                "Their entire job exists solely to serve the Guard" is a
+                maximalist framing. By asserting totality ("entire," "solely"),
+                petitioner makes any contrary characterization sound like it
+                ignores the statutory design.
+
+  FACT-FRAMING: FOREGROUND
+                The statutory restriction on non-Guard duties is foregrounded.
+                The fact that technicians can only do non-Guard work if it does
+                not interfere with Guard duties is presented as proof that the
+                position is fundamentally military, not incidentally so.
+
+  FACT-FRAMING: STRATEGIC_SILENCE
+                No mention of whatever civilian attributes the position
+                carries (civilian pay scale, CSRS pension system, Title 5
+                employment protections). These facts, which respondent will
+                emphasize, are entirely absent from petitioner's framing.
+
+  STYLISTIC:    COMPRESSION
+                A complex statutory scheme governing permissible duties,
+                priority of tasks, and scope of employment is compressed
+                into a single sentence with embedded quotations.
+
+----------
+
+ARGUMENT UNIT P-I-4
+Text: "And they report to the leader of the State National Guard, the adjutant
+general, who is responsible for making personnel decisions about their
+employment and hearing any employment grievances. Congress has thus structured
+the position of a dual-status technician in a way that makes membership in the
+National Guard essential, at all points, to his employment."
+
+  DOCTRINAL:    APPLY_TO_FACTS
+                The reporting structure (adjutant general, not a civilian
+                supervisor) is presented as further statutory evidence that
+                the position is military in character. Cites 32 U.S.C. 709(f).
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                "Congress has thus structured" attributes the argument's
+                conclusion to Congress itself, not to petitioner's
+                interpretation. The word "thus" treats the preceding
+                statutory tour as dispositive.
+
+  FACT-FRAMING: SEQUENCE
+                Caps the factual buildup from P-I-2 and P-I-3. The sequence
+                runs: (1) membership required, (2) military grade required,
+                (3) uniform required, (4) duties Guard-focused, (5) supervisor
+                is a military officer. Each fact narrows the space for a
+                "civilian" characterization.
+
+  STYLISTIC:    CADENCE_SHIFT
+                After three dense, quotation-laden sentences, petitioner
+                steps back and delivers a clean declarative conclusion:
+                "membership in the National Guard essential, at all points,
+                to his employment." The shift from statutory detail to
+                summary assertion marks the close of the unit.
+
+
+================================================================================
+PETITIONER BRIEF -- SECTION II
+"II. THE SSA'S INTERPRETATION DOES NOT WARRANT DEFERENCE"
+================================================================================
+
+ARGUMENT UNIT P-II-1
+Text: [Only a fragment is available] "ce applied under Skidmore v. Swift & Co.,
+323 U.S. 134 (1944)."
+
+  DOCTRINAL:    NARROW_HOLDING
+                By invoking Skidmore (rather than Chevron), petitioner limits
+                the deference the Court owes the SSA to the weakest available
+                standard: persuasiveness based on "the thoroughness evident in
+                [the agency's] consideration, the validity of its reasoning,
+                its consistency with earlier and later pronouncements, and all
+                those factors which give it power to persuade." This is a
+                preemptive doctrinal move to ensure the SSA's interpretation
+                is evaluated on its merits, not presumed correct.
+
+  NARRATIVE:    FRAME_AS_ERROR
+                The section heading itself -- "does not warrant deference" --
+                frames the SSA's position as one that fails to earn even the
+                low bar of Skidmore persuasiveness.
+
+  FACT-FRAMING: --
+                Insufficient text available to annotate.
+
+  STYLISTIC:    --
+                Insufficient text available to annotate.
+
+  [NOTE: This section is heavily truncated. The available text is a fragment
+  from the end of one section transitioning into another.]
+
+
+================================================================================
+PETITIONER BRIEF -- SECTION I.A
+"A. The plain text of the exemption covers a pension for dual-status technician
+employment"
+================================================================================
+
+ARGUMENT UNIT P-IA-1
+Text: "'Statutory interpretation begins with the text.' Ross v. Blake, 136 S.
+Ct. 1850, 1856 (2016). The task is 'to afford the law's terms their ordinary
+meaning.' Niz-Chavez v. Garland, 141 S. Ct. 1474, 1480 (2021). That the
+government may prefer a different interpretation does not outweigh clear text."
+
+  DOCTRINAL:    INVOKE_AUTHORITY
+                Two recent SCOTUS opinions stacked to establish the textualist
+                framework before any substantive analysis begins. Ross and
+                Niz-Chavez are both majority opinions from the current Court
+                era, signaling alignment with the Court's prevailing
+                interpretive method.
+
+  NARRATIVE:    PREEMPTIVE_REBUTTAL
+                "That the government may prefer a different interpretation does
+                not outweigh clear text" dispatches the opposing position
+                before it has been stated. The sentence frames any departure
+                from petitioner's reading as a preference-based departure from
+                text -- not a legitimate interpretive disagreement.
+
+  FACT-FRAMING: --
+                No facts in play; this is pure interpretive framing.
+
+  STYLISTIC:    AUTHORITY_SIGNALING
+                Opening with two SCOTUS citations is standard, but the
+                selection is pointed. Both cases involved the Court rejecting
+                government arguments that departed from statutory text. The
+                implicit message: this Court has recently done what petitioner
+                is asking it to do again.
+
+----------
+
+ARGUMENT UNIT P-IA-2
+Text: "The plain language of the uniformed-services exception contains only two
+requirements. The first is a sourcing requirement: A payment is excluded from
+the windfall elimination provision only if it is 'based on service as a member
+of a uniformed service,' that is, if the retiree is entitled to the payment
+because of that service. The second is a tracing requirement: A payment is
+exempt from the windfall elimination provision only to the extent that it is
+based 'wholly' on that service, that is, not on any other employment."
+
+  DOCTRINAL:    APPLY_STANDARD
+                Petitioner constructs a two-part test from the statutory text:
+                (1) a "sourcing" requirement (payment must be based on
+                uniformed service), and (2) a "tracing" requirement (payment
+                must be based wholly on that service). This parsing does real
+                doctrinal work: it separates the "uniformed service" question
+                from the "wholly" question, making each easier to satisfy
+                independently.
+
+  DOCTRINAL:    NARROW_STATUTE
+                By isolating "wholly" as a tracing requirement (addressing
+                how much of the payment derives from uniformed service), the
+                petitioner prevents "wholly" from being read as a qualifier on
+                the nature of the service itself. This is the central
+                interpretive dispute in the case.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                "Contains only two requirements" is a simplification move.
+                Framing the exception as having exactly two elements makes
+                petitioner's reading appear clean and manageable, while the
+                opposing interpretation (which reads "wholly" differently)
+                appears to add complexity the statute does not demand.
+
+  FACT-FRAMING: RECHARACTERIZE
+                The statutory phrase is repackaged using petitioner's own
+                labels ("sourcing" and "tracing"). These are not terms from
+                the statute; they are analytical categories petitioner
+                invented to organize the text in its favor. Once the reader
+                adopts these labels, the interpretive outcome follows.
+
+  STYLISTIC:    CONCRETE_ANCHOR
+                "Sourcing" and "tracing" are memorable, quasi-technical labels
+                that give the Court a vocabulary for adopting petitioner's
+                reading. If these terms appear in the opinion, petitioner wins.
+
+----------
+
+ARGUMENT UNIT P-IA-3
+Text: "The words 'based on service as a member of a uniformed service' form a
+phrasal adjective that modifies the noun 'payment.' Thus, 'service as a member
+of a uniformed service' must be a but-for cause of the payment for it to fall
+within the exception. See Babb v. Wilkie, 140 S. Ct. 1168, 1173 (2020)
+(reading 'based on age' in the phrase 'discrimination based on age' to mean
+that 'age must be a but-for cause of [the] discrimination')."
+
+  DOCTRINAL:    ANALOGIZE
+                Imports the Court's own reading of "based on" from Babb v.
+                Wilkie, an age-discrimination case, to this Social Security
+                context. The analogy works at the level of statutory grammar:
+                "based on X" means X is a but-for cause, regardless of the
+                substantive domain. This gives petitioner's reading the
+                imprimatur of recent precedent.
+
+  DOCTRINAL:    APPLY_STANDARD
+                Translates the "sourcing" requirement into a but-for
+                causation test. Once that test is in place, the analysis is
+                straightforward: would the technician receive a CSRS pension
+                but for service as a Guard member? Obviously not, because
+                Guard membership is a job prerequisite.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                The grammatical analysis ("phrasal adjective that modifies the
+                noun 'payment'") presents petitioner's reading as a product
+                of sentence diagramming, not advocacy. The interpretation is
+                framed as something the syntax requires.
+
+  FACT-FRAMING: --
+                No new facts; this unit operates at the level of statutory
+                grammar and precedent.
+
+  STYLISTIC:    AUTHORITY_SIGNALING
+                Babb v. Wilkie is a 2020 decision -- recent and directly on
+                point for the "based on" construction. The citation does
+                double duty: it supplies a legal standard and signals that the
+                current Court has already endorsed the reading petitioner
+                proposes.
+
+
+================================================================================
+PETITIONER BRIEF -- SECTION I.B
+"B. The text does not support the SSA's contrary interpretation"
+================================================================================
+
+ARGUMENT UNIT P-IB-1
+Text: "Respondent asks the Court to interpret the uniformed-services exception
+as not applying to pensions earned for dual-status technician employment. That
+interpretation requires revising the statute in two ways. First, it moves the
+word 'wholly' two words later in the statutory text. Second, it reads an
+unwritten military service gloss into the statutorily-defined term of
+'uniformed service.'"
+
+  DOCTRINAL:    DISTINGUISH
+                Petitioner does not merely disagree with respondent's reading;
+                it characterizes it as requiring two specific textual
+                revisions. This converts the dispute from "which reading is
+                better" into "respondent's reading requires rewriting the
+                statute."
+
+  NARRATIVE:    FRAME_AS_ERROR
+                "Textual transfiguration" (appearing a few lines later) is the
+                culminating label. Respondent is not interpreting; respondent
+                is revising. The accusation is that the opposing position
+                cannot be reached through any legitimate interpretive method.
+
+  FACT-FRAMING: SEQUENCE
+                The two "revisions" are numbered ("First... Second...") to
+                create a cumulative effect. Each revision standing alone might
+                seem like a reasonable interpretive choice. Numbered and
+                stacked, they look like a pattern of textual manipulation.
+
+  STYLISTIC:    UNDERSTATED_DEVASTATION
+                "Textual transfiguration" is a single phrase that carries the
+                entire rhetorical weight of the paragraph. It sounds measured
+                and precise rather than polemical, but the accusation is
+                severe: respondent is changing the sacred text.
+
+  STYLISTIC:    CONCRETE_ANCHOR
+                "Moves the word 'wholly' two words later" is a physically
+                precise description of what petitioner claims respondent's
+                reading does. A Justice can look at the statute and count
+                the words. The concreteness makes the accusation verifiable
+                and therefore more persuasive.
+
+----------
+
+ARGUMENT UNIT P-IB-2
+Text: "The courts that take Respondent's view of the exception have, nearly
+uniformly, relied on the view that a dual-status technician's work 'is not
+wholly "service as a member of a uniformed service."' [citing Martin, Kientz,
+Larson, Linza]"
+
+  DOCTRINAL:    DISTINGUISH
+                Petitioner assembles four circuit court opinions (6th, 10th,
+                9th, 2d Circuits) that adopted respondent's reading, then
+                argues they all made the same textual error: reading "wholly"
+                as modifying "service" rather than "based on."
+
+  DOCTRINAL:    NARROW_HOLDING
+                Each circuit's holding is quoted in a way that exposes the
+                interpretive move petitioner considers erroneous. The
+                parenthetical quotations are selected to show that these
+                courts paraphrased the statute rather than applied it as
+                written.
+
+  NARRATIVE:    FRAME_AS_ERROR
+                "Nearly uniformly relied on the view" concedes the breadth
+                of disagreement with petitioner's position but reframes it:
+                the circuits did not independently analyze the statute; they
+                copied each other's error.
+
+  FACT-FRAMING: FOREGROUND
+                The circuit quotations are placed in sequence to show
+                textual convergence: "wholly service," "exclusive capacity,"
+                "entirely military in nature," "exclusively in the capacity
+                of." Petitioner is showing the Court that every circuit used
+                language that repositions "wholly" from where it appears in
+                the actual statute.
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                Four circuit court quotations are deployed not as authority
+                but as evidence of error. Each quotation is selected because
+                it paraphrases the statute in a way that differs from the
+                actual text, supporting petitioner's "textual transfiguration"
+                accusation.
+
+----------
+
+ARGUMENT UNIT P-IB-3
+Text: "But the text does not categorically rule out payments for work performed
+as a member of a uniformed service that has some civilian characteristics. To
+read the text that way requires rewriting the statute. The exception actually
+covers: 'a payment based wholly on service as a member of a uniformed service.'
+As written, the word 'wholly' modif[ies]..."
+
+  DOCTRINAL:    BROADEN_STATUTE
+                Petitioner argues the exception does not require that the
+                service itself be purely military. Work can have "some civilian
+                characteristics" and still qualify, because "wholly" modifies
+                the basis of the payment, not the nature of the service. This
+                broadens the exception's reach beyond what the circuit courts
+                allowed.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                "The exception actually covers" is a corrective formulation.
+                After showing what the circuits said the exception means,
+                petitioner presents the "actual" text, inviting the Court to
+                compare the two and see the discrepancy.
+
+  FACT-FRAMING: RECHARACTERIZE
+                The characterization of dual-status technician work as having
+                "some civilian characteristics" is a deliberate
+                understatement. Respondent's brief describes the role as
+                fundamentally civilian. Petitioner's phrasing reduces the
+                civilian dimension to an incidental attribute that does not
+                change the statutory analysis.
+
+  STYLISTIC:    COMPRESSION
+                The closing move -- quoting the full statutory text and
+                immediately identifying where "wholly" sits in it -- packs
+                the entire interpretive argument into a single visual
+                comparison. The reader can see for herself where "wholly"
+                falls.
+
+  [NOTE: Text cuts off mid-word at "modif-". The argument presumably continues
+  with the claim that "wholly" modifies "based on" rather than "service."]
+
+
+================================================================================
+RESPONDENT BRIEF -- SECTION II.B
+"B. Petitioner does not account for the inherently civilian nature of dual
+status technician employment"
+================================================================================
+
+ARGUMENT UNIT R-IIB-1
+Text: "The technician's civilian attributes strongly indicate that work
+performed in that role does not constitute qualifying service. Title 5 draws a
+clear and relevant distinction between 'civil service' and 'uniformed service.'"
+
+  DOCTRINAL:    DISTINGUISH_PURPOSE
+                Invokes the Title 5 distinction between "civil service" and
+                "uniformed service" as a structural feature of federal
+                employment law. The argument is that Congress maintained this
+                distinction deliberately, and collapsing it for the windfall
+                elimination provision would be inconsistent with the broader
+                statutory architecture.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                "Inherently civilian" is the core counter-frame to
+                petitioner's "membership is in their job description." Where
+                petitioner foregrounds military attributes, respondent
+                foregrounds civilian ones.
+
+  FACT-FRAMING: FOREGROUND
+                The civilian attributes of the technician position -- not
+                specified in this fragment but referenced -- are presented
+                as the dominant characteristic of the role, with military
+                membership as incidental rather than defining.
+
+  STYLISTIC:    CADENCE_SHIFT
+                "Title 5 draws a clear and relevant distinction" is a short,
+                declarative sentence deployed after the longer opening
+                assertion. The brevity lends it the quality of a settled
+                proposition rather than an argument.
+
+  CROSS-BRIEF INTERACTION: Directly responds to P-I-2 through P-I-4, where
+  petitioner catalogs the military attributes of the technician position.
+  Respondent's counter-move is not to deny those attributes but to invoke
+  an entirely separate statutory framework (Title 5) that categorizes the
+  same position differently.
+
+----------
+
+ARGUMENT UNIT R-IIB-2
+Text: "And the fact that Congress included commissioned officers of the National
+Oceanic and Atmospheric Administration (NOAA) Corps and Public Health Service
+(PHS) Corps within the definition of 'member of a uniformed service' supports
+the distinction between civilian and uniformed service because those officers do
+not generally have civilian characteristics and receive military pay and
+retirement benefits."
+
+  DOCTRINAL:    ANALOGIZE
+                NOAA Corps and PHS Corps officers are used as a benchmark for
+                what Congress considers genuine uniformed service. These
+                officers lack civilian characteristics and receive military
+                compensation -- the implied contrast is that dual-status
+                technicians have civilian characteristics and receive civilian
+                compensation, placing them on the wrong side of the line.
+
+  NARRATIVE:    ESCALATE_STAKES
+                The NOAA/PHS comparison raises the standard for what counts
+                as uniformed service. If even these non-military officers
+                (who still lack civilian attributes) are the baseline, then
+                dual-status technicians with their civilian pay and benefits
+                fall well short.
+
+  FACT-FRAMING: FOREGROUND_ABSENCE
+                The move highlights what dual-status technicians lack relative
+                to NOAA/PHS officers: military pay and military retirement
+                benefits. The absence of these attributes becomes evidence
+                that technicians are not performing "service as a member of a
+                uniformed service."
+
+  STYLISTIC:    CONCRETE_ANCHOR
+                NOAA Corps and PHS Corps are specific, named entities. They
+                give the Court a concrete reference point for the category
+                "uniformed service" that is harder to argue with than
+                abstract definitional analysis.
+
+----------
+
+ARGUMENT UNIT R-IIB-3
+Text: "Petitioner's reliance on the Feres doctrine is misplaced, because
+whether a particular injury arises out of activity incident to military service
+for purposes of sovereign immunity under the FTCA is an entirely separate
+question from whether a technician's CSRS payments trigger the uniformed
+services exception."
+
+  DOCTRINAL:    DISTINGUISH_PURPOSE
+                Separates the Feres doctrine (sovereign immunity for
+                injuries incident to military service) from the windfall
+                elimination provision (Social Security benefit calculation).
+                The argument is that a doctrine designed to protect the
+                government from tort liability serves a fundamentally
+                different purpose than a Social Security payment exception.
+
+  NARRATIVE:    PREEMPTIVE_REBUTTAL
+                Respondent addresses an argument petitioner apparently makes
+                elsewhere in the brief: that Feres-doctrine treatment of
+                dual-status technicians as military personnel should carry
+                over to the Social Security context. Respondent cuts this
+                off by insisting the doctrines serve different functions.
+
+  FACT-FRAMING: RECHARACTERIZE
+                The Feres argument is recharacterized as a category error.
+                What petitioner frames as consistency across federal law
+                ("these technicians are treated as military elsewhere"),
+                respondent frames as conflation of unrelated statutory
+                schemes.
+
+  STYLISTIC:    COMPRESSION
+                A complex doctrinal distinction (FTCA sovereign immunity vs.
+                Social Security benefit calculation) is compressed into a
+                single sentence. The compression itself is a rhetorical
+                choice: it makes the distinction sound obvious rather than
+                contestable.
+
+----------
+
+ARGUMENT UNIT R-IIB-4
+Text: "And the pro-veteran canon of interpretation is irrelevant here because
+there is no ambiguity for the Court to resolve and because applying that canon
+on these facts would turn the canon on its head and create inequitable results."
+
+  DOCTRINAL:    CONST_AVOIDANCE
+                Respondent neutralizes the pro-veteran canon by denying its
+                predicate: the canon applies only when the statute is
+                ambiguous, and respondent maintains the text is clear.
+                Without ambiguity, the canon has no work to do.
+
+  DOCTRINAL:    SLIPPERY_SLOPE
+                The "inequitable results" language gestures at a consequences
+                argument: applying the pro-veteran canon here would produce
+                outcomes Congress did not intend, "turning the canon on its
+                head."
+
+  NARRATIVE:    PREEMPTIVE_REBUTTAL
+                Addresses the pro-veteran canon before it can gain traction.
+                The double rebuttal (no ambiguity + perverse results) is
+                designed to eliminate the canon from the analysis entirely
+                rather than engage with how it might apply.
+
+  FACT-FRAMING: RECHARACTERIZE
+                The pro-veteran canon, which petitioner presumably invokes as
+                a tiebreaker favoring the veteran, is recharacterized as a
+                tool that would produce inequitable results if applied here.
+                Respondent flips the canon's normative valence: helping
+                Babcock would hurt other veterans or create systemic
+                unfairness.
+
+  STYLISTIC:    UNDERSTATED_DEVASTATION
+                "Turn the canon on its head" is a vivid phrase that does real
+                work: it suggests petitioner is weaponizing a rule designed to
+                help veterans in a way that contradicts the rule's purpose.
+
+  CROSS-BRIEF INTERACTION: Responds to petitioner's invocation of the
+  pro-veteran canon (not in the available petitioner text but referenced in
+  the argument outline). Respondent's two-pronged response (no ambiguity +
+  perverse results) attempts to deny the canon any role in the case.
+
+
+================================================================================
+RESPONDENT BRIEF -- SECTION I.A
+"A. The plain text of the uniformed services exception establishes that it does
+not apply to work performed in the dual status technician role"
+================================================================================
+
+ARGUMENT UNIT R-IA-1
+Text: "That 'language itself,' along with 'the specific context in which that
+language is used, and the broader context of the statute as a whole,' establishes
+that payments based on work performed by a dual status technician acting in that
+capacity are not payments based wholly on service as a member of a uniformed
+service. Yates v. United States, 574 U.S. 528, 537 (2015)."
+
+  DOCTRINAL:    INVOKE_AUTHORITY
+                Yates v. United States (citing Robinson v. Shell Oil Co.)
+                establishes the interpretive framework: text, specific context,
+                and broader statutory context. Respondent imports a three-level
+                analytical structure that allows it to reach beyond plain
+                language to statutory architecture when the text alone might
+                not be dispositive.
+
+  DOCTRINAL:    BROADEN_STATUTE
+                By invoking "the broader context of the statute as a whole,"
+                respondent expands the interpretive lens beyond the four
+                corners of the exception. This sets up later arguments about
+                Title 5 distinctions and the definition of "uniformed service"
+                that go beyond the exception's own text.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                "Establishes" is a strong verb choice. Respondent presents its
+                reading not as one plausible interpretation but as the
+                conclusion the statutory framework compels.
+
+  FACT-FRAMING: --
+                No facts in play; this unit is methodological framing.
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                The quotation from Yates is structured as a three-part list
+                ("language itself," "specific context," "broader context")
+                that previews the organization of respondent's argument.
+                The quotation is doing architectural work, not just
+                substantive work.
+
+  CROSS-BRIEF INTERACTION: Mirrors P-IA-1, where petitioner also opens with
+  textualist first principles (Ross v. Blake, Niz-Chavez). Both sides claim
+  the textualist high ground, but respondent's framework is broader: it
+  includes "specific context" and "broader context" alongside plain text,
+  creating more room to draw on structural arguments that go beyond the
+  exception's own words.
+
+----------
+
+ARGUMENT UNIT R-IA-2
+Text: "The ordinary meaning of 'wholly' is '[e]xclusively' and 'solely.' The
+American Heritage Dictionary of the English Language 2039 (3d ed. 1992); see
+Webster's Third New International Dictionary of the English Language 2612
+(1993); The Oxford English Dictionary 296 (2d ed. 1989)."
+
+  DOCTRINAL:    APPLY_STANDARD
+                Deploys dictionary definitions as the standard textualist
+                move for establishing ordinary meaning. Three dictionaries
+                converge on "exclusively" and "solely," which supports
+                respondent's reading that the service itself must be
+                exclusively military.
+
+  NARRATIVE:    AFFIRMATIVE_FRAME
+                The triple-dictionary citation creates an impression of
+                lexicographic consensus. The ordinary meaning is presented
+                as settled, not debatable.
+
+  FACT-FRAMING: FOREGROUND
+                The dictionary definitions are placed first in the textual
+                analysis, before any discussion of statutory context. This
+                sequence ensures the reader processes the word "wholly" through
+                respondent's lens before encountering petitioner's alternative
+                parsing.
+
+  STYLISTIC:    AUTHORITY_SIGNALING
+                Three dictionaries (American Heritage, Webster's, Oxford) are
+                cited for a single word. The overkill is itself a signal:
+                respondent is not cherry-picking a favorable definition but
+                demonstrating that every major dictionary supports its reading.
+
+----------
+
+ARGUMENT UNIT R-IA-3
+Text: "The term 'service,' as used in the Social Security Act, means employment
+or work. See, e.g., 42 U.S.C. 410(a) (defining covered 'employment' as 'any
+service performed' that meets specific criteria). And when used in the phrase
+here, 'as' has the ordinary meaning of '[i]n the role, capacity, or function
+of.'"
+
+  DOCTRINAL:    APPLY_STANDARD
+                Continues the word-by-word dictionary analysis. The critical
+                move is the definition of "as": "in the role, capacity, or
+                function of." If "as" means "in the capacity of," then
+                "service as a member of a uniformed service" requires that
+                the service be performed in the capacity of a uniformed-
+                service member -- not merely by someone who happens to hold
+                that status.
+
+  DOCTRINAL:    NARROW_STATUTE
+                The "as" definition does the heaviest interpretive lifting
+                in respondent's argument. It reads the preposition as a
+                role-limitation rather than a status-description. Under
+                this reading, the question is not whether the person is a
+                Guard member (they are) but whether they are performing
+                the relevant work in that capacity (respondent says no).
+
+  NARRATIVE:    --
+                This is a technical unit with minimal narrative framing.
+
+  FACT-FRAMING: RECHARACTERIZE
+                The word "service" is defined as "employment or work," which
+                subtly aligns it with the civilian-employment frame rather
+                than the military-duty frame. Petitioner uses "service" to
+                evoke military service; respondent uses dictionaries to anchor
+                it in the workaday meaning of labor performed.
+
+  STYLISTIC:    CONCRETE_ANCHOR
+                Three dictionaries again cited for "as" (American Heritage,
+                Webster's, Oxford). The cumulative weight of dictionary
+                definitions for "wholly," "service," and "as" creates a
+                word-by-word roadmap for the Court to follow.
+
+  CROSS-BRIEF INTERACTION: Directly targets P-IA-2's "sourcing and tracing"
+  framework. Petitioner reads "as" in "service as a member" as a status
+  marker (if you are a member and you served, the service qualifies).
+  Respondent reads "as" as a role limitation (the service must be performed
+  in the capacity of a uniformed-service member). The entire case turns on
+  this preposition.
+
+
+================================================================================
+RESPONDENT BRIEF -- SECTION I.B
+"B. The definition of 'uniformed service' that is cross-referenced in the
+uniformed services exception confirms that it does not apply to work performed
+in the dual status technician role"
+================================================================================
+
+ARGUMENT UNIT R-IB-1
+Text: "The definition of 'uniformed service' incorporated in the uniformed
+services exception confirms that Congress did not intend the exception to apply
+to the civilian role of a dual status technician. That definition provides that
+the term 'member of a uniformed service' includes 'any person appointed,
+enlisted, or inducted in a component of the Army (including a reserve component
+as defined in [38 U.S.C. 101(27)]).' But technicians are not operating in a
+'reserve component' role when performing their technician work, nor are they
+'appointed, enlisted, or inducted' into the technician position."
+
+  DOCTRINAL:    NARROW_STATUTE
+                Respondent reads the 410(m) definition as imposing an
+                additional constraint: the person must be operating in a
+                reserve-component role. Because technicians are hired into
+                civilian positions (not "appointed, enlisted, or inducted"
+                as technicians), they do not enter the technician role
+                through a military-accession pathway.
+
+  DOCTRINAL:    DISTINGUISH
+                Separates two relationships the technician has with the
+                military: (1) Guard membership (which respondent concedes)
+                and (2) reserve-component service (which respondent argues
+                is not occurring when the technician performs civilian
+                duties). The distinction prevents petitioner from collapsing
+                Guard membership into reserve-component status.
+
+  NARRATIVE:    CONCEDE_REDIRECT
+                Respondent implicitly concedes that technicians are Guard
+                members ("nor are they 'appointed, enlisted, or inducted'
+                into the technician position when serving in the National
+                Guard"). The concession of Guard membership is followed by
+                a redirect: membership does not mean the technician work
+                itself constitutes reserve-component service.
+
+  FACT-FRAMING: FOREGROUND
+                The verbs of military accession -- "appointed, enlisted, or
+                inducted" -- are foregrounded to highlight that technicians
+                do not enter the technician position through any of these
+                channels. They are hired into a civilian job.
+
+  STYLISTIC:    STRATEGIC_QUOTATION
+                The statutory verbs "appointed, enlisted, or inducted" are
+                quoted to underscore their military character. Each verb
+                connotes a formal military-accession process that is foreign
+                to civilian employment.
+
+  CROSS-BRIEF INTERACTION: Responds to P-I-1, where petitioner traces the
+  statutory chain from 42 U.S.C. 415 to 410(m) to 38 U.S.C. 101(27)(G)-(H)
+  to show the National Guard qualifies as a uniformed service. Respondent
+  follows the same chain but reads it differently: the cross-reference to
+  "reserve component" adds a role requirement that technicians do not satisfy
+  when performing civilian duties.
+
+----------
+
+ARGUMENT UNIT R-IB-2
+Text: "'Army National Guard' and 'Army National Guard of the United States'
+refer to two different entities. The term 'Army National Guard' refers to state
+National Guard units, while 'Army National Guard of the United States' refers to
+a separate federal entity composed of the state Army National Guard units and
+their members."
+
+  DOCTRINAL:    DISTINGUISH
+                This is the most granular distinction in either brief.
+                Respondent separates two entities that petitioner's argument
+                treats as interchangeable: the state-level Army National
+                Guard (where technicians work) and the federal Army National
+                Guard of the United States (which is defined as a "reserve
+                component" under 38 U.S.C. 101(27)(G)). If these are
+                different entities, then technicians working for the state
+                Guard are not necessarily serving in a "reserve component."
+
+  DOCTRINAL:    NARROW_STATUTE
+                The statutory cross-reference chain (42 U.S.C. 410(m) to
+                38 U.S.C. 101(27)(G)) defines "reserve component" to include
+                the Army National Guard of the United States. Respondent
+                argues this federal entity is distinct from the state Army
+                National Guard, and technicians serve the state entity.
+                If correct, this breaks a link in petitioner's statutory
+                chain.
+
+  NARRATIVE:    --
+                This unit is purely definitional. The narrative work is
+                implicit: if respondent can establish this entity-level
+                distinction, it undermines petitioner's entire statutory
+                syllogism without needing to address the "wholly" question
+                at all.
+
+  FACT-FRAMING: FOREGROUND
+                The two-entity distinction is presented with parallel
+                statutory definitions (10 U.S.C. 101(c)(2) vs. 101(c)(3))
+                and a "Compare... with" citation structure that forces the
+                reader to see the definitional gap.
+
+  STYLISTIC:    AUTHORITY_SIGNALING
+                The parenthetical reference to Judge Kavanaugh's concurrence
+                in In re Sealed Case, 551 F.3d 1047, 1054 (D.C. Cir. 2009),
+                is pointed. Kavanaugh was elevated to the Supreme Court. His
+                prior statement that a state Army National Guard "is not
+                itself a 'reserve component' of the Army" carries weight
+                beyond the ordinary authority of a D.C. Circuit concurrence
+                because its author now sits on the Court being briefed.
+
+  CROSS-BRIEF INTERACTION: Targets the weakest link in P-I-1's statutory
+  chain. Petitioner cited 38 U.S.C. 101(27)(G)-(H) as establishing that the
+  National Guard is a uniformed service. Respondent argues those provisions
+  reference the federal Army National Guard of the United States, not the
+  state Army National Guard that employs dual-status technicians. If
+  respondent is right, petitioner's chain from technician employment to
+  "uniformed service" has a broken link.
+
+
+================================================================================
+CROSS-BRIEF INTERACTION SUMMARY
+================================================================================
+
+1. THE "WHOLLY" PLACEMENT BATTLE
+   Petitioner (P-IA-2, P-IB-1, P-IB-3): "Wholly" modifies "based on," creating
+   a tracing requirement about payment sourcing. A payment qualifies if it is
+   entirely based on uniformed-service employment, even if that employment has
+   some civilian characteristics.
+   Respondent (R-IA-2, R-IA-3): "Wholly" modifies the entire predicate "service
+   as a member of a uniformed service," requiring that the service itself be
+   exclusively military in character.
+   Assessment: This is the central interpretive dispute. Petitioner's reading
+   isolates "wholly" syntactically; respondent's reading absorbs it into the
+   substantive description of the service. Petitioner's "textual transfiguration"
+   accusation (P-IB-1) is a direct attack on respondent's placement of "wholly."
+
+2. THE NATURE-OF-SERVICE CHARACTERIZATION WAR
+   Petitioner (P-I-2 through P-I-4): Catalogs military attributes -- Guard
+   membership required, military grade required, uniform required, Guard-focused
+   duties, military supervisor. Uses STRATEGIC_SILENCE on civilian attributes.
+   Respondent (R-IIB-1, R-IIB-2): Catalogs civilian attributes -- civilian pay,
+   civilian pension system, civilian employment protections. Uses NOAA/PHS
+   officers as a benchmark for "real" uniformed service.
+   Assessment: Each side foregrounds the attributes that support its reading and
+   backgrounds the ones that don't. The Court must decide which set of attributes
+   is dispositive -- or whether the statutory text resolves the question without
+   reference to the position's practical characteristics.
+
+3. THE PREPOSITION "AS"
+   Petitioner (P-IA-2): Reads "as a member" as a status description. If you are
+   a Guard member and you work as a technician, your technician service is
+   "service as a member" because you hold that status throughout.
+   Respondent (R-IA-3): Reads "as" to mean "in the capacity of." Service
+   qualifies only if performed in the capacity or role of a uniformed-service
+   member, not merely by a person who holds that status while doing something
+   else.
+   Assessment: The word "as" does more doctrinal work in this case than any
+   single citation. Respondent's dictionaries support the role-limitation
+   reading; petitioner's structural argument (the job requires membership at
+   every point) supports the status-description reading.
+
+4. THE ENTITY-DISTINCTION ARGUMENT
+   Petitioner (P-I-1): Cites 38 U.S.C. 101(27)(G)-(H) to show the National
+   Guard is a uniformed service under the statute.
+   Respondent (R-IB-2): Argues that 101(27)(G) references the Army National
+   Guard of the United States (a federal reserve component), not the Army
+   National Guard (the state entity that employs technicians). These are
+   different entities with different statutory definitions.
+   Assessment: This is respondent's most technically granular argument. If the
+   Court accepts the entity-level distinction, it could resolve the case
+   without reaching the "wholly" question at all. The Kavanaugh concurrence
+   citation (R-IB-2) is targeted: it puts the authoring Justice's own prior
+   words on respondent's side.
+
+5. THE DEFERENCE FRAMING
+   Petitioner (P-II-1): Limits deference to Skidmore (persuasiveness only,
+   no presumption of correctness).
+   Respondent: Not addressed in available text, but the argument outline
+   suggests respondent does not claim Chevron deference either.
+   Assessment: By conceding that Skidmore governs, petitioner ensures the
+   SSA's interpretation is evaluated on its persuasive merits. This is
+   strategically sound: if the text is genuinely clear, deference is
+   irrelevant; if it is ambiguous, Skidmore still allows the Court to
+   reject the agency's reading.
+
+6. THE FERES / PRO-VETERAN CANON SKIRMISH
+   Petitioner (referenced in argument outline): Invokes Feres doctrine
+   (technicians treated as military for sovereign-immunity purposes) and the
+   pro-veteran canon of interpretation.
+   Respondent (R-IIB-3, R-IIB-4): Deploys DISTINGUISH_PURPOSE to separate
+   Feres from the Social Security context. Neutralizes the pro-veteran canon
+   by denying ambiguity and arguing application here would produce perverse
+   results.
+   Assessment: Respondent's counter to both arguments is efficient. The Feres
+   distinction is straightforward (different statutory purpose). The
+   pro-veteran canon response is more aggressive: respondent argues that
+   applying the canon would "turn the canon on its head," flipping its
+   normative valence.
+
+
+================================================================================
+NEW MOVES IDENTIFIED
+================================================================================
+
+No new moves outside the existing taxonomy were identified in the available
+text. All moves observed fit within the categories specified in the prompt,
+including OPPONENT_CONCESSION_CAPTURE, DIMINISHING_MODIFIER, and
+REGISTER_CONTRAST, which were previously identified as new moves in the
+19-1401 annotations and have since been incorporated into the FACT-FRAMING
+and STYLISTIC layers respectively.
+
+NOTE: The available text is heavily truncated. Additional sections of both
+briefs -- particularly petitioner's Feres-doctrine and pro-veteran canon
+arguments, and respondent's structural and contextual arguments -- likely
+contain moves not observable in the current excerpts.
+
+
+================================================================================
+END OF ANNOTATIONS
+================================================================================

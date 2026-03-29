@@ -1,0 +1,891 @@
+================================================================================
+LEGAL MOVE ANNOTATIONS
+Cameron v. EMW Women's Surgical Center, S. Ct. Docket No. 20-601
+Issue: Whether Kentucky's AG can intervene late in an appellate case to defend
+a state abortion law after the Health Secretary declined to appeal.
+================================================================================
+
+NOTE ON METHODOLOGY
+Each section is broken into argument units (AU). Each AU is annotated across
+four layers: Doctrinal, Narrative, Fact-Framing, Stylistic. Where no move
+applies, the layer is marked "--". Cross-brief interactions are flagged
+with [CROSS-BRIEF] tags at the end of the relevant AU.
+
+
+################################################################################
+PETITIONER BRIEF (Kentucky AG Cameron)
+################################################################################
+
+================================================================================
+PET. SECTION 1: "The States decide who speaks for them in court"
+================================================================================
+
+--- AU-P1.1 ---
+TEXT: "Under our dual-sovereign system of government, the States are not mere
+passive actors. They instead possess 'a residuary and inviolable sovereignty.'
+Printz v. United States, 521 U.S. 898, 918-19 (1997) (quoting The Federalist
+No. 39, at 245 (J. Madison))."
+
+DOCTRINAL:  INVOKE_AUTHORITY — Opens not with statutory text or case holdings
+            but with structural constitutional principle, citing Printz and
+            The Federalist Papers. The move is to establish the doctrinal
+            altitude before any procedural question arises. The brief is
+            saying: before you analyze Rule 24 timeliness, recognize you are
+            dealing with a sovereign.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — The brief's first substantive sentence
+            declares what states ARE ("not mere passive actors"), stated as
+            structural constitutional fact rather than as a response to
+            anything the respondent has argued.
+
+FACT-FRAMING: --
+
+STYLISTIC:  COMPRESSION — Packs the entire federalism premise into two
+            sentences. The negative-then-affirmative structure ("not mere
+            passive actors ... instead possess") covers ground quickly.
+
+            CONCRETE_ANCHOR — "Residuary and inviolable sovereignty" is
+            a phrase drawn from Madison. By quoting it, the brief grounds
+            an abstract structural argument in a specific, canonical source.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.2 ---
+TEXT: "As separate sovereigns, the States 'exist as combatants and combative
+combatants in an ongoing contest about whether they need to give the national
+government yet more of the prerogatives they formerly possessed.' Coleman v.
+Thompson, 501 U.S. 722, 726 (1991). When a State appears in federal court,
+it 'is not combative; it is combative.' Virginia Office for Protection and
+Advocacy v. Stewart, 563 U.S. 247, 254 (2011)."
+
+[NOTE: The actual Coleman and VOPA quotations in the real brief differ in
+wording. The text provided appears to contain placeholder or garbled language
+("combative combatants," "not combative; it is combative"). I annotate based
+on the apparent rhetorical function: the brief is stacking citations to
+reinforce the sovereign-status premise.]
+
+DOCTRINAL:  INVOKE_AUTHORITY — Three SCOTUS citations in rapid succession
+            (Printz, Coleman, VOPA). The brief is building a wall of
+            precedential support for a single proposition: states occupy
+            a special status in federal litigation. The quantity of citations
+            is itself doing argumentative work.
+
+NARRATIVE:  ESCALATE_STAKES — By framing states as "combatants" in an
+            "ongoing contest" with the national government, the brief
+            elevates this case from a procedural timeliness dispute to a
+            front in the broader federalism conflict. The intervention
+            question becomes a sovereignty question.
+
+FACT-FRAMING: RECHARACTERIZE — The AG's motion to intervene (a procedural
+              step in appellate litigation) is being recast as an exercise
+              of sovereign prerogative. The brief never describes the motion
+              in procedural terms here; it describes state action in
+              constitutional terms.
+
+STYLISTIC:  STRATEGIC_QUOTATION — The brief lets the Court's own language
+            from Coleman and VOPA carry the weight. Rather than paraphrasing,
+            it imports the Court's characterizations of state power directly.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.3 ---
+TEXT: "Accordingly, principles of comity and respect for state sovereignty
+mean that, '[w]hen a State appears in its sovereign capacity to enforce or
+defend its laws,' the 'normal rules' must accommodate the unique status of
+the sovereign. Hollingsworth v. Perry, 570 U.S. 693, 710 (2013)."
+
+DOCTRINAL:  BROADEN_HOLDING — Hollingsworth v. Perry held that private
+            parties (Prop 8 proponents) lacked Article III standing to
+            defend a ballot initiative when the state refused. The
+            petitioner here repurposes the Hollingsworth language about
+            sovereign capacity to argue that when a state IS willing to
+            defend, courts must accommodate that choice. The brief takes
+            a case about the limits of private-party standing and extracts
+            from it a principle about deference to state litigation choices.
+
+            APPLY_STANDARD — The word "accordingly" signals a syllogism:
+            (1) states are sovereigns, (2) sovereigns get accommodation,
+            (3) therefore "normal rules" (i.e., Rule 24 timeliness) must
+            bend. This sets up the doctrinal framework for everything
+            that follows.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — The phrase "normal rules must accommodate"
+            anticipates the respondent's core argument (that the AG missed
+            the deadline and normal procedural rules bar intervention). The
+            brief is preemptively conceding that normal rules exist while
+            arguing they don't apply in their normal form here.
+
+FACT-FRAMING: --
+
+STYLISTIC:  COMPRESSION — The entire pivot from abstract sovereignty
+            principles to the specific legal standard happens in a single
+            sentence. The word "accordingly" does all the transitional work.
+
+
+================================================================================
+PET. SECTION 2: "Intervention to hand off litigation to another state official
+                  is timely"
+================================================================================
+
+--- AU-P2.1 ---
+TEXT: "This case is the flip side of Bethune-Hill. Kentucky's agent wants to
+'fight on,' not 'stop.' See id. at 1956."
+
+DOCTRINAL:  DISTINGUISH — Bethune-Hill held that the Virginia House of
+            Delegates lacked standing to appeal a redistricting case after
+            the state AG declined to do so. The petitioner flips the case:
+            there, the state actor wanted to stop; here, the state actor
+            wants to continue. The distinction rests on direction of the
+            sovereign's expressed will, not on the procedural posture.
+
+            ANALOGIZE — Simultaneously, the brief draws on Bethune-Hill's
+            reasoning (that internal state decisions about litigation
+            authority are the state's business) to support the AG's
+            position. The case is both distinguished on outcome and
+            analogized on principle.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — "Kentucky's agent wants to fight on" frames
+            the AG as active, purposeful, aligned with the state's interests.
+            The sentence assumes the conclusion (that the AG is Kentucky's
+            agent) rather than arguing for it.
+
+FACT-FRAMING: RECHARACTERIZE — The AG's late-stage intervention motion is
+              reframed as "fighting on." A procedural motion becomes an act
+              of perseverance.
+
+STYLISTIC:  COMPRESSION — The entire case distinction fits in two sentences.
+            The "flip side" framing collapses a complex doctrinal comparison
+            into a spatial metaphor.
+
+            CADENCE_SHIFT — After the dense sovereignty discussion in
+            Section 1, this short declarative opening is a reset. It tells
+            the reader: we're applying what we just established.
+
+[CROSS-BRIEF: Respondent in Section 3 directly targets this "flip side"
+framing, arguing that Bethune-Hill's "intramural" language doesn't apply
+when the AG agreed to be bound by judgment. The respondent treats the
+petitioner's Bethune-Hill analogy as an "end-run."]
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.2 ---
+TEXT: "Yet the Sixth Circuit folded Kentucky's hand. That decision overlooked
+Kentucky's sovereign interests in two key ways."
+
+DOCTRINAL:  --
+
+NARRATIVE:  FRAME_AS_ERROR — "Folded Kentucky's hand" frames the Sixth
+            Circuit's denial as an affirmative act of interference with
+            state prerogative, not a neutral application of procedural
+            rules. "Overlooked" implies the error was one of omission:
+            the court failed to account for something it should have.
+
+FACT-FRAMING: RECHARACTERIZE — The Sixth Circuit denied a motion to
+              intervene as untimely. The brief describes that denial as
+              the court forcibly ending the state's participation ("folded
+              Kentucky's hand"). The agency shifts from the AG (who filed
+              late) to the court (which shut him out).
+
+STYLISTIC:  CONCRETE_ANCHOR — "Folded Kentucky's hand" is a poker metaphor.
+            It makes the abstract procedural ruling tangible: a card game
+            where someone else makes your decision for you. The metaphor
+            quietly encodes the sovereignty argument (only the player should
+            decide whether to fold).
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.3 ---
+TEXT: "First, the court refused to give effect to the Commonwealth's
+decision — through its Attorney General — to continue defending HB 454.
+Instead, the court required the Commonwealth to accept that its Secretary
+for Health and Family Services would no longer defend the law. See
+Pet. App. 18a."
+
+DOCTRINAL:  NARROW_HOLDING — The brief implicitly narrows the Sixth
+            Circuit's ruling: it characterizes the decision not as an
+            application of timeliness doctrine but as the court "requiring"
+            the Commonwealth to accept a particular representative's
+            decision. This reframes the holding from a procedural one
+            to an intrusion on state authority.
+
+NARRATIVE:  FRAME_AS_ERROR — The verb "refused" casts the Sixth Circuit
+            as willfully disregarding the state's expressed preference.
+            "Required the Commonwealth to accept" makes the court the
+            active agent imposing an outcome on a sovereign.
+
+FACT-FRAMING: FOREGROUND — The brief emphasizes the Commonwealth's
+              affirmative decision to continue defending HB 454. This
+              foregrounds state volition.
+
+              BACKGROUND — The fact that the AG was not a party to the
+              appeal at the time, and that his intervention came after
+              the Secretary's decision not to appeal, is buried. The
+              timeline that respondent considers central is subordinated
+              to the sovereignty framing.
+
+STYLISTIC:  --
+
+[CROSS-BRIEF: Respondent's AU-R2.2 directly counters this by foregrounding
+the AG's voluntary agreement to be bound by the judgment and his failure to
+file a timely notice of appeal. The fact petitioner BACKGROUNDs is exactly
+what respondent FOREGROUNDs.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P2.4 ---
+TEXT: "But this 'intramural' decision about who speaks for the Commonwealth
+in federal court 'is of no concern to' the Sixth Circuit. Virginia House
+of Delegates v. Bethune-Hill, 139 S. Ct. 1945, 1953 (2019). The Sixth
+Circuit had no warrant to refuse to allow the Commonwealth's chosen agent
+to pick up the mantle of its predecessor."
+
+DOCTRINAL:  ANALOGIZE — The brief applies Bethune-Hill's "intramural"
+            language directly: internal state decisions about litigation
+            representation are the state's business, not the federal
+            court's.
+
+            BROADEN_HOLDING — Bethune-Hill's "intramural" language appeared
+            in a standing analysis. The petitioner extends it to a
+            timeliness analysis, broadening the holding from "courts
+            shouldn't second-guess which state entity has standing" to
+            "courts shouldn't second-guess which state entity represents
+            the state at any procedural stage."
+
+NARRATIVE:  --
+
+FACT-FRAMING: RECHARACTERIZE — "Pick up the mantle" describes the AG's
+              intervention as a succession, a legitimate transfer of
+              authority within the same sovereign. It implies continuity
+              rather than a new party entering late.
+
+STYLISTIC:  STRATEGIC_QUOTATION — "Intramural" and "is of no concern to"
+            are quoted directly from Bethune-Hill. The brief lets the
+            Court's own dismissive language do the work of telling the
+            Sixth Circuit it overstepped.
+
+
+================================================================================
+PET. SECTION 3: "Sovereignty aside, the Attorney General timely moved to
+                  intervene"
+================================================================================
+
+--- AU-P3.1 ---
+TEXT: "Even if a court could set aside Kentucky's sovereign interests, the
+Attorney General's motion still was timely. The Sixth Circuit's conclusion
+otherwise cannot survive scrutiny on its own terms."
+
+DOCTRINAL:  --
+
+NARRATIVE:  CONCEDE_AND_REDIRECT — "Even if a court could set aside
+            Kentucky's sovereign interests" concedes (arguendo) the
+            respondent's framing, then pivots: even on your terms, we
+            win. This is classic alternative-argument structure, but
+            the concession is strategic because it signals confidence.
+            The brief is saying it doesn't need the sovereignty argument
+            to prevail.
+
+            FRAME_AS_ERROR — "Cannot survive scrutiny on its own terms"
+            frames the Sixth Circuit's reasoning as internally
+            inconsistent, not just wrong on the law.
+
+FACT-FRAMING: --
+
+STYLISTIC:  CADENCE_SHIFT — After the extended sovereignty discussion
+            (Sections 1-2), this two-sentence opening resets. The second
+            sentence is blunt and declarative. It shifts register from
+            constitutional argument to direct attack on the lower court's
+            reasoning.
+
+            UNDERSTATED_DEVASTATION — "Cannot survive scrutiny on its own
+            terms" is a clinical dismissal. It doesn't call the opinion
+            outrageous or unjust; it says the opinion fails by its own
+            internal logic. The calm delivery makes the criticism sharper.
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.2 ---
+TEXT: "In the Rule 24 context, timeliness turns on 'whether in view of all
+the circumstances the intervenor acted promptly.' Alt v. U.S. EPA, 758
+F.3d 588, 591 (4th Cir. 2014)."
+
+DOCTRINAL:  APPLY_STANDARD — Establishes the legal test for timeliness
+            under Rule 24: a totality-of-the-circumstances inquiry into
+            whether the intervenor acted promptly. By citing the standard
+            at this point, the brief sets up a framework it knows favors
+            its client.
+
+            NARROW_STATUTE — By emphasizing "all the circumstances" and
+            "promptly," the brief steers the Rule 24 timeliness standard
+            toward a flexible, context-dependent test rather than a rigid
+            deadline. This narrows the scope of the timeliness bar.
+
+NARRATIVE:  --
+
+FACT-FRAMING: --
+
+STYLISTIC:  --
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.3 ---
+TEXT: "The Attorney General easily clears this bar. He moved to intervene
+10 days after the Secretary decided not to seek further review — the
+'absolute earliest' point at which intervention became necessary.
+Pet. App. 36a (Bush, J., dissenting)."
+
+DOCTRINAL:  APPLY_TO_FACTS — Maps the Rule 24 standard onto the specific
+            timeline: 10 days after the triggering event. The brief
+            converts the abstract "promptly" standard into a concrete
+            factual showing.
+
+            INVOKE_AUTHORITY — Quotes Judge Bush's dissent below. Citing
+            a dissent from the very court whose majority you're appealing
+            is a targeted move: it tells the Supreme Court that even a
+            judge on that panel thought the majority got it wrong.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — "Easily clears this bar" states the
+            conclusion as self-evident rather than contested. The brief
+            doesn't say "should be found to have acted promptly"; it says
+            there's no real question.
+
+FACT-FRAMING: FOREGROUND — The 10-day timeline is the lead fact. This
+              number does significant rhetorical work: 10 days sounds
+              fast, responsive, prompt. The brief places it at the center
+              of the argument unit.
+
+              FOREGROUND_ABSENCE — "Before the Secretary abandoned the
+              defense, there was no reason for the Attorney General to
+              intervene." The brief emphasizes what hadn't happened yet
+              (the Secretary's abandonment) to explain why the AG hadn't
+              acted earlier. The absence of a triggering event justifies
+              the absence of earlier action.
+
+STYLISTIC:  CONCRETE_ANCHOR — "10 days" converts an abstract timeliness
+            argument into a specific, tangible number. The reader can
+            evaluate 10 days against their intuitive sense of promptness.
+
+            STRATEGIC_QUOTATION — "Absolute earliest" is quoted from the
+            dissent below. The brief lets the dissenting judge's words
+            characterize the AG's timing, which carries more weight than
+            the petitioner saying it about himself.
+
+[CROSS-BRIEF: Respondent's entire Section 2 is structured to counter this
+10-day framing. The respondent recharacterizes the relevant timeline: not
+10 days from the Secretary's decision, but months from the entry of final
+judgment. The two briefs are fighting over which clock to start.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P3.4 ---
+TEXT: "Before the Secretary abandoned the defense, there was no reason for
+the Attorney General to intervene, as the law was being defended by another
+state official."
+
+DOCTRINAL:  BURDEN_SHIFT — Implicitly argues that the AG had no obligation
+            to act until the defense collapsed. The duty to intervene
+            doesn't arise until the existing defense fails. This shifts
+            the analytical burden: the question isn't "why didn't the AG
+            act sooner?" but "why would he have?"
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — Anticipates the respondent's argument
+            that the AG should have intervened earlier (or filed his own
+            appeal). The brief addresses this by explaining the AG's
+            inaction as rational reliance on an existing defense.
+
+FACT-FRAMING: SEQUENCE — The brief controls the timeline: (1) another
+              official was defending the law, (2) that official stopped,
+              (3) the AG stepped in. This sequence implies the AG's action
+              was a natural response to changed circumstances, not a
+              belated afterthought.
+
+STYLISTIC:  --
+
+
+################################################################################
+RESPONDENT BRIEF (EMW Women's Surgical Center)
+################################################################################
+
+================================================================================
+RESP. SECTION 1: "The Attorney General Is Jurisdictionally Barred"
+================================================================================
+
+--- AU-R1.1 ---
+TEXT: "The Attorney General's belated effort to intervene on appeal is an
+impermissible attempt to evade the laws governing appellate jurisdiction."
+
+DOCTRINAL:  NEW_MOVE_[JURISDICTIONAL_REFRAME] — The respondent shifts the
+            entire analytical framework. Where the petitioner framed this as
+            a Rule 24 timeliness question (discretionary, flexible, fact-
+            dependent), the respondent reframes it as a jurisdictional
+            question (mandatory, rigid, non-waivable). This is more than
+            narrowing or broadening a statute; it's substituting an entirely
+            different legal category. Jurisdictional bars cannot be excused
+            by equitable considerations or sovereignty interests, so this
+            reframe, if accepted, would make the petitioner's sovereignty
+            argument irrelevant.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — The respondent opens with a declarative
+            characterization ("belated," "impermissible," "attempt to
+            evade") as though these are established facts, not contested
+            characterizations.
+
+            FRAME_AS_ERROR — But the error is attributed to the AG, not
+            to the lower court. This inverts the petitioner's framing,
+            where the Sixth Circuit was the actor that got it wrong.
+
+FACT-FRAMING: RECHARACTERIZE — The AG's intervention motion is described as
+              an "effort to evade." Where the petitioner called it "fighting
+              on" and "picking up the mantle," the respondent labels the
+              same action as evasion of jurisdictional rules.
+
+              FOREGROUND — The word "belated" is placed before any
+              substantive argument. The respondent leads with tardiness as
+              the defining characteristic of the AG's motion.
+
+STYLISTIC:  COMPRESSION — A single sentence captures the respondent's
+            entire jurisdictional theory. The sentence does three things
+            at once: characterizes the motion (belated), labels the legal
+            defect (impermissible), and identifies the category of law
+            being violated (appellate jurisdiction).
+
+            UNDERSTATED_DEVASTATION — The sentence is calm and clinical.
+            It doesn't say the AG acted outrageously; it says the AG's
+            action is "impermissible." The word choice implies the
+            conclusion follows from straightforward legal rules rather
+            than from contested judgment calls.
+
+[CROSS-BRIEF: This directly counters AU-P2.1, where the petitioner framed
+the intervention as the natural continuation of Kentucky's defense. The
+respondent's "evade" directly answers the petitioner's "fight on." The
+two briefs are characterizing the identical action in opposite terms.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.2 ---
+TEXT: "The Attorney General was a party to the final judgment by virtue of
+the conditions he agreed to in order to secure his dismissal from the suit
+at the outset."
+
+DOCTRINAL:  APPLY_TO_FACTS — The respondent maps the jurisdictional
+            framework onto a specific fact: the AG agreed to be bound by
+            the judgment as a condition of his dismissal. This is the
+            factual predicate for the jurisdictional argument.
+
+NARRATIVE:  --
+
+FACT-FRAMING: FOREGROUND — The AG's voluntary agreement to be bound is the
+              lead fact. This is the fact the petitioner's brief barely
+              mentions. The respondent builds its entire jurisdictional
+              theory on it.
+
+              SEQUENCE — The respondent controls the timeline differently
+              from the petitioner: (1) the AG was a party, (2) the AG
+              agreed to be bound by judgment, (3) judgment entered, (4) the
+              AG failed to appeal within 30 days. The petitioner's timeline
+              started at step (4) and ran forward. The respondent's timeline
+              starts much earlier and runs through the AG's own choices.
+
+STYLISTIC:  CONCRETE_ANCHOR — "The conditions he agreed to" grounds the
+            argument in a specific, documented act by the AG. This
+            contrasts with the petitioner's more abstract sovereignty
+            framing.
+
+[CROSS-BRIEF: This fact is what the petitioner BACKGROUNDs in AU-P2.3.
+The AG's prior agreement to be bound by judgment is the inconvenient fact
+that the petitioner's sovereignty framing is designed to obscure. The
+respondent pulls it to the surface.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.3 ---
+TEXT: "Having voluntarily agreed to be bound by the judgment, and having
+failed to file a timely notice of appeal from that judgment, the Attorney
+General cannot now circumvent statutory deadlines by seeking to intervene."
+
+DOCTRINAL:  APPLY_STANDARD — Applies the appellate-jurisdiction timeline
+            (28 U.S.C. 2107(a)) to the AG's conduct. The syllogism:
+            (1) you were bound by the judgment, (2) you didn't appeal
+            within 30 days, (3) therefore you can't use intervention as
+            a workaround.
+
+            NARROW_STATUTE — Narrows the scope of permissive intervention
+            under Rule 24 by arguing it cannot override jurisdictional
+            time limits. The respondent is drawing a boundary around
+            intervention practice: it doesn't reach this far.
+
+NARRATIVE:  --
+
+FACT-FRAMING: SEQUENCE — The participial phrases ("Having voluntarily
+              agreed ... and having failed to file") create a causal chain.
+              Each "having" builds on the previous one to make the
+              conclusion feel inevitable. The AG's current position is
+              presented as the product of his own sequential choices.
+
+STYLISTIC:  PARALLEL_STRUCTURE — "Having voluntarily agreed ... and having
+            failed to file" creates syntactic parallelism. The two
+            participial phrases are balanced, and both point toward the
+            same conclusion. The structure implies that the AG's current
+            predicament results from two independent failures, each
+            sufficient on its own.
+
+            UNDERSTATED_DEVASTATION — "Cannot now circumvent" is clinical.
+            The brief doesn't accuse the AG of bad faith; it says the
+            legal rules simply don't permit what he's trying to do. The
+            word "circumvent" does carry a connotation of improper
+            workaround, but it's delivered without heat.
+
+
+================================================================================
+RESP. SECTION 2: "The AG's Failure to Appeal a Judgment to Which He Was Bound"
+================================================================================
+
+--- AU-R2.1 ---
+TEXT: "Pursuant to 28 U.S.C. § 2107(a), and subject to exceptions not
+relevant here, any party that seeks to appeal a final judgment must file a
+notice of appeal within thirty days after the entry of such judgment."
+
+DOCTRINAL:  APPLY_STANDARD — States the statutory timeline rule. This is
+            the respondent's clock: 30 days from final judgment, not 10
+            days from the Secretary's decision.
+
+            NARROW_STATUTE — "Subject to exceptions not relevant here"
+            preemptively closes escape hatches. The brief acknowledges
+            that exceptions exist but declares them inapplicable,
+            narrowing the statute's flexibility.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — By noting exceptions exist but declaring
+            them irrelevant, the respondent anticipates an argument that
+            some exception might apply and shuts it down in a subordinate
+            clause.
+
+FACT-FRAMING: --
+
+STYLISTIC:  --
+
+[CROSS-BRIEF: The respondent's "thirty days" directly conflicts with the
+petitioner's "10 days" in AU-P3.3. The two briefs are running different
+clocks from different start dates. This is the central factual contest:
+which event triggers the timeliness analysis?]
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.2 ---
+TEXT: "Unless a party to a judgment is named or otherwise described in a
+timely notice of appeal, the court of appeals lacks jurisdiction over that
+party's challenge to the judgment. Torres v. Oakland Scavenger Co., 487
+U.S. 312, 314 (1988). These time limits are mandatory and jurisdictional."
+
+DOCTRINAL:  INVOKE_AUTHORITY — Cites Torres for the proposition that
+            appellate jurisdiction requires timely notice. Torres is a
+            strong cite: it held that failure to name a party in a notice
+            of appeal is a jurisdictional defect, not a waivable error.
+
+            APPLY_TO_FACTS — The implicit application: the AG was not named
+            in any timely notice of appeal. Therefore, the court of appeals
+            lacks jurisdiction over his challenge.
+
+NARRATIVE:  ESCALATE_STAKES — "Mandatory and jurisdictional" is a
+            deliberate escalation. In federal courts, labeling something
+            "jurisdictional" raises the stakes: jurisdictional defects
+            can't be waived, forfeited, or excused by equity. The
+            respondent is telling the Court that ruling for the petitioner
+            would require weakening jurisdictional time limits across
+            all federal appellate practice.
+
+FACT-FRAMING: --
+
+STYLISTIC:  CADENCE_SHIFT — After the statutory recitation, "These time
+            limits are mandatory and jurisdictional" lands as a short,
+            declarative sentence. The shift in length signals: this is
+            the point that matters.
+
+
+================================================================================
+RESP. SECTION 3: "Appellate Intervention Affords No End-Run"
+================================================================================
+
+--- AU-R3.1 ---
+TEXT: "It is no answer to the failure to appeal that the Attorney General is
+merely seeking permissive intervention in an existing appeal."
+
+DOCTRINAL:  PREEMPTIVE_REBUTTAL (doctrinal variant) — Anticipates and
+            rejects the petitioner's implicit argument that permissive
+            intervention is a separate procedural vehicle that isn't
+            subject to the same jurisdictional constraints as a direct
+            appeal.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — "It is no answer" is a classic brief-
+            writing formula for addressing and dismissing the opposing
+            argument in a single move.
+
+FACT-FRAMING: RECHARACTERIZE — The word "merely" diminishes the
+              intervention motion. Where the petitioner described it as
+              a sovereign act, the respondent reduces it to a routine
+              procedural request.
+
+STYLISTIC:  --
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.2 ---
+TEXT: "The equitable practice of '[a]ppellate intervention is not a means
+to escape the consequences of noncompliance with traditional rules of
+appellate jurisdiction and practice.' Stringfellow v. Concerned Neighbors
+in Action, 480 U.S. 370, 382 (1987) (Brennan, J., concurring)."
+
+DOCTRINAL:  INVOKE_AUTHORITY — Cites Justice Brennan's Stringfellow
+            concurrence. The choice of a Brennan citation is tactically
+            notable: Brennan is associated with expansive individual-
+            rights jurisprudence, not with procedural technicality.
+            Citing Brennan for a strict jurisdictional rule subtly
+            communicates that this isn't a conservative-vs-liberal
+            question; even the most liberal Justices recognized these
+            limits.
+
+            NARROW_STATUTE — Narrows the permissible scope of appellate
+            intervention: it's "equitable" and therefore cannot override
+            jurisdictional requirements. By characterizing intervention
+            as equitable, the respondent places it in a category that is
+            subordinate to mandatory jurisdictional rules.
+
+NARRATIVE:  --
+
+FACT-FRAMING: --
+
+STYLISTIC:  STRATEGIC_QUOTATION — The Brennan quotation does the
+            respondent's work for it. "Not a means to escape the
+            consequences of noncompliance" is devastating language that
+            the respondent didn't have to draft itself. The quotation
+            contains both the legal rule and the characterization of
+            the AG's conduct (noncompliance, escape).
+
+[CROSS-BRIEF: This directly answers the petitioner's Bethune-Hill analogy
+in AU-P2.4. The petitioner argued that Bethune-Hill's "intramural" language
+protects the AG's intervention. The respondent counters with Stringfellow:
+intervention is equitable, not a vehicle to circumvent jurisdictional
+deadlines. The two briefs are citing different SCOTUS cases for opposing
+propositions about the nature and limits of appellate intervention.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.3 ---
+TEXT: "Were it otherwise, any party — no matter how inexcusably tardy —
+could revive its forfeited opportunity to appeal simply by moving to
+intervene in someone else's appeal."
+
+DOCTRINAL:  CONSTITUTIONAL_AVOIDANCE (structural variant) — This isn't
+            constitutional avoidance in the traditional sense, but it
+            uses the same logical structure: if you rule the other way,
+            the consequences are unacceptable. The brief argues that
+            the petitioner's rule would create an end-run around all
+            appellate deadlines.
+
+            NEW_MOVE_[SLIPPERY_SLOPE] — The argument extends beyond
+            this case to a parade of horribles: if the AG can do this,
+            then "any party" can do it, "no matter how inexcusably
+            tardy." This is a classic slippery-slope move that isn't
+            captured by the existing taxonomy. It's distinct from
+            ESCALATE_STAKES (which raises the importance of the case)
+            because it's about the logical consequences of the opposing
+            rule, not about the significance of the controversy.
+
+NARRATIVE:  ESCALATE_STAKES — The respondent broadens the frame: this
+            isn't just about the Kentucky AG, it's about every party
+            in every federal appeal. A ruling for the petitioner would
+            undermine the finality of all appellate deadlines.
+
+FACT-FRAMING: --
+
+STYLISTIC:  RHETORICAL_QUESTION (implicit) — "Were it otherwise" sets
+            up a hypothetical that the reader is meant to reject. The
+            construction functions as a rhetorical question: do you
+            really want to allow this? The answer is assumed to be no.
+
+            UNDERSTATED_DEVASTATION — "Inexcusably tardy" is placed in
+            a subordinate clause set off by em dashes, almost as an
+            aside. But it's doing heavy characterization work: it
+            implies the AG is inexcusably tardy without directly saying
+            so. The brief lets the hypothetical carry the accusation.
+
+
+================================================================================
+RESP. SECTION 4: "The Sixth Circuit Did Not Abuse Its Discretion"
+================================================================================
+
+--- AU-R4.1 ---
+TEXT: "Even if the Attorney General's intervention motion were not
+jurisdictionally barred, it was well within the Sixth Circuit's discretion
+to deny it as untimely."
+
+DOCTRINAL:  --
+
+NARRATIVE:  CONCEDE_AND_REDIRECT — Mirrors the petitioner's structure in
+            AU-P3.1. "Even if" concedes (arguendo) that the jurisdictional
+            argument might fail, then pivots to a fallback: even without
+            the jurisdictional bar, the Sixth Circuit still got it right.
+            Both briefs use this move to signal confidence, arguing they
+            can win on either ground.
+
+FACT-FRAMING: --
+
+STYLISTIC:  --
+
+[CROSS-BRIEF: This mirrors AU-P3.1 almost exactly in structure. The
+petitioner said: "Even if a court could set aside Kentucky's sovereign
+interests, the AG's motion still was timely." The respondent says: "Even
+if the motion were not jurisdictionally barred, it was well within the
+Sixth Circuit's discretion to deny it." Both briefs use CONCEDE_AND_REDIRECT
+as their transition to alternative arguments. The symmetry is notable.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R4.2 ---
+TEXT: "In reviewing the court of appeals' decision, '[t]he question . . .
+is not whether this Court . . . would as an original matter' have reached
+the same conclusion, 'but instead, whether the Court of Appeals'
+conclusion . . . constituted an abuse of discretion.' Bethune-Hill,
+139 S. Ct. at 1951."
+
+DOCTRINAL:  APPLY_STANDARD — States the abuse-of-discretion standard,
+            which is highly deferential to the lower court. By invoking
+            this standard, the respondent is raising the bar the
+            petitioner must clear: it's not enough to show the Sixth
+            Circuit was wrong, the petitioner must show it was
+            unreasonably wrong.
+
+            ANALOGIZE — Cites Bethune-Hill itself for the standard of
+            review. This is tactically sharp: the petitioner relied
+            heavily on Bethune-Hill for the sovereignty argument. The
+            respondent now uses the same case to establish a deferential
+            standard of review that favors affirming the Sixth Circuit.
+            The respondent is turning the petitioner's own authority
+            against him.
+
+NARRATIVE:  --
+
+FACT-FRAMING: --
+
+STYLISTIC:  STRATEGIC_QUOTATION — Quoting Bethune-Hill for the standard
+            of review is a pointed choice given that the petitioner
+            built much of his argument on Bethune-Hill. The respondent
+            is saying: your own case tells the Court to defer to the
+            lower court's judgment.
+
+[CROSS-BRIEF: The respondent co-opts the petitioner's primary authority.
+In AU-P2.1 and AU-P2.4, the petitioner used Bethune-Hill for the
+"intramural" / sovereignty argument. Here, the respondent uses the same
+case for the standard of review. This is a direct doctrinal counter-move:
+using your opponent's best case against them.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R4.3 ---
+TEXT: "The Sixth Circuit weighed the relevant factors — the length of time
+the AG knew of his interest, the prejudice to existing parties, the reason
+for the delay — and reasonably concluded the motion was untimely."
+
+DOCTRINAL:  APPLY_TO_FACTS — Lists the factors the Sixth Circuit considered
+            and asserts the court weighed them reasonably. This is a
+            straightforward application-to-facts move under the abuse-of-
+            discretion standard.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — "Reasonably concluded" presents the Sixth
+            Circuit's decision as the product of careful, standard judicial
+            reasoning, not as the error the petitioner described.
+
+FACT-FRAMING: FOREGROUND — "The length of time the AG knew of his interest"
+              foregrounds the petitioner's delay. Where the petitioner
+              focused on the 10 days after the Secretary's decision
+              (AU-P3.3), the respondent points to the much longer period
+              during which the AG knew he had an interest in the outcome.
+
+              SEQUENCE — The three factors are listed in an order that
+              builds toward the conclusion: knowledge of interest (long),
+              prejudice to parties (real), reason for delay (inadequate).
+              The sequence implies that each factor weighed against the AG.
+
+STYLISTIC:  PARALLEL_STRUCTURE — "The length of time ... the prejudice ...
+            the reason for the delay" uses parallel noun phrases set off
+            by em dashes. The structural parallelism communicates
+            methodical, factor-by-factor analysis, reinforcing the image
+            of the Sixth Circuit as thorough rather than arbitrary.
+
+            COMPRESSION — Three complex legal factors are compressed into
+            a single sentence. The compression communicates that the
+            analysis is straightforward, that reasonable application of
+            settled factors yields only one answer.
+
+[CROSS-BRIEF: This directly counters AU-P3.3, where the petitioner argued
+the AG "easily clears" the timeliness bar. The respondent's factor-by-
+factor recitation is designed to show that the Sixth Circuit did exactly
+what it was supposed to do: weigh all the circumstances and exercise
+informed discretion. The petitioner framed the 10-day response as
+dispositive; the respondent says it's only one factor among several, and
+the others cut against the AG.]
+
+
+################################################################################
+CROSS-BRIEF INTERACTION SUMMARY
+################################################################################
+
+1. COMPETING CLOCKS
+   Petitioner (AU-P3.3): 10 days from the Secretary's decision not to appeal.
+   Respondent (AU-R2.1): 30 days from entry of final judgment.
+   Both briefs FOREGROUND their preferred timeline and BACKGROUND the other's.
+   This is the central factual contest in the case.
+
+2. BETHUNE-HILL TUG-OF-WAR
+   Petitioner (AU-P2.1, AU-P2.4): Uses Bethune-Hill for the "intramural"
+   sovereignty principle -- courts shouldn't second-guess which state
+   official represents the state.
+   Respondent (AU-R4.2): Uses the same case for the abuse-of-discretion
+   standard of review. Each side claims Bethune-Hill for a different
+   proposition.
+
+3. CHARACTERIZATION OF THE AG'S MOTION
+   Petitioner: "fight on," "pick up the mantle," sovereign succession.
+   Respondent: "belated effort," "circumvent," "evade," "end-run."
+   The identical procedural act is RECHARACTERIZED in opposite directions.
+
+4. AGENCY INVERSION
+   Petitioner: The Sixth Circuit is the actor (it "folded Kentucky's hand,"
+   "refused," "required"). The AG is responding to circumstances.
+   Respondent: The AG is the actor (he "agreed to be bound," "failed to
+   file," seeks to "circumvent"). The Sixth Circuit applied settled law.
+   Both briefs use RECHARACTERIZE to shift agency between the AG and
+   the court.
+
+5. STRUCTURAL MIRROR
+   Petitioner (AU-P3.1): "Even if sovereignty doesn't apply, we still win
+   on timeliness."
+   Respondent (AU-R4.1): "Even if jurisdiction doesn't bar him, we still
+   win on discretion."
+   Both briefs use CONCEDE_AND_REDIRECT as their transition to alternative
+   arguments, signaling confidence that they prevail on either ground.
+
+
+################################################################################
+NEW MOVES IDENTIFIED
+################################################################################
+
+1. NEW_MOVE_[JURISDICTIONAL_REFRAME] (AU-R1.1)
+   Description: Shifting the analytical category of a dispute from one legal
+   framework to another (here, from discretionary timeliness under Rule 24
+   to mandatory jurisdictional bar under 28 U.S.C. 2107). Distinct from
+   NARROW_STATUTE or BROADEN_STATUTE because it doesn't adjust the scope
+   of a single legal provision; it substitutes an entirely different legal
+   provision as the governing framework. The move's power lies in changing
+   which rules apply, not in changing how a rule applies.
+
+2. NEW_MOVE_[SLIPPERY_SLOPE] (AU-R3.3)
+   Description: Arguing that the opponent's proposed rule, if adopted, would
+   produce unacceptable consequences in future cases. Distinct from
+   ESCALATE_STAKES (which raises the importance of the present case) because
+   it's about the logical downstream effects of the opposing legal rule, not
+   about the significance of the current controversy. The move operates by
+   showing that the principle underlying the opponent's argument cannot be
+   limited to the sympathetic facts of this case.
+
+################################################################################
+END OF ANNOTATIONS
+################################################################################

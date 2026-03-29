@@ -1,0 +1,302 @@
+CASE DOCKET: 21-1449
+Glacier Northwest, Inc. v. International Brotherhood of Teamsters Local Union No. 174
+
+================================================================================
+PETITIONER BRIEF (Docket21-1449_Brief005.pdf)
+================================================================================
+
+--- ARGUMENT UNIT P1: Section I — GARMON DOES NOT IMPLIEDLY PREEMPT STATE TORT CLAIMS FOR INTENTIONAL PROPERTY DESTRUCTION (Roadmap) ---
+
+TEXT SUMMARY: Petitioner frames the two-prong Garmon test and previews its argument on both prongs: the NLRA does not "even arguably" protect intentional property destruction, and the local interest exception applies regardless.
+
+DOCTRINAL:
+- APPLY_STANDARD: Lays out the two-prong Garmon framework (arguably protected + local interest exception). Cites 359 U.S. at 244-45. This sets the analytical structure for the entire brief.
+- BURDEN_SHIFT: "The Union had to establish" both elements. Petitioner assigns the preemption burden to the Union, framing it as the Union's obligation to prove rather than petitioner's to disprove.
+- ALTERNATIVE_HOLDING: Presents two independent grounds for reversal — NLRA does not arguably protect, AND even if it did, local interest exception applies. Either path wins for petitioner.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The section heading and opening paragraphs consistently label the conduct as "intentional property destruction" — not a work stoppage, not a strike, but tort. This frame controls the entire argument.
+- PREEMPTIVE_REBUTTAL: "And even if it did, the local interest exception would apply" — anticipates and pre-answers the strongest counterargument before the respondent makes it.
+
+FACT-FRAMING:
+- RECHARACTERIZE: The conduct is never described as a "strike" or "work stoppage" in this section. It is "intentional property destruction" — a deliberate reframing that pulls the conduct outside the labor-law register entirely.
+- FOREGROUND: Property destruction is placed front and center as the defining characteristic of the Union's action.
+
+STYLISTIC:
+- COMPRESSION: Tight roadmap paragraph that previews all arguments in four sentences.
+- AUTHORITY_SIGNALING: Garmon citation (359 U.S. at 244-45) deployed immediately to anchor the framework.
+
+---
+
+--- ARGUMENT UNIT P2: Section A — The NLRA Does Not Arguably Protect Intentional Property Destruction ---
+
+TEXT SUMMARY: Petitioner argues the "arguably protected" threshold has substantive requirements the Union cannot meet. No plausible reading of Section 7 encompasses intentional property destruction. An "unbroken 80-year string" of authority rejects that view.
+
+DOCTRINAL:
+- NARROW_STATUTE: Reads Section 7's "other concerted activities" narrowly through ejusdem generis, arguing the term must be read in light of the other specific "bargaining" activities listed. Cites Epic Systems Corp. v. Lewis for this interpretive principle.
+- APPLY_STANDARD: Applies Davis's test that the party claiming preemption must "demonstrate that his case is one that the Board could legally decide in his favor" and "advance an interpretation of the Act that is not plainly contrary to its language." 476 U.S. at 395.
+- INVOKE_AUTHORITY: "An unbroken 80-year string of decisions from this Court, the lower courts, and the Board all reject that view." Marshals decades of precedent as a unified wall.
+- STARE_DECISIS_SHIELD: The weight of the argument rests on the consistency and duration of the precedential line — 80 years without deviation.
+- DISTINGUISH_PURPOSE: Argues property destruction is "so disconnected from the statutory goals of promoting collective bargaining and fostering labor peace" that it cannot be protected. Teleological argument about the statute's purpose.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Continues the "intentional property destruction" label throughout.
+- ESCALATE_STAKES: Describes the Union's conduct as "flagrantly tortious and unlawful" — language designed to make protection seem absurd on its face.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Conduct is "intentional property destruction," not a strike tactic or work stoppage.
+- FOREGROUND: Emphasizes the "flagrantly tortious and unlawful" character and its disconnection from statutory goals.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Extensive block quotation from Davis — "If the word 'arguably' is to mean anything..." — letting the Court's own language do the heavy lifting.
+- AUTHORITY_SIGNALING: Davis, Epic Systems, 29 U.S.C. § 157 — layered citations from statutory text, recent precedent, and the foundational preemption case.
+- CONCRETE_ANCHOR: Grounds the analysis in the specific statutory text of 29 U.S.C. § 157 before moving to case law.
+
+---
+
+--- ARGUMENT UNIT P3: Section B — Intentional Property Destruction Falls Within the Local Interest Exception ---
+
+TEXT SUMMARY: Even if the Union's conduct were "arguably protected," the local interest exception saves petitioner's claim. Policing property destruction is the archetypal state function. This principle predates Garmon and has been continuously reaffirmed.
+
+DOCTRINAL:
+- BROADEN_HOLDING: Reads the local interest exception expansively. Cites Lodge 76 ("Policing of ... destruction of property has been held most clearly a matter for the States") and Laburnum for the proposition that states retain plenary authority over property-destruction torts.
+- ALTERNATIVE_HOLDING: This entire section is the alternative holding argument — it only matters if petitioner loses on the "arguably protected" prong.
+- INVOKE_AUTHORITY: Deep historical chain: Laburnum (1954), Fansteel (pre-Garmon), Lodge 76 (1976), Bill Johnson's Restaurants (1983). Each reinforces the same principle.
+- STARE_DECISIS_SHIELD: Traces the principle to before Garmon was decided. "Even before Garmon, this Court recognized that the NLRA could not be read to preclude state tort claims for property destruction."
+- APPLY_TO_FACTS: Moves from the general principle (states may regulate property destruction) to the specific claim (Glacier's tort action falls squarely within that principle).
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: "Even if the Union's intentional destruction of Glacier's property could somehow be deemed 'arguably protected'" — concedes arguendo only to show the concession doesn't help the Union.
+- ESCALATE_STAKES: Frames the question as one of state sovereignty. Property protection is "deeply rooted in local feeling and responsibility."
+
+FACT-FRAMING:
+- FOREGROUND: "Actual or threatened violence to persons or destruction of property" — the Laburnum language is foregrounded and emphasized.
+- SEQUENCE: Arranges the case law chronologically (pre-Garmon through post-Garmon) to show an unbroken historical line.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Extensive quotations from Laburnum — "no doubt that if agents of [unions] ... damaged property through their tortious conduct" — and Lodge 76 — "Policing of such conduct is left wholly to the states."
+- UNDERSTATED_DEVASTATION: The Laburnum language ("no doubt") is deployed with quiet finality. The Court's own certainty becomes petitioner's weapon.
+- AUTHORITY_SIGNALING: Historical depth — Laburnum (1954), Fansteel, Lodge 76 (1976) — signals that this isn't a novel argument but settled law being reasserted.
+
+---
+
+--- ARGUMENT UNIT P4: Section C — The Decision Below Misapplied Both Prongs of Garmon (Transition) ---
+
+TEXT SUMMARY: Brief transition paragraph setting up the attack on the Washington Supreme Court's reasoning on both prongs.
+
+DOCTRINAL:
+- FRAME_AS_ERROR: "The court erred on both fronts." Direct assertion that the lower court got both legal questions wrong.
+
+NARRATIVE:
+- INSTITUTIONAL_REBUKE: Implicit criticism of the Washington Supreme Court as having failed to properly apply established federal law.
+- FRAME_AS_ERROR: Sets up the next two subsections as error-correction exercises.
+
+FACT-FRAMING:
+- COMPRESSION: Tight transition — no new facts, just structural setup.
+
+STYLISTIC:
+- COMPRESSION: Two sentences doing the work of framing the entire Section C argument.
+
+---
+
+--- ARGUMENT UNIT P5: Section C.1 — The Lower Court Misapplied the "Arguably Protected" Test ---
+
+TEXT SUMMARY: The Washington Supreme Court correctly stated the rule but then misapplied it by collapsing the distinction between economic harm from an ordinary strike and economic harm from deliberate property destruction. The supposed tension in the NLRA is "illusory."
+
+DOCTRINAL:
+- DISTINGUISH: Draws the central doctrinal line of the case: "There is a clear and obvious distinction between an ordinary work stoppage (which may have a negative economic impact by preventing an employer's sales or reducing its profits) and a work stoppage that is deliberately planned and timed to destroy the employer's property."
+- NARROW_HOLDING: Argues the lower court's reasoning (that any balancing between economic pressure and strike interests must go to the NLRB) sweeps too broadly. The proper holding is narrower — property destruction is categorically unprotected.
+- APPLY_TO_FACTS: Applies the distinction to Glacier's specific situation — concrete ordered, delivery timed, strike called to ensure concrete would harden and be destroyed.
+- FRAME_AS_ERROR: "That analysis is wrong for several reasons." Direct attack on the lower court's reasoning.
+
+NARRATIVE:
+- FRAME_AS_ERROR: "Started on the right track" then "went off the rails" — the lower court recognized the correct principle but then abandoned it.
+- INSTITUTIONAL_REBUKE: "Went off the rails" is pointed criticism of the lower court's departure from established law.
+- CONCEDE_AND_REDIRECT: Acknowledges economic harm is a permissible consequence of lawful strikes, then redirects to the categorical distinction — deliberate destruction of property is different in kind, not degree.
+
+FACT-FRAMING:
+- RECHARACTERIZE: "A work stoppage that is deliberately planned and timed to destroy the employer's property" — reframes the timing of the strike as evidence of destructive intent rather than bargaining leverage.
+- FOREGROUND: Emphasizes the deliberate planning and timing element — this wasn't incidental damage but intentional destruction.
+- DISTINGUISH: Draws the factual line between "mere withholding of labor" and "destructive behavior that is at least intentionally tortious, if not criminal."
+
+STYLISTIC:
+- CADENCE_SHIFT: "Started on the right track" / "went off the rails" — colloquial register used to make the error vivid and accessible, then shifts back to formal doctrinal analysis.
+- UNDERSTATED_DEVASTATION: "The supposed tension that the court perceived in the NLRA is illusory." Dismisses the entire foundation of the lower court's analysis in one sentence.
+- CONCRETE_ANCHOR: Marshall Car Wheel citation — "risk of property damage occasioned by the precipitate nature of the walkout during a critical stage of respondent's manufacturing process" — grounds the abstract distinction in a concrete factual analog.
+
+
+================================================================================
+RESPONDENT BRIEF (Docket21-1449_Brief011.pdf)
+================================================================================
+
+--- ARGUMENT UNIT R1: Section I — Under this Court's precedent, petitioner's claim can proceed in state court only if the NLRB first determines the challenged conduct is not protected (Opening) ---
+
+TEXT SUMMARY: Respondent frames the case as a jurisdictional sequencing question: Garmon requires state courts to defer to the NLRB whenever conduct is "arguably protected." The General Counsel's complaint — issued after independent investigation — conclusively establishes that the conduct is at least arguably protected.
+
+DOCTRINAL:
+- APPLY_STANDARD: Applies the Davis "arguably protected" test and asserts respondent satisfies it by advancing a non-frivolous interpretation of the Act supported by evidence.
+- INVOKE_AUTHORITY: Davis (476 U.S. at 394-95), Davis Supermarkets (2 F.3d at 1179), Makro (305 N.L.R.B. at 670-71) — stacks authorities to show that a General Counsel complaint settles the "arguably protected" question.
+- BROADEN_HOLDING: Expands the significance of a General Counsel complaint — it "conclusively establishes" that the conduct is at least arguably protected, per the D.C. Circuit and the Board.
+- JURISDICTIONAL_REFRAME: Frames the entire case as a jurisdictional priority question. State courts "must wait for the NLRB to act first." This isn't about who's right on the merits — it's about who gets to decide first.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Frames the issue not as "property destruction" but as "jurisdictional sequencing" — the question is institutional competence, not tort liability. [Cross-brief interaction: directly counters Petitioner's AFFIRMATIVE_FRAME of "intentional property destruction."]
+- AGREEMENT_TRAP: Adopts petitioner's own cited authority (Davis) and shows it supports respondent's position — respondent has "advance[d] an interpretation of the Act that is not plainly contrary to its language and that has not been authoritatively rejected." Turns petitioner's standard against petitioner.
+
+FACT-FRAMING:
+- FOREGROUND: The General Counsel's independent investigation and complaint issuance is placed at the center of the argument as the dispositive fact.
+- FOREGROUND_ABSENCE: Implicitly highlights the absence of an NLRB determination — the Board hasn't ruled yet, so the state court jumped the gun.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: D.C. Circuit (Davis Supermarkets), the Board (Makro), and the Supreme Court (Davis) — all three institutional voices aligned.
+- STRATEGIC_QUOTATION: Davis standard quoted at length to show respondent's conduct satisfies each element.
+
+---
+
+--- ARGUMENT UNIT R2: Section 2 — Irrespective of the General Counsel's complaint, respondent's conduct was arguably protected ---
+
+TEXT SUMMARY: The statutory text independently supports respondent's position — Section 7 protects "concerted stoppages of work," and workers don't forfeit protections simply because perishable products may be lost. The local interest exception applies only to arguably prohibited conduct, not arguably protected conduct. Congress ratified Garmon by amending the NLRA without changing this standard. Constitutional avoidance is premature.
+
+DOCTRINAL:
+- BROADEN_STATUTE: Reads Section 7 expansively to cover "concerted stoppages of work" even when property damage is foreseeable. Cites Lumbee Farms for the principle that foreseeability of perishable-product loss doesn't strip protection.
+- NARROW_HOLDING: Narrows the local interest exception — it applies "only to conduct that is arguably prohibited under Section 8 of the Act, not conduct that is arguably protected under Section 7." This distinction (from Farmer v. United Brotherhood) is the linchpin of respondent's defense of Garmon.
+- DISTINGUISH: Distinguishes between "arguably prohibited" and "arguably protected" conduct. In prohibited cases, no risk of state regulation of protected conduct. In protected cases, the risk is always present.
+- STARE_DECISIS_SHIELD: Congress has "implicitly ratified" Garmon by amending the NLRA — including to overrule other parts of Garmon — while leaving the arguably protected standard intact. Congressional acquiescence as evidence of correct interpretation.
+- CONST_AVOIDANCE: Argues constitutional avoidance is "inapposite" because the Takings Clause issue petitioner raises is speculative — "the Board has not done so yet."
+- JURISDICTIONAL_REFRAME: Cites 29 U.S.C. § 160(a) — the Board's power "shall not be affected by any other means of adjustment or prevention" — to argue statutory text channels jurisdiction to the NLRB.
+- SLIPPERY_SLOPE: Implicit — if the local interest exception extends to arguably protected conduct, it swallows Garmon's jurisdictional rule and any employer could route around NLRB jurisdiction by styling strike activity as a tort.
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: Addresses petitioner's local-feeling argument, textual argument, "ordinary preemption" argument, and constitutional avoidance argument — each is dispatched in turn.
+- CONCEDE_AND_REDIRECT: "Irrespective of the General Counsel's complaint" — concedes arguendo that the complaint may not be dispositive, then shows the case survives on independent statutory grounds.
+- FRAME_AS_ERROR: "Petitioner's textual argument fails." Direct dismissal of petitioner's NLRA-text-based argument. [Cross-brief interaction: responds to Petitioner's NARROW_STATUTE move in Unit P2.]
+
+FACT-FRAMING:
+- RECHARACTERIZE: "The mere act of stopping work" — reframes the Union's conduct as an ordinary work stoppage, directly countering petitioner's "intentional property destruction" label. [Cross-brief interaction: directly opposes Petitioner's RECHARACTERIZE of the same conduct.]
+- DIMINISHING_MODIFIER: "Mere act of stopping work" — the word "mere" does significant rhetorical work, minimizing the conduct's significance.
+- FOREGROUND_ABSENCE: "The absence of such an express grant of state-court jurisdiction over cases like this one is thus conspicuous." Highlights what Congress didn't do as evidence of intent.
+- OPPONENT_CONCESSION_CAPTURE: "Petitioner overlooks several NLRA provisions that conflict with any state law imposing liability for respondent's conduct." Implies petitioner's own textual analysis is incomplete.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Garmon's "deeply rooted in local feeling and responsibility" language is quoted to set up the argument that this case doesn't meet that threshold.
+- AUTHORITY_SIGNALING: Farmer v. United Brotherhood, Lumbee Farms, 29 U.S.C. § 160(a) — statutory text and precedent reinforcing each other.
+- COMPRESSION: Covers five distinct counterarguments (local feeling, textual, ordinary preemption, constitutional avoidance, congressional ratification) in a single dense section.
+
+---
+
+--- ARGUMENT UNIT R3: Section 3 — Should this Court choose to extend the local feeling exception to arguably protected conduct ---
+
+TEXT SUMMARY: Even if the local feeling exception applies to arguably protected conduct, the Union's conduct doesn't qualify. "Stopping work" has never been a matter of "local feeling." Petitioner's common-law tort framing fails because traditional conversion and trespass to chattels wouldn't have covered this conduct. Congress ratified Garmon. Petitioner's textual and "ordinary preemption" arguments fail. Constitutional avoidance is premature.
+
+DOCTRINAL:
+- NARROW_HOLDING: Even within petitioner's proposed extension, narrows the exception — it still wouldn't apply to work stoppages.
+- DISTINGUISH: The common-law torts petitioner invokes (conversion, trespass to chattels) historically wouldn't have covered "stopping work" that leads to product loss. Breaks the analogy petitioner is trying to build.
+- STARE_DECISIS_SHIELD: "Congress has implicitly ratified Garmon's arguably protected standard by amending the NLRA — including to overrule other parts of Garmon's holding — while leaving the arguably protected standard intact." The selective-amendment argument is powerful: Congress knew how to override Garmon and chose not to on this point.
+- JURISDICTIONAL_REFRAME: The NLRA "commands that the Board's power 'to prevent any person from engaging in an unfair labor practice' shall not 'be affected by any other means of adjustment or prevention.'"
+- CONST_AVOIDANCE: Premature — "the Board has not done so yet. Nor has pe[titioner shown a concrete claim]."
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: Addresses petitioner's common-law-roots argument, congressional-intent argument, and constitutional-avoidance argument serially.
+- AGREEMENT_TRAP: Takes petitioner's own framing (torts with "deep common-law roots") and turns it — those common-law forms wouldn't have reached this conduct. [Cross-brief interaction: responds to Petitioner's BROADEN_HOLDING of the local interest exception in Unit P3.]
+
+FACT-FRAMING:
+- RECHARACTERIZE: Continues the "mere act of stopping work" frame — refuses to adopt petitioner's "intentional property destruction" characterization.
+- DIMINISHING_MODIFIER: "Mere act of stopping work has never qualified as a matter of 'local feeling and responsibility.'"
+
+STYLISTIC:
+- REGISTER_CONTRAST: Shifts from abstract doctrinal analysis (congressional ratification, jurisdictional channeling) to concrete common-law analysis (conversion and trespass to chattels elements) — the contrast underscores the weakness of petitioner's position across multiple analytical registers.
+- AUTHORITY_SIGNALING: 29 U.S.C. § 160(a) — statutory text deployed for maximum structural weight.
+
+---
+
+--- ARGUMENT UNIT R4: Section A — Respondent's strike was arguably protected ---
+
+TEXT SUMMARY: Under Garmon, when conduct is "arguably subject to" Section 7 protection, courts must defer to the NLRB. To show conduct is arguably protected, a party need only advance a non-frivolous interpretation supported by evidence. Petitioner's "ritualistic incantation" of "intentional property destruction" does not change the analysis — the focus must be on the actual conduct, not conclusory labels.
+
+DOCTRINAL:
+- APPLY_STANDARD: Applies Garmon and Davis — "advance an interpretation of the Act that is not plainly contrary to its language and that has not been authoritatively rejected by the courts or the Board." Shows the standard is easily met here.
+- INVOKE_AUTHORITY: Garmon, Davis, Marquez v. Screen Actors Guild, Motor Coach Employees v. Lockridge — four cases layered to establish both the standard and its application.
+- BROADEN_HOLDING: Reads "arguably protected" broadly — the bar is low ("not plainly contrary," "enough evidence"), and respondent clears it.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The conduct is "the drivers' conduct" and their "work stoppage" — labor-register framing throughout.
+- AGREEMENT_TRAP: Uses Marquez (a case about the "arguably protected" standard) to dismiss petitioner's characterization as a "ritualistic incantation" of a "conclusory allegation." Petitioner's own reliance on legal labels is turned into evidence of analytical weakness. [Cross-brief interaction: directly responds to Petitioner's RECHARACTERIZE move — labeling it a "ritualistic incantation."]
+- PREEMPTIVE_REBUTTAL: "Notwithstanding petitioner's repeated invocation of 'intentional property destruction'" — acknowledges and pre-empts the labeling strategy.
+
+FACT-FRAMING:
+- RECHARACTERIZE: "The drivers' conduct" and "work stoppage" — never "intentional property destruction." [Cross-brief interaction: ongoing counter to Petitioner's dominant RECHARACTERIZE move.]
+- OPPONENT_CONCESSION_CAPTURE: Motor Coach's principle — "It is the conduct being regulated, not the formal description of governing legal standards, that is the proper focus of concern" — is wielded to argue that petitioner's own analytical framework (characterizing conduct by label) is wrong under the Court's own precedent.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: The Marquez "ritualistic incantation" quote and Motor Coach "conduct being regulated" quote are deployed in sequence — the first dismisses petitioner's labels, the second explains why labels don't matter.
+- UNDERSTATED_DEVASTATION: "Dispels any doubt" — quiet confidence that the General Counsel's complaint resolves the question completely.
+- AUTHORITY_SIGNALING: Four Supreme Court cases in rapid succession (Garmon, Davis, Marquez, Motor Coach) — institutional authority as argument.
+
+---
+
+--- ARGUMENT UNIT R5: Section 1 — The issuance of the General Counsel's complaint establishes that the conduct here is at least arguably protected ---
+
+TEXT SUMMARY: The General Counsel conducted an independent investigation — interviews with both sides' witnesses, review of the full state-court record — and concluded the charges had merit. This process eliminates any doubt that the conduct is "arguably protected." Petitioner "cannot credibly contend" otherwise.
+
+DOCTRINAL:
+- INVOKE_AUTHORITY: The General Counsel's complaint as institutional authority — an expert agency determination after full investigation.
+- APPLY_TO_FACTS: Maps the General Counsel's specific investigative steps onto the Davis standard — the complaint establishes both that the legal theory is non-frivolous and that the evidence is sufficient.
+- BROADEN_HOLDING: Reads the significance of a General Counsel complaint broadly — it doesn't just support the "arguably protected" finding, it "conclusively establishes" and "resolves any doubt."
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The narrative centers on institutional process — the investigation's rigor, the evidentiary standard, the conclusion of merit. The focus is on the agency's credibility, not the underlying facts of the strike.
+- ESCALATE_STAKES: "Cannot credibly contend that a claim that makes it through this gauntlet does not concern conduct 'arguably' protected by the NLRA." If the Court discounts the General Counsel's complaint, it undermines the agency investigation process itself. [Cross-brief interaction: implicitly responds to Petitioner's STRATEGIC_SILENCE about the General Counsel's findings.]
+
+FACT-FRAMING:
+- FOREGROUND: Detailed description of the investigation process — interviews, both sides' participation, review of state-court record, dismissal standard, issuance standard. Each procedural step is surfaced to build institutional credibility.
+- SEQUENCE: Investigation steps laid out chronologically: charges filed, investigation conducted, witnesses interviewed, evidence reviewed, determination made, complaint issued. The procedural sequence reinforces thoroughness.
+- OPPONENT_CONCESSION_CAPTURE: "Provided petitioner with a chance to respond to respondent's allegations" — petitioner participated in the investigation and lost. Petitioner's own engagement with the process is used against it.
+- NEW_MOVE_PROCESS_LEGITIMATION: The detailed narration of administrative procedure (specific CFR citations, step-by-step process description) functions not as factual argument but as institutional legitimation — the process itself is the evidence.
+
+STYLISTIC:
+- CONCRETE_ANCHOR: 29 C.F.R. §§ 101.4, 101.5, 101.6, 101.8 — granular regulatory citations ground the investigation process in specific procedural requirements.
+- STRATEGIC_QUOTATION: Davis Supermarkets' "gauntlet" metaphor — "cannot credibly contend that a claim that makes it through this gauntlet" — borrowed language that carries rhetorical force.
+- AUTHORITY_SIGNALING: D.C. Circuit, CFR provisions, General Counsel's institutional role — multiple layers of authority converging on the same point.
+
+
+================================================================================
+CROSS-BRIEF INTERACTION SUMMARY
+================================================================================
+
+1. THE CHARACTERIZATION WAR: "Intentional Property Destruction" vs. "Work Stoppage"
+   - Petitioner (P1-P5): RECHARACTERIZE + FOREGROUND — Consistently labels the conduct "intentional property destruction" or "deliberate destruction of property." Never uses "strike" or "work stoppage" without qualification. This is the single most important framing move in the Petitioner's brief.
+   - Respondent (R2-R4): RECHARACTERIZE + DIMINISHING_MODIFIER — Consistently labels the same conduct "the drivers' conduct," "work stoppage," or "the mere act of stopping work." Respondent in R4 explicitly calls out petitioner's characterization as a "ritualistic incantation" of a "conclusory allegation" (via Marquez), arguing that labels are analytically irrelevant under Motor Coach. This is the single most important counter-move.
+
+2. COMPETING USES OF DAVIS
+   - Petitioner (P2): Uses Davis's "arguably protected" standard to argue the Union fails the test — "If the word 'arguably' is to mean anything," the party must show the Board could legally decide in its favor.
+   - Respondent (R1, R4): Uses the same Davis standard to argue the Union satisfies it — respondent has advanced a non-frivolous interpretation not "authoritatively rejected." This is an AGREEMENT_TRAP: respondent takes petitioner's own cited authority and shows it cuts the other way.
+
+3. THE LOCAL INTEREST EXCEPTION: SCOPE BATTLE
+   - Petitioner (P3): BROADEN_HOLDING — Argues the exception is expansive, covering property destruction as the archetypal state regulatory interest. Cites Lodge 76, Laburnum, Fansteel.
+   - Respondent (R2-R3): NARROW_HOLDING + DISTINGUISH — Argues the exception applies only to "arguably prohibited" conduct (under Section 8), not "arguably protected" conduct (under Section 7). Cites Farmer v. United Brotherhood for the distinction. If respondent's reading holds, petitioner's entire alternative argument collapses.
+
+4. STARE DECISIS: COMPETING 80-YEAR CLAIMS
+   - Petitioner (P2): STARE_DECISIS_SHIELD — "An unbroken 80-year string of decisions" rejects protection for property destruction.
+   - Respondent (R2-R3): STARE_DECISIS_SHIELD — Congress "implicitly ratified" Garmon by amending the NLRA without changing the arguably protected standard. Both sides claim the weight of history, but they're pointing at different historical strands: petitioner at the substantive rule (property destruction is unprotected), respondent at the procedural framework (NLRB decides first).
+
+5. THE GENERAL COUNSEL'S COMPLAINT
+   - Respondent (R1, R4, R5): FOREGROUND + INVOKE_AUTHORITY — The General Counsel's complaint is respondent's factual centerpiece. After independent investigation, the agency concluded the conduct was actually protected. This "conclusively establishes" arguable protection.
+   - Petitioner (P1-P5): STRATEGIC_SILENCE — In the excerpted sections, petitioner does not directly engage with the General Counsel's complaint. This silence is itself a strategic choice — engaging with the complaint would require petitioner to argue either that the General Counsel was wrong or that her determination is irrelevant, either of which carries costs.
+
+6. LOWER COURT TREATMENT
+   - Petitioner (P4-P5): FRAME_AS_ERROR + INSTITUTIONAL_REBUKE — The Washington Supreme Court "went off the rails" and "erred on both fronts."
+   - Respondent (R1, R4): APPLY_STANDARD — Defends the lower court's reasoning as a straightforward application of Garmon. The lower court simply followed the framework this Court established.
+
+7. CONSTITUTIONAL AVOIDANCE
+   - Petitioner (referenced by respondent): Invokes the Takings Clause — if the Board sides with the Union, it would raise constitutional concerns, so the Court should avoid that outcome.
+   - Respondent (R2-R3): CONST_AVOIDANCE (dismissal) — Premature. The Board hasn't ruled yet. Petitioner is asking the Court to avoid a constitutional problem that doesn't exist yet.
+
+
+================================================================================
+NEW MOVES
+================================================================================
+
+NEW_MOVE_PROCESS_LEGITIMATION (identified in R5):
+Definition: Detailed narration of an administrative or institutional process — including specific procedural steps, regulatory citations, and evidentiary standards — deployed not primarily as factual argument but to establish the legitimacy and rigor of the process itself. The process becomes its own evidence. Distinguished from INVOKE_AUTHORITY (which cites the conclusion of an authority) in that PROCESS_LEGITIMATION argues from the thoroughness of the procedure rather than the weight of the institution. The implicit claim: an outcome produced by this process deserves deference because the process itself is sound.
+
+Evidence: Respondent's section-by-section narration of the General Counsel's investigation (29 C.F.R. §§ 101.4-101.8), including interviews with both parties' witnesses, the evidentiary-sufficiency standard, and the dismissal threshold. Each procedural step is surfaced to argue that the complaint's issuance, as a product of this process, should be treated as dispositive on the "arguably protected" question.

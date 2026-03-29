@@ -1,0 +1,219 @@
+STRATEGIC MOVE ANNOTATIONS — DOCKET 21-984
+Helix Energy Solutions Group v. Hewitt
+==================================================
+
+PETITIONER BRIEF (Docket21-984_Brief002.pdf)
+
+==================================================
+SECTION 1: III. The Fifth Circuit's Decision Is Wrong — A. The Question Presented Is Based on section 541.604, Not section 541.602
+==================================================
+
+ARGUMENT UNIT 1.1: Respondent's principal defense of the decision below rests on section 541.602, not section 541.604 — but the en banc majority's decision was based on 541.604, making the defense a non-response.
+
+DOCTRINAL:
+- DISTINGUISH: Separates the legal basis of the first (withdrawn) panel opinion (which relied on 541.602(a)) from the en banc opinion (which relied on 541.604). The withdrawn opinion's theory "has never resurfaced," making respondent's 541.602 argument a defense of a holding that no longer exists.
+- NARROW_HOLDING: Confines the holding below to 541.604 — insists that the en banc majority's actual decision rested on a single regulatory provision. By narrowing what the Fifth Circuit held, petitioner prevents respondent from defending the result on alternative grounds.
+- APPLY_TO_FACTS: Maps the procedural history to show the doctrinal shift: panel opinion rested on 541.602(a), that opinion was withdrawn, en banc opinion disavowed the 541.602(a) theory and relied on 541.604. The sequence eliminates the 541.602 escape route.
+
+NARRATIVE:
+- FRAME_AS_ERROR: Labels respondent's defense a "non-defense of the decision below and a non-response to the petition." Does not treat it as an alternative reading but as a category mistake — respondent is defending the wrong holding.
+- PREEMPTIVE_REBUTTAL: Anticipates and neutralizes respondent's strongest argument (that 541.602 independently forecloses exemption) before the merits discussion begins. Forces the merits debate onto petitioner's preferred terrain (the HCE regulation's relationship to 541.604).
+- CONCEDE_AND_REDIRECT: "The best that can be said for Respondent's reading of the en banc decision is that it is a fair description of the first panel opinion" — concedes that the reading maps onto something, then immediately redirects by noting that something was withdrawn and replaced.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Recharacterizes respondent's argument as a description of a dead opinion. Respondent is not defending the actual judgment; respondent is defending a ghost.
+- SEQUENCE: The procedural sequence — panel opinion issued, panel opinion withdrawn, en banc opinion replaces it on different grounds — is arranged to demonstrate that the 541.602 theory was tried and abandoned by the court itself.
+- FOREGROUND_ABSENCE: Emphasizes that the 541.602(a) theory "has never resurfaced" after the withdrawn opinion. The absence of the theory in the operative opinion is treated as dispositive.
+- OPPONENT_CONCESSION_CAPTURE: Captures respondent's own concession — "it does not matter that the Fifth Circuit analyzed 29 C.F.R. 541.604(b)" (Opp. at 3) — and turns it against respondent. If it does not matter, respondent has no defense of what the court actually did.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Quotes respondent's opposition brief directly and repeatedly ("Opp.16," "id. at 1," "id. at 12," "Id. at 3") to let respondent's own words demonstrate the mismatch between defense and decision. The petitioner does not need to characterize the weakness; the quotations do it.
+- COMPRESSION: Stacks the procedural history, the doctrinal distinction, and the attack on respondent's framing into a single sustained passage without subheadings or transitions.
+- UNDERSTATED_DEVASTATION: "The best that can be said for Respondent's reading" — a measured concession that functions as a devastating qualifier. If the best reading maps onto a withdrawn opinion, the argument has no foundation.
+
+==================================================
+SECTION 2: II. The Circuit Split Is Real And Entrenched
+==================================================
+
+ARGUMENT UNIT 2.1: The Fifth Circuit's holding that 541.604 applies to HCE employees conflicts with the First and Second Circuits, and respondent's attempt to distinguish those cases on weekly-versus-daily rate grounds fails on three independent grounds.
+
+DOCTRINAL:
+- ANALOGIZE: Draws the analogy between the employees in Anani (2d Cir.) and Litz (1st Cir.) — paid on weekly rates — and respondent Hewitt, paid on a daily rate. Argues the distinction is irrelevant because what matters under the regulation is the frequency of payment, not the unit of rate calculation.
+- BROADEN_HOLDING: Reads Anani and Litz as establishing the broad principle that the HCE regulation is a standalone streamlined exemption. The weekly-rate facts of those cases are incidental; the legal holding applies equally to daily rates.
+- DISTINGUISH_PURPOSE: Distinguishes the purpose of the HCE regulation (a streamlined exemption for highly compensated employees) from the purpose of 541.604 (addressing minimum-guarantee-plus-extras compensation). The two serve different functions, and the Fifth Circuit's conflation of them is the core error.
+- INVOKE_AUTHORITY: Cites both dissents below — six dissenting judges — as agreeing with petitioner's reading. Treats intra-circuit dissent as evidence of the split's depth.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Frames the circuit split as "real and entrenched" — not a technical disagreement about facts but a fundamental legal division on whether the HCE regulation is standalone.
+- PREEMPTIVE_REBUTTAL: Anticipates and rebuts respondent's distinguishing argument (weekly vs. daily rates) with a three-part refutation structured as "triply irrelevant." Eliminates the escape route before it can gain traction.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the dollar amounts — respondent's guaranteed day rate of $963 was "well above the weekly threshold and nearly as high as the weekly rates of Litz ($1,000) and Anani ($1,250)." The numerical comparison makes the distinction between daily and weekly rates look arbitrary.
+- RECHARACTERIZE: Recharacterizes the daily-versus-weekly distinction as "a factual sideshow with no relevance to the fundamental legal question." Demotes respondent's factual argument from legally significant to legally irrelevant.
+- DIMINISHING_MODIFIER: "factual sideshow" — minimizes the significance of the rate-calculation distinction before engaging with it substantively. The modifier does evaluative work that the doctrinal argument then confirms.
+- FOREGROUND_ABSENCE: Notes respondent "makes no further effort to distinguish Anani" and declines to defend the en banc majority's characterization of that case. The absence of engagement is treated as a concession.
+
+STYLISTIC:
+- PARALLEL_STRUCTURE: "First... Second... Third, and most fundamentally" — clean three-part refutation that builds toward the strongest point. The escalating structure ("triply irrelevant") signals comprehensive demolition.
+- CONCRETE_ANCHOR: The specific dollar figures ($963/day vs. $1,000/week and $1,250/week) anchor the abstract doctrinal argument in tangible numbers. The reader can see that the amounts are comparable.
+- COMPRESSION: Three independent grounds for rejecting the distinction are compressed into a single sustained passage. Each could be a separate section; together they create cumulative force.
+
+ARGUMENT UNIT 2.2: A Department of Labor opinion letter citing the withdrawn panel opinion does not rehabilitate respondent's position.
+
+DOCTRINAL:
+- DISTINGUISH: Distinguishes the DOL opinion letter from authoritative guidance — it "merely cites the withdrawn panel opinion," inheriting the defect of its source.
+- INVOKE_AUTHORITY: Uses a member of the panel's own observation (Wiener, J., dissenting, Resp.App.46a) to undercut the opinion letter's significance. The authority being invoked is the respondent's own court.
+
+NARRATIVE:
+- FRAME_AS_ERROR: The opinion letter is derivative of the withdrawn opinion and therefore carries no independent weight.
+
+FACT-FRAMING:
+- DIMINISHING_MODIFIER: "merely cites" — reduces the opinion letter to a pass-through of already discredited reasoning.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: Citing a dissenting judge from the panel below adds internal-court credibility to the dismissal of the opinion letter.
+
+==================================================
+SECTION 3: IV. The Question Presented Is Important
+==================================================
+
+ARGUMENT UNIT 3.1: The question is important, recurring, cross-industry, and the Fifth Circuit's rule produces absurd outcomes — respondent does not contest any of this.
+
+DOCTRINAL:
+- SLIPPERY_SLOPE: Argues the Fifth Circuit's rule will incentivize "nationwide collective actions" centered in that circuit, turning a regulatory interpretation into a litigation-strategy problem with nationwide consequences.
+- DISTINGUISH_PURPOSE: Distinguishes the FLSA's purpose — "a minimal standard of fair treatment for blue-collar workers" — from the result below, which rewards "supervisors already making well over six figures." The purpose-outcome mismatch frames the Fifth Circuit's rule as internally incoherent.
+- INVOKE_AUTHORITY: Marshals amici support: "a broad coalition of amici states" (States.Br.1) and "industry amici representing thousands of resource exploration and production companies" (TXOGA.Br.3-7; IPAA.Br.18-20). The breadth of amicus support functions as evidence of the question's practical importance.
+
+NARRATIVE:
+- ESCALATE_STAKES: Raises the consequences from a single employee's overtime claim to "massive 'minimum-wage' windfalls," "significant retroactive liability for long-settled practices," and nationwide forum-shopping. The stakes are not just legal but industrial and economic.
+- AFFIRMATIVE_FRAME: Frames the question as one that "cries out for this Court's review" — positions cert as a matter of institutional obligation, not petitioner's litigation preference.
+- NEW_MOVE_SILENCE_AS_CONCESSION: Structures the entire section around what respondent "does not dispute." Respondent's silence on importance, cross-industry impact, retroactive liability, and percolation is treated as tacit agreement. The argumentative burden shifts: if respondent does not contest these points, they are established.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the practical consequences — "well-heeled supervisors with massive 'minimum-wage' windfalls" — rather than the doctrinal technicalities. The facts are selected to make the result below look absurd.
+- RECHARACTERIZE: Recharacterizes the respondent from an aggrieved worker denied overtime to a "well-heeled supervisor" receiving a "windfall." The FLSA's intended beneficiaries (blue-collar workers) are invoked to make the respondent's claim look like a statutory distortion.
+- OPPONENT_CONCESSION_CAPTURE: Respondent's failure to argue that further percolation is needed is captured as affirmative support for certiorari.
+
+STYLISTIC:
+- PARALLEL_STRUCTURE: "He does not dispute... He does not dispute... He does not dispute... And Respondent does not argue..." — anaphoric repetition hammers the point that respondent has conceded the importance question by default.
+- REGISTER_CONTRAST: The passage shifts from policy-neutral description ("cuts across borders and industries") to pointed characterization ("reward well-heeled supervisors with massive 'minimum-wage' windfalls"). The register contrast highlights the absurdity of the result.
+- CADENCE_SHIFT: The final sentence — "the issue cries out for this Court's review" — lands after a series of concession-capturing sentences. The buildup creates a sense of inevitability before the conclusion.
+
+
+==================================================
+==================================================
+
+RESPONDENT BRIEF (Docket21-984_Brief006.pdf)
+
+==================================================
+SECTION 1: A. The Text and Structure of section 541.602 Foreclose Helix's Claim to Exemption
+==================================================
+
+ARGUMENT UNIT 1.1: Hewitt was paid "with" not "without" regard to days worked, and a daily rate is not a "predetermined amount" on a weekly basis — section 541.602's text independently bars exemption.
+
+DOCTRINAL:
+- APPLY_STANDARD: Applies the text of 541.602's salary-basis test to Hewitt's compensation structure. The regulation requires a "predetermined amount" received "on a weekly, or less frequent basis" "without regard to the number of days or hours worked." Each element is tested against the facts.
+- NARROW_STATUTE: Reads "predetermined amount" narrowly as requiring a reference point of a week or longer. The "predetermined" qualifier is not satisfied by a daily rate because the regulatory text ties predetermination to a period "on a weekly, or less frequent basis."
+- INVOKE_AUTHORITY: Cites Hughes v. Gulf Interstate Field Services, 878 F.3d 183, 189 (6th Cir. 2017) — "a day rate is 'calculated more frequently than weekly'" — and In re Wal-Mart Stores, 395 F.3d 1177, 1184 (10th Cir. 2005) — "'predetermined amount' ... refers to the amount previously agreed on for the period for which the salary is to be paid." Marshals circuit authority from outside the Fifth Circuit to show this reading has independent support.
+- APPLY_TO_FACTS: "Because it was directly tied to how much he worked, Hewitt was paid 'with' not 'without regard to the number of days and hours worked.'" Applies the regulatory language to the specific compensation structure and finds it fails the test.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Leads with an independent textual basis for affirmance — even if the Court disagrees with the Fifth Circuit's 541.604 analysis, 541.602 independently forecloses exemption. This is respondent's alternative-grounds strategy, offering the Court a way to affirm without reaching the question petitioner wants to litigate.
+- FRAME_AS_ERROR: "Petitioners are wrong" — direct, unhedged rejection of petitioner's textual reading. Does not characterize it as a reasonable alternative; treats it as foreclosed by the text.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the regulatory language that the Fifth Circuit "expressly relied on" — "without regard to the number of days or hours worked." This textual element does heavy lifting because Hewitt's compensation was directly tied to days worked.
+- RECHARACTERIZE: Recharacterizes petitioner's claim that the "predetermined amount" was the daily rate as a misreading of the regulation's structure. The reference point must be a week or more, not a day.
+- FOREGROUND_ABSENCE: "received no weekly minimum" — emphasizes the absence of a guaranteed weekly floor as a structural deficiency in Hewitt's compensation arrangement. The missing element is treated as dispositive.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: Dense citation to circuit authority (6th Cir., 10th Cir.) and to the regulatory text itself. The accumulation signals that respondent's reading is not novel but is the natural reading endorsed by multiple courts.
+- COMPRESSION: The text-and-structure argument, the application to facts, and the circuit authority are compressed into a single sustained passage. Each element reinforces the others.
+- STRATEGIC_QUOTATION: Deploys the regulation's own language — "without regard to the number of days or hours worked," "predetermined amount," "on a weekly, or less frequent basis" — to let the text do the argumentative work. The quotations are arranged to create a sequence of textual failures.
+
+CROSS-BRIEF INTERACTION: This section directly responds to petitioner's NARROW_HOLDING move (confining the decision below to 541.604). Respondent's strategy is to deny that the question is limited to 541.604 by showing that 541.602 independently bars exemption. Petitioner framed this as a "non-defense" (Section 1 above); respondent frames it as the text-driven answer the Court can adopt regardless of how it resolves the 541.604 question. This is the central framing battle: petitioner wants the case to be about one regulation; respondent wants it to be about two.
+
+==================================================
+SECTION 2: B. Helix's Position Contradicts the Department of Labor's Longstanding Interpretation
+==================================================
+
+ARGUMENT UNIT 2.1: The DOL has for decades prohibited the division of weekly salaries into a guaranteed minimum and a variable remainder — a prohibition that would be pointless under petitioner's reading.
+
+DOCTRINAL:
+- INVOKE_AUTHORITY: Traces the regulatory history from the 1949 regulation through every subsequent update to the 2004 incorporation of the reasonable-relationship requirement. The depth of the historical record establishes that the DOL's interpretation is not recent or opportunistic but spans more than half a century.
+- APPLY_STANDARD: Applies the anti-division prohibition to petitioner's compensation structure. If "salary basis" meant only securing the employee a minimum weekly amount, the prohibition against dividing compensation into a guaranteed minimum and a variable remainder "would have been pointless."
+- BROADEN_HOLDING: Reads the anti-division prohibition broadly as reflecting the Department's consistent understanding that guaranteed compensation covering only part of the workweek is not payment "on a salary basis." The specific prohibition reveals a general principle.
+- STARE_DECISIS_SHIELD: Invokes the Department's "decades-old understanding" as a form of interpretive stability that should not be disturbed. The longevity of the interpretation is itself an argument for its correctness.
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: Anticipates petitioner's claim that 541.604 is a separate, additional requirement by showing that its substance — the reasonable-relationship test — predates 541.604 and was part of the DOL's longstanding interpretation of the salary-basis requirement itself.
+- INSTITUTIONAL_REBUKE: Implies that petitioner's reading would require the Court to find that the Department misunderstood its own regulation for more than fifty years. The implicit rebuke makes the reading look untenable without directly saying so.
+
+FACT-FRAMING:
+- SEQUENCE: Constructs a regulatory timeline — 1949, 1963, 1970, 2004 — showing the anti-division prohibition in every iteration of the regulation. The sequence establishes continuity and makes petitioner's reading appear historically rootless.
+- FOREGROUND: Foregrounds the specific historical examples: dividing "$100 a week" into "$55" guaranteed and "$45" variable (1949); dividing "$125" into "$80" and "$45" (1963); dividing "$145" into "$100" and "$45" (1970). The concrete numbers make the abstract prohibition tangible.
+- RECHARACTERIZE: Recharacterizes petitioner's position as one that would render half a century of regulatory prohibitions "pointless." The recharacterization turns a textual argument into an absurdity argument.
+
+STYLISTIC:
+- CONCRETE_ANCHOR: The specific dollar amounts from each regulatory era ($100/$55/$45 in 1949; $125/$80/$45 in 1963; $145/$100/$45 in 1970) anchor the historical argument in tangible examples. The reader can see the prohibition operating across decades.
+- AUTHORITY_SIGNALING: Footnote 6 provides parallel citations to the 1963 and 1970 regulations, demonstrating exhaustive documentation of the regulatory history. The density of citation signals thorough research and authoritative command of the record.
+- PARALLEL_STRUCTURE: The repeated pattern — regulatory year, dollar amounts, prohibited division — creates a cumulative rhythm that reinforces the argument's central claim of consistency across time.
+
+CROSS-BRIEF INTERACTION: Responds to petitioner's characterization of 541.604 as a separate provision layered on top of the HCE regulation. Respondent's SEQUENCE move (tracing the reasonable-relationship requirement back to 1949) directly rebuts petitioner's DISTINGUISH_PURPOSE move (treating the HCE regulation and 541.604 as serving different functions). Respondent's argument is that they serve the same function because 541.604 merely codified what the DOL always understood 541.602 to require.
+
+==================================================
+SECTION 3: C. The Preamble to the 2004 Regulations and section 541.604(b) Confirm That Helix Did Not Pay Hewitt "On a Salary Basis"
+==================================================
+
+ARGUMENT UNIT 3.1: Section 541.604(b) is not an additional requirement beyond the salary-basis test — it reflects the Department's understanding of how daily or hourly compensation can satisfy the salary-basis test.
+
+DOCTRINAL:
+- NARROW_STATUTE: Reads 541.604(b) not as imposing separate requirements but as specifying the conditions under which hourly, daily, or shift-based compensation satisfies 541.602's salary-basis test. The regulation is a specification, not an addition.
+- INVOKE_AUTHORITY: Cites the 2004 regulatory preamble — "The reasonable relationship requirement incorporates in the regulation Wage and Hour's long-standing interpretation of the existing salary basis regulation" — as controlling evidence of the regulation's meaning.
+- APPLY_STANDARD: Applies 541.604(b)'s two requirements (guarantee of weekly minimum paid on a salary basis; reasonable relationship between guaranteed and actual earnings) to show they are conditions for daily-rate workers to meet the salary-basis test, not independent requirements stacked on top of it.
+- STARE_DECISIS_SHIELD: Cites four SCOTUS decisions — Christopher v. SmithKline Beecham, Coeur Alaska v. Southeast Alaska Conservation Council, City of Chicago v. Environmental Defense Fund, Fidelity Federal v. de la Cuesta — for the principle that preambles are authoritative guides to agency intent. The quartet of precedents forecloses any argument that the preamble should be ignored.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Frames 541.604(b) as confirmatory rather than additional — it "confirm[s] that Helix did not pay Hewitt 'on a salary basis.'" This framing dissolves petitioner's central argument that the HCE regulation is a standalone exemption that should not be burdened by 541.604's requirements.
+- AGREEMENT_TRAP: Cites petitioner's own characterization of 541.604(b) as a "proviso" (via "Petitioners declare it 'untenable'"), then uses the preamble to show that the "proviso" reading is exactly what the DOL intended. Petitioner's objection becomes evidence against petitioner.
+- PREEMPTIVE_REBUTTAL: Anticipates the argument that 541.604(b) applies only to employees below a certain compensation threshold ("Helix's position that 541.604(b) is a separate provision that applies only to employees who make a certain amount of money") and rebuts it with the preamble's language.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the preamble language — "incorporates in the regulation Wage and Hour's long-standing interpretation" and "inconsistent with the salary basis concept" — as the interpretive key. The preamble does not suggest that 541.604(b) creates new requirements; it codifies old ones.
+- RECHARACTERIZE: Recharacterizes petitioner's reading of 541.604(b) as a "separate provision" into a misunderstanding of the regulation's structure. The provision is not separate; it is part of the salary-basis framework.
+- STRATEGIC_SILENCE: Does not dwell on the HCE regulation itself or its three-part test. Keeps the focus on the relationship between 541.602 and 541.604, treating the HCE question as downstream of this structural question.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: The 2004 preamble quotation — "incorporates in the regulation Wage and Hour's long-standing interpretation of the existing salary basis regulation" — is deployed as a near-dispositive textual anchor. The quotation carries the argument; the brief's own words frame it.
+- AUTHORITY_SIGNALING: Four Supreme Court citations for the principle that preambles are authoritative. The citations are not strictly necessary for the proposition but signal that respondent's reliance on the preamble is well-grounded in the Court's own practice.
+- REGISTER_CONTRAST: Shifts from the neutral register of regulatory interpretation ("Section 541.604(b) identifies the circumstances...") to the pointed register of rebuttal ("Helix ignores this language which forecloses its position"). The contrast highlights petitioner's failure to engage with the strongest textual evidence against its position.
+
+CROSS-BRIEF INTERACTION: This section responds to petitioner's DISTINGUISH_PURPOSE move (treating the HCE regulation and 541.604 as serving different functions) and petitioner's NARROW_HOLDING move (confining the question to 541.604's applicability). Respondent's counter-argument is that the distinction collapses once you read the preamble: 541.604 is not a separate test but a codification of how 541.602 applies to daily-rate workers. If that is correct, petitioner's entire framing — standalone HCE exemption vs. additional 541.604 requirements — is a false dichotomy.
+
+
+==================================================
+==================================================
+CROSS-BRIEF INTERACTION SUMMARY
+==================================================
+
+1. THE FRAMING BATTLE — WHICH REGULATION CONTROLS:
+Petitioner's NARROW_HOLDING confines the case to 541.604 and characterizes respondent's 541.602 defense as a "non-defense." Respondent's AFFIRMATIVE_FRAME counters by presenting 541.602 as an independent textual basis for affirmance. The deeper move: respondent's NARROW_STATUTE reading of 541.604(b) (it is not a separate test but a specification of 541.602) dissolves petitioner's entire framing. If 541.604 merely codifies what 541.602 already requires, the question whether 541.604 "applies" to HCE employees is beside the point — the salary-basis test was never satisfied in the first place.
+
+2. THE CIRCUIT SPLIT BATTLE — REAL OR ILLUSORY:
+Petitioner's ANALOGIZE draws parallels to Anani (2d Cir.) and Litz (1st Cir.) to establish a genuine split. Respondent does not engage extensively with the split in these excerpts but undermines it structurally: if the case can be resolved on 541.602 grounds, the 541.604 split becomes irrelevant. Petitioner's FOREGROUND of the dollar amounts ($963/day vs. $1,000/week and $1,250/week) attempts to make the daily/weekly distinction look artificial. Respondent's FOREGROUND_ABSENCE (no weekly minimum guarantee) redirects attention to the structural feature that distinguishes Hewitt's compensation from the employees in Anani and Litz.
+
+3. THE HISTORICAL-INTERPRETATION BATTLE:
+Respondent's SEQUENCE move (tracing the anti-division prohibition from 1949 to 2004) directly rebuts petitioner's DISTINGUISH_PURPOSE (HCE regulation and 541.604 serve different functions). Respondent argues continuity — the DOL always understood the salary-basis test to require more than a weekly minimum. Petitioner's OPPONENT_CONCESSION_CAPTURE (citing respondent's own concession about 541.604's relevance) is countered by respondent's AGREEMENT_TRAP (using petitioner's characterization of 541.604 as a "proviso" to show the DOL intended exactly that).
+
+4. THE STAKES AND CONSEQUENCES BATTLE:
+Petitioner's ESCALATE_STAKES (windfalls for well-heeled supervisors, retroactive liability, nationwide forum-shopping) and RECHARACTERIZE (respondent as a high-earning supervisor seeking a windfall, not a blue-collar worker) go largely uncontested in the respondent excerpts. Respondent's strategic choice to fight on text-and-structure grounds rather than policy grounds leaves petitioner's stakes-based arguments unanswered in these sections.
+
+5. THE PROCEDURAL-HISTORY BATTLE:
+Petitioner's SEQUENCE (panel opinion withdrawn, replaced by en banc opinion on different grounds) directly contests respondent's attempt to defend the result on 541.602 grounds. Petitioner argues the 541.602 theory was tried and abandoned. Respondent's counter-move is to argue the 541.602 analysis was always available and correct regardless of which opinion relied on it — the en banc majority's reliance on 541.604 does not immunize the result from defense on 541.602 grounds.
+
+
+==================================================
+NEW MOVES
+==================================================
+
+NEW_MOVE_SILENCE_AS_CONCESSION: Treating an opposing party's failure to contest a point as tacit admission. Distinguished from FOREGROUND_ABSENCE (which highlights missing evidence or facts) and OPPONENT_CONCESSION_CAPTURE (which captures an affirmative statement). SILENCE_AS_CONCESSION operates on the absence of argument rather than the absence of fact or the presence of a damaging admission. Petitioner deploys this in Section 3 (IV. The Question Presented Is Important) by structuring an entire passage around what respondent "does not dispute," converting silence into affirmative support for certiorari.

@@ -1,0 +1,302 @@
+STRATEGIC MOVE ANNOTATIONS — DOCKET 21-869
+Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith
+==================================================
+
+PETITIONER BRIEF (Docket21-869_Brief002.pdf)
+
+==================================================
+SECTION 1: I. The Second Circuit Flouted Campbell
+==================================================
+
+ARGUMENT UNIT 1.1: Campbell's transformativeness inquiry turns on whether the new work adds new meaning or message, and the Prince Series unquestionably does.
+
+DOCTRINAL:
+- INVOKE_AUTHORITY: Opens by quoting Campbell's core definition of transformativeness — "adds something new, with a further purpose or different character, altering the first with new expression, meaning, or message." 510 U.S. at 579. Establishes this as the governing standard before applying it.
+- APPLY_TO_FACTS: Applies Campbell's standard directly to both works. Goldsmith's photograph conveys Prince as "a really vulnerable human being" with "immense fears"; Warhol's Prince Series comments on "society's portrayal of celebrity." Maps the doctrinal standard onto the specific meaning divergence.
+- FRAME_AS_ERROR (doctrinal application): Characterizes the Second Circuit's holding — that courts should not analyze differences in meaning between visually similar works — as "a doctrinal turn so stark and unsupported that it demands this Court's intervention." Treats the holding not as a reasonable interpretation but as a departure from controlling precedent.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Positions the petitioner as the faithful applier of Campbell and the Second Circuit as the outlier. AWF's case is framed as a straightforward application of existing law, not a request for new law.
+- ESCALATE_STAKES: "demands this Court's intervention" — elevates the ruling from an erroneous application to a systemic doctrinal problem requiring Supreme Court correction.
+- PREEMPTIVE_REBUTTAL: Anticipates Goldsmith's argument that the panel merely "applied the Court's longstanding test for transformativeness" and calls it out as a mischaracterization of what the panel actually held.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the undisputed fact that the works communicate different meanings. "There is no dispute that the Prince Series does communicate a different meaning and message than Goldsmith's original." By framing this as conceded ground, petitioner narrows the dispute to the legal question of whether meaning differences should matter.
+- RECHARACTERIZE: Recharacterizes Warhol's work from mere visual alteration to conceptual commentary. Warhol's purpose was "not to 'portray' Prince at all, but to comment on society's portrayal of celebrity." Elevates the work from appropriation to social commentary.
+- OPPONENT_CONCESSION_CAPTURE: Uses Goldsmith's own description of her photograph — conveying Prince as "a really vulnerable human being" with "immense fears" — to establish the meaning divergence between the works. Goldsmith's words prove petitioner's point.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Deploys Campbell's "new expression, meaning, or message" language with emphasis added to the disjunctive "or," doing interpretive work through citation formatting. The emphasis makes the textual argument visible without belaboring it.
+- COMPRESSION: Packs the doctrinal standard, the factual application, the lower court's error, and the respondent's anticipated counterargument into a single sustained passage.
+- AUTHORITY_SIGNALING: Dense citation to Campbell at specific pinpoints and to the joint appendix for both artists' stated purposes. Signals that the factual record supports the argument at every step.
+
+ARGUMENT UNIT 1.2: Goldsmith's reading of Campbell imposes a requirement that does not exist in the text — a "fundamentally different and new artistic purpose" beyond new meaning or message.
+
+DOCTRINAL:
+- NARROW_STATUTE: Reads Campbell's "further purpose or different character" language as satisfied by any new "expression, meaning, or message." Rejects the idea that "purpose" requires something beyond or above the meaning inquiry.
+- DISTINGUISH: Distinguishes between Campbell's actual holding (new meaning or message suffices) and Goldsmith's gloss on it (a "fundamentally different and new artistic purpose" is required). Frames Goldsmith's reading as an invention rather than an interpretation.
+
+NARRATIVE:
+- FRAME_AS_ERROR: "Goldsmith is mistaken." Direct, unhedged characterization of the opposing reading as wrong.
+- CONCEDE_AND_REDIRECT: Engages Goldsmith's framing on its own terms — "even when a work conveys a distinct meaning or message" — then redirects by showing that Campbell's text does not support the added layer Goldsmith imposes.
+
+FACT-FRAMING:
+- DIMINISHING_MODIFIER: Goldsmith's position "asserts" and her argument is "in her telling" — language that marks the opposing characterization as spin rather than analysis.
+
+STYLISTIC:
+- REGISTER_CONTRAST: Moves from neutral doctrinal exposition ("Under Campbell, a new work has 'a further purpose or different character' whenever...") to declarative rebuttal ("Goldsmith is mistaken"). The shift in register from analytical to assertive underscores the confidence of the position.
+
+==================================================
+SECTION 2: II. The Circuit Split Is Real
+==================================================
+
+ARGUMENT UNIT 2.1: The Ninth Circuit's Seltzer decision directly contradicts the Second Circuit's approach by holding that new expressive content or message is sufficient for transformativeness.
+
+DOCTRINAL:
+- ANALOGIZE: Maps the Ninth Circuit's Seltzer holding onto the dispute. Seltzer held that works are "viewed as transformative as long as new expressive content or message is apparent" — the exact inquiry the Second Circuit refused to conduct.
+- BROADEN_HOLDING: Reads Seltzer broadly — its holding applies to visually similar works, not just works where the medium or form changed. "Even where there are 'few physical changes to the original' or where the new work 'fails to comment on the original.'"
+- DISTINGUISH: Rejects Goldsmith's attempt to confine Seltzer to its facts (change from street art to video backdrop). Shows that the Ninth Circuit's own reasoning evaluated meaning and message, not form.
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: Anticipates and dismantles Goldsmith's characterization of Seltzer before it can gain traction. Goldsmith "ignores Seltzer's holding" and offers an explanation that "does not square with the Ninth Circuit's own reasoning."
+- AGREEMENT_TRAP: Catches Goldsmith in an internal contradiction. Goldsmith argues Seltzer turned on a change in form (street art to video), but "elsewhere asserts that film adaptations from novels are not transformative, notwithstanding a change in form." Goldsmith's own position refutes her reading of Seltzer.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the Ninth Circuit's explicit language — "new expressive content or message" — and its express juxtaposition of transformative versus non-transformative uses. Quotes at length to prevent the court from reading Seltzer as narrower than it is.
+- RECHARACTERIZE: Reframes Goldsmith's reading of Seltzer as cherry-picking a factual detail ("street art to video backdrop") and ignoring the court's stated rationale. The Ninth Circuit evaluated "new information, new aesthetics, new insights and understandings" about "the hypocrisy of religion" — a meaning-and-message inquiry.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Quotes the Ninth Circuit's language at length to let Seltzer's own words refute Goldsmith's characterization. The move is forensic — placing the court's actual language against Goldsmith's description of it.
+- CONCRETE_ANCHOR: The specific content of Seltzer — Green Day's use of street art, the "hypocrisy of religion" theme — grounds the abstract circuit-split argument in a tangible factual scenario the Court can evaluate.
+
+ARGUMENT UNIT 2.2: Goldsmith's attempt to reconcile the circuits fails because her own position is internally contradictory.
+
+DOCTRINAL:
+- DISTINGUISH: Separates Goldsmith's characterization of Seltzer (form-change case) from the Ninth Circuit's actual reasoning (meaning-and-message case). The distinction is between what Goldsmith says the case holds and what the court said it held.
+
+NARRATIVE:
+- AGREEMENT_TRAP: The internal contradiction — form changes matter for Seltzer but not for film adaptations — is deployed a second time. Petitioner does not merely identify the inconsistency; the inconsistency does the argumentative work of establishing that Goldsmith's framework is incoherent.
+
+FACT-FRAMING:
+- FOREGROUND_ABSENCE: Highlights what Goldsmith does not do: "she does not explain why that purported change in form should control the transformative use inquiry." The gap in the argument is foregrounded as evidence of its weakness.
+
+STYLISTIC:
+- UNDERSTATED_DEVASTATION: The contradiction is presented without fanfare. Petitioner notes the inconsistency and moves on, allowing the logical failure to speak for itself.
+
+==================================================
+SECTION 3: III. The Question Presented Is Exceptionally Important
+==================================================
+
+ARGUMENT UNIT 3.1: The cases Goldsmith cites to show fair use is alive in the Second Circuit actually confirm the problem.
+
+DOCTRINAL:
+- DISTINGUISH: Distinguishes the post-decision cases Goldsmith cites as involving works that "were clearly transformative by any measure" — they did not test the Second Circuit's novel rule because the transformativeness finding was overdetermined. The cases prove nothing about the rule's impact.
+- APPLY_TO_FACTS: Points to a specific case (Fioranelli) where the court applied the decision below to deny fair use protection for a subset of works because there were no "visual differences" between the original and secondary works. This is the rule in action, producing exactly the harm petitioner predicts.
+- SLIPPERY_SLOPE: Argues the Second Circuit's rule "will lead district courts astray in the significant number of cases where its novel rule will be dispositive." The concern is not that the rule always produces wrong results but that it produces wrong results in the hard cases where meaning divergence is the strongest basis for fair use.
+
+NARRATIVE:
+- CONCEDE_AND_REDIRECT: "AWF's point, of course, is not that the decision below will lead to the wrong result in every case — just that it will lead district courts astray in the significant number of cases where its novel rule will be dispositive." Concedes the narrow point (some cases come out right) to sharpen the broader claim (the rule warps outcomes in the cases that matter).
+- FRAME_AS_ERROR: Identifies additional district court decisions (Grant v. Trump, others) where the Second Circuit's rule produced the error petitioner predicts. These are presented as evidence the harm is actual, not speculative.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the specific post-decision cases where the Second Circuit's rule led to fair-use denials based on visual similarity rather than meaning analysis. The evidence is drawn from the respondent's own cited cases and from additional cases the respondent ignored.
+- FOREGROUND_ABSENCE: "Goldsmith ignores other decisions from district courts in the Second Circuit where that is precisely what happened." Highlights the selective citation as evidence that Goldsmith's account of the post-decision landscape is incomplete.
+- OPPONENT_CONCESSION_CAPTURE: Turns one of Goldsmith's own cited cases (Fioranelli) against her — a case she offered as evidence that fair use survives instead demonstrates the decision below producing the very harm petitioner identifies.
+
+STYLISTIC:
+- CONCRETE_ANCHOR: Grant v. Trump and Fioranelli function as specific, named examples that make the doctrinal harm tangible. The Court can see the rule producing bad results in identified cases, not just in hypotheticals.
+- AUTHORITY_SIGNALING: Cites amici "including artists, museums, foundations, and academics" to show breadth of concern beyond the parties. Signals that the importance of the question is externally validated.
+
+
+==================================================
+
+RESPONDENT BRIEF (Docket21-869_Brief012.pdf)
+
+==================================================
+SECTION 1: I. AWF's Use of Goldsmith's Photograph Was Not Transformative (Overview)
+==================================================
+
+ARGUMENT UNIT 1.1: The first fair-use factor asks whether the new use necessarily borrows from the original to accomplish its purpose, or substitutes for it.
+
+DOCTRINAL:
+- APPLY_STANDARD: Reformulates the first fair-use factor not as a meaning-or-message inquiry but as a necessity-of-borrowing inquiry. "Whether the new use necessarily borrows from the original to accomplish its purpose, or instead substitutes for the original." This reframes the entire doctrinal standard before any facts are applied.
+- NARROW_STATUTE: Narrows the transformativeness inquiry from Campbell's broader language (new expression, meaning, or message) to a functional test: did the copier need the original? This is a deliberate constriction of the doctrinal standard petitioner relies on.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Opens with "longstanding approach" — positions respondent's formulation as the established test and petitioner's reading as the departure. Both sides claim orthodoxy; respondent gets the framing benefit of going second.
+
+FACT-FRAMING:
+- RECHARACTERIZE: AWF's use is recharacterized from "transformation" to "substitution." The word choice does heavy work: a use that "substitutes for the original" is by definition market-displacing rather than transformative.
+
+STYLISTIC:
+- COMPRESSION: The entire section overview is compressed into two sentences that reframe the doctrinal question. No wasted motion — respondent establishes the alternative framework and moves on.
+
+CROSS-BRIEF INTERACTION: Directly counters petitioner's APPLY_STANDARD move (Unit 1.1), which frames the inquiry as whether new meaning or message exists. Respondent's counter-move replaces that standard with a necessity-of-borrowing test, shifting the doctrinal ground before engaging petitioner's facts.
+
+==================================================
+SECTION 2: A. Transformative Uses Necessarily Borrow from the Original
+==================================================
+
+ARGUMENT UNIT 2.1: Copyright's structure — exclusive rights including over derivative works — establishes that transformation alone does not make a use fair.
+
+DOCTRINAL:
+- INVOKE_AUTHORITY: Grounds the argument in the statutory structure of the 1976 Copyright Act, including the exclusive right to create derivative works that "recast, transform[], or adapt[]" the original. 17 U.S.C. 101, 106. This is a structural argument: the statute already contemplates "transformation" as within the copyright holder's exclusive control.
+- DISTINGUISH_PURPOSE: Distinguishes between "transformation" in the derivative-works sense (which is the copyright holder's exclusive right) and "transformative use" in the fair-use sense (which must add something beyond mere transformation). This move undercuts petitioner's entire framework by showing that mere new meaning is not enough — otherwise every derivative work would be fair use.
+- APPLY_STANDARD: Frames the fair-use inquiry as holistic and use-specific, citing Campbell's direction that all four factors "be explored, and the results weighed together" without "bright-line rules." Positions petitioner's meaning-or-message test as exactly the kind of bright-line rule Campbell prohibited.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Builds from constitutional foundations ("Since the dawn of the Republic") through the statutory framework to Campbell. Respondent is telling the story of copyright's development to position her reading as the natural culmination of that history.
+- PREEMPTIVE_REBUTTAL: Anticipates petitioner's argument that meaning-or-message analysis is sufficient by showing that the statute already gives copyright holders control over works that "transform" the original. If transformation alone made a use fair, the derivative-works right would be meaningless.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the statutory text — particularly the derivative-works provision — as the baseline against which fair use must be read. By placing the statute front and center, respondent forces the Court to reckon with the tension between petitioner's broad reading of fair use and the copyright holder's exclusive rights.
+- SEQUENCE: Sequences the legal framework chronologically: constitutional grant, statutory codification, fair-use defense, Campbell refinement. This sequencing makes petitioner's reading appear as a late-stage expansion rather than a settled interpretation.
+
+STYLISTIC:
+- CONCRETE_ANCHOR: "The Cat in the Hat might be commented on, parodied, dramatized, or spawn stuffed animals and Halloween costumes. Some of those might be fair use; others not." The example grounds the abstract holistic-inquiry principle in an immediately graspable illustration.
+- AUTHORITY_SIGNALING: Dense citation to Harper & Row, Campbell, and the statutory text. Respondent signals that every element of her framework is supported by controlling authority.
+- PARALLEL_STRUCTURE: The Cat in the Hat illustration uses a parallel list ("commented on, parodied, dramatized, or spawn stuffed animals and Halloween costumes") to show the range of uses the statute must accommodate, making the single-factor test seem reductive.
+
+ARGUMENT UNIT 2.2: AWF isolates one factor and one sub-element, collapsing the statutory framework into a single-factor test.
+
+DOCTRINAL:
+- NARROW_STATUTE: Characterizes AWF's approach as improperly isolating "one fair-use factor" and then "one sub-element" of that factor. The statutory scheme requires all four factors weighed together; AWF's test collapses that structure.
+- BURDEN_SHIFT: Implicitly argues that AWF is attempting to shift the analytical burden — from the copier proving fair use across all four factors to the copyright holder proving the absence of new meaning. Respondent frames this as a structural inversion of the statutory scheme.
+
+NARRATIVE:
+- FRAME_AS_ERROR: AWF "isolates" one factor — the verb choice characterizes AWF's approach as methodologically flawed, not just substantively wrong.
+- INSTITUTIONAL_REBUKE: Implicit rebuke of the approach as inconsistent with what Congress designed. The statute's four-factor structure is presented as a deliberate congressional choice that AWF's test would override.
+
+FACT-FRAMING:
+- DIMINISHING_MODIFIER: "one fair-use factor," "one sub-element" — the repetition of "one" minimizes AWF's framework, making it seem reductive against the statutory scheme's four-factor complexity.
+
+STYLISTIC:
+- REGISTER_CONTRAST: Moves from the measured, structural register of the statutory exposition to a sharper characterization of AWF's approach as "isolat[ing]" a single element. The contrast marks the transition from respondent's affirmative framework to the critique of petitioner's.
+
+==================================================
+SECTION 3: B. The Second Circuit Correctly Found No Transformativeness
+==================================================
+
+ARGUMENT UNIT 3.1: The Second Circuit faithfully applied Campbell and Google by assessing whether the new work's use was "manifestly different" in purpose from the original.
+
+DOCTRINAL:
+- INVOKE_AUTHORITY: Quotes the Second Circuit quoting Campbell, showing the panel used the correct standard. The layered citation — this Court's words, applied by the circuit court — signals doctrinal fidelity.
+- APPLY_STANDARD: Walks through the Second Circuit's reasoning step by step: paradigmatic fair uses involve commentary on the original; AWF never contended that Orange Prince needed to use Goldsmith's photograph; the use substituted for the original in the magazine licensing market. Each step is presented as a faithful application of existing law.
+- STARE_DECISIS_SHIELD: "Under the statutory text and this Court's precedents, the court could have stopped there." Argues the Second Circuit was restrained, not aggressive — it could have ruled against AWF on narrower grounds but went further to explain its reasoning.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The Second Circuit "correctly held" — respondent's framing is that the panel got it right, not that it reached a defensible alternative. The certainty of the framing contrasts with petitioner's characterization of the ruling as "stark and unsupported."
+- FRAME_AS_ERROR (petitioner's position): AWF's claim that Warhol "erased the humanity" from the photograph is undercut by the fact that "Warhol could have used any Prince photograph" for that purpose. The claimed transformation had nothing to do with Goldsmith's specific creative contribution.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds several factual findings that undermine AWF's narrative: (1) "there is no evidence that Warhol was involved in identifying or selecting the particular photograph"; (2) Warhol depicted Prince "only because Vanity Fair paid him to"; (3) Vanity Fair licensed Goldsmith's photograph for the purpose. These facts reframe the creation narrative from artistic transformation to commercial convenience.
+- FOREGROUND_ABSENCE: "AWF has never contended that Warhol's Orange Prince... needed to use Goldsmith's photograph." Highlights the absence of a necessity argument as fatal to the transformativeness claim.
+- BACKGROUND: Backgrounds AWF's artistic-purpose narrative by foregrounding the commercial chain of events: Vanity Fair commissioned Warhol, Vanity Fair licensed the photo, the resulting work was licensed to magazines. The artistic narrative is displaced by the commercial one.
+- RECHARACTERIZE: Warhol's use is recharacterized from artistic transformation to market substitution. AWF "does not dispute that licensing Orange Prince to magazines supplants Goldsmith's original." The word "supplants" does evaluative work that "transforms" would not.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Quotes both the Second Circuit and Campbell extensively, creating a chain of authority: SCOTUS said X, the circuit court applied X, the result follows. The quotation structure does the argument's heavy lifting.
+- UNDERSTATED_DEVASTATION: "Warhol could have used any Prince photograph" — a devastating factual point delivered without rhetorical amplification. The implication (the specific photograph was irrelevant to the claimed artistic purpose) is left for the reader to draw.
+- CONCRETE_ANCHOR: The 2016 Conde Nast magazine licensing — the specific use at issue — grounds the abstract transformativeness inquiry in a concrete commercial transaction.
+
+CROSS-BRIEF INTERACTION: Directly responds to petitioner's FRAME_AS_ERROR (Unit 1.1), which characterized the Second Circuit's ruling as "stark and unsupported." Respondent's counter-move is INVOKE_AUTHORITY + APPLY_STANDARD — the panel followed Campbell step by step. Also responds to petitioner's RECHARACTERIZE of Warhol's purpose (commenting on celebrity) with a counter-RECHARACTERIZE (commercial substitution in the magazine market).
+
+==================================================
+SECTION 4: C. AWF's Policy Concerns Are Illusory
+==================================================
+
+ARGUMENT UNIT 4.1: AWF's parade-of-horribles argument ignores that fair use is a use-by-use inquiry; the decision below does not condemn all uses of the Prince Series.
+
+DOCTRINAL:
+- NARROW_HOLDING: Narrows the Second Circuit's holding to the specific use at issue — licensing Orange Prince to Conde Nast for a magazine cover. Other uses (museum displays, art sales) may fare differently under the four-factor analysis. This defuses petitioner's SLIPPERY_SLOPE by showing the slope has a natural stopping point.
+- APPLY_STANDARD: Returns to the statutory text's use-by-use framework. "Section 107 mandates use-by-use analysis." Petitioner's policy concerns are based on reading the decision as a work-level ruling, but the statute and the decision both operate at the use level.
+- DISTINGUISH: Distinguishes the magazine-licensing use (which competes with Goldsmith's market) from museum displays and art sales (which do not). The Second Circuit itself recognized this distinction, noting that "Warhol's original physical works did not risk comparable market harm."
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: AWF "equates affirmance with a latter-day bonfire of the vanities, where 'seminal works of art' would become contraband." Respondent names and deflates the hyperbole before engaging the substance.
+- CONCEDE_AND_REDIRECT: Concedes that some uses of the Prince Series may qualify as fair use (museum displays, art sales) while maintaining that the specific use at issue (magazine licensing) does not. This makes the ruling seem moderate rather than sweeping.
+- INSTITUTIONAL_REBUKE: Points out AWF "twice paraphrasing section 107(1) as if statute said 'work' instead of 'use'" — accuses petitioner of misquoting the statute to manufacture a broader holding than the decision actually reached.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the market-harm analysis: "Magazines seeking an image of Prince would less likely license Goldsmith's if hers must compete with similar Warhol depictions." The competitive market dynamic makes the substitution argument concrete.
+- RECHARACTERIZE: Recharacterizes petitioner's policy argument from a defense of artistic freedom to a defense of market displacement. AWF is not asking the Court to protect art; it is asking the Court to excuse commercial competition with the original creator.
+- BACKGROUND: Backgrounds the artistic-freedom narrative by foregrounding the commercial context. Museums and collectors "do not create single-subject shrines to Prince. They collect Warhols as exemplars of Pop Art, and Goldsmiths as exemplars of fine-art photography." The art-world reality is more nuanced than AWF's framing suggests.
+- DIMINISHING_MODIFIER: "hardly heralds the second coming of Savonarola" — diminishes AWF's policy alarm while the historical allusion signals confidence and erudition.
+
+STYLISTIC:
+- CONCRETE_ANCHOR: The distinction between magazine licensing and museum display grounds the use-by-use principle in tangible market realities. The Court can see how different uses produce different outcomes.
+- STRATEGIC_QUOTATION: Quotes the Copyright Act directly ("use" not "work") to catch petitioner in a textual misrepresentation. The quotation does the rebuttal work.
+- AUTHORITY_SIGNALING: Cites amici on both sides (AIPLA, Authors Guild, MPA, Library brief) and the concurring opinion (Judge Jacobs) to show that the use-by-use framework has broad support.
+
+CROSS-BRIEF INTERACTION: Responds to petitioner's ESCALATE_STAKES and SLIPPERY_SLOPE (Section 3) with NARROW_HOLDING + CONCEDE_AND_REDIRECT. Petitioner warns of catastrophic consequences for art; respondent shows the decision is narrower than petitioner claims and that other uses remain protected.
+
+==================================================
+SECTION 5: II. AWF's Test Would Upend Copyright
+==================================================
+
+ARGUMENT UNIT 5.1: AWF's meaning-or-message test would make virtually every copying transformative and render the derivative-works right meaningless.
+
+DOCTRINAL:
+- SLIPPERY_SLOPE: AWF's test — new meaning or message makes a work transformative and "virtually always fair use" — would permit wholesale appropriation of creative works. Any copier can claim a new meaning; the test has no limiting principle.
+- BROADEN_HOLDING (of AWF's position): Characterizes AWF's proposed test as broader than AWF presents it. AWF frames it as a meaning-or-message inquiry; respondent reframes it as a "sweeping expansion of fair use" that would apply "whenever copiers add new 'meaning or message' to copyrighted works."
+- DISTINGUISH_PURPOSE: Distinguishes between the purpose of fair use (permitting socially valuable secondary uses) and the purpose of AWF's test (permitting "appropriating creative works without consent or payment"). The test AWF proposes would not serve fair use's purpose; it would undermine copyright's purpose.
+
+NARRATIVE:
+- ESCALATE_STAKES: "A recipe for appropriating creative works without consent or payment." The stakes are now framed not as a doctrinal disagreement but as the destruction of copyright's economic foundation.
+- FRAME_AS_ERROR: AWF's test is not merely wrong; it "would upend copyright." The section heading itself frames the argument as a structural threat rather than a marginal doctrinal adjustment.
+
+FACT-FRAMING:
+- RECHARACTERIZE: AWF's proposed test is recharacterized from a meaning-inquiry framework to a license for appropriation. "Sweeping expansion" replaces whatever more measured framing AWF offered.
+
+STYLISTIC:
+- COMPRESSION: The entire section overview compresses the argument into three sentences: the test, its consequence, and the citation to an amicus reinforcing the point.
+- STRATEGIC_QUOTATION: Quotes MPA amicus brief ("sweeping expansion of fair use") to borrow a third party's characterization. The words are more aggressive than respondent's own voice, but they arrive with the imprimatur of an authoritative amicus.
+
+CROSS-BRIEF INTERACTION: Responds to petitioner's core doctrinal framework (APPLY_STANDARD from Section 1 — meaning or message suffices under Campbell) with the structural counterargument: if that test is adopted, the derivative-works right is dead. This is the respondent's most consequential cross-brief move — it reframes petitioner's proposed rule as systemically destructive rather than merely incorrect.
+
+
+==================================================
+CROSS-BRIEF INTERACTION SUMMARY
+==================================================
+
+1. THE TRANSFORMATIVENESS STANDARD BATTLE
+   Petitioner: APPLY_STANDARD — Campbell's transformativeness inquiry is satisfied by any new "expression, meaning, or message." The works here communicate different meanings. Case closed on factor one.
+   Respondent: NARROW_STATUTE + APPLY_STANDARD — Transformativeness asks whether the new use necessarily borrows from the original to accomplish its purpose, or merely substitutes for it. New meaning alone does not suffice; the copier must need the original.
+   Significance: This is the central doctrinal contest. Petitioner reads Campbell's language as a sufficient condition; respondent reads it as one consideration within a holistic inquiry. The Court's choice between these readings determines the outcome.
+
+2. RECHARACTERIZATION OF WARHOL'S PURPOSE
+   Petitioner: RECHARACTERIZE — Warhol used the photograph "not to 'portray' Prince at all, but to comment on society's portrayal of celebrity." The work is social commentary, not portraiture.
+   Respondent: RECHARACTERIZE — Warhol depicted Prince because Vanity Fair paid him to; "there is no evidence that Warhol was involved in identifying or selecting the particular photograph." The work is commercial substitution, not commentary.
+   Significance: Each side tells a different origin story. Petitioner's story centers artistic intent; respondent's centers commercial transaction. The Court must decide which narrative better characterizes the "purpose" of the use under factor one.
+
+3. THE DERIVATIVE-WORKS TENSION
+   Petitioner: INVOKE_AUTHORITY (Campbell) — Campbell's language about new meaning or message is the controlling standard.
+   Respondent: DISTINGUISH_PURPOSE — The statute already gives copyright holders exclusive control over works that "transform" the original. If any new meaning made a use fair, the derivative-works right would be gutted. Campbell cannot be read to produce that result.
+   Significance: Respondent's strongest structural argument. It forces the Court to reconcile fair use with the derivative-works right, a tension petitioner's framework does not address.
+
+4. SCOPE OF THE RULING
+   Petitioner: ESCALATE_STAKES + SLIPPERY_SLOPE — The Second Circuit's ruling will "lead district courts astray" and chill artistic expression. Specific post-decision cases (Grant v. Trump, Fioranelli) prove the harm is actual.
+   Respondent: NARROW_HOLDING + CONCEDE_AND_REDIRECT — The decision applies only to the magazine-licensing use. Museum displays and art sales are unaffected. Section 107 mandates use-by-use analysis.
+   Significance: Petitioner reads the ruling at the work level (the Prince Series is endangered); respondent reads it at the use level (one commercial licensing transaction was not fair use). The Court's understanding of the ruling's scope may determine its appetite for certiorari-stage intervention.
+
+5. THE CIRCUIT SPLIT
+   Petitioner: ANALOGIZE (Seltzer) + AGREEMENT_TRAP — The Ninth Circuit's Seltzer holding that "new expressive content or message" suffices directly contradicts the Second Circuit. Goldsmith's attempt to reconcile the circuits is internally contradictory.
+   Respondent: (Not directly addressed in the sections analyzed.) Respondent's primary strategy appears to be reframing the legal question rather than disputing the split — if the correct standard is necessity-of-borrowing rather than new-meaning, the circuits may not conflict.
+   Significance: Petitioner needs the split to justify certiorari. The AGREEMENT_TRAP — catching Goldsmith in a contradiction between her reading of Seltzer and her position on form changes — is a high-efficiency move because it discredits Goldsmith's reconciliation attempt without requiring additional doctrinal argument.
+
+6. OPPONENT CONCESSION CAPTURES
+   Petitioner captures Goldsmith's own description of her photograph (Prince as "a really vulnerable human being") to establish the meaning divergence between the two works.
+   Petitioner captures one of Goldsmith's cited cases (Fioranelli) to show the Second Circuit's rule producing exactly the harm AWF predicts.
+   Respondent captures AWF's claim that Warhol "erased the humanity" from the photograph to undermine the necessity argument: if the goal was erasing humanity, any Prince photograph would have served.
+   Significance: Both sides are adept at turning the opponent's own evidence against them. The captures are particularly effective because they cannot be dismissed as adversarial characterization — the opponent's own words or evidence supply the proof.
+
+7. ESCALATION CONTRAST
+   Petitioner: ESCALATE_STAKES toward artistic suppression — the ruling will chill appropriation art, a centuries-old creative practice.
+   Respondent: ESCALATE_STAKES toward copyright destruction — AWF's test would permit wholesale appropriation "without consent or payment," gutting the derivative-works right.
+   Significance: Both sides project catastrophic consequences, but in opposite directions. Petitioner warns the Court will harm creators of new works; respondent warns it will harm creators of original works. The Court's default sympathies — and its view of which risk is more immediate — will likely determine which escalation it finds more credible.
+
+==================================================
+NEW MOVES
+==================================================
+
+No new moves outside the taxonomy were required. All identified strategic moves fit within the existing four-layer taxonomy.

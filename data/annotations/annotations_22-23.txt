@@ -1,0 +1,342 @@
+STRATEGIC MOVE ANNOTATIONS — DOCKET 22-23
+Pugin v. Garland
+==================================================
+
+PETITIONER BRIEF (Docket22-23_Brief003.pdf)
+Cert-Stage Reply
+
+==================================================
+SECTION 1: A. THE PARTIES AGREE THIS COURT SHOULD GRANT CERTIORARI
+==================================================
+
+ARGUMENT UNIT 1.1: The government concedes that certiorari is warranted to resolve the circuit conflict over whether a state accessory-after-the-fact offense qualifies as an "offense relating to obstruction of justice" under the INA.
+
+DOCTRINAL:
+- INVOKE_AUTHORITY: Marshals the Third Circuit (Flores), Ninth Circuit (Valenzuela Gallardo), Fourth Circuit (deference to BIA), and First Circuit (Silva) — four circuits, three distinct legal positions. The citation density is designed to make the split undeniable in scope and maturity.
+- APPLY_STANDARD: Identifies the statutory provision at issue (8 U.S.C. 1101(a)(43)(S)) and the specific interpretive question: whether "relating to obstruction of justice" requires interference with a pending or ongoing proceeding. Framing the question at this level of specificity locks the Court into the petitioner's preferred formulation.
+- DISTINGUISH: Separates the circuits into three camps — (1) unambiguously requires a pending proceeding (Third, Ninth), (2) defers to BIA's "reasonably foreseeable" standard (Fourth), and (3) holds the statute unambiguously does not require a pending proceeding but would defer in the alternative (First). The three-way split is more compelling than a two-way split because it demonstrates analytical disarray, not merely disagreement on outcome.
+
+NARRATIVE:
+- OPPONENT_CONCESSION_CAPTURE: Opens with the government's own agreement that certiorari is warranted. The first sentence converts the adversary's concession into the section's organizing principle. By leading with the government's position rather than its own, petitioner implies the case for cert is so strong that even the other side cannot deny it.
+- AFFIRMATIVE_FRAME: Frames the cert petition as consensual rather than contested. The adversarial posture is muted; both sides agree the Court should take the case. The only dispute is scope.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the government's concession (BIO 6, 16-17) by placing it in the first sentence. The structural choice ensures the reader encounters agreement before disagreement.
+- SEQUENCE: Sequences the circuit positions from most favorable to petitioner (Third, Ninth — unambiguously requires pending proceeding) to least favorable (First — no pending proceeding required), with the Fourth Circuit's Chevron deference in the middle. This ordering presents petitioner's position as the majority view.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: Pin-cite to the BIO page numbers at every turn. The precision signals that petitioner is not characterizing the government's position loosely but quoting it back with receipts.
+- COMPRESSION: Four circuits, three distinct legal positions, and the underlying statutory question are compressed into a single paragraph. The density reflects the maturity of the conflict — there is nothing left to develop; the split is ripe.
+
+ARGUMENT UNIT 1.2: The government disputes a second circuit conflict on whether Chevron applies, but itself requests certiorari without limitation — and the government's reading of the Third Circuit's position in Denis is wrong.
+
+DOCTRINAL:
+- BROADEN_STATUTE: Petitioner pushes to expand the questions presented beyond the narrow statutory construction issue the government wants to address. The Chevron question is a second axis of the circuit conflict, and petitioner argues it should be included.
+- DISTINGUISH: Distinguishes the government's reading of Denis v. Attorney General from what the Third Circuit actually did. The government claims the Third Circuit simply found no ambiguity and therefore had no occasion to apply Chevron. Petitioner counters that the Third Circuit affirmatively declined to apply Chevron — a different and more significant holding.
+- APPLY_STANDARD: The dispute over Denis is a dispute about what it means to "not apply Chevron." Petitioner draws a doctrinal line between (a) finding no ambiguity (making Chevron irrelevant) and (b) declining to apply Chevron on independent grounds (creating a circuit split on deference methodology).
+
+NARRATIVE:
+- CONCEDE_REDIRECT: Concedes that the government disputes the Chevron-related split, then redirects to the government's own request that certiorari be granted "without limitation." The redirect neutralizes the disagreement: even if the government is right about Denis, it is not asking the Court to restrict the grant. The practical consequence of the dispute is zero.
+- FRAME_AS_ERROR: Characterizes the government's reading of the Third Circuit as "mistaken." The word is pointed but measured — it signals confidence without being combative.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Recharacterizes the Third Circuit's decision in Denis. The government read it as a straightforward clarity finding; petitioner reads it as an affirmative rejection of Chevron deference in the immigration context. The recharacterization transforms a routine holding into evidence of a methodological split.
+- OPPONENT_CONCESSION_CAPTURE: Captures the government's request for certiorari "without limitation" (BIO 17, 19) and uses it against the government's own attempt to narrow the questions presented. If the government wanted a limited grant, it could have asked for one.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: "Without limitation" — the government's own phrasing — does the argumentative work. Petitioner does not need to argue for an unlimited grant; it can simply quote the government asking for one.
+- COMPRESSION: The Chevron dispute, the Denis disagreement, and the government's concession on scope are all handled in a single paragraph. The compression signals that this is a subsidiary issue — important enough to flag but not important enough to belabor.
+
+
+==================================================
+SECTION 2: B. THIS CASE IS AN IDEAL VEHICLE FOR RESOLVING THE SPLITS AT ISSUE
+==================================================
+
+ARGUMENT UNIT 2.1: The statutory construction question is outcome-determinative, and the Chevron question was squarely raised and decided below.
+
+DOCTRINAL:
+- APPLY_TO_FACTS: Connects the abstract statutory question to petitioner's concrete case. If "offense relating to obstruction of justice" requires a pending proceeding, petitioner's Virginia accessory-after-the-fact conviction cannot qualify as an aggravated felony. The doctrinal question maps directly onto the case outcome.
+- APPLY_STANDARD: Identifies the two-step vehicle analysis: (1) the statutory construction question is outcome-determinative, and (2) the Chevron question was preserved below. Both requirements are met, making the case a clean vehicle for both issues.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The vehicle argument is presented as affirmatively strong, not defensively adequate. The government agrees the case is ideal (BIO 15-17); petitioner cites that agreement to remove any doubt.
+- OPPONENT_CONCESSION_CAPTURE: Again leads with the government's agreement. The pattern is deliberate: on every major cert factor — split, vehicle, need for resolution — the government has conceded.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the outcome-determinative nature of the statutory question. If the case were not outcome-determinative, the vehicle argument would fail. By leading with outcome-determinativeness, petitioner eliminates the most common objection to vehicle adequacy.
+- SEQUENCE: Presents the statutory construction question first (the question both sides agree on), then the Chevron question (the question the government resists). The sequencing builds from consensus to disagreement, ensuring the reader is already committed to the case's suitability before encountering the contested issue.
+
+STYLISTIC:
+- COMPRESSION: The vehicle argument for both questions is compressed into four sentences. The brevity reflects the argument's strength — a strong vehicle case does not need extensive defense.
+
+ARGUMENT UNIT 2.2: The government's competing vehicle (Cordero-Garcia) is not superior and has features that may make it unsuitable.
+
+DOCTRINAL:
+- DISTINGUISH: Distinguishes Cordero-Garcia on two grounds: (1) it involves witness tampering (18 U.S.C. 1512), not accessory-after-the-fact, introducing a subsidiary issue about whether witness-tampering offenses qualify even if a pending proceeding is required; (2) the government itself acknowledges that a decision in this case "would not necessarily resolve" the witness-tampering question. The distinction isolates the cleaner case (this one) from the messier one (Cordero-Garcia).
+- NARROW_HOLDING: Argues that Cordero-Garcia's additional issue (the witness-tampering question) makes it a worse vehicle because it would force the Court to resolve two questions to reach the statutory construction issue. This case requires resolution of only one.
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: Anticipates the government's preference for Cordero-Garcia and attacks the alternative vehicle before the government can build momentum around it. The rebuttal is preemptive because petitioner addresses the government's own characterization of Cordero-Garcia's advantages and flips them into disadvantages.
+- ESCALATE_STAKES: Flags that Cordero-Garcia has a "feature" that "may make that case an unsuitable vehicle." The language is deliberately vague — "feature" and "may" — but the implication is that something about Cordero-Garcia is problematic enough to disqualify it. The vagueness invites the Court to investigate, which itself casts doubt on the alternative.
+
+FACT-FRAMING:
+- FOREGROUND_ABSENCE: Notes that a decision in this case would independently resolve the core conflict. The absence of the witness-tampering complication is itself an advantage — the case does not raise subsidiary issues that could muddy the holding.
+- RECHARACTERIZE: Recharacterizes Cordero-Garcia's breadth (it presents a "distinct" circuit conflict on witness tampering) as a liability rather than an asset. What the government frames as comprehensiveness, petitioner frames as overreach that risks an advisory opinion on the witness-tampering issue.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Quotes the government's own characterization — "distinc[t]" circuit conflict, "would not necessarily resolve" — to turn the government's framing against itself. The government's careful hedging ("not necessarily") becomes evidence that Cordero-Garcia is the riskier vehicle.
+- UNDERSTATED_DEVASTATION: "The petition in this case is independently sufficient to resolve the conflict." The sentence is unadorned. Its power comes from the contrast with the preceding paragraph's detailed critique of Cordero-Garcia. The simplicity of the vehicle case for this petition stands against the complications of the alternative.
+
+
+==================================================
+SECTION 3: C. THE DECISION BELOW IS INCORRECT
+==================================================
+
+ARGUMENT UNIT 3.1: The Fourth Circuit majority's reasoning is wrong on multiple grounds, but detailed merits arguments should wait for the merits stage.
+
+DOCTRINAL:
+- FRAME_AS_ERROR: Identifies specific errors in the decision below — reliance on an ambiguous dictionary definition, application of Chevron deference — without fully briefing the arguments. The move signals confidence that the errors are real while deferring the full argument to the merits stage.
+- CONST_AVOIDANCE: Implicitly raises a constitutional avoidance concern by noting that the Chevron deference question is contested and that the Fourth Circuit resolved statutory ambiguity through deference rather than through independent judicial interpretation. At the cert stage, this is a signal to the Court that the case implicates broader methodological questions about agency deference.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: "For the reasons explained in the petition, the Fourth Circuit was wrong on all of these issues (and others)." The parenthetical "(and others)" is doing quiet work — it implies the errors below are more numerous than the brief cares to catalog at this stage. The confidence is conspicuous.
+- CONCEDE_REDIRECT: Concedes that the merits arguments should wait ("the time to fully address these arguments will be on the merits, if and when this Court grants review") but redirects the reader's attention back to the government's failure to defend key aspects of the decision below. The government "offers no defense" of the majority's finding of ambiguity. That silence is treated as a concession.
+
+FACT-FRAMING:
+- FOREGROUND_ABSENCE: Foregrounds the government's failure to defend the majority's holding that the statutory language is ambiguous. The absence of a defense is treated as an implicit concession that this aspect of the decision below is indefensible.
+- DIMINISHING_MODIFIER: The government "defends various aspects" of the majority's reasoning — "various" is a diminishing modifier that implies the defense is partial and selective, not comprehensive. Whatever the government defends, there are portions it has abandoned.
+
+STYLISTIC:
+- COMPRESSION: The entire merits preview is compressed into two short paragraphs. The restraint is strategic — at the cert stage, saying too much about the merits risks overcommitting or inviting counterargument. The brief says just enough to signal that reversal is likely without exposing the full argument.
+- AUTHORITY_SIGNALING: Citations to the specific dictionary definition relied upon by the Fourth Circuit (Bryan A. Garner, A Dictionary of Modern Legal Usage 611 (2d ed. 1995)) and to the BIO page numbers demonstrate precise engagement with the record below.
+
+ARGUMENT UNIT 3.2: If the Court requires a pending proceeding, the judgment must be reversed — and petitioner preserved the argument that his Virginia conviction does not meet even the BIA's "reasonably foreseeable" standard.
+
+DOCTRINAL:
+- APPLY_TO_FACTS: Maps the statutory question onto the case outcome. If the Court holds that obstruction of justice requires a pending or ongoing proceeding, the Virginia accessory-after-the-fact offense cannot qualify because it has no such element. The mapping is clean and unambiguous.
+- BURDEN_SHIFT: Shifts the burden back to the government on the subsidiary question of whether petitioner's conviction satisfies the BIA's "reasonably foreseeable" standard. The government claims petitioner did not dispute this equivalence; petitioner responds that he did question it below, and the Fourth Circuit never ruled otherwise.
+- DISTINGUISH: Distinguishes between two different things the government claims petitioner conceded: (1) that the Virginia conviction qualifies under the BIA's "reasonably foreseeable" standard, and (2) that petitioner did not exhaust a separate argument about Virginia law's specific-intent requirement. The Fourth Circuit addressed only the exhaustion point, not the broader equivalence. The government's characterization conflates two distinct issues.
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: Anticipates the government's fallback argument — that even if the Court requires a pending proceeding, the BIA's "reasonably foreseeable" standard satisfies that requirement, and petitioner conceded as much. The rebuttal is surgical: petitioner did question the equivalence, and the Fourth Circuit's footnote about exhaustion is not the same as a merits ruling.
+- FRAME_AS_ERROR: The government's characterization of petitioner's position is "contrary to the government's suggestion." The correction is measured but firm — the government is misstating the record.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Recharacterizes the Fourth Circuit's footnote (Pet. App. 33a n.18). The government reads it as a finding that petitioner did not dispute the BIA standard. Petitioner reads it as a narrower exhaustion ruling — the court simply declined to consider an unexhausted argument about Virginia law, not a concession about the BIA standard's adequacy.
+- FOREGROUND: Foregrounds the distinction between exhaustion and concession. The Fourth Circuit said petitioner "did not exhaust" a particular contention about Virginia law. Not exhausting an argument is different from agreeing with the opposing position. The distinction matters because it preserves petitioner's ability to challenge the BIA standard on remand.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Quotes the Fourth Circuit's footnote precisely — "did not exhaust" the contention that Virginia law "does not necessarily require a specific intent to reduce the likelihood of a criminal punishment resulting from an ongoing or reasonably foreseeable proceeding." The quotation exposes the narrowness of the court's finding: it was about exhaustion, not about the merits of the BIA's standard.
+- CONCRETE_ANCHOR: The BIA's "reasonably foreseeable" standard (In re Valenzuela Gallardo, 27 I. & N. Dec. 449, 460 (B.I.A. 2018)) is cited with precision. By naming the specific BIA decision and its formulation, petitioner ensures the Court understands exactly what standard is at issue — and that the standard is a BIA construction, not a statutory requirement.
+
+
+==================================================
+
+RESPONDENT BRIEF (Docket22-23_Brief005.pdf)
+Merits Brief
+
+==================================================
+SECTION 1: A. The Ordinary Meaning Of "Obstruction Of Justice" Requires Interference With A Pending Or Ongoing Investigation Or Proceeding
+==================================================
+
+ARGUMENT UNIT 1.1: The generic definition of "obstruction of justice" — derived from dictionary definitions contemporaneous with the 1996 statute — requires interference with an existing process. Dictionary definitions of "obstruction," "interference," and "impede" all presuppose something already in motion.
+
+DOCTRINAL:
+- APPLY_STANDARD: Applies the standard tools of statutory construction (Esquivel-Quintana v. Sessions, 581 U.S. 385) to derive the ordinary meaning of "obstruction of justice." The framework is the Court's own: begin with statutory language, consult contemporaneous dictionaries, identify the ordinary meaning. Every step follows precedent the Court has already endorsed.
+- NARROW_STATUTE: Reads "obstruction of justice" to require a nexus to a pending or ongoing proceeding. The narrowing is textually grounded — "interfering," "impeding," and "meddling" all presuppose a process that is already underway. The argument is that the statute's words have a built-in temporal requirement: you cannot obstruct something that does not yet exist.
+- INVOKE_AUTHORITY: Deploys three dictionary sources: Merriam-Webster's Dictionary of Law (1996), Webster's Third New International Dictionary (1993), and Black's Law Dictionary (6th ed.). The three sources converge on the same requirement, giving the ordinary-meaning argument the quality of independent confirmation from multiple authorities.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Leads with the affirmative proposition — generic obstruction of justice requires interference with a pending proceeding — rather than reacting to the government's contrary position. The argument is structured as an independent derivation of meaning, not a response to a competing interpretation.
+- ESCALATE_STAKES: The stakes are framed in immigration terms: if the government's broader reading prevails, then state criminal statutes that sweep beyond generic obstruction would categorically render noncitizens removable as aggravated felons. The broadening is not academic — it changes who gets deported.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the definitional convergence. Three independent dictionary sources all point to the same requirement. The convergence is the central fact of the argument — it is what transforms a plausible reading into the only reasonable one.
+- CONCRETE_ANCHOR: The California witness-dissuasion statute (Cal. Penal Code 136.1(b)(1)) serves as the concrete example of an offense whose elements sweep beyond generic obstruction. The example grounds the abstract definitional argument in a real statute with identifiable elements. A California prosecutor need not prove interference with a pending proceeding — and that is exactly why the California offense is broader than generic obstruction.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: Esquivel-Quintana provides the methodological template. By following the Court's own interpretive roadmap step by step, respondent presents the argument as an application of settled method, not a novel construction.
+- STRATEGIC_QUOTATION: "The crime or act of willfully interfering with the process of justice and law esp[ecially] by influencing, threatening, harming, or impeding a witness, potential witness, juror, or judicial or legal officer or by furnishing false information in or otherwise impeding an investigation or legal process." The full dictionary definition is quoted because its internal structure — the use of "process," "investigation," "proceeding" — does the interpretive work. Selective quotation would be less persuasive.
+- COMPRESSION: The transition from dictionary definitions to real-world application (the California statute) is immediate. There is no abstract discussion of interpretive theory between the two — the dictionary says what it says, and the application follows.
+
+ARGUMENT UNIT 1.2: The government's counterarguments rest on circular reasoning and misapplication of the categorical approach. The government does not offer a generic definition of obstruction of justice — it argues backward from specific offenses it considers "paradigmatic."
+
+DOCTRINAL:
+- FRAME_AS_ERROR: The government's argument is structurally flawed: it starts from specific offenses (like witness tampering) and reasons backward to a generic definition, rather than starting from the generic definition and testing specific offenses against it. The categorical approach requires the second method, not the first.
+- APPLY_STANDARD: Restates the categorical approach's methodology — identify the generic offense, then compare state statutes element-by-element — and argues the government has inverted it. The government's error is methodological, not just substantive.
+- DISTINGUISH_PURPOSE: Distinguishes between what Congress actually did (identify "obstruction of justice" as an aggravated felony) and what it did not do (identify "witness tampering" as an aggravated felony). The distinction matters because the government's argument collapses the two — if witness tampering is "paradigmatic" obstruction, then Congress effectively added witness tampering to the list without saying so.
+
+NARRATIVE:
+- FRAME_AS_ERROR: The government "does not even purport to identify a generic definition" — the criticism is that the government's argument lacks the required foundation. Before arguing about what qualifies, you must first define the category. The government skipped that step.
+- PREEMPTIVE_REBUTTAL: Anticipates the government's strongest example (witness tampering as "paradigmatic" obstruction) and defuses it. Congress chose its words — "obstruction of justice," not "witness tampering" — and the categorical approach requires courts to respect that choice.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Recharacterizes the government's argument as "assuming its own desired conclusion." What the government presents as an application of the categorical approach is actually a circumvention of it. The recharacterization strips the argument of its methodological legitimacy.
+- FOREGROUND_ABSENCE: Foregrounds the absence of a generic definition in the government's brief. The government argues about specific offenses without first establishing what the generic category contains. The absence is not accidental — it is the structural weakness of the government's position.
+
+STYLISTIC:
+- UNDERSTATED_DEVASTATION: "The government does not even purport to identify a generic definition of 'obstruction of justice.'" A single sentence that identifies the foundational gap in the government's argument. No elaboration is needed — the observation is self-executing.
+- REGISTER_CONTRAST: Shifts from the measured, dictionary-driven analysis of the preceding section to a more pointed critique of the government's methodology. The tonal shift signals that respondent is moving from construction to demolition.
+
+
+==================================================
+SECTION 2: I. GENERIC OBSTRUCTION OF JUSTICE REQUIRES A PENDING OR ONGOING INVESTIGATION OR PROCEEDING
+==================================================
+
+(This section header encompasses the detailed argument of which Section A above is the first sub-part. Annotations here cover the deeper textual analysis.)
+
+ARGUMENT UNIT 2.1: Esquivel-Quintana supplies the interpretive framework — begin with statutory language, consult contemporaneous dictionaries, and derive the ordinary meaning. Applied here, the dictionaries are unanimous.
+
+DOCTRINAL:
+- APPLY_STANDARD: Follows Esquivel-Quintana's interpretive template with mechanical precision. The framework is not contested by the government; the dispute is over what the dictionaries say. By applying an agreed-upon method, respondent shifts the debate to the evidentiary question (what do the dictionaries show?) rather than the methodological question (how should we interpret the statute?).
+- NARROW_STATUTE: Each dictionary definition is parsed for its temporal implications. "Interfering with the process of justice" requires an existing process. "Impede" means "to interfere with or get in the way of the progress of" — progress presupposes something already moving. "Execution of lawful process" requires process to exist. The narrow reading is not imposed from outside the text; it is extracted from the words themselves.
+- INVOKE_AUTHORITY: Black's Law Dictionary's definition is particularly powerful because it uses the phrase "pertaining to pending proceedings" — "pending" is explicit, not inferred. The definition does not require construction; it states the requirement directly.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The argument proceeds as pure textual derivation. There is no defensive posture, no engagement with counterarguments (those come later). The structure communicates confidence: the text speaks for itself.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the word "pending" from Black's Law Dictionary. Among the three dictionary sources, Black's is the most explicit, and the brief saves it for last — building from definitions that imply the requirement (Merriam-Webster, Webster's Third) to one that states it outright.
+- SEQUENCE: Sequences the dictionaries from general (Merriam-Webster's Dictionary of Law) to linguistic (Webster's Third New International Dictionary) to legal-specific (Black's Law Dictionary). The progression moves from ordinary language to legal terms of art, creating a sense of convergence across registers.
+
+STYLISTIC:
+- PARALLEL_STRUCTURE: "Interfering with the process" / "get in the way of the progress of" / "prevent ... the execution of lawful process" — the parallel constructions across the three dictionaries reinforce the interpretive convergence. The reader encounters the same requirement three times, each phrased slightly differently, each independently sufficient.
+- CONCRETE_ANCHOR: The specific dictionary editions are cited with publication years (1996, 1993, 6th ed.) that correspond to the year Congress enacted Section 1101(a)(43)(S). The temporal precision is not decorative — it satisfies Esquivel-Quintana's requirement that courts consult dictionaries "available at that time."
+- AUTHORITY_SIGNALING: Citing the exact same interpretive methodology the Court used in Esquivel-Quintana creates a deliberate parallel between that case and this one. The implicit argument: the Court already knows how to do this analysis, and when it does it here, it will reach the same conclusion respondent has.
+
+
+==================================================
+SECTION 3: B. Federal Criminal Law Codified At Chapter 73 Likewise Shows That Generic Obstruction Of Justice Requires A Pending Or Ongoing Proceeding
+==================================================
+
+ARGUMENT UNIT 3.1: The three generic offenses enumerated in Section 1101(a)(43)(S) — obstruction of justice, perjury, and bribery of a witness — correspond to the titles of specific chapters in Title 18. Title 18 therefore provides interpretive guidance.
+
+DOCTRINAL:
+- ANALOGIZE: Maps the three categories in Section 1101(a)(43)(S) onto their corresponding Title 18 chapters. The mapping is structural: "obstruction of justice" corresponds to Chapter 73, "perjury" to Chapter 79, "bribery" to Chapter 11. The correspondence is too precise to be coincidental, and it provides a textual basis for looking to Title 18 to define the generic offenses.
+- INVOKE_AUTHORITY: Cites Valenzuela Gallardo IV (Ninth Circuit) and Flores (Third Circuit) for the proposition that Title 18 provides guidance. The BIA itself shared this understanding for over a decade, as reflected in In re Espinoza-Gonzalez, 22 I&N Dec. 889 (BIA 1999). Using the BIA's own prior position against its current one is a form of doctrinal judo.
+- APPLY_STANDARD: Identifies 18 U.S.C. 1503 as "the generic obstruction of justice statute" and uses its elements as the baseline for the generic offense. The move is significant because Section 1503's omnibus clause requires a nexus to a "pending" judicial proceeding. If Section 1503 is the generic statute, then a pending-proceeding requirement is baked into the generic definition.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Frames the Chapter 73 analysis as confirmatory rather than primary. The ordinary-meaning analysis already established the pending-proceeding requirement; Chapter 73 "likewise shows" the same thing. The structure communicates that the argument has multiple independent foundations.
+- OPPONENT_CONCESSION_CAPTURE: Captures the BIA's own pre-2018 position (Espinoza-Gonzalez, 1999) — that Chapter 73 offenses generally require "interference with the proceedings of a tribunal" — and deploys it against the BIA's current broader reading. The BIA agreed with respondent's position for over a decade before changing its mind.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the structural correspondence between Section 1101(a)(43)(S) and Title 18. The three-for-three mapping between the INA's categories and Title 18's chapter titles is presented as strong evidence of congressional intent to incorporate Title 18's definitions.
+- RECHARACTERIZE: Recharacterizes the BIA's current position as a departure from its own settled understanding. The agency did not discover a better reading — it abandoned a correct one. The recharacterization undermines the BIA's claim to interpretive authority.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: The layered citation — circuit courts, the BIA's own prior precedent, a law review article (Podgor, Obstruction of Justice: Redesigning the Shortcut, 46 B.Y.U. L. Rev. 657 (2021)) — signals that the pending-proceeding requirement is not a fringe position but the settled understanding across institutional perspectives.
+- CONCRETE_ANCHOR: Section 1503 and its omnibus clause provide the concrete statutory anchor. Rather than arguing about "obstruction of justice" in the abstract, respondent points to a specific provision with identifiable elements. The analysis has something to examine rather than a concept to debate.
+- STRATEGIC_QUOTATION: Quotes the BIA's own 1999 en banc decision: "In general, the obstruction of justice offenses listed in 18 U.S.C. 1501-1518 have as an element interference with the proceedings of a tribunal." The quotation is devastating because it is the agency's own words, stated in an en banc decision, adopting the very position the agency now rejects.
+
+ARGUMENT UNIT 3.2: The clear trend among Chapter 73 offenses, as of 1996, was to require a nexus to an ongoing or pending proceeding.
+
+DOCTRINAL:
+- BROADEN_HOLDING: Extends the analysis beyond Section 1503 to the full sweep of Chapter 73. The "clear trend" characterization frames the pending-proceeding requirement as the gravitational center of the entire chapter, not an idiosyncrasy of a single provision.
+- INVOKE_AUTHORITY: Cites Valenzuela Gallardo IV's analysis of Chapter 73 (968 F.3d at 1064 n.9) — the Ninth Circuit already surveyed the chapter and reached the same conclusion. The citation signals that this is not a novel analysis but one that has been independently validated by a federal appellate court.
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: By characterizing the Chapter 73 trend as "clear," respondent anticipates the government's attempt to point to individual Chapter 73 provisions (like Section 1512, witness tampering) that arguably do not require a pending proceeding. The rebuttal is preemptive: the trend is clear even if individual outliers exist.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the trend among Chapter 73 provisions as of 1996 — the year Congress enacted Section 1101(a)(43)(S). The temporal precision matters because the interpretive question is what Congress understood "obstruction of justice" to mean when it used those words. Post-1996 developments are irrelevant.
+
+STYLISTIC:
+- COMPRESSION: The trend analysis is stated rather than demonstrated in full. The brief relies on the Ninth Circuit's prior survey (cited in a footnote) rather than walking through each Chapter 73 provision. The compression reflects confidence that the point does not require granular proof — it is already established in the case law.
+
+
+==================================================
+SECTION 4: C. State Law Further Confirms That Obstruction Of Justice Requires A Pending Or Ongoing Proceeding
+==================================================
+
+ARGUMENT UNIT 4.1: A multijurisdictional survey of state criminal codes as of 1996 confirms the pending-proceeding requirement. A majority of states with a specific "obstruction of justice" offense required a nexus to a pending or ongoing proceeding.
+
+DOCTRINAL:
+- APPLY_STANDARD: Applies the Esquivel-Quintana framework's endorsement of multijurisdictional analysis as evidence of generic meaning. The Court has used state-law surveys before; respondent follows the same method and reaches the same type of conclusion.
+- NARROW_STATUTE: The state-law survey narrows the generic definition by showing that more than half of the relevant states required a pending-proceeding nexus. The majority-rule approach is consistent with the categorical approach's reliance on "common understanding and meaning."
+- INVOKE_AUTHORITY: Cites Esquivel-Quintana's endorsement of state-law surveys as interpretive evidence, while noting that the survey is unnecessary here because "federal law clearly indicates the 'common understanding.'" The framing is belt-and-suspenders: the federal law argument is independently sufficient, and the state-law survey provides additional confirmation.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The section header says "further confirms" — a deliberate choice of words. The argument has already been won on ordinary meaning and federal criminal law. The state-law survey is presented as additional confirmation, not as an independent basis for the result. This framing insulates the conclusion from attack on the survey methodology.
+- CONCEDE_REDIRECT: Concedes that the multijurisdictional survey is "not required by the categorical approach" (quoting Esquivel-Quintana, 581 U.S. at 396 n.3), then redirects to its utility as corroborating evidence. The concession is strategic — by acknowledging the survey is optional, respondent avoids vulnerability to arguments about how many states are "enough."
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the quantitative result: 14 states and the District of Columbia had a specific "obstruction of justice" crime in 1996, and more than half required a pending-proceeding nexus. The numbers do the work — the majority supports respondent's reading.
+- SEQUENCE: Sequences the state-law analysis after the dictionary analysis and the Chapter 73 analysis. The ordering creates a three-source convergence: ordinary meaning, federal criminal law, and state criminal law all point to the same requirement. By the time the reader reaches the state-law survey, the conclusion feels overdetermined.
+- DIMINISHING_MODIFIER: Two of the fourteen states had statutes that were "ambiguous" on the pending-proceeding question. The characterization is strategic — ambiguous statutes are not counterexamples; they are simply inconclusive. The modifier reduces the universe of potential counterevidence.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: The extensive footnotes (seven and eight in the original) list every relevant state statute by citation, demonstrating exhaustive research. The footnote density signals methodological rigor — this is not a cherry-picked selection but a comprehensive survey.
+- CONCRETE_ANCHOR: Specific state statutes are cited with their 1996 codifications (D.C. Code 22-722 (1996); Haw. Rev. Stat. 710-1072.5 (1996); etc.). The temporal precision — every citation specifies 1996 — reinforces the interpretive framework's requirement that the analysis be grounded in the statute's enactment year.
+- COMPRESSION: The substantive analysis is brief; the footnotes carry the evidentiary weight. The text-to-footnote ratio reflects a strategic choice: the argument is simple (most states required a pending proceeding), and the evidence is detailed (here are the specific statutes). The compression keeps the reader focused on the conclusion while the footnotes provide the backup.
+
+
+==================================================
+SECTION 5: II. THE GOVERNMENT'S COUNTERARGUMENTS ARE UNPERSUASIVE
+==================================================
+
+ARGUMENT UNIT 5.1: The government's attempt to broaden the generic offense by eliminating the pending-proceeding requirement is unpersuasive and distorts both the text and the categorical approach.
+
+DOCTRINAL:
+- FRAME_AS_ERROR: Characterizes the government's arguments as not merely wrong but methodologically distortive — they "distort both the text of relevant criminal provisions and the categorical approach itself." The critique is that the government's arguments are wrong at the level of method, not just at the level of result.
+- APPLY_STANDARD: Restates the categorical approach as a constraint on the government's argument. The approach requires identifying a generic offense and comparing state statutes against it. The government cannot shortcut this process by arguing backward from specific offenses it considers "paradigmatic."
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: The section title itself ("unpersuasive") frames the government's arguments as already evaluated and found wanting. The word choice signals finality — the arguments have been weighed, not just considered.
+- ESCALATE_STAKES: "Distort... the categorical approach itself" — the critique is not just about this case but about the integrity of the analytical framework. If the government's approach prevails, the categorical approach would be fundamentally altered in ways that extend beyond obstruction of justice.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Recharacterizes the government's arguments as "attempts to broaden the generic offense by eliminating" an element. The framing presents the government as the party seeking to change settled law, not respondent. Respondent is defending the status quo; the government is trying to expand the reach of the aggravated-felony provision.
+
+STYLISTIC:
+- COMPRESSION: The entire section introduction is a single sentence. The brevity is an assertion of confidence — the government's counterarguments can be dismissed in summary form because none of them disturbs the textual and structural analysis that preceded this section.
+- UNDERSTATED_DEVASTATION: "Unpersuasive" is the operative word. It does not say "wrong" or "frivolous" — it says "unpersuasive," which is more damning in the context of a Supreme Court brief because it implies the arguments were given a fair hearing and failed to move the needle.
+
+
+==================================================
+CROSS-BRIEF INTERACTION SUMMARY
+==================================================
+
+1. THE CONCESSION FRAMEWORK (CERT STAGE)
+   Petitioner (cert reply): OPPONENT_CONCESSION_CAPTURE — systematically catalogs the government's agreements on cert-worthiness, vehicle adequacy, and the existence of a circuit split. Each concession is quoted with pin-cites and placed at the beginning of its respective section.
+   Respondent (merits brief): Does not engage with the cert-stage dynamics. By the time the merits brief is filed, cert has been granted. The respondent's argument operates entirely on the merits, treating the statutory question as open rather than as one where the government has already made concessions.
+   Significance: Petitioner's cert reply is designed to make the grant inevitable by framing it as consensual. Respondent's merits brief operates in a different register — it does not rely on the government's cert-stage concessions because those concessions were about whether to take the case, not about how to resolve it.
+
+2. THE GENERIC DEFINITION BATTLE
+   Petitioner (cert reply): APPLY_TO_FACTS — argues that if "obstruction of justice" requires a pending proceeding, the Virginia accessory-after-the-fact conviction cannot qualify. The statutory construction question maps cleanly onto the case outcome.
+   Respondent (merits brief): NARROW_STATUTE + APPLY_STANDARD — derives the generic definition from dictionary definitions, Chapter 73 of Title 18, and state criminal codes. All three sources converge on a pending-proceeding requirement. The generic definition is not asserted but constructed from independent evidentiary foundations.
+   Significance: The interaction is complementary rather than adversarial — both petitioner and respondent want the same outcome (the pending-proceeding requirement). The briefs divide the argumentative labor: petitioner focuses on vehicle and cert factors, respondent focuses on the merits.
+
+3. THE CHEVRON DEFERENCE QUESTION
+   Petitioner (cert reply): BROADEN_STATUTE — argues that the case presents a second circuit split on whether Chevron applies to the BIA's interpretation of "obstruction of justice." Uses the government's "without limitation" request to argue the Chevron question should be included.
+   Respondent (merits brief): Does not directly address Chevron in the excerpted sections. Instead, respondent's argument is structured to make Chevron irrelevant — if the ordinary meaning is clear, there is no ambiguity for Chevron to resolve.
+   Significance: The two briefs take different tactical approaches to Chevron. Petitioner wants the Court to reach the Chevron question directly. Respondent's preferred path avoids Chevron entirely by establishing that the statute is unambiguous. If respondent's textual argument succeeds, the Chevron question becomes moot — a strategically safer outcome because it avoids a potential adverse ruling on deference methodology.
+
+4. THE BIA'S SHIFTING POSITION
+   Petitioner (cert reply): DISTINGUISH — differentiates between the BIA's "reasonably foreseeable" standard and the stricter pending-proceeding requirement, and argues the Fourth Circuit's footnote about exhaustion does not constitute a merits concession.
+   Respondent (merits brief): OPPONENT_CONCESSION_CAPTURE — captures the BIA's own pre-2018 position (Espinoza-Gonzalez, 1999) to show the agency agreed for over a decade that obstruction of justice requires interference with proceedings. The BIA's reversal undermines its claim to interpretive authority.
+   Significance: Both briefs attack the BIA from different angles. Petitioner challenges the BIA's current standard on the facts of this case. Respondent challenges the BIA's interpretive legitimacy by showing the agency abandoned its own longstanding position. The two attacks are complementary: petitioner argues the BIA standard should not apply here; respondent argues the BIA standard should not exist at all.
+
+5. THE CATEGORICAL APPROACH METHODOLOGY
+   Petitioner (cert reply): Does not engage deeply with categorical-approach methodology at the cert stage. The argument is that the statutory question is cleanly presented and outcome-determinative.
+   Respondent (merits brief): APPLY_STANDARD + FRAME_AS_ERROR — applies the categorical approach as the Court has defined it (identify the generic offense, compare state statutes element-by-element) and argues the government has inverted the methodology by reasoning backward from specific offenses to a generic definition. The government "does not even purport to identify a generic definition."
+   Significance: Respondent's categorical-approach argument is the structural spine of the merits brief. By framing the dispute as one about methodology — not just about the meaning of "obstruction of justice" — respondent raises the cost of ruling for the government. A ruling for the government would require the Court to endorse reasoning backward from specific offenses, which could destabilize the categorical approach across the entire aggravated-felony framework.
+
+6. THE CALIFORNIA STATUTE AS OBJECT LESSON
+   Respondent (merits brief): CONCRETE_ANCHOR — uses the California witness-dissuasion statute (Cal. Penal Code 136.1(b)(1)) as a concrete example of an offense whose elements sweep beyond generic obstruction. The example is carefully chosen: California is a major jurisdiction, witness dissuasion sounds like it could be obstruction-related, but its elements do not require a pending proceeding. The example demonstrates the practical consequences of respondent's rule without requiring the reader to engage in abstract reasoning.
+   Petitioner (cert reply): Does not address the California example. At the cert stage, this level of merits detail is unnecessary.
+   Significance: The California statute serves a dual function — it illustrates respondent's textual argument (generic obstruction requires a pending proceeding, and this statute does not) and it preempts the government's "paradigmatic offenses" argument (even an offense closely related to obstruction can fall outside the generic definition if its elements are too broad).
+
+7. THE MULTIJURISDICTIONAL CONVERGENCE STRATEGY
+   Respondent (merits brief): SEQUENCE — layers three independent sources of evidence in a deliberate order: dictionary definitions, Chapter 73 of Title 18, and state criminal codes. Each source independently supports the pending-proceeding requirement. The sequencing creates an impression of overdetermination — the conclusion does not depend on any single source.
+   Petitioner (cert reply): COMPRESSION — alludes to the merits arguments without developing them, deferring to "the time to fully address these arguments... on the merits." The restraint signals awareness that the merits brief (respondent's) will carry the detailed analytical burden.
+   Significance: The division of labor is clean. Petitioner's cert reply manages the procedural posture (cert grant, vehicle, scope of questions presented). Respondent's merits brief manages the substantive analysis. The two briefs are complementary rather than competitive, reflecting the fact that both seek the same result — reversal of the Fourth Circuit.
+
+
+==================================================
+NEW MOVES
+==================================================
+
+NEW_MOVE_AGREEMENT_TRAP: Identified in petitioner's cert reply (Argument Unit 1.2). The brief captures the government's request for certiorari "without limitation" and deploys it against the government's simultaneous attempt to narrow the questions presented. The move is distinct from OPPONENT_CONCESSION_CAPTURE because the government did not concede the Chevron question on the merits — it conceded the procedural scope of the grant. The trap works because the government cannot simultaneously request an unlimited grant and argue that one of the questions presented should be excluded. Definition: Using an opponent's procedural or strategic concession to foreclose the opponent's substantive position on a related issue, where the concession was made for tactical reasons unrelated to the substance.
+
+No other new moves outside the taxonomy were required.

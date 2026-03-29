@@ -1,0 +1,1158 @@
+================================================================================
+LEGAL MOVE ANNOTATIONS
+United States v. Hansen, S. Ct. Docket No. 22-179
+Issue: Whether 8 U.S.C. 1324(a)(1)(A)(iv), which criminalizes encouraging
+or inducing a noncitizen to come to, enter, or reside in the United States
+in violation of law, is facially unconstitutional under the First Amendment
+overbreadth doctrine.
+================================================================================
+
+NOTE ON METHODOLOGY
+Each section is broken into argument units (AU). Each AU is annotated across
+four layers: Doctrinal, Narrative, Fact-Framing, Stylistic. Where no move
+applies, the layer is marked "--". Cross-brief interactions are flagged
+with [CROSS-BRIEF] tags at the end of the relevant AU.
+
+
+################################################################################
+PETITIONER BRIEF (United States)
+################################################################################
+
+NOTE: The extracted text for the petitioner's brief contains only the Table
+of Authorities. No substantive argument text was recovered from the
+extraction. The arguments outlined are:
+  A. Respondent provides no basis for a different certiorari disposition
+     from Sineneng-Smith.
+  B. The Ninth Circuit's overbreadth invalidation of 8 U.S.C.
+     1324(a)(1)(A)(iv) remains unjustified.
+
+The Table of Authorities permits limited inference about the petitioner's
+strategy. Annotations below are drawn from the cited authorities and from
+the respondent's extensive engagement with petitioner's arguments (quoted
+throughout the respondent's brief).
+
+================================================================================
+PET. SECTION 1: Table of Authorities — Inferred Strategic Architecture
+================================================================================
+
+--- AU-P1.1 (Inferred from Table of Authorities and Respondent's Citations) ---
+TEXT: [No direct text available. Inferred from authority citations and
+respondent's references to "U.S. Br. 21-24" and the government's proposed
+narrowing construction.]
+
+The petitioner argues that "encourage" should be construed as a term of art
+in criminal law that narrowly prohibits only solicitation or aiding and
+abetting. (See Resp. Br.: "it argues that the statute can be saved by
+construing 'encourage' as a term of art in criminal law that narrowly
+prohibits only solicitation or aiding and abetting.")
+
+DOCTRINAL:  NARROW_STATUTE — The central doctrinal move is to narrow the
+            statutory term "encourage" from its ordinary dictionary meaning
+            to a term of art carrying only the technical criminal-law meaning
+            of solicitation or facilitation. This transforms the scope of the
+            statute from covering all speech that inspires or emboldens to
+            covering only conduct-adjacent speech.
+
+            CONST_AVOIDANCE — The narrowing construction is offered as a
+            constitutional-avoidance maneuver: if the statute can be read
+            narrowly, the Court need not reach the overbreadth question.
+            The citation of INS v. St. Cyr, 533 U.S. 289 (2001) in the
+            Table of Authorities confirms this doctrinal tool is in play.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — Rather than defending the statute's breadth,
+            the government recharacterizes the statute as always having
+            meant solicitation or aiding and abetting. The position is: the
+            statute is not broad; it has been misread as broad.
+
+FACT-FRAMING: RECHARACTERIZE — The ordinary-meaning reading of "encourage"
+              is recharacterized as a misinterpretation. The government
+              treats the narrower criminal-law meaning as the statute's
+              actual meaning rather than as a saving gloss imposed on top
+              of the text.
+
+STYLISTIC:  --
+
+[CROSS-BRIEF: Respondent (AU-R1.1, R5.1) directly attacks this narrowing
+construction by showing that Congress deleted "solicit" and "assist" from
+an earlier version of the statute, and that the government itself rejected
+this construction at trial.]
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.2 (Inferred from Table of Authorities) ---
+TEXT: [No direct text. Inferred from citations to United States v. Williams,
+553 U.S. 285 (2008) and Virginia v. Hicks, 539 U.S. 113 (2003), both
+prominent overbreadth-doctrine cases cited at multiple pages.]
+
+The petitioner argues that the Ninth Circuit applied the overbreadth
+doctrine incorrectly and that the statute's legitimate sweep is
+substantial when properly construed.
+
+DOCTRINAL:  APPLY_STANDARD — Williams provides the test: overbreadth
+            invalidation is inappropriate unless a "substantial number" of
+            the statute's applications are unconstitutional relative to its
+            "plainly legitimate sweep." By citing Williams at pages 5, 10,
+            and 12, the government signals a sustained argument that the
+            Ninth Circuit miscalculated the ratio. Hicks (cited at page 5)
+            supplies the principle that overbreadth is "strong medicine"
+            to be deployed sparingly.
+
+NARRATIVE:  FRAME_AS_ERROR — The implicit frame is that the Ninth Circuit
+            committed a methodological error in the overbreadth analysis,
+            not that the doctrine itself is disputed. The government
+            concedes the doctrinal framework but contests its application.
+
+FACT-FRAMING: --
+
+STYLISTIC:  AUTHORITY_SIGNALING — Heavy citation of this Court's own
+            overbreadth precedents (Williams, Hicks, Stevens) positions the
+            government as the faithful applier of existing doctrine against
+            a lower court that strayed.
+
+--------------------------------------------------------------------------------
+
+--- AU-P1.3 (Inferred from Table of Authorities) ---
+TEXT: [No direct text. Inferred from citation to Building Serv. Emps. Int'l
+Union v. Gazzam, 339 U.S. 532 (1950) and Pittsburgh Press Co. v. Pittsburgh
+Comm'n on Human Relations, 413 U.S. 376 (1973), both cited at page 9.]
+
+The petitioner argues that the First Amendment does not protect speech
+that facilitates or is integral to unlawful conduct.
+
+DOCTRINAL:  NARROW_HOLDING — Gazzam and Pittsburgh Press establish that
+            speech proposing or facilitating illegal transactions falls
+            outside the First Amendment. The petitioner narrows the
+            constitutional question: if "encourage" means "solicit" or
+            "aid and abet," then the statute targets only unprotected
+            conduct-adjacent speech, and the overbreadth challenge fails
+            at the threshold.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — By citing these cases, the petitioner
+            anticipates the respondent's argument that the statute
+            criminalizes protected advocacy. The rebuttal is: under the
+            narrowing construction, the statute does not reach advocacy
+            at all.
+
+FACT-FRAMING: BACKGROUND — The petitioner backgrounds the ordinary-meaning
+              reading of "encourage" and foregrounds the criminal-law
+              reading. The doctrinal universe is organized so that the
+              relevant speech category is solicitation, not general
+              encouragement.
+
+STYLISTIC:  --
+
+
+################################################################################
+RESPONDENT BRIEF (Hansen)
+################################################################################
+
+================================================================================
+RESP. SECTION 1: Introduction — The Encouragement Provision is Overbroad
+Because It Prohibits a Substantial Amount of Protected Speech Well Beyond
+Solicitation or Aiding and Abetting
+================================================================================
+
+--- AU-R1.1 ---
+TEXT: "The statute Mr. Hansen was convicted of violating makes it a crime to
+encourage noncitizens to reside in the country in violation of law. It
+criminalizes such speech whether or not the speaker intends a law violation
+to occur, and whether or not the violation is even a crime."
+
+DOCTRINAL:  BROADEN_STATUTE — The respondent opens by stating the statute's
+            scope at its broadest: it criminalizes "encouragement" without
+            requiring intent or a predicate crime. This reading maximizes
+            the surface area of the First Amendment conflict by removing
+            both scienter and conduct elements that might limit the
+            statute's reach.
+
+NARRATIVE:  ESCALATE_STAKES — The twin "whether or not" clauses escalate
+            the constitutional problem. The statute does not merely
+            overcriminalize; it criminalizes speech regardless of two
+            features (intent and predicate criminality) that are normally
+            prerequisites for removing speech from First Amendment
+            protection.
+
+FACT-FRAMING: FOREGROUND — The respondent foregrounds the statute's
+              structural deficiencies (no intent requirement, no predicate-
+              crime requirement) as the lead facts. These are presented
+              as features of the statute itself, not as contested
+              characterizations.
+
+STYLISTIC:  PARALLEL_STRUCTURE — "Whether or not the speaker intends a law
+            violation to occur, and whether or not the violation is even a
+            crime." The parallel clauses create an accumulating-deficiency
+            structure: each "whether or not" adds a missing constitutional
+            safeguard.
+
+            COMPRESSION — The entire overbreadth argument is compressed
+            into two sentences. The respondent opens with the complete
+            theory rather than building to it.
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.2 ---
+TEXT: "As the court of appeals held, it prohibits 'knowingly telling an
+undocumented immigrant "I encourage you to reside in the United States."'
+Pet. App. 11a. Yet 'such a statement is protected by the First Amendment.'
+Id. (citing Williams, 553 U.S. at 300)."
+
+DOCTRINAL:  APPLY_TO_FACTS — The respondent converts the abstract
+            overbreadth argument into a concrete hypothetical drawn from
+            the court of appeals' own analysis. The move is doctrinal
+            because it tests the statute against a specific application
+            and shows that application is unconstitutional.
+
+            INVOKE_AUTHORITY — The citation to Williams is critical.
+            Williams is the government's own favored precedent in the
+            overbreadth context, and the respondent turns it against the
+            government by citing the passage where the Court said
+            encouraging illegal conduct can be protected speech.
+
+NARRATIVE:  CONCRETE_ANCHOR — The quoted hypothetical ("I encourage you to
+            reside in the United States") gives the constitutional
+            argument a tangible example. The overbreadth claim is no
+            longer abstract; it has a face.
+
+FACT-FRAMING: FOREGROUND — The respondent foregrounds the most sympathetic
+              application of the statute: criminalizing a bare statement
+              of encouragement. This is chosen because it maximizes the
+              gap between the statute's reach and the First Amendment's
+              protections.
+
+STYLISTIC:  STRATEGIC_QUOTATION — The respondent quotes both the lower
+            court and this Court (via Williams). The effect is to present
+            the unconstitutionality finding not as the respondent's
+            argument but as a conclusion already reached by two courts.
+
+            CADENCE_SHIFT — The short declarative "Yet 'such a statement
+            is protected by the First Amendment'" follows the longer
+            setup sentence. The brevity does the work of emphasis.
+
+[CROSS-BRIEF: This AU directly responds to petitioner's narrowing-
+construction argument (AU-P1.1). The respondent's point is that under
+the statute's actual text, the hypothetical is criminal. The narrowing
+construction must be assessed against this textual reality.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.3 ---
+TEXT: "The government does not dispute that if the encouragement provision
+is interpreted according to its ordinary meaning, it is unconstitutional."
+
+DOCTRINAL:  --
+
+NARRATIVE:  OPPONENT_CONCESSION_CAPTURE — This is the most important
+            narrative move in the introduction. The respondent captures
+            the government's implicit concession: the government has not
+            defended the statute's constitutionality under its plain
+            meaning. The government's entire case rests on the narrowing
+            construction. By isolating this concession, the respondent
+            shifts the burden: the question is no longer whether the
+            statute is overbroad but whether the Court can save it
+            through judicial rewriting.
+
+FACT-FRAMING: FOREGROUND — The government's non-dispute is foregrounded as
+              the central fact of the case. The respondent treats the
+              concession as established and builds everything that follows
+              on top of it.
+
+STYLISTIC:  COMPRESSION — A single sentence captures the entire strategic
+            architecture of the case. The government concedes plain-
+            meaning unconstitutionality; everything else is rescue
+            operation.
+
+            UNDERSTATED_DEVASTATION — The sentence is flat and declarative.
+            "Does not dispute" carries enormous weight delivered without
+            emphasis or commentary. The understated delivery makes the
+            concession sound like an accepted fact rather than a contested
+            characterization.
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.4 ---
+TEXT: "Instead, it argues that the statute can be saved by construing
+'encourage' as a term of art in criminal law that narrowly prohibits only
+solicitation or aiding and abetting. But the statute uses none of those
+terms; to the contrary, Congress deleted the terms 'solicit' and 'assist'
+that were present in a previous version of the statute."
+
+DOCTRINAL:  DISTINGUISH — The respondent distinguishes the government's
+            proposed construction from the statute's text. "Encourage" is
+            not "solicit" or "assist," and the distinction is not merely
+            semantic: Congress affirmatively removed those narrower terms.
+
+            DISTINGUISH_PURPOSE — The legislative-history point (Congress
+            deleted "solicit" and "assist") is a purpose-based argument:
+            Congress intended the broader term "encourage" to do different
+            work than the narrower terms it replaced. The narrowing
+            construction reads back in exactly what Congress removed.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — The respondent preempts the narrowing
+            construction before the government can develop it fully. The
+            rebuttal lands before the argument is fully stated.
+
+FACT-FRAMING: FOREGROUND — The legislative-history fact (deletion of
+              "solicit" and "assist") is foregrounded as the dispositive
+              evidence against the narrowing construction. This is the
+              respondent's strongest textual argument and it appears in
+              the introduction.
+
+              SEQUENCE — The respondent sequences the legislative history
+              to tell a specific story: Congress had narrower terms,
+              Congress removed them, Congress substituted broader terms.
+              The temporal sequence implies intentional broadening.
+
+STYLISTIC:  CONCRETE_ANCHOR — "Congress deleted the terms 'solicit' and
+            'assist'" is a specific, verifiable fact. The argument does
+            not rest on interpretive theory; it rests on what Congress
+            actually did.
+
+[CROSS-BRIEF: This AU is the direct counter to petitioner's central
+doctrinal move (AU-P1.1, NARROW_STATUTE via CONST_AVOIDANCE). The
+respondent's argument is that the narrowing construction is foreclosed
+by the statute's own legislative history.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R1.5 ---
+TEXT: "And the government itself rejected any narrowing construction when
+this very case was tried to the jury. See J.A. 99-101; infra Part III."
+
+DOCTRINAL:  --
+
+NARRATIVE:  OPPONENT_CONCESSION_CAPTURE — The respondent captures a second
+            concession, this one more damaging than the first. The
+            government is now asking the Court to adopt a narrowing
+            construction it affirmatively rejected at trial. The move
+            exposes an inconsistency between the government's litigation
+            posture below and its position on appeal.
+
+FACT-FRAMING: FOREGROUND — The respondent foregrounds the government's
+              trial-level conduct as an admission against interest. The
+              jury instructions (J.A. 99-101) are presented as evidence
+              that the government itself understood "encourage" in its
+              ordinary, broad meaning.
+
+              RECHARACTERIZE — The government's appellate narrowing
+              construction is recharacterized from a legitimate
+              interpretive argument into a post-hoc reversal of its own
+              trial position.
+
+STYLISTIC:  UNDERSTATED_DEVASTATION — "And the government itself rejected
+            any narrowing construction when this very case was tried to
+            the jury." The sentence is plain and factual. The devastating
+            implication (the government is contradicting its own trial
+            position) is left for the reader to register.
+
+            COMPRESSION — A single sentence does the work of an entire
+            section on judicial estoppel. The cross-reference to Part III
+            signals the full development but the introductory sentence
+            carries the punch.
+
+
+================================================================================
+RESP. SECTION 2: A. The Statute's Plain Meaning Reaches Any Speech That
+Persuades or Encourages a Noncitizen to Remain in Violation of Law
+================================================================================
+
+--- AU-R2.1 ---
+TEXT: "The ordinary meaning of the encouragement provision prohibits mere
+encouragement of violations of immigration law. The statute requires no
+proof of intent to solicit, of the likelihood of an imminent violation,
+or of conduct constituting aiding and abetting. It proscribes encouragement,
+full stop, and therefore includes a substantial amount of protected speech."
+
+DOCTRINAL:  BROADEN_STATUTE — The respondent restates the broadening
+            argument with greater precision. Three elements that would
+            normally limit a speech-restricting statute are identified as
+            absent: (1) intent to solicit, (2) imminence of violation,
+            (3) aiding-and-abetting conduct. Each absent element maps
+            onto a distinct doctrinal tradition (solicitation, Brandenburg
+            incitement, accomplice liability).
+
+NARRATIVE:  AFFIRMATIVE_FRAME — "It proscribes encouragement, full stop"
+            presents the statute's breadth as a plain textual fact, not
+            as the respondent's contestable reading. The period after
+            "full stop" is doing argumentative work: the brevity asserts
+            that no further analysis is required.
+
+FACT-FRAMING: FOREGROUND_ABSENCE — The respondent foregrounds three
+              elements the statute lacks. The argument is built on
+              absences: what the statute does not require is more
+              important than what it does require.
+
+STYLISTIC:  PARALLEL_STRUCTURE — "No proof of intent to solicit, of the
+            likelihood of an imminent violation, or of conduct constituting
+            aiding and abetting." The three-part series catalogues the
+            missing safeguards in a structure that invites comparison
+            with standards that do include them.
+
+            CADENCE_SHIFT — "It proscribes encouragement, full stop."
+            After the longer analytical sentence, the short declarative
+            sentence closes the argument with finality.
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.2 ---
+TEXT: "The primary dictionary definition of 'encourage' is 'to inspire with
+courage, spirit, or hope . . . to spur on . . . to give help or patronage
+to.' Merriam-Webster's Collegiate Dictionary 380 (10th ed. 2001); see also
+Oxford English Dictionary 216 (2d ed. 1989) ('[t]o inspire with courage,
+animate, inspirit'); Webster's Third New International Dictionary 747 (15th
+ed. 1966) ('[to] inspire with courage, spirit, or hope')."
+
+DOCTRINAL:  APPLY_STANDARD — The respondent applies the standard tool of
+            ordinary-meaning statutory construction: dictionary definitions.
+            The move is conventional, but the execution is strategic.
+            Multiple dictionaries are cited to establish that "encourage"
+            carries the broad meaning across every major lexicographic
+            source.
+
+NARRATIVE:  --
+
+FACT-FRAMING: FOREGROUND — The respondent foregrounds the broadest available
+              definitions. Every dictionary cited defines "encourage" in
+              terms that encompass protected speech (inspire, spur on,
+              embolden). The definitions are selected to maximize the gap
+              between the word's ordinary meaning and the government's
+              proposed criminal-law term-of-art construction.
+
+STYLISTIC:  AUTHORITY_SIGNALING — The stacking of four dictionaries
+            (Merriam-Webster, Oxford, Webster's Third, and below Black's)
+            serves a cumulative-authority function. The respondent is
+            arguing that every lexicographic source agrees on the broad
+            meaning; the government's narrow reading is an outlier.
+
+            CONCRETE_ANCHOR — Direct dictionary quotations anchor the
+            interpretive argument in verifiable textual sources rather
+            than in the respondent's characterization.
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.3 ---
+TEXT: "Even Black's Law Dictionary, which the government cites, defines
+'encourage' in the first instance as '[t]o instigate; to incite to action;
+to embolden; to help.' Black's Law Dictionary 620 (11th ed. 2019). The
+edition in force when Congress in 1986 enacted the provision in its current
+state used additional expansive verbs to define 'encourage': 'to instigate;
+to incite to action; to give courage to; to inspirit; to embolden; to raise
+confidence; to make confident; to help; to forward; to advise.' Black's Law
+Dictionary 473 (5th ed. 1979)."
+
+DOCTRINAL:  APPLY_STANDARD — Continued dictionary analysis, but now
+            targeted at the government's own cited source.
+
+            DISTINGUISH — The respondent distinguishes the government's
+            use of Black's Law Dictionary from what Black's actually says.
+            The government cited Black's for the proposition that
+            "encourage" is a criminal-law term of art; the respondent
+            shows that Black's own definitions are expansive, not narrow.
+
+NARRATIVE:  OPPONENT_CONCESSION_CAPTURE — "Even Black's Law Dictionary,
+            which the government cites" turns the government's own source
+            against it. The word "Even" signals that the respondent is
+            working with the government's preferred authority and still
+            winning the textual argument.
+
+FACT-FRAMING: FOREGROUND — The respondent foregrounds the 1979 edition of
+              Black's (the edition contemporaneous with the 1986 statutory
+              enactment) because its definition is even broader than the
+              current edition. The temporal alignment between the
+              dictionary edition and the enactment date strengthens the
+              ordinary-meaning argument.
+
+              SEQUENCE — The respondent sequences the dictionary evidence
+              to tell a damaging story for the government: the current
+              Black's definition is broad, and the definition from the
+              time of enactment was broader still.
+
+STYLISTIC:  STRATEGIC_QUOTATION — The respondent quotes Black's at length,
+            including the full string of expansive verbs from the 1979
+            edition ("to instigate; to incite to action; to give courage
+            to; to inspirit; to embolden; to raise confidence; to make
+            confident; to help; to forward; to advise"). The length of
+            the quotation is itself the argument: ten verbs, none of
+            which equate to "solicit" or "aid and abet."
+
+[CROSS-BRIEF: This AU directly engages petitioner's reliance on Black's
+Law Dictionary. The petitioner cited Black's to support the term-of-art
+reading; the respondent shows that Black's supports the opposite
+conclusion.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R2.4 ---
+TEXT: "The disjunctive prohibition on 'induce[ment]' likewise reaches beyond
+criminal solicitation. 'Induce' means '[t]o lead on, to influence, to
+prevail on, to move by persuasion or influence.'"
+
+DOCTRINAL:  BROADEN_STATUTE — The respondent extends the broadening
+            argument to the statute's second operative verb, "induce."
+            Like "encourage," "induce" carries an ordinary meaning far
+            broader than criminal solicitation. The respondent is closing
+            off the government's fallback: even if "encourage" could be
+            narrowed, "induce" independently sweeps in protected speech.
+
+NARRATIVE:  --
+
+FACT-FRAMING: FOREGROUND — The respondent foregrounds the disjunctive
+              statutory structure. Because the statute prohibits
+              encouragement OR inducement, both terms must be analyzed.
+              The government cannot save the statute by narrowing one
+              term if the other remains broad.
+
+STYLISTIC:  COMPRESSION — A short, efficient unit. The respondent does
+            not belabor the point; the dictionary definition speaks for
+            itself.
+
+
+================================================================================
+RESP. SECTION 3: B. Speech Encouraging Violations of Law is Protected by
+the First Amendment Except in Very Narrow Circumstances
+================================================================================
+
+--- AU-R3.1 ---
+TEXT: "This Court has long held that encouraging lawless action is
+constitutionally protected except in exceedingly narrow circumstances. See
+Brandenburg, 395 U.S. at 447 ('advocacy of the use of force or of law
+violation' is protected by the First Amendment) (emphasis added); Williams,
+553 U.S. at 298-99 (noting 'an important distinction between a proposal
+to engage in illegal activity and the abstract advocacy of illegality')."
+
+DOCTRINAL:  INVOKE_AUTHORITY — Brandenburg and Williams are the two
+            canonical authorities on the distinction between protected
+            advocacy and unprotected incitement/solicitation. The
+            respondent invokes both at the section's outset to establish
+            the constitutional baseline: speech encouraging law violation
+            is the norm for protection, not the exception.
+
+            APPLY_STANDARD — The respondent frames the First Amendment
+            test as requiring "exceedingly narrow circumstances" before
+            advocacy of illegality loses protection. This is an accurate
+            statement of the standard that simultaneously maximizes its
+            protective scope.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — "This Court has long held" positions the
+            respondent's constitutional argument as settled law, not as a
+            novel proposition. The respondent is not asking for new
+            protection; it is asking for the application of existing
+            doctrine.
+
+FACT-FRAMING: --
+
+STYLISTIC:  AUTHORITY_SIGNALING — Brandenburg and Williams are cited
+            together in the opening sentence. The pairing signals that
+            the respondent's First Amendment argument rests on the
+            Court's most authoritative speech-protection precedents.
+
+            STRATEGIC_QUOTATION — The respondent quotes Brandenburg's
+            reference to "law violation" (emphasis added) to draw an
+            explicit link between the Brandenburg principle and the
+            statute at issue. The emphasis signals that this is not a
+            general citation but a targeted application.
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.2 ---
+TEXT: "Indeed, in its canonical First Amendment precedent, Brandenburg,
+395 U.S. 444, the Court held that even speech that directly advocates
+violent crime is protected unless it is (1) intended to and (2) likely to
+produce (3) imminent lawless action. Id. at 447. The encouragement provision
+contains none of these elements."
+
+DOCTRINAL:  APPLY_STANDARD — The respondent sets out the three-part
+            Brandenburg test: (1) intent, (2) likelihood, (3) imminence.
+            Each element is a limiting principle that the encouragement
+            provision lacks.
+
+            BROADEN_HOLDING — The respondent broadens the force of
+            Brandenburg by emphasizing that it protects "even speech that
+            directly advocates violent crime." If advocacy of violent crime
+            is protected absent intent/likelihood/imminence, then advocacy
+            of civil immigration violations is a fortiori protected.
+
+NARRATIVE:  ESCALATE_STAKES — The a fortiori structure escalates the
+            constitutional stakes: the government is asking for less First
+            Amendment protection for immigration-law speech than the Court
+            provides for advocacy of violent crime. The implicit
+            comparison makes the government's position seem extreme.
+
+FACT-FRAMING: FOREGROUND_ABSENCE — "The encouragement provision contains
+              none of these elements." The respondent foregrounds the
+              statute's failure to include any of the three Brandenburg
+              requirements. Three absences, catalogued.
+
+STYLISTIC:  COMPRESSION — "The encouragement provision contains none of
+            these elements." After the three-part Brandenburg test, a
+            single sentence delivers the conclusion: zero out of three.
+
+            UNDERSTATED_DEVASTATION — The flat factual sentence following
+            the formal recitation of the three-element test. No argument
+            is needed; the gap between the standard and the statute is
+            self-evident.
+
+[CROSS-BRIEF: This AU responds to petitioner's likely argument (AU-P1.3)
+that the statute targets unprotected conduct-adjacent speech. The
+respondent counters that even under the government's own doctrinal
+framework (integral-to-criminal-conduct), the statute fails because it
+lacks the limiting elements Brandenburg requires.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.3 ---
+TEXT: "The First Amendment also does not protect 'speech . . . integral [to]
+conduct in violation of a valid criminal statute.' Giboney, 336 U.S. at 498;
+United States v. Stevens, 559 U.S. 460, 471 (2010) (explaining that speech
+loses its constitutional protection only when 'used as an integral part of
+conduct in violation of a valid criminal statute') (emphasis added). But the
+encouragement provision extends far beyond speech 'integral' to criminal
+conduct because it reaches all encouragement."
+
+DOCTRINAL:  CONCEDE_REDIRECT (used as NARRATIVE here but operating
+            doctrinally) — The respondent concedes the existence of the
+            integral-to-criminal-conduct exception, then immediately
+            distinguishes it. The concession is genuine: speech integral
+            to crime is unprotected. The redirect is that the statute
+            sweeps far past that exception.
+
+            DISTINGUISH — The respondent distinguishes the encouragement
+            provision from statutes that target speech "integral" to
+            criminal conduct. The statute's reach is not limited to
+            speech integral to crime; it reaches "all encouragement."
+
+NARRATIVE:  CONCEDE_REDIRECT — The "also does not protect" language
+            concedes the government's strongest doctrinal point, then the
+            "But" pivots to the respondent's answer: the statute is not
+            limited to that unprotected category.
+
+FACT-FRAMING: RECHARACTERIZE — The respondent recharacterizes the statute's
+              scope. Under the government's framing, the statute targets
+              the unprotected integral-to-conduct category. Under the
+              respondent's framing, the statute happens to include that
+              category but extends far beyond it.
+
+STYLISTIC:  STRATEGIC_QUOTATION — The respondent quotes Stevens with the
+            Court's own emphasis on "integral part." The emphasis is
+            Stevens's, but the respondent deploys it to underscore how
+            far the encouragement provision departs from the integral-
+            part standard.
+
+            REGISTER_CONTRAST — "All encouragement" following the formal
+            legal standard ("integral part of conduct in violation of a
+            valid criminal statute") creates a register contrast. The
+            formality of the legal standard next to the plain breadth of
+            "all encouragement" makes the statute's overreach audible.
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.4 ---
+TEXT: "In Williams, this Court stated that the First Amendment protects the
+statement, 'I encourage you to obtain child pornography,' absent proof of
+intentional solicitation of a specific crime. 553 U.S. at 294, 298, 299-300.
+Yet the encouragement provision criminalizes the statement 'I encourage you
+to reside in the United States,' see Pet. App. 11a, without proof of intent
+to solicit an unlawful act; the law requires merely that the defendant know
+or recklessly disregard the unlawful status of the noncitizen."
+
+DOCTRINAL:  ANALOGIZE — The respondent analogizes the encouragement
+            provision to the hypothetical in Williams. If the First
+            Amendment protects "I encourage you to obtain child
+            pornography" (absent solicitation intent), then it necessarily
+            protects "I encourage you to reside in the United States"
+            (a far less serious category of illegal conduct).
+
+            APPLY_TO_FACTS — The respondent applies the Williams principle
+            to the specific statutory language at issue, producing a
+            concrete constitutional clash.
+
+NARRATIVE:  ESCALATE_STAKES — The juxtaposition of child pornography
+            encouragement (protected under Williams) with immigration
+            encouragement (criminalized under the statute) creates an
+            irresistible a fortiori argument. If encouraging the more
+            serious crime is protected, criminalizing encouragement of
+            the less serious violation is constitutionally untenable.
+
+FACT-FRAMING: FOREGROUND — The respondent foregrounds the comparison
+              between child pornography and immigration violations. The
+              comparison is chosen for maximum impact: the reader must
+              confront the fact that the statute criminalizes speech less
+              serious than what Williams held protected.
+
+              RECHARACTERIZE — The statute's scienter requirement ("know
+              or recklessly disregard") is recharacterized from a limiting
+              principle (the government's framing) into evidence of
+              overbreadth. Knowledge of immigration status is not the
+              same as intent to solicit a crime.
+
+STYLISTIC:  CONCRETE_ANCHOR — The two parallel hypothetical statements
+            ("I encourage you to obtain child pornography" vs. "I
+            encourage you to reside in the United States") anchor the
+            doctrinal argument in specific, memorable phrases. The
+            comparison is impossible to ignore once stated.
+
+[CROSS-BRIEF: This AU deploys the government's own authority (Williams)
+against the government's position. The petitioner cites Williams for
+the overbreadth standard; the respondent cites Williams for the
+substantive First Amendment holding. The cross-brief dynamic is one of
+competing uses of the same authority.]
+
+--------------------------------------------------------------------------------
+
+--- AU-R3.5 ---
+TEXT: "In fact, the statute encompasses not just advocacy, but merely
+conveying factual information that might have the effect of encouraging
+someone to reside here unlawfully even if the speaker does not intend to
+advocate that result."
+
+DOCTRINAL:  BROADEN_STATUTE — The respondent pushes the statute's reach
+            even further: beyond advocacy to include the mere conveyance
+            of factual information. This moves the overbreadth argument
+            from the advocacy-solicitation spectrum to an entirely
+            different category of speech.
+
+            SLIPPERY_SLOPE — The argument traces the statute's logic to
+            its extreme application: a lawyer, social worker, or
+            journalist who conveys information about immigration options
+            could be criminally liable if the information has the
+            "effect" of encouraging continued residence.
+
+NARRATIVE:  ESCALATE_STAKES — Each AU in this section has expanded the
+            statute's reach further. From solicitation, to advocacy,
+            to factual information. The respondent is building a cascade
+            of applications, each more constitutionally problematic than
+            the last.
+
+FACT-FRAMING: FOREGROUND — The respondent foregrounds applications that
+              are remote from the government's paradigm case of criminal
+              facilitation. The further the applications get from
+              facilitation, the stronger the overbreadth argument becomes.
+
+STYLISTIC:  CADENCE_SHIFT — "Not just advocacy, but merely conveying
+            factual information" marks a register descent from the formal
+            doctrinal analysis. The word "merely" does significant work,
+            signaling that the statute criminalizes something even the
+            reader would consider innocuous.
+
+
+================================================================================
+RESP. SECTION 4: C. The Statute Criminalizes a Substantial Amount of
+Protected Speech as Compared to Its Legitimate Scope
+================================================================================
+
+--- AU-R4.1 ---
+TEXT: "In view of the above, it is plain that with respect to the
+encouragement provision, 'a substantial number of [its] applications are
+unconstitutional, judged in relation to the statute's plainly legitimate
+sweep.' Stevens, 559 U.S. at 472-73."
+
+DOCTRINAL:  APPLY_STANDARD — The respondent applies the Stevens/Williams
+            overbreadth test. This is the formal doctrinal move that
+            translates the preceding sections into the legal test the
+            Court must apply.
+
+NARRATIVE:  AFFIRMATIVE_FRAME — "It is plain" asserts that the preceding
+            analysis leaves no room for disagreement. The overbreadth
+            conclusion is presented as self-evident given the established
+            premises.
+
+FACT-FRAMING: --
+
+STYLISTIC:  AUTHORITY_SIGNALING — Quoting the Stevens test verbatim
+            positions the respondent's conclusion as a direct application
+            of the Court's own formulation rather than an independent
+            judgment.
+
+--------------------------------------------------------------------------------
+
+--- AU-R4.2 ---
+TEXT: "The vast majority of speech encouraging noncitizens to commit a
+violation of immigration law is constitutionally protected, yet it is all
+prohibited by this statute. By contrast, the instances of incitement,
+solicitation, or aiding and abetting encompassed are but a small fraction
+of the statute's reach."
+
+DOCTRINAL:  APPLY_STANDARD — The respondent performs the overbreadth
+            balancing: the ratio of unconstitutional applications (the
+            "vast majority") to legitimate applications (a "small
+            fraction") decisively favors invalidation.
+
+NARRATIVE:  --
+
+FACT-FRAMING: RECHARACTERIZE — The respondent recharacterizes the
+              overbreadth ratio. Under the government's framing, the
+              statute primarily targets facilitation with incidental
+              effects on protected speech. Under the respondent's
+              framing, the statute primarily targets protected speech
+              with incidental coverage of facilitation.
+
+STYLISTIC:  REGISTER_CONTRAST — "Vast majority" against "small fraction."
+            The two quantity phrases are placed in direct opposition,
+            making the disproportionality audible.
+
+            PARALLEL_STRUCTURE — The two sentences mirror each other:
+            what the statute prohibits (vast majority, constitutionally
+            protected) vs. what it legitimately reaches (small fraction).
+
+--------------------------------------------------------------------------------
+
+--- AU-R4.3 ---
+TEXT: "When conducting the overbreadth assessment, '[t]he breadth of
+legislative abridgment must be viewed in the light of less drastic means
+for achieving the same basic purpose.' Keyishian v. Bd. of Regents, 385
+U.S. 589, 609 (1967)."
+
+DOCTRINAL:  APPLY_STANDARD — The respondent introduces a second dimension
+            to the overbreadth analysis: the availability of less
+            restrictive alternatives. This shifts the inquiry from
+            whether the statute is overbroad to whether its overbreadth
+            is unnecessary.
+
+            BURDEN_SHIFT — By invoking the less-restrictive-means
+            framework, the respondent implicitly shifts the burden to the
+            government to explain why a narrower statute would not serve
+            its interests.
+
+NARRATIVE:  --
+
+FACT-FRAMING: --
+
+STYLISTIC:  AUTHORITY_SIGNALING — Keyishian is a landmark academic-freedom
+            case from the Warren Court era. Citing it aligns the
+            respondent's position with a deep tradition of First Amendment
+            skepticism toward overbroad statutes.
+
+--------------------------------------------------------------------------------
+
+--- AU-R4.4 ---
+TEXT: "Thus, a law making it a felony to criticize the President would not
+be saved by the fact that it encompasses true threats, because the
+government could enact a statute specifically targeted at true threats."
+
+DOCTRINAL:  ANALOGIZE — The respondent constructs a reductio ad absurdum
+            analogy. A law criminalizing criticism of the President would
+            incidentally cover true threats (which are unprotected) but
+            would still be overbroad because a narrower statute could
+            target the unprotected category directly. The same logic
+            applies to the encouragement provision: it incidentally
+            covers solicitation and aiding-and-abetting but a narrower
+            statute could target those directly.
+
+            SLIPPERY_SLOPE — The hypothetical illustrates where the
+            government's logic leads: any overbroad statute could be
+            saved by pointing to its overlap with unprotected speech
+            categories.
+
+NARRATIVE:  ESCALATE_STAKES — The presidential-criticism hypothetical
+            escalates the stakes by showing the government's theory would
+            save paradigmatically unconstitutional statutes.
+
+FACT-FRAMING: --
+
+STYLISTIC:  CONCRETE_ANCHOR — The hypothetical is vivid and immediately
+            graspable. "A law making it a felony to criticize the
+            President" needs no further explanation; the reader
+            immediately perceives its unconstitutionality.
+
+--------------------------------------------------------------------------------
+
+--- AU-R4.5 ---
+TEXT: "The Court applied this principle in Americans for Prosperity Found.
+v. Bonta, 141 S. Ct. 2373 (2021), in which it considered the 'dramatic
+mismatch' between the California Attorney General's asserted interests in
+policing fraud by charities and a requirement that all charities disclose
+their top donors. Id. at 2386-88. Declaring the law facially overbroad, the
+Court noted the availability of 'alternatives to the current disclosure
+requirement' that would enable the state to obtain the information it
+needed."
+
+DOCTRINAL:  ANALOGIZE — The respondent analogizes to Bonta, a recent
+            decision in which the Court struck down an overbroad
+            disclosure requirement. The analogy is strategic: Bonta was
+            decided 6-3 with a majority opinion by the Chief Justice,
+            making it a recent and authoritative application of the
+            overbreadth principle.
+
+            INVOKE_AUTHORITY — Bonta is invoked for its "dramatic
+            mismatch" language, which maps directly onto the respondent's
+            framing of the encouragement provision: the statute's reach
+            dramatically exceeds the government's legitimate interest in
+            prosecuting criminal facilitation.
+
+NARRATIVE:  --
+
+FACT-FRAMING: FOREGROUND — The respondent foregrounds the Bonta Court's
+              finding that alternatives existed. The implied argument:
+              just as California could have policed fraud without
+              requiring universal donor disclosure, the federal
+              government can prosecute immigration-related crimes without
+              criminalizing all encouragement.
+
+STYLISTIC:  STRATEGIC_QUOTATION — "Dramatic mismatch" is the Court's own
+            phrase from Bonta. The respondent deploys it to characterize
+            the encouragement provision without needing to use its own
+            adjectives. The Court's language does the advocacy.
+
+[CROSS-BRIEF: The petitioner's Table of Authorities cites Bonta at page
+10, suggesting the government engaged with this precedent. The respondent
+has pre-positioned Bonta as supporting invalidation; the petitioner
+likely attempted to distinguish it.]
+
+
+================================================================================
+RESP. SECTION 5: D. The Encouragement Provision Cannot Be Narrowly
+Construed as a Criminal Solicitation or Aiding and Abetting Law
+================================================================================
+
+--- AU-R5.1 ---
+TEXT: "The government does not dispute that if the provision is interpreted
+according to its ordinary meaning, it is unconstitutional. Instead, it urges
+the Court to avoid this result by reading the statute narrowly as prohibiting
+only solicitation or aiding and abetting (or, in the government's shorthand,
+facilitation). U.S. Br. 21-24."
+
+DOCTRINAL:  --
+
+NARRATIVE:  OPPONENT_CONCESSION_CAPTURE — The respondent repeats the
+            concession captured in AU-R1.3, but now in the context of the
+            limiting-construction argument. Repetition here is strategic:
+            the reader enters the limiting-construction section knowing
+            that the government has already conceded the statute's plain-
+            meaning unconstitutionality.
+
+            AFFIRMATIVE_FRAME — The respondent frames the government's
+            position as "urging the Court to avoid this result," casting
+            the narrowing construction as a remedial maneuver rather
+            than a good-faith interpretive argument.
+
+FACT-FRAMING: RECHARACTERIZE — "Facilitation" is identified as "the
+              government's shorthand," subtly suggesting that the
+              government has branded its construction with a label
+              designed to make it sound more modest than it is.
+
+STYLISTIC:  --
+
+--------------------------------------------------------------------------------
+
+--- AU-R5.2 ---
+TEXT: "But '[t]his Court may impose a limiting construction on a statute
+only if it is "readily susceptible" to such a construction.' Stevens,
+559 U.S. at 481 (quoting Reno v. ACLU, 521 U.S. 844, 884 (1997)). The
+Court 'will not rewrite a . . . law to conform it to constitutional
+requirements.' Stevens, 559 U.S. at 481 (alteration in original)."
+
+DOCTRINAL:  APPLY_STANDARD — The respondent identifies the legal standard
+            for limiting constructions: the statute must be "readily
+            susceptible" to the narrow reading. The move sets a high bar
+            for the government's proposed construction.
+
+            INVOKE_AUTHORITY — Stevens and Reno v. ACLU are both First
+            Amendment overbreadth cases in which the Court declined to
+            save statutes through limiting constructions. The respondent
+            invokes these as direct precedents against judicial rewriting.
+
+NARRATIVE:  --
+
+FACT-FRAMING: --
+
+STYLISTIC:  STRATEGIC_QUOTATION — The respondent quotes the Court's own
+            language from Stevens: "will not rewrite a law." The quotation
+            is chosen because "rewrite" is more forceful than "construe
+            narrowly." The Stevens Court's word choice frames the
+            government's request as asking for something the Court has
+            already said it will not do.
+
+--------------------------------------------------------------------------------
+
+--- AU-R5.3 ---
+TEXT: "Courts may not 'add to, remodel, update, or detract from old
+statutory terms,' lest they 'risk amending' the statute 'outside the
+legislative process reserved for the people's representatives.' Bostock
+v. Clayton County, 140 S. Ct. 1731, 1738 (2020); Nielsen v. Preap,
+139 S. Ct. 954, 972 (2019) ('[C]onstitutional avoidance comes into play
+only when, after the application of ordinary textual analysis, the statute
+is found to [be ambiguous]')."
+
+DOCTRINAL:  INVOKE_AUTHORITY — Bostock is a textualist landmark. By
+            citing it for the proposition that courts may not "remodel"
+            statutory terms, the respondent aligns the anti-rewriting
+            principle with the Court's most recent and prominent
+            textualist opinion. This is a move designed to appeal to
+            the textualist justices on the Court.
+
+            CONST_AVOIDANCE — The Nielsen citation turns the
+            constitutional-avoidance doctrine against the government.
+            Constitutional avoidance requires textual ambiguity as a
+            threshold condition. The respondent's argument is that
+            "encourage" is not ambiguous; it plainly means what it says.
+            Because the text is clear, constitutional avoidance is
+            unavailable.
+
+NARRATIVE:  PREEMPTIVE_REBUTTAL — The respondent anticipates the
+            government's constitutional-avoidance argument and forecloses
+            it doctrinally before the government can develop it. The
+            rebuttal: avoidance presupposes ambiguity, and this statute
+            is unambiguous.
+
+FACT-FRAMING: --
+
+STYLISTIC:  STRATEGIC_QUOTATION — The Bostock quotation ("add to, remodel,
+            update, or detract from") is a four-verb catalog of
+            prohibited judicial conduct. The length of the list
+            emphasizes the breadth of the prohibition. The respondent
+            is arguing that the government's narrowing construction
+            violates every one of these prohibitions.
+
+            AUTHORITY_SIGNALING — Citing Bostock and Nielsen together
+            signals that both textualists and purposivists on the Court
+            have endorsed the principle that courts may not rewrite
+            statutes to avoid constitutional problems. The respondent
+            is assembling a cross-ideological coalition of authorities.
+
+[CROSS-BRIEF: This AU directly counters petitioner's reliance on
+constitutional avoidance (AU-P1.1, CONST_AVOIDANCE). The respondent's
+argument is that the avoidance canon is inapplicable because the
+statute's text is unambiguous. The cross-brief dynamic pits the
+government's avoidance argument against the respondent's textualism
+argument, forcing the Court to decide whether "encourage" is
+genuinely ambiguous.]
+
+
+################################################################################
+CROSS-BRIEF INTERACTION SUMMARY
+################################################################################
+
+1. THE NARROWING-CONSTRUCTION BATTLE (Central Strategic Clash)
+   Petitioner (AU-P1.1) proposes construing "encourage" as a criminal-law
+   term of art meaning only solicitation or aiding and abetting, invoking
+   the constitutional-avoidance canon. Respondent (AU-R1.4, R2.2-R2.4,
+   R5.1-R5.3) attacks this construction from multiple directions:
+   (a) the dictionaries uniformly define "encourage" broadly; (b) Congress
+   deleted the narrower terms "solicit" and "assist" from the statute;
+   (c) the statute is unambiguous, so constitutional avoidance does not
+   apply; (d) Bostock and Stevens prohibit judicial rewriting. The
+   petitioner's entire case depends on the viability of this narrowing
+   construction; the respondent devotes three full sections to
+   demolishing it. This is the defining cross-brief interaction.
+
+2. COMPETING USES OF WILLIAMS
+   Both sides cite United States v. Williams, 553 U.S. 285 (2008), but
+   for opposite propositions. Petitioner (AU-P1.2) cites Williams for
+   the overbreadth standard: invalidation requires a "substantial number"
+   of unconstitutional applications. Respondent (AU-R3.4) cites Williams
+   for the substantive First Amendment holding: the statement "I encourage
+   you to obtain child pornography" is protected absent proof of
+   intentional solicitation. The respondent's use of Williams is more
+   tactically effective because it turns the government's own authority
+   into an a fortiori argument: if encouraging child pornography is
+   protected, encouraging immigration violations must be as well.
+
+3. CONCESSION EXPLOITATION
+   The respondent systematically captures the government's concessions
+   and deploys them as structural pillars of its argument. Three distinct
+   concessions are captured: (a) the government does not dispute that the
+   statute is unconstitutional under its ordinary meaning (AU-R1.3, R5.1);
+   (b) Black's Law Dictionary, cited by the government, defines "encourage"
+   broadly (AU-R2.3); (c) the government rejected the narrowing
+   construction at trial (AU-R1.5). Each concession-capture is positioned
+   at a strategic moment in the brief: the first in the introduction,
+   the second in the plain-meaning section, the third as the introduction's
+   closing blow.
+
+4. BRANDENBURG VS. INTEGRAL-TO-CONDUCT
+   The petitioner's brief structure (inferred from authority citations)
+   suggests a two-track argument: (a) under the narrowing construction,
+   the statute reaches only unprotected conduct-adjacent speech; (b) even
+   under the ordinary meaning, some categories of covered speech
+   (solicitation, aiding and abetting) are unprotected. The respondent
+   (AU-R3.1-R3.3) responds by establishing the First Amendment baseline
+   through Brandenburg: even advocacy of violent crime is protected absent
+   intent, likelihood, and imminence. The respondent then concedes the
+   integral-to-conduct exception (AU-R3.3) but distinguishes it: the
+   statute is not limited to speech integral to criminal conduct. The
+   cross-brief dynamic forces the Court to choose between the
+   petitioner's narrow framing (the statute targets solicitation) and
+   the respondent's broad framing (the statute targets all encouragement).
+
+5. LEGISLATIVE HISTORY AS DISPOSITIVE EVIDENCE
+   The respondent's strongest single move (AU-R1.4) is the legislative-
+   history argument that Congress deleted "solicit" and "assist" from the
+   statute. This move goes unrebutted in the available petitioner text.
+   The Table of Authorities cites the Illegal Immigration Reform and
+   Immigrant Responsibility Act of 1996, which suggests the petitioner
+   engaged with legislative history, but the specific response to the
+   deletion argument is not visible. The respondent's deployment of this
+   fact in the introduction signals its centrality; if the petitioner's
+   response is weak, this becomes the case-defining point.
+
+6. BONTA AS RECENT PRECEDENT
+   Both briefs cite Americans for Prosperity Foundation v. Bonta, 141
+   S. Ct. 2373 (2021). The respondent (AU-R4.5) uses Bonta for its
+   "dramatic mismatch" language and its holding that less restrictive
+   alternatives defeated the statute. The petitioner cites Bonta at page
+   10 of its brief, likely attempting to distinguish it (perhaps arguing
+   that the encouragement provision serves a more compelling interest
+   than charitable-donor disclosure). The available text does not reveal
+   the petitioner's specific Bonta argument, but the citation confirms
+   engagement with this precedent.
+
+7. TRIAL-LEVEL ESTOPPEL (Unrebutted in Available Text)
+   The respondent's argument that the government rejected the narrowing
+   construction at trial (AU-R1.5, referencing J.A. 99-101 and Part III)
+   is one of the most tactically damaging moves in the brief. It
+   transforms the narrowing construction from an interpretive argument
+   into an act of appellate opportunism: the government tried the case
+   on the broad reading and now seeks a narrow reading on appeal. No
+   response to this argument appears in the available petitioner text.
+
+
+################################################################################
+NEW MOVES
+################################################################################
+
+NEW_MOVE_[AUTHORITY_INVERSION]
+Definition: A move in which one side takes an authority cited by the
+opposing side and deploys it for the opposite proposition, demonstrating
+that the authority actually supports the citing party's position rather
+than the opponent's. Distinguished from DISTINGUISH (which neutralizes an
+opposing authority) and INVOKE_AUTHORITY (which cites a favorable
+authority). AUTHORITY_INVERSION affirmatively captures the opponent's
+authority and turns it against them.
+
+Observed in: AU-R2.3 (Black's Law Dictionary, cited by the government for
+the term-of-art argument, is shown to define "encourage" broadly) and
+AU-R3.4 (Williams, the government's primary overbreadth authority, is
+cited for its substantive holding that encouraging illegal conduct can
+be protected speech).
+
+Taxonomic note: AUTHORITY_INVERSION is more aggressive than DISTINGUISH.
+Where DISTINGUISH neutralizes an unfavorable authority by showing it does
+not apply, AUTHORITY_INVERSION captures a favorable authority from the
+opponent's brief and redeploys it. The move is especially effective
+because it weakens the opponent's position while simultaneously
+strengthening the inverter's position with a source the opponent already
+endorsed.
+
+NEW_MOVE_[APPELLATE_POSITION_REVERSAL]
+Definition: A move in which one side exposes the other's inconsistency
+between its position below (at trial or in a lower court) and its position
+on appeal. Unlike OPPONENT_CONCESSION_CAPTURE (which captures a concession
+within the current briefing), APPELLATE_POSITION_REVERSAL reaches back to
+the opponent's conduct in prior proceedings to show that the current
+appellate argument contradicts the position the opponent actually litigated.
+
+Observed in: AU-R1.5, where the respondent points out that the government
+rejected any narrowing construction when this case was tried to the jury
+(citing the jury instructions at J.A. 99-101), yet now asks the Court to
+adopt that same narrowing construction on appeal.
+
+Taxonomic note: APPELLATE_POSITION_REVERSAL goes beyond
+OPPONENT_CONCESSION_CAPTURE because it involves a temporal dimension: the
+inconsistency is between the opponent's past conduct and present argument,
+not between two statements in the same brief. It functions as a credibility
+attack: if the government did not believe in the narrowing construction
+when it mattered (at trial), its current advocacy of that construction is
+opportunistic rather than principled.
+
+================================================================================
+END OF ANNOTATIONS
+================================================================================

@@ -1,0 +1,333 @@
+STRATEGIC MOVE ANNOTATIONS — DOCKET 22-210
+Dupree v. Younger
+==================================================
+
+PETITIONER BRIEF (Docket22-210_Brief003.pdf)
+
+==================================================
+SECTION 1: I. Purely Legal Issues Resolved At Summary Judgment Are Preserved For Review
+==================================================
+
+ARGUMENT UNIT 1.1: Purely legal issues resolved at summary judgment are reviewable on appeal following final judgment, based on the final judgment rule, historical practice, the Federal Rules, and common sense.
+
+DOCTRINAL:
+- APPLY_STANDARD: Identifies the final judgment rule, historical practice, and the Federal Rules as three independent bases for the same conclusion. Each is a self-sufficient doctrinal path to reversal.
+- BROADEN_HOLDING: Frames the proposition not as a narrow procedural exception but as a consequence of long-settled structural principles of appellate review. The breadth is deliberate — it signals that the petitioner's position is the default, not the exception.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Leads with the positive claim ("Purely legal issues... are reviewable") rather than a defensive posture ("We should not be required to file Rule 50 motions"). Petitioner positions himself as defending the normal order of things rather than seeking special treatment.
+- ESCALATE_STAKES: "That rule also makes far more sense than the alternative" — frames respondent's position as the one that needs justification. The asymmetry is strategic: petitioner's rule is common sense; the burden of persuasion falls on the other side.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the structural simplicity of the argument. Three independent sources of authority all converge on the same result. The convergence itself is the fact being foregrounded — it implies the conclusion is overdetermined.
+- STRATEGIC_SILENCE: No engagement with the specific facts of Dupree's case in this section. The argument operates entirely at the level of general principle, keeping the messier procedural history at a distance.
+
+STYLISTIC:
+- COMPRESSION: The entire section roadmap is compressed into three sentences. Each sentence carries a distinct argumentative function: statement of rule, identification of authority, and policy judgment.
+- PARALLEL_STRUCTURE: "That conclusion follows from..." / "That rule also makes..." — the parallel "That" construction links the doctrinal and policy arguments into a single coherent position.
+
+==================================================
+SECTION 2: A. Legal errors in interlocutory orders, including summary judgment decisions, merge with the final judgment and may be appealed therefrom
+==================================================
+
+ARGUMENT UNIT 2.1: Under the final judgment rule, all legal errors preceding final judgment may be appealed from that judgment — the merger principle.
+
+DOCTRINAL:
+- APPLY_STANDARD: Establishes the final judgment rule (28 U.S.C. 1291) as the governing framework, then derives the merger doctrine as its logical consequence. The argument proceeds deductively: if parties must wait until final judgment, then all prior errors must be reviewable at that point.
+- INVOKE_AUTHORITY: Heavy citation to Mohawk Industries, Behrens, Puerto Rico Aqueduct, Microsoft v. Baker, and Quackenbush. These are not obscure authorities — they are canonical final-judgment-rule cases. The cumulative citation signals that this is hornbook law, not a novel proposition.
+- BROADEN_HOLDING: Takes the general principle from Quackenbush ("claims of district court error at any stage of the litigation may be ventilated") and applies it specifically to summary judgment denials. The move broadens a general merger rule into this particular procedural context.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Frames the argument as a straightforward application of established doctrine. The brief does not treat this as a contested question — it treats it as settled and asks why anyone would think otherwise.
+- AGREEMENT_TRAP: Uses the Court's own prior language to box in the respondent. If "the whole case and every matter in controversy in it must be decided in a single appeal" (Microsoft v. Baker), then carving out summary judgment denials would contradict the Court's own rule. Respondent must either distinguish the precedent or accept the consequence.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the quid pro quo embedded in the final judgment rule: parties give up the right to immediate interlocutory appeal, and in exchange, they get to raise all errors at the end. This bargain-framing makes any exception look like the court reneging on a deal.
+- FOREGROUND_ABSENCE: Flags that exceptions to the merger principle are narrow and enumerated. By foregrounding the absence of any relevant exception, petitioner shifts the burden — respondent must find a textual basis for creating one.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: Layered citations to the Court's own precedent (Mohawk, Behrens, Quackenbush, Microsoft, Cuozzo) plus the Wright & Miller treatise. The density signals that petitioner is not making law but describing it.
+- STRATEGIC_QUOTATION: "Claims of district court error at any stage of the litigation may be ventilated" — the word "ventilated" is the Court's own, and it is conspicuously broad. "At any stage" does the argumentative heavy lifting.
+- CONCRETE_ANCHOR: The Wright & Miller treatise citation ("the variety of orders open to review on subsequent appeal from a final judgment is enormous") provides a concrete, treatise-backed characterization that reinforces the breadth of the rule.
+
+ARGUMENT UNIT 2.2: An appeal from final judgment opens the record to review of all prior rulings, and exceptions are narrow.
+
+DOCTRINAL:
+- BROADEN_HOLDING: Uses Justice Alito's concurrence in Cuozzo ("the variety of orders open to review... is enormous") to characterize the scope of post-judgment review as maximally expansive.
+- STARE_DECISIS_SHIELD: Positions the merger principle as so well-established that departing from it would require overturning decades of settled practice. The argument is not "this is a good rule" but "this is the rule, and it would be extraordinary to carve an exception."
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: By emphasizing that exceptions are narrow, petitioner anticipates respondent's attempt to create a summary-judgment-specific exception and frames it as swimming against the current of authority.
+
+FACT-FRAMING:
+- DIMINISHING_MODIFIER: The exceptions "are few." The modifier is deliberately minimizing — whatever exceptions exist, they do not reach this case.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: Citing a concurring opinion from Justice Alito to support the scope of the rule signals that this principle commands support across ideological lines on the Court.
+
+==================================================
+SECTION 3: B. Both the history of appellate review and the history of the Federal Rules confirm that no post-trial motion is necessary to preserve purely legal issues for appeal
+==================================================
+
+ARGUMENT UNIT 3.1: For 150 years before the Federal Rules, courts of appeals reviewed denials of demurrers even after jury verdicts — and summary judgment motions on purely legal issues are virtually identical to demurrers.
+
+DOCTRINAL:
+- ANALOGIZE: Maps modern summary judgment motions (on purely legal issues) onto common-law demurrers. The analogy is the structural spine of the historical argument: if demurrers were reviewable without post-trial motions, then their functional equivalents must be too.
+- BROADEN_HOLDING: Extends the historical practice of demurrer review to cover the modern procedural landscape. The move is explicitly framed as setting a "floor" — the scope of appellate review today should be at least as broad as it was at common law.
+- DISTINGUISH_PURPOSE: Distinguishes between summary judgment motions that raise purely legal issues (functionally identical to demurrers) and those that involve factual disputes (not at issue here). This distinction is load-bearing: petitioner's rule applies only to the first category.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Positions petitioner's rule as the continuation of 150 years of unbroken practice. Respondent's rule is the novelty; petitioner's rule is the tradition.
+- ESCALATE_STAKES: "Removes any doubt" — the history is presented as dispositive, not merely supportive. If the historical argument is right, the case is over.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the 150-year timeline. The specific number ("150 years preceding the adoption of the Federal Rules") anchors the argument in a concrete historical period and implies that any departure from this practice would be unprecedented.
+- SEQUENCE: Sequences the historical development deliberately: (1) common-law demurrer practice, (2) writ-of-error review, (3) the record on review, (4) the transition to the Federal Rules. The sequencing creates a narrative of continuity — each era preserved the same principle.
+- RECHARACTERIZE: Recharacterizes summary judgment motions on purely legal issues: they are not a modern procedural innovation but the functional descendants of a centuries-old device. This recharacterization neutralizes the respondent's argument that summary judgment is too different from common-law practice to warrant analogous treatment.
+
+STYLISTIC:
+- CONCRETE_ANCHOR: Specific historical details — Blackstone's Commentaries, the components of the common-law "record" ("the pleadings, the process, the verdict, and the judgment"), the writ of error procedure — ground what could be an abstract historical argument in tangible sources.
+- AUTHORITY_SIGNALING: Citations to Blackstone, Sunderland's 1927 article, and early-20th-century federal cases. The mix of primary and secondary historical authority signals serious engagement with the archival record.
+
+ARGUMENT UNIT 3.2: The core purpose of the Federal Rules was to eliminate technical barriers and ensure cases would be decided on their merits.
+
+DOCTRINAL:
+- DISTINGUISH_PURPOSE: Invokes the animating purpose of the Federal Rules (elimination of technical procedural traps) and argues that requiring Rule 50 motions to preserve already-decided legal issues would contradict that purpose.
+
+NARRATIVE:
+- FRAME_AS_ERROR: Implicitly frames respondent's rule as recreating exactly the kind of technical barrier the Rules were designed to abolish. The respondent's position is not just wrong — it is regressive.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Recharacterizes what the respondent's rule would require: not "preservation" (a neutral term) but a technical barrier to the merits. The recharacterization shifts the connotation from procedural regularity to procedural trap.
+
+STYLISTIC:
+- COMPRESSION: The purpose argument is stated in a single sentence and left to resonate against the detailed historical analysis that precedes it. The brevity is strategic — the point is obvious enough not to need elaboration.
+
+==================================================
+SECTION 4: C. Requiring parties to re-raise purely legal issues would be unnecessary, cumbersome, costly, and prone to error
+==================================================
+
+ARGUMENT UNIT 4.1: Respondent's rule is a policy-based exception to the final judgment rule unsupported by any text.
+
+DOCTRINAL:
+- NARROW_STATUTE: Characterizes respondent's position as untethered to the text of Rule 50 or "any other relevant text." By labeling it a "policy-based exception," petitioner strips it of doctrinal legitimacy before engaging with the policy arguments at all.
+- BURDEN_SHIFT: Reframes the burden: petitioner need not justify the general rule (the final judgment rule); respondent must justify a departure from it. And respondent's justification must come from text, not policy.
+
+NARRATIVE:
+- CONCEDE_AND_REDIRECT: "This Court need not consider policy grounds... but to the extent it does, common sense strongly favors Lieutenant Dupree's rule." Concedes that policy is secondary while signaling that petitioner wins on policy too. The redirect makes the policy argument feel like surplus — petitioner is winning on so many fronts that the policy case is just additional confirmation.
+- AFFIRMATIVE_FRAME: Uses Dupree's military title ("Lieutenant Dupree") in a section about practical burdens. The title subtly humanizes the petitioner and grounds the procedural argument in a real person navigating a real legal system.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the futility of Rule 50 motions on already-decided legal issues. "Essentially zero chance of prevailing" — the motions are not merely duplicative; they are performative.
+- RECHARACTERIZE: Recharacterizes Rule 50 motions as "a trap set to spring on appeal." The word "trap" does significant work — it transforms a procedural requirement from a reasonable preservation mechanism into an arbitrary technicality designed to catch the unwary.
+- FOREGROUND_ABSENCE: Notes the absence of any benefit to any participant in the litigation: the moving party gains nothing, the opposing party gains nothing, the judge gains nothing. The three-part absence creates a persuasive void — if no one benefits, the requirement is pure waste.
+
+STYLISTIC:
+- PARALLEL_STRUCTURE: Three parallel constructions — "Such duplicative filings do not help the aggrieved party... Such duplicative filings also do not benefit the aggrieved party's opponent... And such duplicative filings certainly do not help the beleaguered district court judge" — drive the futility point through repetition, each time eliminating another possible beneficiary.
+- STRATEGIC_QUOTATION: "the jury never gets a crack at deciding [them]" (Gramercy Mills) and "the trial is an irrelevance" (HK Systems) — uses the words of circuit courts to characterize the futility of post-trial motions on purely legal issues. The colloquial register of "never gets a crack" is particularly effective because it matches the common-sense tone of the policy argument.
+- REGISTER_CONTRAST: Shifts between formal doctrinal analysis ("policy-based exception to the final judgment rule") and practical, almost conversational characterizations ("a trap set to spring on appeal," "essentially zero chance of prevailing"). The contrast underscores that the legal conclusion and common sense point the same direction.
+- UNDERSTATED_DEVASTATION: "For purposes of reconsidering a purely legal question, then, 'the trial is an irrelevance'" — delivered flatly, as an obvious observation rather than a rhetorical crescendo. The understatement makes the point harder to dispute.
+
+==================================================
+SECTION 5: II. Nothing In The Seventh Amendment Or The Federal Rules Requires Rule 50 Motions
+==================================================
+
+ARGUMENT UNIT 5.1: Courts on the minority side of the split invoke either the Seventh Amendment or Rule 50; neither provision supports respondent's position.
+
+DOCTRINAL:
+- DISTINGUISH: Separates the Seventh Amendment argument from the Rule 50 argument and announces that each will be addressed independently. By identifying the minority position as relying on two distinct (and independently insufficient) grounds, petitioner fragments the opposition's doctrinal foundation.
+- NARROW_STATUTE: Frames the opposing rule as a minority position — "Courts on the minority side of the split" — implicitly invoking the weight of majority authority against respondent.
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: Announces that the brief will address and defeat both grounds before respondent fully develops them. The roadmap structure tells the reader that no escape route is available.
+- FRAME_AS_ERROR: "Nothing in either of those provisions requires" — characterizes the minority courts' reliance on these provisions as a misreading. The word "nothing" is absolute.
+
+FACT-FRAMING:
+- DIMINISHING_MODIFIER: "Occasionally invoked" — the word "occasionally" minimizes the frequency and seriousness of these arguments. They are not the considered position of a body of authority; they are sporadic.
+- RECHARACTERIZE: Recharacterizes Rule 50 motions in this context as "futile trial and post-trial motions merely to preserve an issue already conclusively resolved." Each word in this phrase does work: "futile" (no chance of success), "merely" (only purpose is preservation), "conclusively resolved" (the issue is already settled).
+
+STYLISTIC:
+- COMPRESSION: The entire section roadmap is contained in two sentences — identification of the two counterarguments and their dismissal.
+- CADENCE_SHIFT: "But nothing in either of those provisions" — the "But" turn from conceding the existence of minority authority to dismissing it creates a sharp pivot.
+
+
+==================================================
+RESPONDENT BRIEF (Docket22-210_Brief005.pdf)
+==================================================
+
+==================================================
+SECTION 1: C. Dupree's Proposed Exception Lacks Merit
+==================================================
+
+ARGUMENT UNIT 1.1: Dupree's argument fails on three independent grounds: Rule 56's text and history, Rule 50's text and history, and the inapplicability of the merger doctrine.
+
+DOCTRINAL:
+- NARROW_STATUTE: Reads Rule 56 as creating "one kind of summary-judgment motion, not two." This directly attacks petitioner's core distinction between summary judgment on purely legal issues and summary judgment involving factual disputes. If Rule 56 does not recognize the distinction, petitioner's entire framework collapses.
+- DISTINGUISH: Distinguishes petitioner's merger-rule examples — orders involving pretrial matters like venue and discovery — from summary judgment denials that address the merits of claims and defenses. The merger rule, respondent argues, applies to interlocutory rulings that are collateral to the merits, not to merits adjudications.
+- APPLY_TO_FACTS: Applies the merger-rule limitation to Dupree's specific case: the summary judgment denial here concerned his affirmative defense of exhaustion, which is a merits issue. Because it goes to the merits, the merger doctrine does not apply.
+
+NARRATIVE:
+- PREEMPTIVE_REBUTTAL: Addresses and dismisses three distinct prongs of petitioner's argument in a single section — the Rule 56 text/history argument, the Rule 50 argument, and the merger argument. The comprehensive rebuttal signals that respondent has heard all of petitioner's theories and found each one wanting.
+- FRAME_AS_ERROR: "Dupree's contention... is wrong." Direct and unqualified. Respondent does not say the argument is "unpersuasive" or "overstated" — it is "wrong."
+
+FACT-FRAMING:
+- RECHARACTERIZE: Recharacterizes petitioner's claim that two types of summary judgment motions exist as a fabrication unsupported by Rule 56's text. The recharacterization strips petitioner's central distinction of any textual legitimacy.
+- FOREGROUND_ABSENCE: Notes that petitioner's merger-rule examples "neither involve the merits of claims or defenses nor reflect final adjudication of claims or defenses." The double absence ("neither... nor") makes the examples affirmatively inapposite, not merely distinguishable.
+
+STYLISTIC:
+- COMPRESSION: Three independent rebuttal arguments compressed into a single paragraph. The compression conveys that none of petitioner's arguments is serious enough to warrant extended treatment.
+- PARALLEL_STRUCTURE: "The text and history of Rule 56... Likewise, the text of Rule 50... And Dupree's argument..." — three parallel clauses, each disposing of a separate argument.
+
+==================================================
+SECTION 2: II. The History of the Federal Rules Supports Affirmance
+==================================================
+
+ARGUMENT UNIT 2.1: Dupree's analogy between summary judgment motions and common-law demurrers is misguided.
+
+DOCTRINAL:
+- DISTINGUISH: Draws a sharp line between modern summary judgment motions and common-law demurrers. The distinction rests on scope: the Federal Rules "vastly expanded" summary judgment beyond what demurrers covered. A party with the burden of proof could not demur on his own claim at common law, but can move for summary judgment under Rule 56. The analogy, respondent argues, is anachronistic.
+- NARROW_HOLDING: Narrows the historical demurrer practice to its actual scope: demurrers were available only in limited forms and only to the party without the burden of proof. The narrowing undercuts petitioner's claim that demurrer practice establishes a floor for appellate review of summary judgment denials.
+- INVOKE_AUTHORITY: Cites Ortiz v. Jordan for the proposition that the Court has already held parties must re-raise issues from denied summary judgment motions in Rule 50 motions, "with nary a word about bills of exceptions." This directly counters petitioner's historical argument by pointing to controlling precedent.
+
+NARRATIVE:
+- FRAME_AS_ERROR: "Dupree's attempt to equate summary-judgment motions with demurrers... is misguided." The word "misguided" characterizes petitioner's historical argument as fundamentally flawed in premise, not just incorrect in application.
+- INSTITUTIONAL_REBUKE: Subtly rebukes petitioner for overreading the historical record — the equation of demurrers with summary judgment motions ignores the transformative changes the Federal Rules introduced. Petitioner's historical argument is presented as superficially learned but actually ahistorical.
+- CONCEDE_AND_REDIRECT: Concedes that demurrers and summary judgment share some procedural DNA, but redirects: the Federal Rules changed the procedure so fundamentally that the analogy breaks down. "Before 1938, summary judgment existed only in limited forms" — the concession is about the past; the redirect is about how the present is different.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Recharacterizes petitioner's demurrer analogy from a strength into a weakness. The more the brief emphasizes how different modern summary judgment is from demurrers, the less relevant the historical practice becomes.
+- FOREGROUND: Foregrounds the expansion effected by the Federal Rules — "allowing any party to move for summary judgment, on any claim or defense, in all types of civil actions." The triple "any/any/all" construction emphasizes the scale of the change.
+- SEQUENCE: Sequences the history to tell a different story than petitioner's: (1) limited pre-1938 summary judgment, (2) Federal Rules transform the procedure, (3) modern summary judgment bears little resemblance to common-law demurrers. Petitioner's sequence told a story of continuity; respondent's tells a story of rupture.
+
+STYLISTIC:
+- REGISTER_CONTRAST: "With nary a word about bills of exceptions" — the slightly archaic "nary" mirrors the historical register of petitioner's argument while undercutting it. The Court in Ortiz did not find the historical argument worth mentioning.
+- CONCRETE_ANCHOR: The specific limitation — "a party with the burden of proof could not generally demur on his own claim or defense at common law" — provides a concrete, verifiable point of distinction that makes the broader argument tangible.
+
+ARGUMENT UNIT 2.2: A preservation rule promotes efficiency and protects Seventh Amendment jury trial rights.
+
+DOCTRINAL:
+- SLIPPERY_SLOPE: Under Dupree's rule, a defendant who loses on a "legal" ground at summary judgment "could sit on his hands during trial and resurrect his affirmative defense on appeal." If the defendant prevails on appeal, the Seventh Amendment requires a second trial. The slope runs from petitioner's rule to serial retrials.
+- BURDEN_SHIFT: Frames the Seventh Amendment concern as a consequence that petitioner's rule creates. Petitioner's rule would force courts into the position of either denying appellate review (to avoid a retrial) or ordering retrials (to honor the jury right). Either way, petitioner's rule generates problems that respondent's rule avoids.
+- APPLY_TO_FACTS: Applies the retrial problem to Dupree's own case: "as Dupree admitted below, factual disputes relevant to exhaustion remain unresolved in this case." If Dupree wins on appeal, a second trial is necessary — and requiring Rule 50 preservation would have avoided this.
+
+NARRATIVE:
+- ESCALATE_STAKES: Raises the consequences from a single case to a systemic problem — petitioner's rule would produce piecemeal litigation and serial retrials across the federal system. The problem is not just Dupree's case; it is a structural deficiency.
+- PREEMPTIVE_REBUTTAL: Anticipates petitioner's response that the rule applies only to "purely legal" issues and thus would not implicate factual disputes. Respondent counters with the specific facts of Dupree's case, where unresolved factual disputes remain even on the "legal" defense.
+
+FACT-FRAMING:
+- OPPONENT_CONCESSION_CAPTURE: Captures Dupree's own admission below — that factual disputes relevant to exhaustion remain unresolved — and uses it against him. The concession is devastating because it demonstrates that even in petitioner's own case, the "purely legal" characterization does not hold.
+- FOREGROUND: Foregrounds the Seventh Amendment retrial problem. By making the jury-right concern the central practical objection, respondent elevates the dispute from a procedural technicality to a constitutional-structural issue.
+
+STYLISTIC:
+- CONCRETE_ANCHOR: "Factual disputes relevant to exhaustion remain unresolved in this case" — grounds the abstract retrial problem in the specific facts of Dupree's case. The reader does not have to imagine the hypothetical; it is already happening.
+- CADENCE_SHIFT: Moves from the abstract policy argument (piecemeal litigation, systemic inefficiency) to the concrete factual grounding (Dupree's own unresolved disputes) in a sharp turn that makes the abstract problem feel immediate.
+
+==================================================
+SECTION 3: I. Denials of Summary Judgment Are Not Appealable
+==================================================
+
+ARGUMENT UNIT 3.1: Ortiz v. Jordan holds that denials of summary judgment are not final decisions and are not appealable; Rule 50 motions are required.
+
+DOCTRINAL:
+- INVOKE_AUTHORITY: Ortiz v. Jordan (562 U.S. 180) is the load-bearing precedent. Respondent reads Ortiz as holding — not merely suggesting — that summary judgment denials are not final decisions and cannot be appealed without Rule 50 preservation. This is the doctrinal anchor of the entire brief.
+- APPLY_STANDARD: Applies 28 U.S.C. 1291's finality requirement to summary judgment denials. The standard is straightforward: appellate jurisdiction extends only to "final decisions." A summary judgment denial is not one.
+- STARE_DECISIS_SHIELD: Relies on Ortiz and Unitherm as settled precedent. Petitioner's rule would require the Court to create an exception to these holdings — and the burden of justifying that exception falls on petitioner.
+
+NARRATIVE:
+- AFFIRMATIVE_FRAME: Leads with the jurisdictional argument. By framing the issue as one of appellate jurisdiction rather than procedural flexibility, respondent raises the stakes: petitioner is not asking for a sensible procedural reform but for an expansion of appellate jurisdiction beyond what the statute and the Court's precedent allow.
+- FRAME_AS_ERROR: The Fourth Circuit "correctly held" that it was "powerless" to upset the judgment below. The word "powerless" — borrowed from Unitherm — frames the issue as one of structural authority, not discretion. No court can do what petitioner asks because the jurisdiction does not exist.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the Switzerland Cheese characterization: denials of summary judgment "decide only one thing — that the case should go to trial." By isolating the single operative effect of a summary judgment denial, respondent makes the denial seem like the least final order imaginable.
+- RECHARACTERIZE: Recharacterizes summary judgment denials as procedural way stations, not substantive adjudications. The denial is "simply a step along the route to final judgment" — it resolves nothing permanently.
+- DIMINISHING_MODIFIER: "Simply a step along the route" — "simply" reduces the summary judgment denial to a routine procedural event with no independent significance.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: Deploys the Court's own language from Ortiz ("simply a step along the route to final judgment"), Switzerland Cheese ("decide only one thing — that the case should go to trial"), and Unitherm ("powerless"). Each quotation does argumentative work that the brief itself does not need to do in its own voice.
+- AUTHORITY_SIGNALING: Ortiz, Unitherm, Switzerland Cheese, and Wright & Miller are all cited in the first two paragraphs. The density of authority signals that respondent's position is not a construction of these cases but a description of them.
+- COMPRESSION: The core argument — denials are not final decisions, Ortiz controls, Rule 50 is required — is stated in three sentences before the detailed analysis begins.
+
+ARGUMENT UNIT 3.2: The summary judgment denial is eventually superseded by the full record at trial; the moving party can re-raise any issue.
+
+DOCTRINAL:
+- APPLY_TO_FACTS: Wright & Miller's observation that the moving party is "free to raise again any of the issues dealt with on the motion" later in the case directly addresses petitioner's futility argument. The motions are not futile because the procedural avenue remains open.
+- ALTERNATIVE_HOLDING: Suggests an independent basis for the result: even if the merger principle applied to some interlocutory orders, summary judgment denials are "superseded" by the trial record. The supersession argument is analytically distinct from the finality argument and provides an alternative doctrinal path.
+
+NARRATIVE:
+- CONCEDE_AND_REDIRECT: Implicitly concedes that the merger doctrine applies to some interlocutory orders, but redirects: summary judgment denials are different because they are superseded by trial. The concession is narrow; the redirect eliminates the category petitioner cares about.
+
+FACT-FRAMING:
+- RECHARACTERIZE: Recharacterizes what happens at trial — the summary judgment order is not preserved alongside the trial record but is replaced by it. "Superseded" is a stronger word than "supplemented" or "augmented" — it implies the earlier order ceases to have independent legal force.
+
+STYLISTIC:
+- STRATEGIC_QUOTATION: "Supersede[d]" and "rais[e] again" — both from authoritative secondary sources — perform the recharacterization work.
+
+==================================================
+SECTION 4: B. Dupree Failed to Obtain a Final Decision on His Affirmative Defense
+==================================================
+
+ARGUMENT UNIT 4.1: The Federal Rules focus on adjudication of "claims and defenses" — not legal issues in the abstract. Dupree needed a final decision on his defense, not just on a legal question.
+
+DOCTRINAL:
+- NARROW_STATUTE: Reads the Federal Rules textually to establish that they operate on "claims and defenses," not on disaggregated "legal issues." Rule 8, Rule 26, Rule 12, Rule 56 — all use the phrase "claim or defense." This textual argument is designed to destroy petitioner's central distinction between purely legal issues and factual issues.
+- APPLY_STANDARD: Walks through the Federal Rules sequentially — pleading (Rule 8), discovery (Rule 26), motions to dismiss (Rule 12), motions for judgment on the pleadings (Rule 12(c)), motions to strike (Rule 12(f)), summary judgment (Rule 56) — to show that the entire procedural architecture is organized around claims and defenses, not legal issues.
+- JURISDICTIONAL_REFRAME: Reframes the question from "can a court review a purely legal ruling?" to "did Dupree obtain a final decision on his defense?" The reframe changes the unit of analysis from "legal issue" to "claim or defense," which is the unit the Rules actually use.
+
+NARRATIVE:
+- FRAME_AS_ERROR: Petitioner's framework asks the Court to adjudicate "legal issues in the abstract" — a category the Rules do not recognize. The brief does not say petitioner is wrong on the merits; it says petitioner is asking the wrong question.
+- INSTITUTIONAL_REBUKE: By walking through the entire structure of the Federal Rules, respondent implies that petitioner's argument ignores the Rules' architecture. The rebuke is structural rather than personal — petitioner's theory does not fit the system.
+
+FACT-FRAMING:
+- FOREGROUND: Foregrounds the "claims and defenses" language by quoting it from multiple Rules. The repetition across Rules 8, 12, 26, and 56 makes the textual pattern impossible to miss.
+- RECHARACTERIZE: Recharacterizes what happened below: the district court did not "resolve a purely legal issue" — it "denied summary judgment on Dupree's affirmative defense of exhaustion." The recharacterization substitutes the Rules' vocabulary ("defense") for petitioner's vocabulary ("purely legal issue"), and the substitution reframes the entire dispute.
+- SEQUENCE: Sequences the Rules chronologically through the life of a case — pleading, discovery, pre-trial motions, summary judgment — to show that "claims and defenses" is the operative unit at every stage. The sequence creates an impression of architectural coherence that petitioner's "purely legal issue" category would disrupt.
+
+STYLISTIC:
+- AUTHORITY_SIGNALING: The section reads like a treatise, walking through rule after rule with pinpoint citations. The tone is pedagogical — respondent is explaining how the Federal Rules actually work, as if petitioner has misunderstood the system.
+- PARALLEL_STRUCTURE: The sequential rule-by-rule analysis creates a drumbeat effect. Each rule reinforces the same point: "claim or defense," "claim or defense," "claim or defense." By the time the analysis reaches Rule 56, the reader has encountered the phrase so many times that petitioner's alternative framing ("purely legal issue") feels alien to the text.
+- CONCRETE_ANCHOR: Specific rule citations with quoted language — "set out" claims or defenses (Rule 8), "claim or defense" in discovery scope (Rule 26), dismiss "a claim" (Rule 12(b)(6)) — provide concrete textual anchors at every step.
+
+
+==================================================
+CROSS-BRIEF INTERACTION SUMMARY
+==================================================
+
+1. THE MERGER DOCTRINE BATTLE
+   Petitioner: BROADEN_HOLDING — the final judgment rule's merger principle means all prior legal errors, including summary judgment denials, are reviewable on appeal from final judgment. The principle is capacious and well-established.
+   Respondent: DISTINGUISH — the merger rule applies to interlocutory orders collateral to the merits, not to summary judgment denials that address the substance of claims and defenses. Also RECHARACTERIZE — summary judgment denials are "superseded" by the trial record, so there is nothing left to merge.
+   Significance: This is the doctrinal core of the dispute. Petitioner's argument depends on the merger principle being broad enough to encompass summary judgment denials. Respondent's strategy is to classify summary judgment denials as categorically different from the orders to which merger applies.
+
+2. THE DEMURRER ANALOGY
+   Petitioner: ANALOGIZE — summary judgment on purely legal issues is "virtually identical" to a common-law demurrer; demurrer denials were reviewable after trial; therefore, summary judgment denials on legal issues should be reviewable too.
+   Respondent: DISTINGUISH — modern summary judgment is vastly broader than common-law demurrers (any party, any claim or defense, all civil actions). The analogy breaks down because the Federal Rules transformed the procedure beyond recognition. Also NARROW_HOLDING — at common law, a party with the burden of proof could not demur on his own claim, yet Dupree bore the burden on exhaustion.
+   Significance: Petitioner's strongest historical argument meets respondent's strongest historical rebuttal. The interaction turns on whether the Federal Rules preserved or ruptured the continuity between demurrers and summary judgment. Both sides invoke history, but they tell opposite stories: petitioner tells a story of continuity, respondent tells a story of transformation.
+
+3. THE "PURELY LEGAL ISSUE" DISTINCTION
+   Petitioner: DISTINGUISH_PURPOSE — draws a principled line between summary judgment motions raising purely legal issues (where post-trial motions serve no purpose) and those involving factual disputes (where Rule 50 motions have a legitimate function).
+   Respondent: NARROW_STATUTE — Rule 56 creates "one kind of summary-judgment motion, not two." The text does not recognize petitioner's distinction. Also APPLY_TO_FACTS — even in Dupree's case, factual disputes about exhaustion remain unresolved, so the "purely legal" label is misleading.
+   Significance: This interaction reveals the fundamental structural disagreement. Petitioner's rule requires courts to classify summary judgment motions as "purely legal" or "factual." Respondent argues this classification has no basis in the Rules and is unworkable in practice — as Dupree's own case demonstrates.
+
+4. THE FUTILITY/PURPOSE CLASH
+   Petitioner: FOREGROUND_ABSENCE — Rule 50 motions on already-decided legal questions serve no purpose for any participant. No party benefits, no court benefits; the motions are performative compliance with a procedural trap.
+   Respondent: SLIPPERY_SLOPE — without Rule 50 preservation, defendants can "sit on their hands" at trial and resurrect defenses on appeal, forcing Seventh Amendment retrials. Also BURDEN_SHIFT — the Seventh Amendment retrial problem is a consequence of petitioner's rule, not respondent's.
+   Significance: Petitioner frames the issue as one of waste; respondent frames it as one of systemic risk. The interaction forces the Court to weigh the cost of procedural redundancy (petitioner's concern) against the cost of serial retrials and piecemeal litigation (respondent's concern).
+
+5. ORTIZ v. JORDAN
+   Respondent: INVOKE_AUTHORITY / STARE_DECISIS_SHIELD — Ortiz already held that summary judgment denials are not appealable. The question is settled.
+   Petitioner: DISTINGUISH — Ortiz involved a summary judgment denial based on disputed facts, not a purely legal issue. Petitioner's rule does not conflict with Ortiz because Ortiz's holding is limited to its factual context.
+   Significance: Respondent reads Ortiz broadly (all summary judgment denials); petitioner reads it narrowly (only fact-based denials). The Court's disposition likely turns on whether Ortiz stated a categorical rule or a context-dependent one.
+
+6. TEXTUAL ARCHITECTURE vs. COMMON SENSE
+   Respondent: NARROW_STATUTE — walks through Rules 8, 12, 26, and 56 to show the entire procedural system operates on "claims and defenses," not "legal issues." Petitioner's framework introduces a category the Rules do not recognize.
+   Petitioner: CONCEDE_AND_REDIRECT — acknowledges that the policy question is secondary but argues that common sense (Section 4) reinforces the doctrinal conclusion. The Rule 50 requirement is "unnecessary, cumbersome, costly, and prone to error."
+   Significance: Respondent wins on textual specificity — the Rules' vocabulary is "claims and defenses," not "legal issues." Petitioner's strength is practical appeal — requiring futile motions is wasteful. The interaction reveals a tension between textual fidelity (respondent) and functional pragmatism (petitioner).
+
+7. OPPONENT_CONCESSION_CAPTURE
+   Respondent captures Dupree's own admission that factual disputes about exhaustion remain unresolved — using it to demonstrate that even petitioner's case is not "purely legal" in the way petitioner claims. This capture undermines the administrability of petitioner's proposed rule.
+   Petitioner captures the Court's language in Quackenbush ("claims of district court error at any stage of the litigation may be ventilated") and Microsoft v. Baker ("the whole case and every matter in controversy") to argue that the merger principle is too broad to permit carve-outs for summary judgment denials.
+
+==================================================
+NEW MOVES
+==================================================
+
+No new moves outside the taxonomy were required. All identified strategic moves fit within the existing four-layer taxonomy.
